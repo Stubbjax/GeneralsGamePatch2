@@ -1,0 +1,23 @@
+DOZER:ConstructionComplete
+US: "Construction Complete: %s"
+DE: "Bau abgeschlossen: %s"
+FR: "Construction terminée : %s"
+ES: "Construcción completa: %s"
+IT: "Costruzione completata: %s"
+KO: "건설 완료: %s"
+ZH: "建造完成： %s"
+BP: "Construção Concluída: %s"
+PL: "Zakończono budowę: %s"
+END
+
+DOZER:RepairComplete
+US: "Repair Operation Complete"
+DE: "Reparatur abgeschlossen."
+FR: "Réparations terminées."
+ES: "Reparación completa"
+IT: "Riparazione completata."
+KO: "복구 작업 완료"
+ZH: "修理行動完成。"
+BP: "Operação de Reparos Concluída."
+PL: "Naprawa ukończona"
+END

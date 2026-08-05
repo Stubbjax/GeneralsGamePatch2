@@ -1,0 +1,443 @@
+Mouse:Windows
+US: "Windows Cursor"
+DE: "Windows Cursor"
+FR: "Windows Cursor"
+ES: "Windows cursor"
+IT: "Windows Cursor"
+KO: "Windows Cursor"
+ZH: "Windows Cursor"
+BP: "Windows Cursor"
+PL: "Windows Cursor"
+END
+
+Mouse:W3D
+US: "W3D Cursor"
+DE: "W3D Cursor"
+FR: "W3D Cursor"
+ES: "W3D Cursor"
+IT: "W3D Cursor"
+KO: "W3D Cursor"
+ZH: "W3D Cursor"
+BP: "W3D Cursor"
+PL: "W3D Cursor"
+END
+
+Mouse:Poly
+US: "Polygon Cursor"
+DE: "Polygon Cursor"
+FR: "Polygon Cursor"
+ES: "Polygon cursor"
+IT: "Polygon Cursor"
+KO: "Polygon Cursor"
+ZH: "Polygon Cursor"
+BP: "Polygon Cursor"
+PL: "Polygon Cursor"
+END
+
+Mouse:DX8
+US: "DX8 Cursor"
+DE: "DX8 Cursor"
+FR: "DX8 Cursor"
+ES: "DX8 Cursor"
+IT: "DX8 Cursor"
+KO: "DX8 Cursor"
+ZH: "DX8 Cursor"
+BP: "DX8 Cursor"
+PL: "DX8 Cursor"
+END
+
+Mouse:Heal
+US: "Get Healed"
+DE: "Heilen"
+FR: "Demander soins"
+ES: "Curarse"
+IT: "Cura"
+KO: "치료받음"
+ZH: "治癒"
+BP: "Ser Curado"
+PL: "Leczenie"
+END
+
+Mouse:GetRepaired
+US: "Get Repaired"
+DE: "Reparieren"
+FR: "Demander réparations"
+ES: "Repararse"
+IT: "Ripara"
+KO: "복구받음"
+ZH: "修理"
+BP: "Ser Reparado"
+PL: "Naprawa"
+END
+
+Mouse:Dock
+US: "Dock"
+DE: "Andocken"
+FR: "Se garer"
+ES: "Plataforma"
+IT: "Aggancia"
+KO: "적재소"
+ZH: "停靠"
+BP: "Descarregar"
+PL: "Obsadź"
+END
+
+Mouse:DoRepair
+US: "Repair"
+DE: "Reparieren"
+FR: "Réparer"
+ES: "Reparar"
+IT: "Ripara"
+KO: "복구"
+ZH: "修理"
+BP: "Reparar"
+PL: "Napraw"
+END
+
+Mouse:ResumeConstruction
+US: "Resume Construction"
+DE: "Bauarbeiten fortsetzen"
+FR: "Reprendre construction"
+ES: "Reanudar construcción"
+IT: "Riprendi costruzione"
+KO: "건설 재개"
+ZH: "修復建築"
+BP: "Continuar Construção"
+PL: "Kontynuuj budowę"
+END
+
+Mouse:Enter
+US: "Enter"
+DE: "Betreten"
+FR: "Entrer"
+ES: "Entrar"
+IT: "Entra"
+KO: "들어가기"
+ZH: "進入"
+BP: "Entrar"
+PL: "Wejdź"
+END
+
+Mouse:SetRallyPoint
+US: "Set Rally Point"
+DE: "Sammelpunkt bestimmen"
+FR: "Définir point de ralliement"
+ES: "Fijar punto de concentración"
+IT: "Imposta punto di raccolta"
+KO: "집결지 설정"
+ZH: "設定集合點"
+BP: "Definir Ponto de Encontro"
+PL: "Wskaż punkt zborny"
+END
+
+Mouse:DisguiseAsVehicle
+US: "Disguise As This!"
+DE: "So verkleiden!"
+FR: "Se déguiser comme ça !"
+ES: "¡Disfrázate así!"
+IT: "Mimetizza come veicolo!"
+KO: "이것으로 변장하라!"
+ZH: "偽裝為此！"
+BP: "Disfarçar-se Como Isto!"
+PL: "Przebierz się za to!"
+END
+
+Mouse:Invalid
+US: "INVALID"
+DE: "Ungültig"
+FR: "NON VALABLE"
+ES: "INVÁLIDO"
+IT: "NON VALIDO"
+KO: "무효"
+ZH: "無效"
+BP: "INVÁLIDO"
+PL: "Nieprawidłowy"
+END
+
+Mouse:FireFlame
+US: "Burn"
+DE: "Feuerangriff"
+FR: "Incendier"
+ES: "Quemar"
+IT: "Brucia"
+KO: "화염 방사"
+ZH: "燃燒"
+BP: "Queimar"
+PL: "Spal"
+END
+
+Mouse:FireFlashBang
+US: "Flash Bang"
+DE: "Blendgranate"
+FR: "Grenade flash"
+ES: "Granada cegadora"
+IT: "Granata flash"
+KO: "섬광폭음탄"
+ZH: "閃光彈"
+BP: "Flash Bang"
+PL: "Granat oślepiający"
+END
+
+Mouse:FireTranqDarts
+US: "Tranq Darts"
+DE: "Betäubungspfeile"
+FR: "Fléchet. tranq."
+ES: "Dardos sedantes"
+IT: "Dardi tranquillizzanti"
+KO: "트랭퀼라이저 다트"
+ZH: "鎮定劑飛鏢"
+BP: "Dardos Tranquilizantes"
+PL: "Strzałki obezwładniające"
+END
+
+Mouse:FireStunBullets
+US: "Stun Bullets"
+DE: "Betäubungsmunition"
+FR: "Balles incap."
+ES: "Bala aturdidora"
+IT: "Proiettili stordenti"
+KO: "스턴 불릿"
+ZH: "昏迷彈"
+BP: "Balas de Borracha"
+PL: "Pociski ogłuszające"
+END
+
+Mouse:MakeCarBomb
+US: "Make Carbomb"
+DE: "Autobombe platzieren"
+FR: "Piéger voiture"
+ES: "Hacer coche bomba"
+IT: "Crea autobomba"
+KO: "차량폭탄 만들기"
+ZH: "製造汽車炸彈"
+BP: "Fazer Carro-Bomba"
+PL: "Skonstruuj samochód-pułapkę"
+END
+
+Mouse:Hijack
+US: "Hijack"
+DE: "Entführen"
+FR: "Détourner"
+ES: "Secuestrar"
+IT: "Dirotta"
+KO: "하이잭"
+ZH: "劫持犯"
+BP: "Sequestrar"
+PL: "Porwij"
+END
+
+Mouse:FireBomb
+US: "Fire\nBomb"
+DE: "Benzinbombe"
+FR: "Bombe\nincendiaire"
+ES: "Lanzar\nbomba"
+IT: "Bomba\nincendiaria"
+KO: "화염\n폭탄"
+ZH: "火焰\n炸彈"
+BP: "Bomba\nIncendiária"
+PL: "Odpal\nbombę"
+END
+
+Mouse:Defector
+US: "Make\nDefector"
+DE: "Gehirnwäscher"
+FR: "Passer à\nl'ennemi"
+ES: "Make\nDefector"
+IT: "Crea\nconvertitore"
+KO: "배반자\n만들기"
+ZH: "生產\n叛軍"
+BP: "Criar\nDesertor"
+PL: "Zmuś\ndo dezercji"
+END
+
+Mouse:CaptureBuilding
+US: "Capture Building"
+DE: "Gebäude besetzen"
+FR: "Prendre bâtiment"
+ES: "Tomar edificio"
+IT: "Conquista struttura"
+KO: "건물 점령"
+ZH: "佔領建築"
+BP: "Capturar Estrutura"
+PL: "Zajmij budynek"
+END
+
+Mouse:DisableVehicleHack
+US: "Disable Vehicle"
+DE: "Fahrzeug sabotieren"
+FR: "Désactiver véhicule"
+ES: "Desactivar vehículo"
+IT: "Neutralizza veicolo"
+KO: "차량 무력화"
+ZH: "載具失效"
+BP: "Desativar Veículo"
+PL: "Unieruchom pojazd"
+END
+
+Mouse:StealCashHack
+US: "Steal Cash"
+DE: "Geld stehlen"
+FR: "Voler argent"
+ES: "Robar dinero"
+IT: "Ruba denaro"
+KO: "자금 훔치기"
+ZH: "偷錢"
+BP: "Roubar Dinheiro"
+PL: "Ukradnij pieniądze"
+END
+
+Mouse:SnipeVehicle
+US: "Snipe Vehicle"
+DE: "Fahrzeug beschießen"
+FR: "Tirer sur véhicule"
+ES: "Snipe Vehicle"
+IT: "Cecchina veicolo"
+KO: "차량 저격"
+ZH: "狙擊載具"
+BP: "Eliminar Tripulação"
+PL: "Ostrzelaj pojazd"
+END
+
+Mouse:DisableBuildingHack
+US: "Disable Building"
+DE: "Gebäude deaktivieren"
+FR: "Déconnecter bâtiment"
+ES: "Desactivar edificio"
+IT: "Disattiva edificio"
+KO: "건물 무력화"
+ZH: "建築失效"
+BP: "Desativar Instalação"
+PL: "Uszkodź budynek"
+END
+
+Mouse:LaserGuidedMissiles
+US: "Laser Guided Missiles"
+DE: "Lasergelenkte Raketen"
+FR: "Missiles à guidage laser"
+ES: "Misiles guiados por láser"
+IT: "Missili a guida laser"
+KO: "레이저 유도 미사일"
+ZH: "雷射指引飛彈"
+BP: "Sistema de Mira Laser"
+PL: "Pociski naprowadzane laserem"
+END
+
+Mouse:TankHunterTNTAttack
+US: "TNT Attack"
+DE: "TNT-Angriff"
+FR: "Dynamiter"
+ES: "Ataque con TNT"
+IT: "Posiziona TNT"
+KO: "TNT 공격"
+ZH: "TNT攻擊"
+BP: "Ataque c/ TNT"
+PL: "Atak dynamitem"
+END
+
+Mouse:A10ThunderboltStrike
+US: "A10-Strike Location"
+DE: "Ziel für A10-Luftangriff"
+FR: "Position bombardement A10"
+ES: "Lugar de ataque A10"
+IT: "Bombarda con A10"
+KO: "A10 공습 위치"
+ZH: "A-10攻擊位置"
+BP: "Local do Ataque A-10"
+PL: "Miejsce nalotu A10"
+END
+
+Mouse:StabAttack
+US: "Stab"
+DE: "Abstechen"
+FR: "Poignarder"
+ES: "Stab"
+IT: "Pugnala"
+KO: "찌르기"
+ZH: "刺入"
+BP: "Esfaquear"
+PL: "Zasztyletuj"
+END
+
+Mouse:PlaceRemoteCharge
+US: "Place Remote Charge"
+DE: "Sprengsatz mit Fernzünder platzieren"
+FR: "Poser charge télécommandée"
+ES: "Plantar Carga remota"
+IT: "Posiziona carica a distanza"
+KO: "원격 폭약 설치"
+ZH: "放置遙控炸彈"
+BP: "Plantar Carga Remota"
+PL: "Umieść ładunek detonowany zdalnie"
+END
+
+Mouse:PlaceTimedCharge
+US: "Place Timed Charge"
+DE: "Zeitbombe platzieren"
+FR: "Poser charge à retardement"
+ES: "Plantar Carga cronometrada"
+IT: "Posiziona carica a tempo"
+KO: "시간 폭약 설치"
+ZH: "放置定時炸彈"
+BP: "Plantar Carga c/ Timer"
+PL: "Umieść ładunek czasowy"
+END
+
+Mouse:RepairVehicles
+US: "&Emergency Repair"
+DE: "Notfall&reparatur"
+FR: "Réparer &véhicules"
+ES: "Reparación de &Emergencia"
+IT: "Riparazione d'&emergenza"
+KO: "차량 복구(&E)"
+ZH: "緊急修復（&E）"
+BP: "Reparos de &Emergência"
+PL: "Napraw pojazdy"
+END
+
+Mouse:Demoralize
+US: "Demoralize"
+DE: "Demoralisieren"
+FR: "Démoraliser"
+ES: "Desmoralizar"
+IT: "Demoralizza"
+KO: "사기저하"
+ZH: "混亂"
+BP: "Desmoralizar"
+PL: "Szerz propagandę"
+END
+
+Mouse:PickUpPrisoner
+US: "Pick Up Prisoner"
+DE: "Gefangenen aufnehmen"
+FR: "Récupérer prisonnier"
+ES: "Recoger prisionero"
+IT: "Preleva prigioniero"
+KO: "포로 태우기"
+ZH: "抓到囚犯"
+BP: "Capturar Prisioneiro"
+PL: "Zabierz więźnia"
+END
+
+Mouse:Return
+US: "Return"
+DE: "Zurück zur Basis"
+FR: "Revenir"
+ES: "Volver"
+IT: "Torna"
+KO: "귀환"
+ZH: "返回"
+BP: "Voltar"
+PL: "Wróć"
+END
+
+Mouse:PlaceBeacon
+US: "Place Beacon"
+DE: "Notiz platzieren"
+FR: "Placer balise"
+ES: "Colocar señal"
+IT: "Posiziona radiofaro"
+KO: "비컨 설치"
+ZH: "放置標記"
+BP: "Colocar Sinalizador"
+PL: "Umieść znak"
+END

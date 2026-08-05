@@ -1,0 +1,2711 @@
+TOOLTIP:ScienceCost
+US: "Cost: %d"
+DE: "Kosten: %d"
+FR: "Coût : %d"
+ES: "Coste: %d"
+IT: "Costo: %d"
+KO: "경험치: %d"
+ZH: "花費點數：%d"
+BP: "Custo: %d"
+PL: "Koszt: %d"
+END
+
+TOOLTIP:Cost
+US: "Cost: %d"
+DE: "Kosten: %d"
+FR: "Coût : %d"
+ES: "Coste: %d"
+IT: "Costo: %d"
+KO: "비용: %d"
+ZH: "費用：%d"
+BP: "Custo: %d"
+PL: "Koszt: %d"
+END
+
+TOOLTIP:SupplyWarehouse
+US: "\n$%d remain"
+DE: "\nnoch $%d."
+FR: "\n%d $ dispo."
+ES: "\nquedan %d$."
+IT: "\n$%d restanti."
+KO: "\n$%d 남았습니다."
+ZH: "\n剩下 $%d 。"
+BP: "\nRestam $%d."
+PL: "\nzostało $%d."
+END
+
+TOOLTIP:LobbyPlayers
+US: "Players currently in the Game Lobby"
+DE: "Anzahl der Spieler in der Lobby."
+FR: "Joueurs actuellement dans la salle de jeu."
+ES: "Jugadores en la Sala del juego"
+IT: "Giocatori attualmente nella lobby."
+KO: "현재 게임 로비에 대기중인 플레이어 수."
+ZH: "遊戲大廳中的玩家數。"
+BP: "Jogadores atualmente na Sala de Jogo."
+PL: "Gracze oczekujący na grę."
+END
+
+TOOLTIP:StartWorldBuilder
+US: "Start the World Builder editor"
+DE: "Starte den Welten-Editor."
+FR: "Lancer l'éditeur de cartes."
+ES: "Iniciar editor del Creador del Mundo."
+IT: "Avvia il World Builder."
+KO: "월드 빌더 실행하기"
+ZH: "開啟世界編輯器。"
+BP: "Inicia o World Builder."
+PL: "Uruchom edytor poziomów."
+END
+
+TOOLTIP:GetUpdate
+US: "Download game update"
+DE: "Spiel-Update herunterladen"
+FR: "Télécharger mise à jour."
+ES: "Descargar actualización del juego."
+IT: "Scarica aggiornamenti di gioco."
+KO: "게임 업데이트 다운로드하기"
+ZH: "下載遊戲更新。"
+BP: "Fazer download de atualização do jogo."
+PL: "Pobierz aktualizację gry."
+END
+
+TOOLTIP:GetMapPack
+US: "Download new map pack"
+DE: "Neue Karten herunterladen"
+FR: "Télécharger nouvelles cartes."
+ES: "Descargar nuevo paquete de mapas."
+IT: "Scarica nuovo set di mappe."
+KO: "새 지도 다운로드하기"
+ZH: "下載新的地圖包。"
+BP: "Fazer download de novo pacote de mapas."
+PL: "Pobierz nowe mapy."
+END
+
+TOOLTIP:Skirmish
+US: "Enter Skirmish setup menu"
+DE: "Stürze dich in ein Gefecht."
+FR: "Afficher le menu Escarmouche."
+ES: "Entrar en el menú de configuración Escaramuza."
+IT: "Accedi al menu di impostazione della schermaglia."
+KO: "스커미시 설정 메뉴 들어가기"
+ZH: "進入遭遇戰選單。"
+BP: "Entrar no menu de configuração do modo Combate."
+PL: "Otwórz menu potyczek."
+END
+
+TOOLTIP:Online
+US: "Click to join Generals Online. Test your skills against opponents from around the world!"
+DE: "Klicke, um dich bei Generals Online anzumelden. Danach kannst du gegen Spieler aus aller Welt antreten."
+FR: "Cliquez ici pour rejoindre Generals en ligne. Affrontez des adversaires du monde entier !"
+ES: "Haz clic para entrar en Generals Online. ¡Mídete contra rivales de todo el mundo!"
+IT: "Clicca per entrare in Generals Online. Metti alla prova la tua abilità contro avversari di tutto il mondo."
+KO: "클릭하면 제너럴 온라인에 참여합니다. 세계 각국의 플레이어들을 상대로 여러분의 실력을 시험해 보십시오!"
+ZH: "點選加入將軍線上遊戲，讓您與全世界的玩家對抗測試您的作戰技巧！"
+BP: "Clique aqui para entrar no Generals Online. Teste suas habilidades contra oponentes do mundo inteiro!"
+PL: "Kliknij tutaj, by przejść na stronę Generals Online. Sprawdź swe umiejętności w walce z przeciwnikami z całego świata!"
+END
+
+TOOLTIP:Network
+US: "Click to Join the Network Lobby. Test your mettle against your friends over a Local Area Network"
+DE: "Rufe die Netzwerk-Lobby auf und kämpfe mit deinen Freunden in einem LAN um die Weltherrschaft."
+FR: "Cliquez ici pour rejoindre la salle du réseau. Affrontez vos amis grâce à un réseau local."
+ES: "Haz clic para entrar en la Sala de Red. Demuestra lo que vales contra tus amigos en una red de área local."
+IT: "Clicca per entrare nella lobby di rete. Misura il tuo coraggio contro i tuoi amici su una rete locale."
+KO: "클릭하면 네트워크 로비로 참여 합니다. LAN 상에서 친구들을 상대로 여러분의 실력을 보여주십시오."
+ZH: "點選加入區域網路連線大廳，讓您與您的朋友藉由區域網路對戰。"
+BP: "Clique aqui para entrar na Sala de Jogos da Rede. Teste suas habilidades contra seus amigos em partidas de Rede Local."
+PL: "Kliknij tutaj, by dołączyć do gry w sieci lokalnej. Sprawdź swe umiejętności bojowe w walce przeciw kolegom."
+END
+
+TOOLTIP:Options
+US: "Click to modify the game options. You may adjust your video, audio and game preferences"
+DE: "Ändere die Grafik-, Sound- und Spieleinstellungen des Spiels."
+FR: "Cliquez ici pour modifier les options. Ajustez alors vos options graphiques et sonores ainsi que celles du jeu."
+ES: "Haz clic aquí para modificar las opciones del juego. Puedes ajustar tus preferencias de vídeo, audio y juego."
+IT: "Clicca per modificare le opzioni di gioco. Puoi regolare le impostazioni audio, video e di gioco."
+KO: "클릭하면 게임 설정을 변경할 수 있습니다. 비디오, 오디오, 게임 설정 등을 변경할 수 있습니다."
+ZH: "點選來更改遊戲的選項，您能調整視訊、音效和喜愛的遊戲設定。"
+BP: "Clique aqui para alterar as opções do jogo. Você poderá ajustar suas preferências de som, vídeo e jogo."
+PL: "Kliknij tutaj, aby zmienić opcje gry. Możesz regulować parametry grafiki, dźwięku i rozgrywki."
+END
+
+TOOLTIP:Exit
+US: "Exit Generals. Good luck in the field, Commander"
+DE: "Generals beenden. Viel Glück, Commander!"
+FR: "Quittez Generals. Bonne chance, commandant !"
+ES: "Salir de Generals. Suerte en el campo de batalla, Comandante."
+IT: "Esci da Generals. Buona fortuna là fuori, comandante."
+KO: "제너럴을 나갑니다. 행운이 깃들길 빕니다, 지휘관님."
+ZH: "離開將軍。指揮官，祝您在戰場上好運。"
+BP: "Sair do Generals. Boa sorte no campo, Comandante."
+PL: "Wyjście z C&C Generals. Powodzenia w cywilu, dowódco."
+END
+
+TOOLTIP:ExitGame
+US: "Exit Generals. Good luck in the field, Commander"
+DE: "Generals beenden. Viel Glück, Commander!"
+FR: "Quittez Generals. Bonne chance, commandant !"
+ES: "Salir de Generals. Suerte en el campo de batalla, Comandante."
+IT: "Esci da Generals. Buona fortuna là fuori, comandante."
+KO: "제너럴을 나갑니다. 행운이 깃들길 빕니다, 지휘관님."
+ZH: "離開將軍。指揮官，祝您在戰場上好運。"
+BP: "Sair do Generals. Boa sorte no campo, Comandante."
+PL: "Wyjście z C&C Generals. Powodzenia w cywilu, dowódco."
+END
+
+TOOLTIP:LoadGame
+US: "Click to load the selected game"
+DE: "Lade das gewählte Spiel."
+FR: "Cliquez ici pour charger la partie sélectionnée."
+ES: "Haz clic para cargar la partida seleccionada."
+IT: "Clicca per caricare la partita selezionata."
+KO: "클릭하여 선택한 게임을 불러옵니다."
+ZH: "點選來讀取選擇的遊戲。"
+BP: "Clique para carregar o jogo selecionado."
+PL: "Kliknij tutaj, by wczytać wybraną grę."
+END
+
+TOOLTIP:MapPreviewWindow
+US: "Map previews can give you a leg up on the battle to come. Make sure to look for your Supply Docks & Tech Buildings. You may also choose your starting point"
+DE: "Informiere dich über die bevorstehende Schlacht, mögliche Nachschublager und Hightech-Gebäude oder wähle deinen Startpunkt"
+FR: "Les aperçus des cartes vous informent du combat qui se prépare. Veillez à jeter un coup d'oeil à vos bâtiments de ravitaillement et de recherches. Vous pouvez également choisir votre point de départ."
+ES: "Las previsualizaciones del mapa te pueden dar ventaja en el próximo combate. Asegúrate de buscar tus muelles de suministros y edificios de tecnología. También puedes escoger tu punto de partida."
+IT: "Le anteprime della mappa possono fornirti alcune indicazioni sulla battaglia che ti attende. Controlla le zone di rifornimento e le strutture tecnologiche. Puoi anche scegliere la posizione di partenza."
+KO: "지도 미리보기는 전투를 준비하는 데 도움을 줄 수 있습니다. 서플라이 적재소 및 테크 빌딩의 위치를 확인하십시오. 게임 시작 위치도 선택할 수도 있습니다."
+ZH: "預覽地圖能讓您快速移動至戰場。確認您的補給站和科技建築，您亦可以選擇您的起始點。"
+BP: "A visão do mapa pode dar a você uma vantagem na batalha. Procure pelas Docas de Suprimento e pelas Instalações Técnicas. Nela você também pode selecionar sua Posição Inicial."
+PL: "Podgląd mapy pomaga zaplanować bitwę. Pamiętaj o odszukaniu swoich magazynów zaopatrzeniowych i budynków technicznych. Możesz też wybrać swój punkt startowy."
+END
+
+TOOLTIP:SaveGame
+US: "Click to save your game in progress"
+DE: "Speichere das aktuelle Spiel."
+FR: "Cliquez ici pour sauvegarder votre progression."
+ES: "Haz clic para guardar la partida en curso."
+IT: "Clicca per salvare la partita in corso."
+KO: "클릭하면 현재 진행중인 게임을 저장합니다."
+ZH: "點選能儲存您的遊戲進度。"
+BP: "Clique aqui para salvar seu jogo em andamento."
+PL: "Kliknij tutaj, by zapisać stan swojej gry."
+END
+
+TOOLTIP:AcceptButton
+US: "Accept your current choice"
+DE: "Bestätige deine Entscheidung."
+FR: "Acceptez votre sélection."
+ES: "Acepta tu elección actual."
+IT: "Accetta la scelta attuale."
+KO: "현재 선택을 채택합니다."
+ZH: "接受您的選擇？"
+BP: "Aceitar sua escolha atual."
+PL: "Zatwierdza bieżący wybór."
+END
+
+TOOLTIP:CopyReplayToDesktop
+US: "Copy selected Replay file to your Desktop"
+DE: "Kopiere die gewählte Wiederholungsdatei auf deinen Desktop."
+FR: "Copiez le ralenti sélectionné sur votre Bureau."
+ES: "Copia el archivo de Repetición a tu Escritorio."
+IT: "Copia sul desktop il file del replay selezionato."
+KO: "선택한 리플레이 파일을 바탕화면에 복사합니다."
+ZH: "複製選取的重播檔至您的桌面上？"
+BP: "Copia o arquivo de Replay selecionado para sua Área de Trabalho."
+PL: "Kopiuje plik wybranej powtórki na pulpit Windows."
+END
+
+TOOLTIP:ProviderType
+US: "Select your Audio Provider"
+DE: "Wähle ein Audio-Gerät."
+FR: "Sélectionnez votre périphérique audio."
+ES: "Selecciona tu Proveedor de audio"
+IT: "Seleziona la fonte audio."
+KO: "오디오를 선택합니다."
+ZH: "選擇您的音樂提供者。"
+BP: "Selecione seu Sistema de Áudio."
+PL: "Podaj konfigurację dźwięku 3D."
+END
+
+TOOLTIP:SpeakerType
+US: "Select your Speaker Configuration"
+DE: "Wähle die Lautsprecherkonfiguration."
+FR: "Choisissez la configuration de vos haut-parleurs."
+ES: "Selecciona tu configuración del altavoz"
+IT: "Seleziona la configurazione delle casse."
+KO: "스피커 설정을 선택합니다"
+ZH: "選擇您的喇叭設定。"
+BP: "Selecione sua Configuração de Alto-Falantes."
+PL: "Podaj konfigurację głośników."
+END
+
+TOOLTIP:LANPlayer
+US: "%ls@%ls"
+DE: "%ls@%ls"
+FR: "%ls@%ls"
+ES: "%ls@%ls"
+IT: "%ls@%ls"
+KO: "%ls@%ls"
+ZH: "%ls@%ls"
+BP: "%ls@%ls"
+PL: "%ls@%ls"
+END
+
+TOOLTIP:Resolution
+US: "Pick a screen resolution for your game. The higher the resolution, the slower your game is likely to play"
+DE: "Ändere die Bildschirmauflösung. Je höher die Auflösung ist, desto langsamer kann das Spiel werden."
+FR: "Choisissez une résolution graphique pour votre partie. Plus votre résolution est élevée, plus le jeu risque de tourner lentement."
+ES: "Selecciona una resolución para tu partida. Cuanta más resolución, más lento podrá ir el juego."
+IT: "Scegli la risoluzione di gioco. Più alta è, più lenta sarà la velocità del gioco."
+KO: "게임의 화면 해상도를 선택하십시오. 해상도가 높을 수록 게임 플레이가 느려질 수 있습니다."
+ZH: "選擇您遊戲的螢幕解析度，較高的解析度可能會使您的遊戲速度較慢。"
+BP: "Escolha uma resolução para seu jogo. Quanto maior a resolução, maior a possibilidade de ocorrer lentidão durante as partidas."
+PL: "Wybierz rozdzielczość ekranu gry. Im wyższa rozdzielczość, tym wolniej będzie działać gra."
+END
+
+TOOLTIP:CommandCategory
+US: "Pick a category of keyboard command"
+DE: "Wähle eine Befehlskategorie."
+FR: "Choisissez une catégorie de commandes du clavier."
+ES: "Selecciona una categoría de comandos para el teclado."
+IT: "Scegli una categoria di comandi da tastiera."
+KO: "키보드 명령 목록을 선택합니다."
+ZH: "選擇一種鍵盤的命令。"
+BP: "Escolha uma categoria de comandos do teclado."
+PL: "Wybierz kategorię polecenia."
+END
+
+TOOLTIP:CommandDescription
+US: "The description of your selected command"
+DE: "Beschreibung des gewählten Befehls."
+FR: "Description de la commande sélectionnée."
+ES: "Descripción del comando seleccionado."
+IT: "Descrizione del comando selezionato."
+KO: "선택한 명령에 대한 설명입니다."
+ZH: "您所選命令的描述。"
+BP: "A descrição do comando selecionado."
+PL: "Opis wybranego polecenia."
+END
+
+TOOLTIP:StartPosition
+US: "Starting Position"
+DE: "Bestimme die Position deiner Kommandozentrale."
+FR: "Définissez votre point de départ."
+ES: "Posición Inicial."
+IT: "Posizione iniziale."
+KO: "시작 위치"
+ZH: "選擇您指揮中心的起始位置， 點選數字並放置於您想要的地圖預覽起始位置。"
+BP: "Posição Inicial"
+PL: "Pozycja startowa"
+END
+
+TOOLTIP:SelectMap
+US: "Select the battlefield you would like to use"
+DE: "Wähle ein Schlachtfeld."
+FR: "Sélectionnez le champ de bataille de votre choix."
+ES: "Selecciona el campo de batalla que prefieras."
+IT: "Seleziona il campo di battaglia che vuoi utilizzare."
+KO: "전투 지역을 선택합니다."
+ZH: "選擇您喜愛的戰場。"
+BP: "Selecione o campo de batalha que gostaria de usar."
+PL: "Wybierz pole bitwy, z którego chcesz skorzystać."
+END
+
+TOOLTIP:Vote
+US: "Click to vote player out of game in order for you to continue"
+DE: "Spieler aus dem Spiel wählen, um fortzufahren."
+FR: "Votez l'éviction d'un joueur pour pouvoir continuer"
+ES: "Clic para echar al jugador y que puedas continuar"
+IT: "Clicca per votare l'esclusione del giocatore dalla partita per continuare."
+KO: "게임 진행을 위해 플레이어 추방 투표를 합니다."
+ZH: "點選投票來將玩家踢離遊戲， 並讓您繼續。"
+BP: "Clique para votar na expulsão de um jogador da partida, para que você possa continuar."
+PL: "Kliknij, aby wykluczyć gracza i kontynuować grę."
+END
+
+TOOLTIP:NumberOfVotes
+US: "Votes cast to remove player"
+DE: "Abgegebene Stimmen für diesen Spieler."
+FR: "Votes cast to remove player"
+ES: "Votes cast to remove player"
+IT: "Voti per disconnettere il giocatore."
+KO: "플레이어 추방: 투표 수"
+ZH: "Votes cast to remove player."
+BP: "Votos para remover o jogador."
+PL: "Głosy oddane za usunięciem gracza"
+END
+
+TOOLTIP:QuitMultiplayerGame
+US: "Exit to game menus"
+DE: "Zurück zum Spiele-Menü."
+FR: "Revenez aux menus du jeu."
+ES: "Salir a los menús del juego."
+IT: "Torna ai menu di gioco."
+KO: "게임 메뉴로 나갑니다."
+ZH: "離開遊戲選單。"
+BP: "Sair para os menus do jogo."
+PL: "Wyjście do menu gry."
+END
+
+TOOLTIP:RestartGame
+US: "Restart game with same preferences"
+DE: "Starte das Spiel mit denselben Einstellungen neu."
+FR: "Recommencez la partie avec les mêmes paramètres."
+ES: "Reinicias la partida con las mismas preferencias."
+IT: "Riavvia la partita con le stesse impostazioni."
+KO: "동일한 설정으로 게임을 다시 시작합니다."
+ZH: "用相同的設定重新開始遊戲。"
+BP: "Reiniciar o jogo com as mesmas opções."
+PL: "Rozpoczęcie gry z tą samą konfiguracją."
+END
+
+TOOLTIP:Help
+US: ""
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+TOOLTIP:StartLocation
+US: "Starting position"
+DE: "Startposition. Klicke, um diese als deine Startposition auf der Karte auszuwählen."
+FR: "Définissez votre point de départ. Pour cela, cliquez sur l'emplacement de la carte de votre choix."
+ES: "Posición inicial."
+IT: "Posizione iniziale"
+KO: "시작 위치"
+ZH: "選擇您指揮中心的起始位置，點選地圖中的起始位置。"
+BP: "Posição inicial."
+PL: "Pozycja startowa"
+END
+
+TOOLTIP:ReturnToGame
+US: "RETURN TO GAME"
+DE: "Zurück zum Spiel"
+FR: "REPRENDRE PARTIE"
+ES: "VOLVER A LA PARTIDA"
+IT: "TORNA ALLA PARTITA"
+KO: "게임으로 돌아갑니다."
+ZH: "回到遊戲"
+BP: "VOLTAR PARA O JOGO"
+PL: "Powróć do gry"
+END
+
+TOOLTIP:CommandList
+US: "Available commands for the current category"
+DE: "Verfügbare Befehle der aktuellen Kategorie."
+FR: "Commandes disponibles pour la catégorie actuelle."
+ES: "Comandos disponibles para la categoría actual."
+IT: "Comandi disponibili nella categoria selezionata."
+KO: "현항목에서 설정 가능한 명령들입니다."
+ZH: "現有種類的有效命令。"
+BP: "Comandos disponíveis para a categoria atual."
+PL: "Dostępne polecenia z bieżącej kategorii."
+END
+
+TOOLTIP:CurrentHotkey
+US: "Displays the current Hotkey for this command"
+DE: "Die aktuelle Schnelltaste für diesen Befehl."
+FR: "Affiche le raccourci clavier de cette commande."
+ES: "Muestra la tecla directa actual para este comando."
+IT: "Mostra il tasto attualmente assegnato a questo comando."
+KO: "해당 명령에 대한 현재 단축키를 표시합니다."
+ZH: "顯示此命令現有的熱鍵。"
+BP: "Mostra o Atalho atual para este comando."
+PL: "Wyświetla klawisz przypisany temu poleceniu."
+END
+
+TOOLTIP:AssignHotkey
+US: "Enter your new command Hotkey here"
+DE: "Gib hier deine neue Schnelltaste ein."
+FR: "Saisissez votre nouveau raccourci clavier ici."
+ES: "Introduce tu nueva tecla directa para el comando."
+IT: "Inserisci qui il nuovo tasto per il comando."
+KO: "이곳에 새로운 명령 단축키를 입력하십시오."
+ZH: "在此輸入您命令的新熱鍵。"
+BP: "Digite seu novo Atalho para este comando aqui."
+PL: "Tutaj podaj nowy klawisz przypisany poleceniu."
+END
+
+TOOLTIP:AssignHotkeyCurrent
+US: "The command this Hotkey is currently assigned to"
+DE: "Befehl, der mit dieser Schnelltaste ausgeführt wird."
+FR: "Commande à laquelle est assigné ce raccourci clavier."
+ES: "El comando al que ya está asignada esta tecla directa."
+IT: "Il comando al quale è attualmente assegnato questo tasto."
+KO: "해당 단축키는 현재 다음 명령으로 지정되었습니다."
+ZH: "此命令的熱鍵已經被指定了。"
+BP: "O comando ao qual este Atalho está atribuído no momento."
+PL: "Polecenie przypisane aktualnie temu klawiszowi."
+END
+
+TOOLTIP:AssignButton
+US: "Assigns your chosen Hotkey command"
+DE: "Bestätige deine Entscheidung."
+FR: "Assigne le raccourci clavier de votre choix."
+ES: "Asigna el comando a la tecla que has elegido."
+IT: "Assegna il tasto scelto per il comando."
+KO: "선택한 단축키 명령을 지정합니다."
+ZH: "指定您所選熱鍵的命令。"
+BP: "Atribui seu Atalho escolhido ao comando."
+PL: "Przypisuje polecenie do podanego klawisza."
+END
+
+TOOLTIP:ResetAll
+US: "Resets all of your keyboard Hotkeys to default"
+DE: "Stelle die Standard-Tastaturbelegung wieder her."
+FR: "Rétablit les raccourcis clavier par défaut de toutes les commandes."
+ES: "Restablece todas las teclas directas a su valor por defecto."
+IT: "Ripristina i comandi da tastiera predefiniti."
+KO: "모든 키보드 단축키들을 초기화합니다."
+ZH: "重設您鍵盤所有的熱鍵為預設值。"
+BP: "Reconfigura todos os seus Atalhos do teclado para o padrão."
+PL: "Przywraca domyślną konfigurację poleceń klawiaturowych."
+END
+
+TOOLTIP:BackButton
+US: "Return to previous menu"
+DE: "Kehre zum vorherigen Menü zurück."
+FR: "Revenez au menu précédent."
+ES: "Vuelve al menú anterior."
+IT: "Torna al menu precedente."
+KO: "이전 메뉴로 돌아갑니다."
+ZH: "回前一頁選單。"
+BP: "Voltar para o menu anterior."
+PL: "Powrót do poprzedniego menu."
+END
+
+TOOLTIP:ProviderSelect
+US: "Select the 3-D Audio Provider. The game has already chosen your optimal set up but you may manually change if you prefer"
+DE: "Wähle einen 3D Audio-Provider aus. Das Spiel hat bereits die optimalen Einstellungen gewählt. Du kannst diese natürlich jederzeit ändern."
+FR: "Sélectionnez le périphérique audio 3D. Le jeu a déjà choisi la configuration optimale mais vous pouvez la modifier manuellement."
+ES: "Elige el Proveedor de Audio 3D. El juego ya ha seleccionado tu configuración óptima, pero puedes cambiarla manualmente si quieres."
+IT: "Seleziona la fonte audio 3D. Il gioco ha preselezionato l'impostazione ideale, ma se preferisci puoi modificarla manualmente."
+KO: "3D 오디오 공급자를 선택합니다. 설정값은 이미 최적화된 상태지만, 사용자 임의로 원하는 설정으로 직접 변경할 수 있습니다."
+ZH: "選擇3D音效供應商。遊戲已替您選取最佳化設定，但您也能依您 喜愛手動更改設定。"
+BP: "Selecionar Sistema de Áudio 3D. O jogo já escolheu a opção otimizada para seu sistema, mas você pode alterar esta opção manualmente, se preferir."
+PL: "Wybór sterownika dźwięku trójwymiarowego. Gra wybiera samoczynnie optymalną możliwość, lecz możesz ją zmienić."
+END
+
+TOOLTIP:SpeakerSelect
+US: "Select your speaker setup. The game has already chosen your optimal set up but you may manually change if you prefer"
+DE: "Wähle die Lautsprecher-Konfiguration. Das Spiel hat bereits die optimalen Einstellungen gewählt. Du kannst diese natürlich jederzeit ändern."
+FR: "Sélectionnez la configuration de vos haut-parleurs. Le jeu a déjà choisi la configuration optimale mais vous pouvez la modifier manuellement."
+ES: "Elige la configuración del altavoz. El juego ya ha seleccionado tu configuración óptima, pero puedes cambiarla manualmente si quieres."
+IT: "Seleziona la configurazione delle casse. Il gioco ha preselezionato l'impostazione ideale, ma se preferisci puoi modificarla manualmente."
+KO: "스피커 설정을 선택합니다. 설정값은 이미 최적화되었지만 사용자 임의로 원하는 설정으로 직접 변경할 수 있습니다."
+ZH: "選擇您的喇叭設定。遊戲已替您選取最佳化設定，但您也能依您喜愛手動更改設定。"
+BP: "Selecionar Configuração de Alto-Falantes. O jogo já escolheu a opção otimizada para seu sistema, mas você pode alterar esta opção manualmente, se preferir."
+PL: "Określenie konfiguracji głośników. Gra wybiera samoczynnie optymalną możliwość, lecz możesz ją zmienić."
+END
+
+TOOLTIP:DontUseAccount
+US: "Log in without using your Generals Online Account. You will not be able to access your Player Persona or Communicator"
+DE: "Wenn du dich nicht mit deinem Generals Online-Account anmeldest, hast du keinen Zugriff auf deine Spielfigur und den Kommunikator."
+FR: "Connectez-vous sans utiliser votre compte Generals en ligne. Vous ne pourrez pas accéder à vos données personnelles de joueur ni à votre Compad."
+ES: "Entra sin usar tu cuenta de Generals Online. No podrás acceder a tu personaje o al comunicador."
+IT: "Collegati senza usare l'account di Generals Online. Non sarai in grado di accedere alle statistiche del giocatore o al Comunicatore."
+KO: "제너럴 온라인 계정을 사용하지 않고 로그인합니다. 페르소나 또는 통신기를 사용할 수 없게 됩니다."
+ZH: "未使用您的將軍線上帳號登入。您將無法使用您的個人狀態表或通訊中心。"
+BP: "Conecta-se sem utilizar sua Conta do Generals Online. Você não poderá acessar a Persona ou o Comunicador do Jogador."
+PL: "Logowanie bez użycia konta Generals Online. Nie będziesz mieć dostępu do swoich danych gracza ani do komunikatora."
+END
+
+TOOLTIP:CommunicatorButton
+US: "Contact your buddies"
+DE: "Kontaktiere deine Buddys."
+FR: "Contactez vos amis."
+ES: "Contacta con tus colegas."
+IT: "Contatta i tuoi amici."
+KO: "친구들과 접속합니다."
+ZH: "聯繫您的好友。"
+BP: "Entra em contato com seus Amigos."
+PL: "Kontakt z kolegami."
+END
+
+TOOLTIP:NameButton
+US: "Sort by game name"
+DE: "Sortiert nach Spielnamen"
+FR: "Tri par nom de partie"
+ES: "Ordenar por partida"
+IT: "Ordina per nome partita."
+KO: "게임 제목으로 정렬합니다."
+ZH: "依遊戲名稱排序。"
+BP: "Classificar por Nome do Jogo."
+PL: "Sortowanie listy według nazwy gry"
+END
+
+TOOLTIP:PingButton
+US: "Sort by Ping"
+DE: "Nach Ping sortieren"
+FR: "Classer par ping."
+ES: "Ordenar por Ping"
+IT: "Ordina per tempo di ping."
+KO: "핑으로 정렬합니다."
+ZH: "依Ping值排序。"
+BP: "Classificar por Ping."
+PL: "Sortowanie listy wg wartości pingu."
+END
+
+TOOLTIP:UseAccount
+US: "Join Generals Online"
+DE: "Generals Online betreten"
+FR: "Rejoindre Generals en ligne."
+ES: "Entrar en Generals Online"
+IT: "Partecipa a Generals Online."
+KO: "제너럴 온라인에 참여합니다."
+ZH: "加入將軍線上遊戲。"
+BP: "Entrar no Generals Online."
+PL: "Połączenie z Generals Online."
+END
+
+TOOLTIP:Login
+US: "Join Generals Online"
+DE: "Generals Online betreten"
+FR: "Rejoindre Generals en ligne."
+ES: "Entrar en Generals Online"
+IT: "Partecipa a Generals Online."
+KO: "제너럴 온라인에 참여합니다."
+ZH: "加入將軍線上遊戲。"
+BP: "Entrar no Generals Online."
+PL: "Połącz się z Generals Online."
+END
+
+TOOLTIP:CreateAccount
+US: "Create a new Generals Online account"
+DE: "Erstelle einen neuen Generals Online-Account."
+FR: "Créer un nouveau compte Generals en ligne."
+ES: "Crear una cuenta nueva de Generals Online"
+IT: "Crea un nuovo account di Generals Online."
+KO: "제너럴 온라인 계정을 생성합니다."
+ZH: "開創一個新的將軍線上帳號。"
+BP: "Criar uma nova conta do Generals Online."
+PL: "Tworzenie nowego konta Generals Online."
+END
+
+TOOLTIP:TOS
+US: "View the Service Terms agreement"
+DE: "Lies unsere allgemeinen Geschäftsbedingungen."
+FR: "Consulter les conditions d'utilisation."
+ES: "Ver el acuerdo con los Términos de Servicio"
+IT: "Visualizza i termini della licenza d'uso."
+KO: "서비스 약정을 검토합니다."
+ZH: "觀看服務條款。"
+BP: "Ver o contrato de Termos de Serviço."
+PL: "Przejrzyj warunki umowy usługowej."
+END
+
+TOOLTIP:RememberInfo
+US: "Remember login info. Not recommended for computers with multiple users"
+DE: "Login-Informationen speichern. Nicht empfohlen bei Computern mit mehreren Benutzern."
+FR: "Mémoriser les infos de connexion. Déconseillé aux ordinateurs avec plusieurs utilisateurs."
+ES: "Recordar la información de acceso. No es recomendable en ordenadores con múltiples usuarios."
+IT: "Memorizza le informazioni di connessione. Non usare questa opzione su computer con più utenti."
+KO: "로그인 정보를 기억합니다. 여러 사용자들이 사용하는 컴퓨터일 경우 체크하지 마십시오."
+ZH: "記憶登入資訊。不建議於有多人使用的電腦上使用。"
+BP: "Lembrar informações de login. Esta opção não é recomendada para usuários de computadores compartilhados."
+PL: "Zapamiętaj dane logowania. Opcja niezalecana w przypadku komputerów z wieloma użytkownikami."
+END
+
+TOOLTIP:Back
+US: "Return to previous screen"
+DE: "Kehre zum vorherigen Bildschirm zurück."
+FR: "Revenir au menu précédent."
+ES: "Volver a la pantalla anterior."
+IT: "Torna alla schermata precedente."
+KO: "이전 메뉴 화면으로 돌아갑니다."
+ZH: "回到前一視窗。"
+BP: "Voltar para a tela anterior."
+PL: "Powrót do poprzedniego ekranu."
+END
+
+TOOLTIP:BattleHonors
+US: "The Battle Honors a player has received. Battle Honors are won by achieving certain goals in solo or multiplay"
+DE: "Die Auszeichnungen eines Spielers. Wenn du im Einzelspieler- oder Multiplayer-Modus bestimmte Ziele erreichst, bekommst du Auszeichnungen."
+FR: "Les distinctions qu'un joueur a reçues en accomplissant certains objectifs en mode Solo ou Multijoueur."
+ES: "Las condecoraciones de un jugador. Se consiguen al alcanzar objetivos en modo un jugador o multijugador."
+IT: "Le onorificenze ricevute da un giocatore. Puoi ottenere onorificenze raggiungendo determinati obiettivi nella modalità un giocatore o in multigiocatore."
+KO: "플레이어가 받은 전투 훈장입니다. 전투 훈장은 싱글플레이 혹은 멀티플레이에서 특정 목표를 달성했을 때 수여됩니다."
+ZH: "玩家擁有的戰爭榮譽勳章。戰爭榮譽勳章是完成單人任務目標或由多人任務中獲勝所贏得的。"
+BP: "Estas são as Condecorações de Batalha que o jogador recebeu. Condecorações de Batalha são concedidas aos jogadores que completam determinados objetivos em partidas solo ou multijogador."
+PL: "Odznaczenia otrzymane przez gracza. Odznaczenia są przyznawane za wykonywanie określonych zadań w misjach jedno- i wieloosobowych."
+END
+
+TOOLTIP:BattleHonorStreak3
+US: "Streak Honor(3)\nPlayer has won 3 solo or multiplayer online games in a row"
+DE: "Siegesmedaille (3)\nDer Spieler hat 3 Einzelspieler- oder Multiplayer-Spiele in Folge gewonnen."
+FR: "Distinction d'enchaînement(3)\nLe joueur a remporté 3 parties solo ou multijoueur en ligne d'affilée."
+ES: "Medalla Racha (3)\nHa ganado 3 partidas seguidas solo o en multijugador."
+IT: "Vittorie in serie (3)\nIl giocatore ha vinto 3 partite consecutive in singolo o multigiocatore online."
+KO: "연승 훈장(3)\n해당 플레이어는 싱글플레이 혹은 멀티플레이에서 3 연승을 달성했습니다."
+ZH: "閃電徽章（3）\n玩家連續贏得三場遊戲。"
+BP: "Medalha de Série(3)\nO jogador venceu 3 partidas solo ou multijogador online seguidas."
+PL: "Medal za dobrą passę (3)\nGracz zwyciężył w trzech kolejnych bitwach jedno- lub wieloosobowych."
+END
+
+TOOLTIP:BattleHonorStreak5
+US: "Streak Honor(5)\nPlayer has won 5 solo or multiplayer online games in a row"
+DE: "Siegesmedaille (5)\nDer Spieler hat 5 Einzelspieler- oder Multiplayer-Spiele in Folge gewonnen."
+FR: "Distinction d'enchaînement(5)\nLe joueur a remporté 5 parties solo ou multijoueur en ligne d'affilée."
+ES: "Medalla Racha (5)\nHa ganado 5 partidas seguidas solo o en multijugador."
+IT: "Vittorie in serie (5)\nIl giocatore ha vinto 5 partite consecutive in singolo o multigiocatore online."
+KO: "연승 훈장(5)\n해당 플레이어는 싱글플레이 혹은 멀티플레이에서 5 연승을 달성했습니다."
+ZH: "閃電徽章（5）\n玩家連續贏得五場遊戲。"
+BP: "Medalha de Série(5)\nO jogador venceu 5 partidas solo ou multijogador online seguidas."
+PL: "Medal za dobrą passę (5)\nGracz zwyciężył w pięciu kolejnych bitwach jedno- lub wieloosobowych."
+END
+
+TOOLTIP:BattleHonorStreak10
+US: "Streak Honor(10)\nPlayer has won 10 solo or multiplayer online games in a row"
+DE: "Siegesmedaille (10)\nDer Spieler hat 10 Einzelspieler- oder Multiplayer-Spiele in Folge gewonnen."
+FR: "Distinction d'enchaînement(10)\nLe joueur a remporté 10 parties solo ou multijoueur en ligne d'affilée."
+ES: "Medalla Racha (10)\nHa ganado 10 partidas seguidas solo o en multijugador."
+IT: "Vittorie in serie (10)\nIl giocatore ha vinto 10 partite consecutive in singolo o multigiocatore online."
+KO: "연승 훈장(10)\n해당 플레이어는 싱글플레이 혹은 멀티플레이에서 10 연승을 달성했습니다."
+ZH: "閃電徽章（10）\n玩家連續贏得十場遊戲。"
+BP: "Medalha de Série(10)\nO jogador venceu 10 partidas solo ou multijogador online seguidas."
+PL: "Medal za dobrą passę (10)\nGracz zwyciężył w dziesięciu kolejnych bitwach jedno- lub wieloosobowych."
+END
+
+TOOLTIP:BattleHonorStreak20
+US: "Streak Honor(20)\nPlayer has won 20 solo or multiplayer online games in a row"
+DE: "Siegesmedaille (20)\nDer Spieler hat 20 Einzelspieler- oder Multiplayer-Spiele in Folge gewonnen."
+FR: "Distinction d'enchaînement(20)\nLe joueur a remporté 20 parties solo ou multijoueur en ligne d'affilée."
+ES: "Medalla Racha (20)\nHa ganado 20 partidas seguidas solo o en multijugador."
+IT: "Vittorie in serie (20)\nIl giocatore ha vinto 20 partite consecutive in singolo o multigiocatore online."
+KO: "연승 훈장(20)\n해당 플레이어는 싱글플레이 혹은 멀티플레이에서 20 연승을 달성했습니다."
+ZH: "閃電徽章（20）\n玩家連續贏得廿場遊戲。"
+BP: "Medalha de Série(20)\nO jogador venceu 20 partidas solo ou multijogador online seguidas."
+PL: "Medal za dobrą passę (20)\nGracz zwyciężył w dwudziestu kolejnych bitwach jedno- lub wieloosobowych."
+END
+
+TOOLTIP:BattleHonorLoyaltyUSA
+US: "USA Loyalty Honor\nPlayer has played 20+ games in a row as the USA"
+DE: "Loyalitätsorden der USA\nDer Spieler hat 20 oder mehr Spiele in Folge für die USA gekämpft."
+FR: "Distinction de loyauté USA\nLe joueur a joué plus de 20 parties d'affilée en incarnant les USA."
+ES: "Medalla por la lealtad a E.E.U.U\nHa jugado más de 20 partidas seguidas para E.E.U.U."
+IT: "Stella della fedeltà USA\nIl giocatore ha giocato più di 20 partite di fila per gli USA."
+KO: "미국 충절 훈장\n해당 플레이어는 미국을 20+ 게임 연속으로 선택했습니다."
+ZH: "美國忠誠勳章\n玩家使用美國陣營連續贏得廿場以上遊戲。"
+BP: "Medalha de Lealdade dos E.U.A.\nO jogador jogou 20 ou mais partidas seguidas com o exército dos E.U.A."
+PL: "Medal wierności USA\nGracz rozegrał ponad 20 bitew z rzędu w szeregach Stanów Zjednoczonych."
+END
+
+TOOLTIP:BattleHonorLoyaltyChina
+US: "China Loyalty Honor\nPlayer has played 20+ games in a row as China"
+DE: "Chinesischer Loyalitätsorden\nDer Spieler hat 20 oder mehr Spiele in Folge für China gekämpft."
+FR: "Distinction de loyauté Chine\nLe joueur a joué plus de 20 parties d'affilée en incarnant la Chine."
+ES: "Medalla por la lealtad a China\nHa jugado más de 20 partidas seguidas para China."
+IT: "Stella della fedeltà cinese\nIl giocatore ha giocato più di 20 partite di fila per la Cina."
+KO: "중국 충절 훈장\n해당 플레이어는 중국을 20+ 게임 연속으로 선택했습니다."
+ZH: "中國忠誠勳章\n玩家使用中國陣營連續贏得廿場以上遊戲。"
+BP: "Medalha de Lealdade da China\nO jogador jogou 20 ou mais partidas seguidas com o exército da China."
+PL: "Medal wierności Chinom\nGracz rozegrał ponad 20 bitew z rzędu w szeregach Chin."
+END
+
+TOOLTIP:BattleHonorLoyaltyGLA
+US: "GLA Loyalty Honor\nPlayer has played 20+ games in a row as the GLA"
+DE: "Loyalitätsorden der GBA\nDer Spieler hat 20 oder mehr Spiele in Folge für die GBA gekämpft."
+FR: "Distinction de loyauté GLA\nLe joueur a joué plus de 20 parties d'affilée en incarnant la GLA."
+ES: "Medalla por la lealtad al GLA\nHa jugado más de 20 partidas seguidas para el GLA."
+IT: "Stella della fedeltà ELG\nIl giocatore ha giocato più di 20 partite di fila per l'ELG."
+KO: "GLA 충절 훈장\n해당 플레이어는 GLA를 20+ 게임 연속으로 선택했습니다."
+ZH: "全球解放軍忠誠勳章\n玩家使用全球解放軍陣營連續贏得廿場以上遊戲。"
+BP: "Medalha de Lealdade do E.L.G.\nO jogador jogou 20 ou mais partidas seguidas com o exército do E.L.G."
+PL: "Medal wierności AŚW\nGracz rozegrał ponad 20 bitew z rzędu w szeregach Armii Światowego Wyzwolenia."
+END
+
+TOOLTIP:BattleHonorBattleTank
+US: "Battle Tank Honor\nPlayer has built 50+ tanks in a solo or multiplayer online game"
+DE: "Panzer-Auszeichnung\nDer Spieler hat in einem Einzelspieler- oder Multiplayer-Spiel mindestens 50 Panzer gebaut."
+FR: "Distinction des blindés\nLe joueur a construit plus de 50 chars dans une partie solo ou multijoueur en ligne."
+ES: "Condecoración Carro de Combate\nHa construido 50+ tanques solo o en multijugador."
+IT: "Stella del carro armato\nIl giocatore ha costruito più di 50 carri armati in una partita in solitario o multigiocatore online."
+KO: "배틀 탱크 훈장\n해당 플레이어는 싱글플레이 혹은 멀티플레이에서 50대 이상의 탱크를 생산했습니다."
+ZH: "坦克戰神榮譽勳章\n玩家於遭遇戰遊戲中建造五十台以上的坦克。"
+BP: "Condecoração de Batalha de Tanques\nO jogador construiu 50 tanques ou mais em uma partida solo ou multijogador online."
+PL: "Medal kawalerii pancernej\nGracz skonstruował ponad 50 czołgów w rozgrywce jedno- lub wieloosobowej."
+END
+
+TOOLTIP:BattleHonorAirWing
+US: "Air Wing Honor\nPlayer has built 20+ aircraft in a solo or multiplayer online game"
+DE: "Luftwaffen-Auszeichnung\nDer Spieler hat in einem Einzelspieler- oder Multiplayer-Spiel mindestens 20 Flugzeuge gebaut."
+FR: "Distinction des airs\nLe joueur a construit plus de 20 avions dans une partie solo ou multijoueur en ligne."
+ES: "Condecoración Ala Aérea\nHa construido 20+ aviones sólo o en multijugador."
+IT: "Stella dell'aria\nIl giocatore ha costruito più di 20 aerei in una partita in solitario o multigiocatore online."
+KO: "항공단 훈장\n해당 플레이어는 싱글플레이 혹은 멀티플레이에서 20기 이상의 항공기를 생산했습니다."
+ZH: "飛鷹榮譽勳章\n玩家於遭遇戰遊戲中建造廿台以上的飛機。"
+BP: "Condecoração de Combate Aéreo\nO jogador construiu 20 aeronaves ou mais em uma partida solo ou multijogador online."
+PL: "Medal lotniczy\nGracz skonstruował ponad 20 jednostek latających w rozgrywce jedno- lub wieloosobowej."
+END
+
+TOOLTIP:BattleHonorEndurance
+US: "Endurance Honor\nPlayer has beaten every map"
+DE: "Ausdauer-Belobigung\nDer Spieler hat alle Karten gemeistert."
+FR: "Distinction d'endurance\nLe joueur a remporté tous les combats en mode Escarmouche."
+ES: "Condecoración por Resistencia\nHa ganado en todos los mapas."
+IT: "Stella della resistenza\nIl giocatore ha superato tutte le mappe."
+KO: "인내 훈장\n해당 플레이어는 모든 지도에서 승리했습니다."
+ZH: "耐力勳章\n打敗所有遭遇戰以贏得此勳章。"
+BP: "Condecoração de Resistência\nO jogador venceu em todos os campos de batalha."
+PL: "Medal za wytrwałość\nGracz uczestniczył w potyczkach na wszystkich polach bitwy."
+END
+
+TOOLTIP:BattleHonorCampaignUSA
+US: "USA Campaign Honor\nPlayer has completed the USA Campaign"
+DE: "Ehrenmedaille der USA\nDer Spieler hat die USA-Kampagne gemeistert."
+FR: "Distinction de campagne USA\nLe joueur a terminé la campagne des USA."
+ES: "Medalla por la Campaña E.E.U.U.\nEl jugador ha completado la Campaña de E.E.U.U."
+IT: "Stella della campagna USA\nIl giocatore ha completato la campagna USA."
+KO: "미국 캠페인 훈장\n해당 플레이어는 미국 캠페인을 완수했습니다."
+ZH: "美國陣營勳章\n玩家完成美國陣營關卡。"
+BP: "Medalha de Campanha dos E.U.A.\nO jogador completou a Campanha dos E.U.A."
+PL: "Medal za kampanię amerykańską\nGracz ukończył kampanię USA."
+END
+
+TOOLTIP:BattleHonorCampaignChina
+US: "China Campaign Honor\nPlayer has completed the China Campaign"
+DE: "Chinesische Ehrenmedaille\nDer Spieler hat die China-Kampagne gemeistert."
+FR: "Distinction de campagne Chine\nLe joueur a terminé la campagne de la Chine."
+ES: "Medalla por la Campaña China.\nEl jugador ha completado la Campaña de China"
+IT: "Stella della campagna cinese\nIl giocatore ha completato la campagna cinese."
+KO: "중국 캠페인 훈장\n해당 플레이어는 중국 캠페인을 완수했습니다."
+ZH: "中國陣營勳章\n玩家完成中國陣營關卡。"
+BP: "Medalha de Campanha da China\nO jogador completou a Campanha da China."
+PL: "Medal za kampanię chińską\nGracz ukończył kampanię Chin."
+END
+
+TOOLTIP:BattleHonorCampaignGLA
+US: "GLA Campaign Honor\nPlayer has completed the GLA Campaign"
+DE: "Ehrenmedaille der GBA\nDer Spieler hat die GBA-Kampagne gemeistert."
+FR: "Distinction de campagne GLA\nLe joueur a terminé la campagne de la GLA."
+ES: "Medalla por la Campaña GLA\nEl jugador ha completado la Campaña del GLA."
+IT: "Stella della campagna ELG\nIl giocatore ha completato la campagna ELG."
+KO: "GLA 캠페인 훈장\n해당 플레이어는 GLA 캠페인을 완수했습니다."
+ZH: "全球解放軍陣營勳章\n玩家完成全球解放軍陣營關卡。"
+BP: "Medalha de Campanha do E.L.G.\nO jogador completou a Campanha do E.L.G."
+PL: "Medal za kampanię wyzwoleńczą\nGracz ukończył kampanię Armii Światowego Wyzwolenia."
+END
+
+TOOLTIP:BattleHonorChallenge
+US: "Challenge Honor\nPlayer has defeated a Hard computer opponent"
+DE: "Heldenmedaille\nDer Spieler hat einen schweren Computergegner besiegt."
+FR: "Distinction de bravoure\nLe joueur a vaincu un adversaire informatique de niveau difficile."
+ES: "Medalla al Reto\nEl jugador ha derrotado a un adversario del ordenador Brutal."
+IT: "Stella della sfida\nIl giocatore ha sconfitto un avversario IA difficile."
+KO: "도전 훈장\n해당 플레이어는 어려운 난이도 게임을 승리로 이끌었습니다."
+ZH: "挑戰勳章\n玩家擊敗冷酷的敵人等級的電腦。"
+BP: "Medalha de Desafio\nO jogador derrotou um oponente do computador no nível de dificuldade Difícil."
+PL: "Medal za osiągnięcia bojowe\nGracz pokonał przeciwnika komputerowego na poziomie Brutal."
+END
+
+TOOLTIP:ProgressToNextRank
+US: "Progress until the next rank is acheived"
+DE: "Erforderliche Punkte bis zur Beförderung."
+FR: "Progressez jusqu'à atteindre le rang suivant."
+ES: "Progreso hasta que se consigue el rango siguiente."
+IT: "Esperienza al prossimo grado."
+KO: "다음 등급으로 진급할 때까지 남은 점수"
+ZH: "到下一級才會有進度。"
+BP: "Progresso até a próxima patente alcançado."
+PL: "Postęp w zdobywaniu następnego stopnia."
+END
+
+TOOLTIP:SetLocale
+US: "Change your current Locale selection"
+DE: "Ändere deine aktuelle Ländereinstellung."
+FR: "Changez le pays actuellement sélectionné."
+ES: "Cambia el país seleccionado."
+IT: "Modifica la nazione attuale."
+KO: "현재 지역 설정을 변경합니다."
+ZH: "改變您現有位置的選擇。"
+BP: "Alterar sua Localização atual."
+PL: "Zmiana bieżącego kraju."
+END
+
+TOOLTIP:DeleteAccount
+US: "Delete your current account"
+DE: "Lösche deinen aktuellen Account."
+FR: "Supprimez votre compte actuel."
+ES: "Borra tu cuenta actual."
+IT: "Elimina l'account attuale."
+KO: "사용중인 현재 계정을 삭제합니다."
+ZH: "刪除您現有的帳號。"
+BP: "Apagar sua conta atual."
+PL: "Skasuj bieżące konto."
+END
+
+TOOLTIP:AsianText
+US: "Click to toggle Asian chat, etc."
+DE: "Asiatische Schriftzeichen im Chat-Fenster etc."
+FR: "Cliquez ici pour passer en mode chat asiatique"
+ES: "Clic para alternar texto asiático"
+IT: "Clicca per attivare la visualizzazione dei caratteri asiatici."
+KO: "채팅창에 동양권 텍스트를 켜거나 끕니다."
+ZH: "點選亞洲語系聊天室。"
+BP: "Clique para Ativar/Desativar a exibição de caracteres orientais no jogo."
+PL: "Kliknij, aby przełączyć na azjatyckie pogawędki, etc."
+END
+
+TOOLTIP:NonAsianText
+US: "Click to toggle Non Asian chat, etc."
+DE: "Nicht-asiatische Schriftzeichen im Chat-Fenster etc."
+FR: "Cliquez ici pour passer en mode chat non asiatique"
+ES: "Clic para alternar texto no asiático"
+IT: "Clicca per disattivare la visualizzazione dei caratteri asiatici."
+KO: "채팅창에 비동양권 텍스트를 켜거나 끕니다."
+ZH: "點選非亞洲語系聊天室。"
+BP: "Clique para Ativar/Desativar a exibição de caracteres ocidentais no jogo."
+PL: "Kliknij, aby przełączyć na nieazjatyckie pogawędki etc."
+END
+
+TOOLTIP:MyInfo
+US: "Click to explore your Persona Information. You may view your rank, points, wins, losses, Battle Honors, etc."
+DE: "Klicke hier, um einen Blick auf deinen Rang, deine Punkte, deine Siege, deine Niederlagen usw. zu werfen."
+FR: "Cliquez pour consultez vos infos personnelles (rang, points, victoires, défaites, distinctions, etc.)"
+ES: "Haz clic para ver la info de tu Personaje: rango, puntos, victorias, derrotas, condecoraciones..."
+IT: "Clicca per consultare le statistiche personali. Puoi controllare grado, punti, vittorie, sconfitte, onorificenze, eccetera."
+KO: "클릭하면 페르소나 정보를 탐색하게 됩니다. 등급, 점수, 승, 패, 전투 훈장, 등등의 정보를 볼 수 있습니다."
+ZH: "點選並瀏覽您的個人狀態表資訊。閱讀您的等級、點數、勝、負、戰爭榮耀，等等。"
+BP: "Clique aqui para acessar suas Informações de Persona. Você poderá visualizar sua patente, pontos, vitórias, derrotas, Condecorações de Batalha, etc."
+PL: "Kliknij tutaj, by zapoznać się ze swoimi danymi. Możesz sprawdzić swoją rangę, punkty, liczbę zwycięstw i porażek, odznaczenia itp."
+END
+
+TOOLTIP:CustomMatch
+US: "Click to join the Custom Match Lobby to meet and chat with other players"
+DE: "Besuche die Lobby, um mit anderen Spielern zu chatten."
+FR: "Cliquez pour rejoindre la salle des matchs personnalisés pour discuter avec d'autres joueurs."
+ES: "Haz clic para entrar en la Sala Personalizar Partida y conocer y chatear con otros jugadores."
+IT: "Clicca per entrare nella lobby della partita personalizzata e parlare con gli altri giocatori."
+KO: "클릭하면 사용자 매치 로비에 참가할 수 있으며, 다른 플레이어들을 만나서 채팅할 수도 있습니다."
+ZH: "點選並加入自訂配對大廳，來其他玩家交談。"
+BP: "Clique aqui para conectar-se à Sala de Partida Personalizada, onde você poderá conhecer e conversar com outros jogadores."
+PL: "Kliknij tutaj, by dołączyć do poczekalni własnego doboru. Możesz się w niej spotkać i komunikować z innymi graczami."
+END
+
+TOOLTIP:SelectAll
+US: "QuickMatch on all available maps"
+DE: "QuickMatch auf allen verfügbaren Karten."
+FR: "QuickMatch sur toutes les cartes disponibles"
+ES: "QuickMatch en todos los mapas disponibles"
+IT: "QuickMatch disponibile su tutte le mappe"
+KO: "사용 가능한 모든 지도에서 퀵매치를 합니다."
+ZH: "在所有可用的地圖上進行快速配對。"
+BP: "QuickMatch em todos os mapas disponíveis."
+PL: "QuickMatch na wszystkich dostępnych mapach"
+END
+
+TOOLTIP:SelectNone
+US: "QuickMatch on no maps"
+DE: "QuickMatch ohne Karten."
+FR: "QuickMatch sur aucune des cartes"
+ES: "QuickMatch en ningún mapa"
+IT: "QuickMatch su nessuna mappa"
+KO: "지도 없이 퀵매치를 합니다."
+ZH: "無地圖快速配對。"
+BP: "QuickMatch em nenhum mapa."
+PL: "Bez QuickMatch"
+END
+
+TOOLTIP:EnterPassword
+US: "Please enter a password"
+DE: "Bitte gib ein Passwort ein."
+FR: "Saisissez un mot de passe"
+ES: "Por favor, introduce tu contraseña"
+IT: "Inserisci una password"
+KO: "비밀번호를 입력하십시오."
+ZH: "請輸入密碼。"
+BP: "Por favor, digite sua senha"
+PL: "Proszę podać hasło"
+END
+
+TOOLTIP:Quickmatch
+US: "Click to begin QuickMatch. QuickMatch will attempt to automatically match you with your closest skill level and preferences"
+DE: "Starte QuickMatch. Quickmatch sucht nun einem Spieler mit deinen Fähigkeiten und deinen Voreinstellungen."
+FR: "Cliquez ici pour lancer un QuickMatch qui tentera de vous associer avec les joueurs dotés d'un niveau et de préférences proches des vôtres."
+ES: "Haz clic para iniciar QuickMatch, que te buscará automáticamente a quien más se aproxime a tu nivel y preferencias."
+IT: "Clicca per avviare QuickMatch. Il programma tenterà di selezionare un avversario con livello di abilità e preferenze simili ai tuoi."
+KO: "클릭하면 퀵매치를 시작하게 됩니다. 퀵매치는 여러분의 실력과 설정에 가장 근접한 플레이어를 자동적으로 검색합니다."
+ZH: "點選來開始快速配對。快速配對將會把跟您技巧等級和表現最接近的玩家與您自動配對。"
+BP: "Clique para iniciar o QuickMatch. O QuickMatch tentará conectá-lo automaticamente a um oponente que possua níveis de habilidade e experiência próximos aos seus."
+PL: "Kliknij tutaj, by rozpocząć QuickMatch. Funkcja ta dobierze Ci przeciwnika o umiejętnościach i preferencjach najbardziej zbliżonych do Twoich."
+END
+
+TOOLTIP:GameLobbys
+US: ""
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+TOOLTIP:ClearButton
+US: "Clear the chat text window"
+DE: "Text im Chat-Fenster löschen."
+FR: "Fix me, I'm not very descriptive."
+ES: "Fix me, I'm not very descriptive."
+IT: "Cancella il testo nella finestra di chat."
+KO: "입력 내용 삭제"
+ZH: "清除聊天文字視窗。"
+BP: "Limpar a janela de chat."
+PL: "Wyczyść"
+END
+
+TOOLTIP:Disconnectbutton
+US: "Click to disconnect from your current game. Disconnect will be counted toward your overall total"
+DE: "Verlasse das aktuelle Spiel. Der Verbindungsabbruch wird registriert."
+FR: "Cliquez ici pour vous déconnecter de la partie en cours. Votre total général en tiendra compte."
+ES: "Haz clic para desconectarte de la partida en curso. La desconexión se contabilizará en tu total"
+IT: "Clicca per scollegarti dalla partita in corso. La disconnessione verrà conteggiata nel tuo totale."
+KO: "클릭하면, 현재 게임에서 접속을 끊기를 시도합니다. 접속을 끊으면 접속끊김 횟수가 증가합니다."
+ZH: "點選將與您的現有遊戲斷線。並將會把此斷線算在您的斷線總和次數中。"
+BP: "Clique aqui para desconectar-se de sua partida atual. Esta desconexão será adicionada à sua pontuação geral."
+PL: "Kliknij tutaj, by odłączyć się od bieżącej sesji. Liczba rozłączeń jest zapamiętywana w Twoich danych gracza."
+END
+
+TOOLTIP:playersonline
+US: "List of players currently on Generals Online"
+DE: "Betrachte die Liste der anwesenden Spieler."
+FR: "Liste des joueurs actuellement sur Generals en ligne"
+ES: "Lista de jugadores en Generals Online"
+IT: "Elenco dei giocatori attualmente presenti in Generals Online."
+KO: "현재 제너럴 온라인에 있는 플레이어들의 목록"
+ZH: "列出現在於將軍線上遊戲的玩家。"
+BP: "Lista de jogadores atualmente conectados ao Generals Online"
+PL: "Lista graczy obecnych na serwerze Generals Online"
+END
+
+TOOLTIP:WidenSearch
+US: "Click to widen your opponent search criteria. The more specific your criteria is, the more difficult it can be to find an opponent"
+DE: "Erweitere deine Suchkriterien. Je spezifischer die Suchkriterien sind, desto länger dauert die Suche nach einem geeigneten Gegner."
+FR: "Cliquez pour élargir vos critères de recherche. Plus ils seront précis, plus vous aurez de mal à trouver un adversaire de taille."
+ES: "Haz clic para ampliar los criterios de búsqueda de tu rival. Cuanto más específicos sean, más difícil será encontrarlo."
+IT: "Clicca per ampliare il campo di ricerca dell'avversario. Più i criteri sono specifici, più difficile può essere trovare qualcuno."
+KO: "클릭하여 상대 플레이어 탐색 기준을 확대합니다. 기준이 상세해질수록 상대를 찾기가 어려워집니다."
+ZH: "點選將加大尋找您對手的標準。越多特殊的標準，將會越難找到對手。"
+BP: "Clique aqui para ampliar seus critérios de busca por um oponente. Quanto mais específicos os critérios de busca, maior a dificuldade em encontrar um oponente.\n"
+PL: "Kliknij tutaj, by poszerzyć kryteria wyszukiwania przeciwnika. Im bardziej ścisłe kryteria, tym trudniej będzie dobrać przeciwnika."
+END
+
+TOOLTIP:Emote
+US: ""
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+TOOLTIP:JoinGame
+US: "Click to join the selected game"
+DE: "Schließe dich dem gewählten Spiel an."
+FR: "Cliquez ici pour rejoindre la partie sélectionnée"
+ES: "Haz clic para acceder a la partida seleccionada"
+IT: "Clicca per partecipare alla partita selezionata."
+KO: "선택한 게임에 참가하기 위해 클릭합니다."
+ZH: "點選可加入選擇的遊戲。"
+BP: "Clique aqui para conectar-se ao jogo selecionado."
+PL: "Kliknij tutaj, by dołączyć do wybranej sesji."
+END
+
+TOOLTIP:BuddyButton
+US: "Sort game list by Buddies"
+DE: "Sort game list by Buddies"
+FR: "Tri par nom d'amis"
+ES: "Sort game list by Buddies."
+IT: "Ordina l'elenco partite in base agli amici."
+KO: "친구순으로 정렬합니다."
+ZH: "利用好友來排序遊戲列表。"
+BP: "Sort game list by Buddies"
+PL: "Sortuj według imion"
+END
+
+TOOLTIP:matchingprogress
+US: "You can watch as QuickMatch searches for your best match. Keep your fingers crossed!"
+DE: "Beobachte QuickMatch bei der Suche nach einem Gegner."
+FR: "Vous pouvez observer la progression du QuickMatch lorsqu'elle tente de vous trouver un adversaire. Croisez les doigts !"
+ES: "Puedes ver cómo QuickMatch busca la mejor coincidencia. ¡Cruza los dedos!"
+IT: "Puoi osservare mentre QuickMatch cerca l'avversario più adatto. Tieni le dita incrociate!"
+KO: "퀵매치가 최적의 상대를 찾는 동안 볼 수 있습니다. 기대하십시오!"
+ZH: "您能在快速配對中找到最佳的配對。祝好運！"
+BP: "Você pode observar enquanto o QuickMatch procura por seu oponente. Mantenha os dedos cruzados!"
+PL: "Tutaj możesz obserwować jak QuickMatch wyszukuje Ci najodpowiedniejszego przeciwnika. Trzymaj kciuki!"
+END
+
+TOOLTIP:CancelButton
+US: "Click to cancel the current operation"
+DE: "Klicke hier, um den Vorgang abzubrechen."
+FR: "Cliquez ici pour annuler l'opération en cours"
+ES: "Haz clic para cancelar la operación en curso"
+IT: "Clicca per annullare l'operazione in corso."
+KO: "클릭하면 현재 작업을 취소합니다."
+ZH: "點選可取消現有的操作。"
+BP: "Clique aqui para cancelar a operação em andamento"
+PL: "Kliknij tutaj, by przerwać bieżącą czynność"
+END
+
+TOOLTIP:resizewindows
+US: "Click and drag vertically to change the size of your Game List window vs. your Chat window"
+DE: "Bewege die Maus (mit gedrückter Maustaste) nach unten oder oben, um die Größe der Spiele-Liste zu ändern."
+FR: "Cliquez ici et faites glisser à la verticale pour modifier la taille de la liste des parties par rapport à celle de la fenêtre de discussion."
+ES: "Haz clic y arrastra en vertical para cambiar el tamaño de tu Lista de partidas con respecto a la ventana de Chat"
+IT: "Clicca e trascina in verticale per modificare la dimensione della finestra dell'elenco partite e della finestra di chat."
+KO: "클릭하여 게임채팅창과 게임 목록창의 비율을 수직으로 변경합니다."
+ZH: "點選並垂直拖拉您的遊戲選單對應您的聊天選單。"
+BP: "Clique e arraste verticalmente para alterar o tamanho de sua janela Lista de Jogos em relação à janela de Chat."
+PL: "Kliknij tutaj i przeciągnij myszą pionowo, by zmienić rozmiar okna listy gier kosztem okna komunikatów"
+END
+
+TOOLTIP:CreateGame
+US: "Create a new game. The game will be displayed in the Game List window for other players to join"
+DE: "Erstelle ein neues Spiel. Das Spiel erscheint dann in der Spiele-Liste potenzieller Mitspieler."
+FR: "Créez une nouvelle partie. Elle s'affiche alors dans la liste des parties, permettant ainsi aux autres joueurs de la rejoindre."
+ES: "Crear una partida nueva. La partida aparecerá en la Lista de partidas para que accedan otros jugadores"
+IT: "Crea una nuova partita. La partita sarà visualizzata nell'apposito elenco e gli altri giocatori vi potranno partecipare."
+KO: "새로운 게임을 생성합니다. 게임은 다른 플레이어들이 참가할 수 있게 게임 목록창에 표시됩니다."
+ZH: "開創新遊戲。遊戲會出現在遊戲列表中，來讓其他玩家加入遊戲。"
+BP: "Criar novo jogo. O jogo será mostrado na janela Lista de Jogos para que outros jogadores possam conectar-se a ele."
+PL: "Utworzenie nowej sesji. Sesja zostanie wyświetlona w oknie listy gier i inni gracze będą mogli do niej dołączyć"
+END
+
+TOOLTIP:ChatWindow
+US: "Type and press Enter in the Text Entry box below to send messages to this Chat window. Other players can read and respond"
+DE: "Gib eine Nachricht in das Eingabefeld ein und schicke sie mit Enter ab. Deine Mitspieler können deine Nachrichten lesen und beantworten."
+FR: "Saisissez votre texte dans la fenêtre prévue à cet effet et appuyez sur Entrée pour envoyer le message dans cette fenêtre de discussion. Les autres joueurs peuvent le lire et y répondre."
+ES: "Escribe y pulsa Enter en el cuadro de texto para enviar mensajes a la ventana del chat. Otros jugadores la leerán y te responderán"
+IT: "Scrivi nel riquadro sottostante e premi Invio per inviare dei messaggi in questa finestra di chat. Gli altri giocatori potranno leggerli e rispondere."
+KO: "밑의 텍스트 입력란에 글을 입력하고 엔터 키를 눌러 해당 채팅창에 메시지를 전송합니다. 다른 플레이어들은 해당 메시지를 읽고 응답할 수 있습니다."
+ZH: "打字並按下ENTER，在文字框中的訊息會送到此聊天視窗中。其他玩家便能閱讀及回應。"
+BP: "Digite suas mensagens na caixa de Entrada de Texto abaixo e pressione Enter para enviá-las para esta janela de Chat."
+PL: "Wpisz tekst komunikatu w oknie tekstowym poniżej i naciśnij Enter, by przesłać swoją wiadomość do okna komunikatów. Inni gracze będą mogli ją przeczytać i odpowiedzieć na nią"
+END
+
+TOOLTIP:StopSearch
+US: "Abort your current search"
+DE: "Beende die aktuelle Suche"
+FR: "Abandonner la recherche en cours"
+ES: "Abortar la búsqueda en curso"
+IT: "Annulla la ricerca in corso"
+KO: "탐색을 취소합니다."
+ZH: "放棄您現有的搜尋。"
+BP: "Abortar busca atual"
+PL: "Przerwanie bieżącego wyszukiwania"
+END
+
+TOOLTIP:StartSearch
+US: "Begin searching"
+DE: "Starte die Suche"
+FR: "Commencer la recherche"
+ES: "Iniciar búsqueda"
+IT: "Inizia la ricerca"
+KO: "탐색을 시작합니다."
+ZH: "開始搜尋。"
+BP: "Iniciar busca"
+PL: "Rozpoczęcie wyszukiwania"
+END
+
+TOOLTIP:UnknownGame
+US: "Unknown game"
+DE: "Unbekanntes Spiel"
+FR: "Partie inconnue"
+ES: "Partida desconocida"
+IT: "Partita sconosciuta"
+KO: "알 수 없는 게임"
+ZH: "未知的遊戲。"
+BP: "Jogo desconhecido"
+PL: "Nieznana gra"
+END
+
+TOOLTIP:textentrybox
+US: "Type and press Enter in this Text Entry box to send messages to the Chat window above"
+DE: "Gib eine Nachricht in das Eingabefeld ein und schicke sie mit Enter ab."
+FR: "Saisissez votre texte dans la fenêtre prévue à cet effet et appuyez sur Entrée pour envoyer le message dans la fenêtre de discussion au-dessus."
+ES: "Escribe y pulsa Enter en el cuadro de texto para enviar mensajes a la ventana de Chat"
+IT: "Digita in questo riquadro e premi Invio per inviare i messaggi alla finestra di chat qua sopra."
+KO: "채팅창에 메시지를 전송하기 위해 텍스트 입력란에 글을 입력하고 엔터키를 누릅니다."
+ZH: "打字並按下ENTER，在文字框中的訊息會送到上方聊天視窗中。"
+BP: "Digite suas mensagens na caixa de Entrada de Texto e pressione Enter para enviá-las para a janela de Chat acima."
+PL: "Wpisz tekst komunikatu w oknie tekstowym poniżej i naciśnij Enter, by przesłać swoją wiadomość do okna komunikatów (powyżej)."
+END
+
+TOOLTIP:PlayersInLobby
+US: "Current players in your lobby"
+DE: "Die in deiner Lobby anwesenden Spieler."
+FR: "Joueurs actuellement dans votre salle"
+ES: "Jugadores en tu sala"
+IT: "Giocatori al momento nella tua lobby"
+KO: "현재 로비에 있는 플레이어들"
+ZH: "在您大廳中現有的玩家"
+BP: "Jogadores atualmente em sua sala"
+PL: "Gracze obecni w Twej poczekalni"
+END
+
+TOOLTIP:LocalPlayer
+US: "Current player %s"
+DE: "Spieler: %s"
+FR: "Joueur actuel %s"
+ES: "Jugador %s"
+IT: "Giocatore attuale %s"
+KO: "대기중인 플레이어 %s"
+ZH: "目前玩家 %s 。"
+BP: "Jogador atual %s"
+PL: "Bieżący gracz %s"
+END
+
+TOOLTIP:BuddyPlayer
+US: "Your buddy %s"
+DE: "Dein Buddy %s"
+FR: "Votre ami %s"
+ES: "Tu colega %s"
+IT: "Tuo amico %s"
+KO: "친구 %s"
+ZH: "您的好友 %s 。"
+BP: "Seu Amigo %s"
+PL: "Twój kolega %s"
+END
+
+TOOLTIP:ProfiledPlayer
+US: "%s"
+DE: "%s"
+FR: "%s"
+ES: "%s"
+IT: "%s"
+KO: "%s"
+ZH: "%s"
+BP: "%s"
+PL: "%s"
+END
+
+TOOLTIP:GenericPlayer
+US: "%s"
+DE: "%s"
+FR: "%s"
+ES: "%s"
+IT: "%s"
+KO: "%s"
+ZH: "%s"
+BP: "%s"
+PL: "%s"
+END
+
+TOOLTIP:IgnoredModifier
+US: "(ignored)"
+DE: "(ignoriert)"
+FR: "(ignoré)"
+ES: "(ignorado)"
+IT: "(ignorato)"
+KO: "(무시함)"
+ZH: "（忽略）"
+BP: "(ignorado)"
+PL: "(ignorowany/a)"
+END
+
+TOOLTIP:PlayerInfo
+US: "\nRegion: %s\n%d wins/%d losses"
+DE: "\nRegion: %s\n%d Siege/%d Niederlagen"
+FR: "\nRégion : %s\n%d victoires/%d défaites"
+ES: "\nRegión: %s\n%d victorias/%d derrotas"
+IT: "\nRegione: %s\n%d vittorie/%d sconfitte"
+KO: "\n지역: %s\n%d 승/%d 패"
+ZH: "\n地區： %s\n%d 勝/%d 負"
+BP: "\nRegião: %s\n%d vitórias/%d derrotas"
+PL: "\nRegion: %s\nzwycięstwa:%d/porażki: %d"
+END
+
+TOOLTIP:GameInfoGameName
+US: "Game Name: %s"
+DE: "Name des Spiels: %s"
+FR: "Nom de la partie : %s"
+ES: "Nombre de partida: %s"
+IT: "Nome partita: %s"
+KO: "게임제목: %s"
+ZH: "遊戲名稱：%s"
+BP: "Nome do Jogo: %s"
+PL: "Nazwa sesji: %s"
+END
+
+TOOLTIP:GameInfoLadderName
+US: "\nLadder: %s"
+DE: "\nRangliste: %s"
+FR: "\nClassement : %s"
+ES: "\nTabla: %s"
+IT: "\nClassifica: %s"
+KO: "\n래더: %s"
+ZH: "\n排行榜： %s"
+BP: "\nCompetição: %s"
+PL: "\nDrabinka: %s"
+END
+
+TOOLTIP:LadderName
+US: "Ladder: %s"
+DE: "Rangliste: %s"
+FR: "Classement : %s"
+ES: "Tabla: %s"
+IT: "Classifica: %s"
+KO: "래더: %s"
+ZH: "排行榜： %s"
+BP: "Competição: %s"
+PL: "Drabinka: %s"
+END
+
+TOOLTIP:UnknownLadder
+US: "\nUnknown ladder"
+DE: "\nUnbekannte Rangliste"
+FR: "\nClassement inconnu"
+ES: "\nTabla desconocida"
+IT: "\nClassifica sconosciuta"
+KO: "\n알 수 없는 래더"
+ZH: "\n未知的排行榜"
+BP: "\nCompetição desconhecida"
+PL: "\nNieznana drabinka"
+END
+
+TOOLTIP:NoLadder
+US: "\nNo ladder"
+DE: "\nKeine Rangliste"
+FR: "\nPas de classement"
+ES: "\nSin tabla"
+IT: "\nNessuna classifica"
+KO: "\n래더 없음"
+ZH: "\n沒有排行榜"
+BP: "\nNenhuma competição"
+PL: "\nBrak drabinki"
+END
+
+TOOLTIP:InvalidGameVersionSingleLine
+US: "This game version is different"
+DE: "Andere Spielversion."
+FR: "Cette version du jeu est différente"
+ES: "La versión es diferente"
+IT: "Questa versione del gioco è diversa"
+KO: "게임 버전이 다릅니다."
+ZH: "此遊戲版本不同。"
+BP: "Esta versão do jogo é diferente."
+PL: "Inna wersja gry."
+END
+
+TOOLTIP:InvalidGameVersion
+US: ""
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+TOOLTIP:GameInfoMap
+US: "\nMap: %s\nPlayers:"
+DE: "\nKarte: %s\nSpieler:"
+FR: "\nCarte : %s\nJoueurs :"
+ES: "\nMapa: %s\nJugadores:"
+IT: "\nMappa: %s\nGiocatori:"
+KO: "\n지도: %s\n플레이어:"
+ZH: "\n地圖： %s\n玩家："
+BP: "\nMapa: %s\nJogadores:"
+PL: "\nMapa: %s\nGracze:"
+END
+
+TOOLTIP:GameInfoPlayer
+US: "\n%s (%d/%d)"
+DE: "\n%s"
+FR: "\n%s (%d/%d)"
+ES: "\n%s (%d/%d)"
+IT: "\n%s (%d/%d)"
+KO: "\n%s (%d/%d)"
+ZH: "\n%s"
+BP: "\n%s (%d/%d)"
+PL: "\n%s (%d/%d)"
+END
+
+TOOLTIP:FreeForAll
+US: "Free For All. No teams/allies allowed"
+DE: "Frei für alle. Keine Teams/Verbündete erlaubt."
+FR: "Chacun pour soi. Ni équipe ni alliance autorisées"
+ES: "Libertad total. No se permiten equipos/aliados"
+IT: "Tutti contro tutti. Squadre/alleanze non consentite."
+KO: "프리 포 올. 팀이나 동맹이 불가능합니다."
+ZH: "自由對戰。不允許有隊伍及同盟。"
+BP: "Livre Para Todos. Não são permitidas equipes/alianças."
+PL: "Każdy dla siebie. Drużyny/przymierza niedozwolone"
+END
+
+TOOLTIP:ListOfPlayers
+US: "Players in the current game"
+DE: "Spieler im aktuellen Spiel"
+FR: "Joueurs actuellement dans la partie"
+ES: "Jugadores en la partida actual"
+IT: "Giocatori nella partita attuale."
+KO: "현재 게임에 참여한 플레이어들"
+ZH: "目前遊戲中的玩家。"
+BP: "Jogadores atualmente no jogo."
+PL: "Gracze w bieżącej sesji"
+END
+
+TOOLTIP:MapName
+US: "Currently selected map"
+DE: "Gewählte Karte"
+FR: "Carte actuellement sélectionnée"
+ES: "Mapa seleccionado"
+IT: "Mappa attualmente selezionata."
+KO: "현재 선택한 지도"
+ZH: "目前選擇的地圖。"
+BP: "Mapa selecionado"
+PL: "Aktualna mapa"
+END
+
+TOOLTIP:GameName
+US: "Name of the game"
+DE: "Name des Spiels"
+FR: "Nom de la partie"
+ES: "Nombre de la partida"
+IT: "Nome della partita."
+KO: "게임 제목"
+ZH: "遊戲的名稱。"
+BP: "Nome do jogo"
+PL: "Nazwa gry"
+END
+
+TOOLTIP:StartGame
+US: "Begin a multiplayer game"
+DE: "Starte das Multiplayer-Spiel."
+FR: "Lancer une partie multijoueur"
+ES: "Iniciar una partida multijugador"
+IT: "Inizia una partita multigiocatore."
+KO: "멀티플레이 게임 시작하기"
+ZH: "開始多人遊戲。"
+BP: "Iniciar partida multijogador"
+PL: "Rozpoczęcie gry wieloosobowej"
+END
+
+TOOLTIP:IgnoreButton
+US: "Ignore player"
+DE: "Spieler ignorieren"
+FR: "Ignorer le joueur"
+ES: "Ignorar jugador"
+IT: "Ignora giocatore"
+KO: "무시하기"
+ZH: "忽略玩家。"
+BP: "Ignorar jogador"
+PL: "Ignoruj gracza"
+END
+
+TOOLTIP:closeButton
+US: ""
+DE: ""
+FR: ""
+ES: "Fix me, I'm not very descriptive."
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+TOOLTIP:GameOptions
+US: "Options currently enabled in the game"
+DE: "Eine Liste der aktivierten Einstellungen"
+FR: "Options actuellement activées"
+ES: "Opciones permitidas en la partida"
+IT: "Opzioni attualmente attive nella partita"
+KO: "기능 중인 설정들"
+ZH: "選項已經於現有遊戲中啟動。"
+BP: "Opções ativadas atualmente no jogo"
+PL: "Opcje aktywne obecnie w grze"
+END
+
+TOOLTIP:Crates
+US: "Bonus crates"
+DE: "Bonus-Kisten"
+FR: "Caisses bonus"
+ES: "Cajas bonus"
+IT: "Casse bonus"
+KO: "보너스 크레이트"
+ZH: "寶箱。"
+BP: "Caixas bônus"
+PL: "Premiowe skrzynie"
+END
+
+TOOLTIP:SuperWeapons
+US: "Super Weapons. Particle Cannon, Nuclear Missile, etc."
+DE: "Superwaffen. Partikelkanone, Atomrakete, usw."
+FR: "Super armes. Canon à particules, missile nucléaire, etc."
+ES: "Super armas: Cañón de partículas, misil nuclear..."
+IT: "Armi speciali. Cannone particellare, missile nucleare, eccetera."
+KO: "초강력 무기. 파티클 캐논, 핵 미사일, 등등"
+ZH: "超級武器。離子砲、核彈，等等。"
+BP: "Superarmas. Canhão de Partículas, Míssil Nuclear, etc."
+PL: "Superbronie. Miotacz cząstek, rakieta atomowa itp."
+END
+
+TOOLTIP:ExperienceToLevel
+US: "Experience to next level"
+DE: "Erfahrung bis zum nächsten Level"
+FR: "Expérience avant niveau supérieur"
+ES: "Experiencia para siguiente nivel"
+IT: "Esperienza al prossimo livello."
+KO: "다음 레벨 경험치"
+ZH: "到下一級的經驗值"
+BP: "Experiência para o próximo nível."
+PL: "Doświadczenie potrzebne do awansu."
+END
+
+TOOLTIP:RefreshNat
+US: "Click after changing firewall setup or ISP"
+DE: "Klicken, nachdem Firewall-Setup oder ISP geändert wurde."
+FR: "Cliquez ici après avoir configuré le pare-feu ou le NAT."
+ES: "Pulsa después de cambiar la configuración del Firewall o del Servidor de Internet."
+IT: "Clicca nel caso sia cambiato il provider Internet o la configurazione del firewall."
+KO: "방화벽 혹은 ISP 설정을 변경한 후 클릭하십시오."
+ZH: "在改變防火牆設定或ISP後點選。"
+BP: "Clique após alterar a configuração do Firewall ou ISP."
+PL: "Kliknij po zmianie konfiguracji firewalla lub dostarczyciela Internetu"
+END
+
+TOOLTIP:Brightness
+US: "Adjust the brightness of the game"
+DE: "Passe die Helligkeit an."
+FR: "Réglez la luminosité du jeu."
+ES: "Ajusta el brillo de la pantalla."
+IT: "Regola la luminosità del gioco."
+KO: "게임의 밝기 조절"
+ZH: "調整遊戲亮度。"
+BP: "Ajuste o brilho do jogo."
+PL: "Reguluje jasność obrazu w grze."
+END
+
+TOOLTIP:ScrollSpeed
+US: "Adjust map scroll speed"
+DE: "Passe die Scroll-Geschwindigkeit an."
+FR: "Réglez la vitesse de défilement de la souris."
+ES: "Ajusta la velocidad de avance del mapa."
+IT: "Regola la velocità di scorrimento della mappa."
+KO: "맵 스크롤 속도 설정"
+ZH: "調整地圖捲軸速度。"
+BP: "Ajuste a velocidade de rolagem do mapa."
+PL: "Reguluje szybkość przewijania mapy."
+END
+
+TOOLTIP:SendDelay
+US: "For Firewall Users Only. (Please Consult the Manual)"
+DE: "Nur für Firewall-Benutzer. (Weitere Infos findest du im Handbuch)"
+FR: "Pour les utilisateurs de pare-feu uniquement (veuillez consulter le manuel)."
+ES: "Sólo para los Usuarios de Firewall. (Consulta el Manual)"
+IT: "Solo per utenti con firewall (consulta il manuale per ulteriori informazioni)."
+KO: "딜레이된 포트 프로브를 강제합니다.(메뉴얼을 참조하십시오.)"
+ZH: "僅供防火牆玩家使用。（請查閱手冊）"
+BP: "Apenas para usuários de Firewall. (Por favor, consulte o manual para maiores informações)."
+PL: "Tylko uzytkownicy sciany ogniowej (zajrzyj do instrukcji)"
+END
+
+TOOLTIP:AlreadyUpgradedDefault
+US: "This upgrade has already been purchased"
+DE: "Dieses Upgrade wurde bereits gekauft."
+FR: "Vous avez déjà acquis cette amélioration."
+ES: "Ya has comprado esta mejora."
+IT: "Questo aggiornamento è già stato acquistato."
+KO: "해당 업그레이드를 이미 구입했습니다."
+ZH: "這項升級已使用"
+BP: "Esta atualização já foi pesquisada."
+PL: "Ta modernizacja została już zakupiona."
+END
+
+TOOLTIP:HasConflictingUpgradeDefault
+US: "Conflicting upgrade cannot be purchased"
+DE: "Dieses Upgrade kann nicht gekauft werden."
+FR: "Conflit, vous ne pouvez pas acquérir cette amélioration."
+ES: "No puedes comprar esta mejora por un conflicto con otra."
+IT: "Impossibile acquistare: aggiornamento analogo già eseguito."
+KO: "상충되는 업그레이드는 구입할 수 없습니다."
+ZH: "無法開始互相矛盾的升級"
+BP: "Atualizações conflitantes não podem ser compradas."
+PL: "Nie można dokonać modernizacji sprzecznej z istniejącą."
+END
+
+TOOLTIP:CloseExpScreen
+US: "Return to Game"
+DE: "Zurück zum Spiel"
+FR: "Revenir au jeu"
+ES: "Volver a la partida"
+IT: "Torna al gioco"
+KO: "게임으로 돌아가기"
+ZH: "回到遊戲"
+BP: "Volta para o Jogo"
+PL: "Powróć do gry"
+END
+
+TOOLTIP:OptionsAccept
+US: "Accept the changes made and exit the Options Menu"
+DE: "Deine Änderungen werden angenommen und das Optionsmenü verlassen."
+FR: "Pour confirmer les changements effectués et quitter le menu Options."
+ES: "Aceptar los cambios realizados y salir del Menú de opciones"
+IT: "Accetta le modifiche apportate ed esci dal menu delle opzioni."
+KO: "변경 사항을 저장한 후 설정 메뉴를 나갑니다."
+ZH: "接受已更改項目並離開選單"
+BP: "Aceita as alterações feitas e sai do Menu de Opções."
+PL: "Akceptacja wprowadzonych zmian i wyjście z menu opcji."
+END
+
+TOOLTIP:OptionsCancel
+US: "Exit the Options Menu without making your changes"
+DE: "Das Optionsmenü wird ohne deine Änderungen verlassen."
+FR: "Pour quitter le menu Options sans effectuer de changements."
+ES: "Salir del Menú opciones sin hacer tus cambios."
+IT: "Esci dal menu delle opzioni senza applicare le modifiche."
+KO: "변경 사항없이 설정 메뉴를 나갑니다."
+ZH: "不作改變離開選單"
+BP: "Sai do Menu de Opções sem aplicar suas alterações."
+PL: "Wyjście z menu opcji bez uwzględniania zmian."
+END
+
+TOOLTIP:OptionsDefaults
+US: "Reset the options to the default settings"
+DE: "Standard-Einstellungen verwenden."
+FR: "Pour rétablir les paramètres par défaut."
+ES: "Restablecer las opciones predeterminadas."
+IT: "Ripristina i valori predefiniti delle opzioni."
+KO: "설정을 초기상태로 돌립니다."
+ZH: "重設選項至預設值設定"
+BP: "Reconfigura todas as opções para o padrão."
+PL: "Powrót do parametrów domyślnych."
+END
+
+TOOLTIP:SortBuddies
+US: "Sort Buddies to the top of the game list"
+DE: "Sortiere deine Buddys an den Anfang der Spieleliste."
+FR: "Classer les amis en haut de la liste."
+ES: "Poner a los colegas al principio de la lista de partida."
+IT: "Ordina gli amici all'inizio dell'elenco partite."
+KO: "친구 게임 순으로 정렬합니다."
+ZH: "將好友名單置於遊戲目錄最上方"
+BP: "Deixar Amigos no topo da lista."
+PL: "Sortowanie graczy z umieszczeniem kolegów na początku listy."
+END
+
+TOOLTIP:ScienceCostUnavailable
+US: "Cost: Unavailable"
+DE: "Kosten: Nicht verfügbar"
+FR: "Coût : indisponible"
+ES: "Coste: no disponible"
+IT: "Costo: non disponibile"
+KO: "비용: 구입 불가"
+ZH: "成本：無價"
+BP: "Custo: Não Disponível"
+PL: "Koszt: niedostępne"
+END
+
+TOOLTIP:EmoteButton
+US: "Emote"
+DE: "Emotion"
+FR: "Emoticon"
+ES: "Emoticón."
+IT: "Emozione"
+KO: "감정표현"
+ZH: "情緒。"
+BP: "Emoticon."
+PL: "Emocje"
+END
+
+TOOLTIP:DownloadProgress
+US: "Download Progress"
+DE: "Download läuft."
+FR: "Progression du téléchargement"
+ES: "Descargar Progreso"
+IT: "Progresso download"
+KO: "다운로드 진행률"
+ZH: "下載進度。"
+BP: "Download em Progresso."
+PL: "Postęp pobierania."
+END
+
+TOOLTIP:BattleHonorBlitz10
+US: "Blitz Honor\nPlayer has beaten opponent(s) in 10 minutes or less"
+DE: "Blitzkrieg-Orden\nDer Spieler hat die Computergegner in 10 Minuten (oder schneller) geschlagen"
+FR: "Distinction éclair\nLe joueur a gagné une partie en Escarmouche en 10 minutes maximum."
+ES: "Ataque Sorpresa\nEl jugador se ha desecho de sus oponentes en menos de 10 minutos."
+IT: "Stella della rapidità\nIl giocatore ha sconfitto gli avversari in meno di 10 minuti."
+KO: "전격 훈장\n해당 플레이어는 컴퓨터를 상대하여 10분내로 승리를 쟁취했습니다."
+ZH: "急速勳章\n玩家已經在十分鐘或更少的時間內擊敗電腦。"
+BP: "Medalha Relâmpago\nO jogador derrotou um ou mais oponentes em 10 minutos ou menos."
+PL: "Medal za blitzkrieg\nGracz pokonał przeciwnika w czasie krótszym niż 10 minut."
+END
+
+TOOLTIP:BattleHonorBlitz5
+US: "Blitz Honor\nPlayer has beaten opponent(s) in 5 minutes or less"
+DE: "Blitzkrieg-Orden\nDer Spieler hat die Computergegner in 5 Minuten (oder schneller) geschlagen"
+FR: "Distinction éclair\nLe joueur a gagné une partie en Escarmouche en 5 minutes maximum."
+ES: "Ataque Sorpresa\nEl jugador se ha deshecho de sus oponentes en menos de 5 minutos."
+IT: "Stella della rapidità\nIl giocatore ha sconfitto gli avversari in meno di 5 minuti."
+KO: "전격 훈장\n해당 플레이어는 컴퓨터를 상대하여 5분내로 승리를 쟁취했습니다."
+ZH: "急速勳章\n玩家已經在五分鐘或更少的時間內擊敗電腦。"
+BP: "Medalha Relâmpago\nO jogador derrotou um ou mais oponentes em 5 minutos ou menos."
+PL: "Medal za blitzkrieg\nGracz pokonał przeciwnika w czasie krótszym niż 5 minut."
+END
+
+TOOLTIP:BattleHonorStreak3Disabled
+US: "Streak Honor\nWin 3 or more games in a row to earn this medal"
+DE: "Siegesmedaille\nFür diese Auszeichnung musst du 3 Spiele in Folge gewinnen."
+FR: "Distinction d'enchaînement\nGagnez au moins 3 parties d'affilée pour remporter cette récompense."
+ES: "Medalla Racha\nGana 3 o más partidas seguidas para hacerte con esta medalla."
+IT: "Vittorie in serie\nVinci 3 o più partite di fila per ottenere questa onorificenza."
+KO: "연승 훈장\n3 연승을 달성하게 되면 해당 메달이 수여됩니다."
+ZH: "閃電勳章\n連續贏得三場或更多戰役以贏得此勳章。"
+BP: "Medalha de Série\nVença 3 ou mais batalhas seguidas para receber esta medalha."
+PL: "Medal za dobrą passę\nAby go zdobyć, wygraj 3 lub więcej bitew pod rząd."
+END
+
+TOOLTIP:BattleHonorLoyaltyUSADisabled
+US: "USA Loyalty Honor\nPlay 20+ games in a row as USA to earn this medal"
+DE: "Loyalitätsorden der USA\nKämpfe 20 oder mehr Spiele in Folge für die USA!"
+FR: "Distinction de loyauté USA\nJouez plus de 20 parties d'affilée du côté américain pour remporter cette récompense."
+ES: "Medalla a la lealtad a E.E.U.U.\nPor jugar 20+ partidas seguidas en las filas de E.E.U.U."
+IT: "Stella della fedeltà USA\nGioca più di 20 partite di fila per gli USA per ottenere questa onorificenza."
+KO: "미국 충절 훈장\n미국으로 20+ 게임을 연속으로 하면 해당 메달이 수여됩니다."
+ZH: "美國忠誠徽章\n以美國連續玩超過二十場以上遊戲以贏得此勳章。"
+BP: "Medalha de Lealdade dos E.U.A.\nJogue 20 ou mais partidas seguidas com os E.U.A. para receber esta medalha."
+PL: "Medal wierności USA\nAby go zdobyć, rozegraj 20 lub więcej bitew pod rząd w szeregach USA."
+END
+
+TOOLTIP:BattleHonorLoyaltyChinaDisabled
+US: "China Loyalty Honor\nPlay 20+ games in a row as China to earn this medal"
+DE: "Loyalitätsorden Chinas\nKämpfe 20 oder mehr Spiele in Folge für China!"
+FR: "Distinction de loyauté Chine\nJouez plus de 20 parties d'affilée du côté chinois pour remporter cette récompense."
+ES: "Medalla a la lealtad a China\nPor jugar 20+ partidas seguidas en las filas de China."
+IT: "Stella della fedeltà cinese\nGioca più di 20 partite di fila per la Cina per ottenere questa onorificenza."
+KO: "중국 충절 훈장\n중국으로 20+ 게임을 연속으로 하면 해당 메달이 수여됩니다."
+ZH: "中國忠誠徽章\n以中國連續玩超過二十場以上遊戲以贏得此勳章。"
+BP: "Medalha de Lealdade da China\nJogue 20 ou mais partidas seguidas com a China para receber esta medalha."
+PL: "Medal wierności Chinom\nAby go zdobyć, rozegraj 20 lub więcej bitew pod rząd w szeregach Chin."
+END
+
+TOOLTIP:BattleHonorLoyaltyGLADisabled
+US: "GLA Loyalty Honor\nPlay 20+ games in a row as the GLA to earn this medal"
+DE: "Loyalitätsorden der GBA\nKämpfe 20 oder mehr Spiele in Folge für die GBA!"
+FR: "Distinction de loyauté GLA\nJouez plus de 20 parties d'affilée du côté de la GLA pour remporter cette récompense."
+ES: "Medalla a la lealtad al GLA\nPor jugar 20+ partidas seguidas en las filas del GLA."
+IT: "Stella della fedeltà ELG\nGioca più di 20 partite di fila per l'ELG per ottenere questa onorificenza."
+KO: "GLA 충절 훈장\nGLA로 20+ 게임을 연속으로 하면 해당 메달이 수여됩니다."
+ZH: "全球解放軍忠誠徽章\n以全球解放軍連續玩超過二十場以上遊戲以贏得此勳章。"
+BP: "Medalha de Lealdade do E.L.G.\nJogue 20 ou mais partidas seguidas com o E.L.G. para receber esta medalha."
+PL: "Medal wierności AŚW\nAby go zdobyć, rozegraj 20 lub więcej bitew pod rząd w szeregach AŚW."
+END
+
+TOOLTIP:BattleHonorBattleTankDisabled
+US: "Battle Tank Honor\nBuild 50+ tanks against computer opponent(s) to earn this medal"
+DE: "Panzer-Auszeichnung\nBaue in einem Spiel gegen Computergegner 50 oder mehr Panzer."
+FR: "Distinction des blindés\nConstruisez plus de 50 chars lors d'une partie en Escarmouche pour remporter cette récompense."
+ES: "Condecoración Brigada Blindada\nConstruye 50 carros en una partida al ordenador para conseguirla."
+IT: "Stella del carro armato\nCostruisci più di 50 carri contro il computer per ottenere questa onorificenza."
+KO: "배틀 탱크 훈장\n컴퓨터를 상대로 50대 이상의 탱크를 생산하면 수여됩니다."
+ZH: "坦克戰神勳章\n建造超過五十輛坦克並擊敗電腦對手，以贏得此勳章。"
+BP: "Condecoração de Batalha de Tanques\nConstrua 50 tanques ou mais em uma partida contra um ou mais oponentes do computador para receber esta medalha."
+PL: "Medal kawalerii pancernej\nAby go zdobyć, zbuduj podczas potyczki co najmniej 50 czołgów."
+END
+
+TOOLTIP:BattleHonorAirWingDisabled
+US: "Air Wing Honor\nBuild 20+ aircraft against computer opponent(s) to earn this medal"
+DE: "Luftwaffen-Auszeichnung\nBaue in einem Gefecht 20 oder mehr Flugzeuge."
+FR: "Distinction des airs\nConstruisez plus de 20 avions dans une partie en Escarmouche pour remporter cette récompense."
+ES: "Condecoración Ala Aérea\nConstruye 20 aviones en una partida al ordenador para conseguirla."
+IT: "Stella dell'aria\nCostruisci più di 20 aerei contro il computer per ottenere questa onorificenza."
+KO: "항공기 훈장\n컴퓨터를 상대로 20기 이상의 항공기를 생산하면 수여됩니다."
+ZH: "飛鷹勳章\n建造超過二十架飛機並擊敗電腦對手，以贏得此勳章。"
+BP: "Condecoração de Combate Aéreo\nConstrua 20 aeronaves ou mais em uma partida contra um ou mais oponentes do computador para receber esta medalha."
+PL: "Medal lotniczy\nAby go zdobyć, zbuduj podczas potyczki co najmniej 20 jednostek powietrznych."
+END
+
+TOOLTIP:BattleHonorEnduranceDisabled
+US: "Endurance Honor\nBeat every map to earn this medal"
+DE: "Ausdauer-Belobigung\nDiese Medaille bekommst du, wenn du alle Karten meisterst."
+FR: "Distinction d'endurance\nRemportez les batailles sur toutes les cartes pour gagner cette récompense."
+ES: "Condecoración por Resistencia\nGana en todos los mapas para conseguirla."
+IT: "Stella della resistenza\nSupera tutte le mappe per ottenere questa onorificenza."
+KO: "인내 훈장\n모든 지도에서 승리하면 수여됩니다."
+ZH: "耐力勳章\n於所有遭遇戰地圖獲勝以贏得此勳章。"
+BP: "Condecoração de Resistência\nVença em todos os campos de batalha para receber esta medalha."
+PL: "Medal za wytrwałość\nAby go zdobyć, wygraj na każdej mapie potyczki."
+END
+
+TOOLTIP:BattleHonorCampaignUSADisabled
+US: "USA Campaign Honor\nComplete the USA Campaign to earn this medal"
+DE: "Ehrenmedaille der USA\nMeistere die USA-Kampagne."
+FR: "Distinction de campagne USA\nTerminez la campagne américaine pour remporter cette récompense."
+ES: "Medalla de campaña de E.E.U.U.\nCompleta la campaña de E.E.U.U. para ganarla."
+IT: "Stella della campagna USA\nCompleta la campagna USA per ottenere questa onorificenza."
+KO: "미국 캠페인 훈장\n미국 캠페인을 완수하면 수여됩니다."
+ZH: "美國戰役勳章\n完成所有美國戰役以贏得此勳章。"
+BP: "Medalha de Campanha dos E.U.A.\nComplete a Campanha dos E.U.A. para receber esta medalha."
+PL: "Medal za kampanię amerykańską\nAby go zdobyć, ukończ kampanię USA."
+END
+
+TOOLTIP:BattleHonorCampaignChinaDisabled
+US: "China Campaign Honor\nComplete the China Campaign to earn this medal"
+DE: "Ehrenmedaille Chinas\nMeistere die China-Kampagne."
+FR: "Distinction de campagne Chine\nTerminez la campagne chinoise pour remporter cette récompense."
+ES: "Medalla de campaña de China.\nCompleta la campaña de China para ganarla."
+IT: "Stella della campagna cinese\nCompleta la campagna cinese per ottenere questa onorificenza."
+KO: "중국 캠페인 훈장\n중국 캠페인을 완수하면 수여됩니다."
+ZH: "中國戰役勳章\n完成所有中國戰役以贏得此勳章。"
+BP: "Medalha de Campanha da China\nComplete a Campanha da China para receber esta medalha."
+PL: "Medal za kampanię chińską\nAby go zdobyć, ukończ kampanię Chin."
+END
+
+TOOLTIP:BattleHonorCampaignGLADisabled
+US: "GLA Campaign Honor\nComplete the GLA Campaign to earn this medal"
+DE: "Ehrenmedaille der GBA\nMeistere die GBA-Kampagne."
+FR: "Distinction de campagne GLA\nTerminez la campagne de la GLA pour remporter cette récompense."
+ES: "Medalla de campaña del GLA.\nCompleta la campaña del GLA para ganarla."
+IT: "Stella della campagna ELG\nCompleta la campagna dell'ELG per ottenere questa onorificenza."
+KO: "GLA 캠페인 훈장\nGLA 캠페인을 완수하면 수여됩니다."
+ZH: "全球解放軍戰役勳章\n完成所有全球解放軍戰役以贏得此勳章。"
+BP: "Medalha de Campanha do E.L.G.\nComplete a Campanha do E.L.G. para receber esta medalha."
+PL: "Medal za kampanię wyzwoleńczą\nAby go zdobyć, ukończ kampanię AŚW."
+END
+
+TOOLTIP:BattleHonorBlitz10Disabled
+US: "Blitz Honor\nBeat opponent(s) in 10 minutes or less to earn this medal"
+DE: "Blitzkrieg-Orden\nBesiege deine(n) Gegner in höchstens 10 Minuten, um mit dieser Medaille ausgezeichnet zu werden."
+FR: "Distinction éclair\nBattez le ou les adversaires en moins de 10 minutes pour remporter cette distinction"
+ES: "Medalla Relámpago\nGana a tu(s) oponente(s) en 10 min o menos para conseguirla."
+IT: "Stella della rapidità\nSconfiggi gli avversari in meno di 10 minuti per ottenere questa onorificenza"
+KO: "전격 메달\n해당 플레이어는 10분 안에 멀티플레이 게임을 승리하였습니다."
+ZH: "急速勳章\n在十分鐘或更少時間內戰勝小型戰役以贏得此勳章。"
+BP: "Medalha Relâmpago\nDerrote um ou mais oponentes em 10 minutos ou menos para receber esta medalha."
+PL: "Medal za blitzkrieg\nAby zdobyć ten medal, musisz pokonać przeciwnika w ciągu 10 minut."
+END
+
+TOOLTIP:BattleHonorChallengeDisabled
+US: "Challenge Honor\nDefeat 1-7 Hard computer opponents to earn this honor"
+DE: "Heldenmedaille\nBesiege 1 bis 7 schwere Computergegner."
+FR: "Distinction de bravoure\nGagnez contre 1 à 7 adversaires informatiques Brutaux pour remporter cette récompense."
+ES: "Medalla al Reto\nVence de 1 a 7 oponentes brutales para ganarla."
+IT: "Stella della sfida\nSconfiggi da 1 a 7 avversari difficili gestiti dal computer per ottenere questa onorificenza."
+KO: "도전 훈장\n1-7의 어려운 난이도의 컴퓨터를 상대로 승리를 하면 해당 훈장이 수여됩니다."
+ZH: "挑戰勳章\n戰勝1-7個困難的電腦對手以贏得此勳章。"
+BP: "Medalha de Desafio\nDerrote um ou mais oponentes do computador no nível Difícil para receber esta medalha."
+PL: "Medal za osiągnięcia bojowe\nAby go zdobyć, pokonaj od 1 do 7 przeciwników komputerowych na poziomie Brutal."
+END
+
+TOOLTIP:buddies
+US: "Sort game list by Buddies"
+DE: "Sortiert nach Buddys"
+FR: "Tri par nom d'amis"
+ES: "Sort game list by Buddies"
+IT: "Ordina l'elenco partite in base agli amici."
+KO: "친구들 게임부터 정렬합니다."
+ZH: "依好友排序遊戲列表。"
+BP: "Ordenar jogos por Amigos"
+PL: "Sortuj listę gier według imion."
+END
+
+TOOLTIP:AddToBuddies
+US: "Add a player to your list of Buddies"
+DE: "Spieler in Buddy-Liste aufnehmen"
+FR: "Ajoute un joueur à votre liste d'amis"
+ES: "Add a pplayer to your list of Buddies"
+IT: "Aggiungi un giocatore all'elenco dei tuoi amici"
+KO: "플레이어를 친구목록에 등록합니다."
+ZH: "增加一位玩家至您的好友名單。"
+BP: "Adicionar um jogador à sua lista de Amigos"
+PL: "Dodaj gracza do listy przyjaciół."
+END
+
+TOOLTIP:StagingPlayerInfo
+US: "\nRegion: %ls\nPing: %d ms\n%d wins/%d losses\n%d disconnects\nFavorite army: %ls"
+DE: "\nRegion: %ls\nPing: %d ms\n%d Siege/%d Niederlagen\n%d Verbindungsabbrüche\nLieblingsarmee: %ls"
+FR: "\nRégion : %ls\nPing : %d ms\n%d victoires/%d défaites\n%d déconnexions\nCamp préféré : %ls"
+ES: "\nRegión: %ls\nPing: %d ms\n%d victorias/%d derrotas\n%d desconexiones\nBando favorito: %ls"
+IT: "\nRegione: %ls\nPing: %d ms\n%d vittorie/%d sconfitte\n%d disconnessioni\nFazione preferita: %ls"
+KO: "\n지역: %ls\n핑: %d ms\n승리:%d/패배: %d\n%d 접속 끊김\n선호 진영: %ls"
+ZH: "\n地區： %ls\nPing：%d ms\n%d 勝/%d 負\n%d 斷線\n特別喜愛的陣營： %ls"
+BP: "\nRegião: %ls\nPing: %d ms\n%d vitórias/%d derrotas\n%d desconexões\nExército favorito: %ls"
+PL: "\nRegion: %ls\nPing: %d ms\n%d zwycięstw/%d porażek\n%d rozłączeń\nUlubiona strona konfliktu: %ls"
+END
+
+TOOLTIP:PlayerSetting
+US: "Choose to match with a 1 vs. 1 or Team Game"
+DE: "Entscheide dich für ein 1 gegen 1 oder Team-Spiel"
+FR: "Choisissez de faire un match en 1 contre 1 ou en équipe"
+ES: "Elige 1 contra 1 o Partida en equipo"
+IT: "Scegli una partita 1 contro 1 o a squadre."
+KO: "1 대 1 혹은 팀 게임을 선택하십시오."
+ZH: "選擇要與一對一或組隊遊戲進行比賽。"
+BP: "Escolha entre conectar-se a partidas 1 contra 1 ou partidas em Equipes."
+PL: "Wybierz rozgrywkę 1-na-1 lub grę zespołową"
+END
+
+TOOLTIP:Ping
+US: "Choose your tolerance for your opponent's connection speed"
+DE: "Maximaler Ping des Gegners."
+FR: "Choisissez une vitesse de connexion acceptable de la part de votre adversaire"
+ES: "Elige tu límite de velocidad de conexión del contrincante"
+IT: "Scegli la tolleranza per la velocità di connessione dell'avversario."
+KO: "허용 최저 접속속도를 선택하십시오."
+ZH: "選擇您對您對手連線速度的容忍度。"
+BP: "Defina sua tolerância para a velocidade de conexão do oponente."
+PL: "Określ tolerancję dla szybkości połączenia przeciwników"
+END
+
+TOOLTIP:Disconnect
+US: "Choose your tolerance for total opponent disconnects"
+DE: "Maximale Verbindungsunterbrechungen des Gegners."
+FR: "Choisissez un nombre de déconnexions acceptables de la part de votre adversaire"
+ES: "Elige tu límite de desconexiones totales del contrincante"
+IT: "Scegli la tolleranza per le disconnessioni totali dell'avversario."
+KO: "허용 최다 접속끊김 수를 선택하십시오."
+ZH: "選擇您對對手斷線的最大容忍度。"
+BP: "Defina sua tolerância para o total de desconexões do oponente."
+PL: "Określ tolerancję dla liczby rozłączeń przeciwnika"
+END
+
+TOOLTIP:Ladder
+US: "Choose the ladder on which you'd like to play"
+DE: "Wähle die Rangliste aus, in der du spielen möchtest"
+FR: "Choisissez le classement auquel vous voulez jouer"
+ES: "Elige una tabla para jugar"
+IT: "Scegli la classifica nella quale desideri giocare."
+KO: "참가할 래더를 선택하십시오."
+ZH: "選擇您想加入的排行榜。"
+BP: "Escolha a competição em que gostaria de jogar."
+PL: "Wybierz drabinkę"
+END
+
+TOOLTIP:QuickMatchStatus
+US: "QuickMatch will attempt to match you based on skill level, PC spec, etc"
+DE: "Die Option QuickMatch wird versuchen, dich mit anderen Spielern entsprechend deines Könnens, PC-Eigenschaften etc. zu verbinden."
+FR: "QuickMatch effectue une recherche basée sur votre niveau, les caractéristiques de votre PC, etc."
+ES: "QuickMatch intentará buscarte un jugador en función de la habilidad, espec. del PC, etc."
+IT: "QuickMatch tenterà di trovare un avversario basandosi sul tuo livello di abilità, sulla velocità del PC, eccetera."
+KO: "퀵매치가 귀하의 실력, PC 사양 등등을 기초로 하여 상대방을 탐색할 것입니다."
+ZH: "快速配對將試著以您的技能等 級或電腦配備去配對，等等。"
+BP: "O QuickMatch tentará encontrar um oponente baseado em seu nível de habilidades, especificação do PC, etc."
+PL: "Usługa QuickMatch spróbuje znaleźć partnera na podstawie poziomu umiejętności, konfiguracji komputera etc."
+END
+
+TOOLTIP:OnlineIP
+US: "IP Address used to connect to Generals Online"
+DE: "IP-Adresse, die für Verbindung zu Generals Online verwendet wird."
+FR: "Adresse IP utilisée pour vous connecter à Generals Online."
+ES: "Dirección IP utilizada para conectarse a Generals Online."
+IT: "Indirizzo IP utilizzato per collegarsi a Generals Online."
+KO: "제너럴 온라인 접속에 사용되는 IP 주소"
+ZH: "用來連接將軍線上遊戲的IP網路位置。"
+BP: "O Endereço IP usado para conectar-se ao Generals Online."
+PL: "Adres IP do połączenia z Generals Online."
+END
+
+TOOLTIP:LanIP
+US: "IP Address used to connect with players in network games"
+DE: "IP-Adresse, die für Verbindung zu Spielern über Netzwerk verwendet wird."
+FR: "Adresse IP utilisée pour vous connecter avec des joueurs dans une partie en réseau."
+ES: "Dirección IP utilizada para conectarse con jugadores en red."
+IT: "Indirizzo IP utilizzato per le partite in rete locale."
+KO: "네트워크 게임에 사용되는 IP 주소"
+ZH: "用來與線上遊戲玩家連結的IP網路位置。"
+BP: "O Endereço IP usado para conectar-se aos outros jogadores em partidas em rede."
+PL: "Adres IP do połączenia podczas gier sieciowych."
+END
+
+TOOLTIP:GamesBeingformed
+US: "Your connection speed to this game's players"
+DE: "Deine Verbindungsgeschwindigkeit zu den Spielern dieses Spiels."
+FR: "Votre vitesse de connexion pour les joueurs participant à cette partie"
+ES: "Tu velocidad de conexión para los jugadores de esta partida"
+IT: "Velocità di connessione con i giocatori di questa partita."
+KO: "게임 접속 속도"
+ZH: "您與此遊戲其他玩家的連結速度。"
+BP: "A sua velocidade de conexão com os outros jogadores desta partida"
+PL: "Szybkość Twojego połączenia z uczestnikami tej gry."
+END
+
+TOOLTIP:EmoteText
+US: "Left click to enter text"
+DE: "Linksklicken, um Text einzugeben"
+FR: "Effectuez un clic gauche pour entrer du texte"
+ES: "Clic para teclear texto"
+IT: "Clicca col pulsante sinistro per inserire del testo."
+KO: "문자 입력 시 왼쪽 클릭"
+ZH: "按左鍵輸入文字。"
+BP: "Clique com o botão esquerdo para enviar uma mensagem."
+PL: "Kliknij LPM, aby wprowadzić tekst."
+END
+
+TOOLTIP:SupplyDock
+US: "Supplies"
+DE: "Versorgungslager"
+FR: "Dépôt de ravitaillement"
+ES: "Puerto de Suministros"
+IT: "Zona di rifornimento"
+KO: "서플라이"
+ZH: "補給"
+BP: "Suprimentos"
+PL: "Dok towarowy"
+END
+
+TOOLTIP:TechBuilding
+US: "Tech Building"
+DE: "Hightech-Gebäude"
+FR: "Bâtiment de recherche"
+ES: "Edificio de Tecnología"
+IT: "Edificio tecnologico"
+KO: "테크 빌딩"
+ZH: "科技建築"
+BP: "Instalação Técnica"
+PL: "Budynki techniczne"
+END
+
+TOOLTIP:Mission1
+US: ""
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+TOOLTIP:Mission2_8
+US: "Campaign One"
+DE: "Mission Eins"
+FR: "Missions 2-8"
+ES: "Canmpaña Uno"
+IT: "Campagna 1"
+KO: "제1 캠페인"
+ZH: "戰役一"
+BP: "Campanha Um"
+PL: "Pierwsza kampania"
+END
+
+TOOLTIP:Mission9_16
+US: "Campaign Two"
+DE: "Mission Zwei"
+FR: "Missions 9-16"
+ES: "Campaña Dos"
+IT: "Campagna 2"
+KO: "제2 캠페인"
+ZH: "戰役二"
+BP: "Campanha Dois"
+PL: "Druga kampania"
+END
+
+TOOLTIP:Mission17_23
+US: "Campaign Three"
+DE: "Mission Drei"
+FR: "Missions 17-23"
+ES: "Campaña Tres"
+IT: "Campagna 3"
+KO: "제3 캠페인"
+ZH: "戰役三"
+BP: "Campanha Três"
+PL: "Trzecia kampania"
+END
+
+TOOLTIP:ButtonClear
+US: "Clear out the player name text box"
+DE: "Feld mit Spielernamen löschen."
+FR: "Effacer le nom du joueur."
+ES: "Borra el cuadro de texto con el nombre del jugador."
+IT: "Cancella il riquadro di testo del nome del giocatore."
+KO: "플레이어명 지우기"
+ZH: "清除玩家姓名欄中的文字。"
+BP: "Limpa a caixa de texto com o nome do jogador."
+PL: "Wyczyść pole imienia gracza"
+END
+
+TOOLTIP:MapNoSuccess
+US: "Beat this map against a Normal opponent!"
+DE: "Meistere diese Karte gegen einen leichten Gegner!"
+FR: "Gagnez cette partie en Escarmouche contre un adversaire de niveau facile."
+ES: "¡Juega este mapa contra un oponente Facil!"
+IT: "Supera questa mappa contro un avversario facile!"
+KO: "보통 난이도로 해당 지도를 완수하십시오."
+ZH: "用此地圖對抗普通的敵人"
+BP: "Vença esta batalha contra um oponente Normal!"
+PL: "Rozegraj tę mapę przeciw łatwemu wrogowi."
+END
+
+TOOLTIP:MapEasySuccess
+US: "Beat this map against a Hard opponent!"
+DE: "Meistere diese Karte gegen einen mittelschweren Gegner!"
+FR: "Gagnez cette partie en Escarmouche contre un adversaire de niveau moyen."
+ES: "¡Juega este mapa contra un oponente Medio!"
+IT: "Supera questa mappa contro un avversario medio!"
+KO: "어려운 난이도로 해당 지도를 완수하십시오."
+ZH: "用此地圖對抗困難的敵人"
+BP: "Vença esta batalha contra um oponente Difícil!"
+PL: "Rozegraj tę mapę przeciw średniemu wrogowi."
+END
+
+TOOLTIP:MapMediumSuccess
+US: "Beat this map against a Brutal opponent!"
+DE: "Meistere diese Karte gegen einen schweren Gegner!"
+FR: "Gagnez cette partie en Escarmouche contre un adversaire de niveau difficile."
+ES: "¡Juega este mapa contra un oponente Duro!"
+IT: "Supera questa mappa contro un avversario difficile!"
+KO: "아주 어려운 난이도로 해당 지도를 완수하십시오."
+ZH: "用此地圖對抗冷酷的敵人"
+BP: "Vença esta batalha contra um oponente Brutal!"
+PL: "Rozegraj tę mapę przeciw trudnemu wrogowi."
+END
+
+TOOLTIP:MapHardSuccess
+US: "Congratulations! You have beaten this map against a Brutal opponent!"
+DE: "Glückwunsch! Du hast diese Karte gegen einen schweren Gegner gemeistert."
+FR: "Félicitations ! Vous avez remporté cette partie en Escarmouche contre un adversaire de niveau difficile !"
+ES: "¡Enhorabuena! ¡Has ganado la partida contra un oponente duro!"
+IT: "Congratulazioni! Hai superato questa mappa contro un avversario difficile!"
+KO: "축하합니다! 아주 어려운 난이도로 해당 지도를 완수했습니다!"
+ZH: "恭喜！您在此地圖擊敗冷酷的敵人！"
+BP: "Parabéns! Você venceu esta batalha contra um oponente Brutal!"
+PL: "Gratulacje! Rozegrałeś tę mapę przeciw trudnemu wrogowi!"
+END
+
+TOOLTIP:PlayerCreatedName
+US: "Name of the player that created the game"
+DE: "Name des Erstellers dieses Spiels."
+FR: "Nom du joueur ayant créé cette partie."
+ES: "Nombre del jugador que crea la partida."
+IT: "Nome del giocatore che ha creato la partita."
+KO: "게임을 생성한 플레이어 이름"
+ZH: "玩家開創遊戲名稱。"
+BP: "Nome do jogador que criou o jogo."
+PL: "Imię gracza, który stworzył grę."
+END
+
+TOOLTIP:HTTPProxy
+US: "Set an HTTP Proxy to use for Generals Online"
+DE: "Bestimme einen Proxy-Server für Generals Online."
+FR: "Spécifiez un proxy HTTP à utiliser avec Generals en ligne."
+ES: "Configura el Proxy HTTP para usarlo en Generals Online"
+IT: "Imposta il proxy HTTP da utilizzare per Generals Online."
+KO: "제너럴 온라인을 위한 HTTP 프록시를 설정합니다."
+ZH: "設定 HTTP Proxy 來使用將軍線上遊戲。"
+BP: "Defina um Proxy HTTP para ser usado pelo Generals Online."
+PL: "Ustaw HTTP Proxy, aby grać na Generals Online"
+END
+
+TOOLTIP:BattleHonorFairPlay
+US: "Fair Play Honor\nPlayer has disconnected from online games less than 10% of the time (with at least 10 games played)"
+DE: "Fair Play-Medaille\nVerbindung wurde weniger als 10% der Spielzeit unterbrochen."
+FR: "Distinction du fair-play\nLe joueur s'est déconnecté moins de 10 % du temps de jeu en ligne"
+ES: "Medalla al Juego Limpio\nEl jugador se ha desconectado menos del 10% del tiempo de partidas online (con al menos 10 partidas jugadas)"
+IT: "Stella del fair play\nIl giocatore si è scollegato dalle partite online meno del 10% delle volte (con almeno 10 partite giocate)."
+KO: "페어 플레이 훈장\n해당 플레이어는 접속끊기 횟수를 10% 이하로 유지하였습니다."
+ZH: "優良玩家勳章\n玩家的遊戲中斷線次數低於10%。"
+BP: "Medalha de Jogo Justo\nO jogador possui um número de desconexões inferior a 10% de seu número total de partidas online. (com mais de 10 partidas jogadas)"
+PL: "Medal Fair Play\nGracz był rozłączony przez okres krótszy niż 10% czasu gry (przy co najmniej 10 rozegranych grach)."
+END
+
+TOOLTIP:BattleHonorApocalypse
+US: "Apocalypse Honor\nPlayer has built the Particle Cannon, Nuclear Missile, and SCUD Storm in a solo or multiplayer online game"
+DE: "Apokalypse-Orden\nDer Spieler hat die Partikelkanone, das Nukleargeschütz und den SCUD-Sturm in einem Einzelspieler- oder Multiplayer-Spiel gebaut."
+FR: "Distinction de l'apocalypse\nLe joueur a construit le canon à particules, le nuclécanon et les SCUDS multiples dans une partie solo ou multijoueur en ligne."
+ES: "Medalla del Apocalipsis\nEl jugador ha construido el cañón de Partículas, Lanzador Nuclear y la Tormenta SCUD en partidas solo o multijugador."
+IT: "Medaglia dell'apocalisse\nIl giocatore ha creato il cannone particellare, il lanciatore di missili nucleari e lo SCUD Storm in una partita in solitario o multigiocatore online."
+KO: "아포칼립스 훈장\n해당 플레이어는 싱글플레이와 멀티플레이에서 파티클 캐논, 핵 미사일, 그리고 스커드 폭풍을 건설했습니다."
+ZH: "天啟勳章\n玩家曾經建造完成離子砲、核彈和生化死雨風暴。"
+BP: "Medalha Apocalipse\nO jogador construiu o Canhão de Partículas, o lançador de Mísseis Nucleares e o lançador Tempestade SCUD em uma partida solo ou multijogador online."
+PL: "Medal Apokalipsy\nGracz zbudował miotacz cząstek, wyrzutnię pocisków nuklearnych i Deszcz SCUD-ów w rozgrywce jedno- lub wieloosobowej."
+END
+
+TOOLTIP:BattleHonorFairPlayDisabled
+US: "Fair Play Honor\nDisconnect less than 10% of the time to earn this medal (with at least 10 games played)"
+DE: "Fair Play-Medaille\nUnterbreche die Verbindungen weniger als 10% der Spielzeit (bei mindestens 10 gespielten Spielen), um mit dieser Medaille ausgezeichnet zu werden."
+FR: "Distinction du fair-play\nSoyez déconnecté pendant moins de 10 % du temps de jeu en ligne (avec au moins dix parties disputées) pour remporter cette distinction."
+ES: "Medalla al Juego Limpio\nDesconéctate menos del 10% (con al menos diez partidas jugadas) para conseguir esta medalla."
+IT: "Medaglia del fair play\nScollegati meno del 10% delle volte (con almeno 10 partite giocate) per ottenere questa onorificenza."
+KO: "페어 플레이 훈장\n해당 플레이어는 최소 10 게임 동안 접속끊김 횟수를 10% 이하로 유지하였습니다."
+ZH: "優良玩家勳章\n要獲得此勳章，斷線次數少於遊戲場數10% (並且遊戲場數最少需要有十場) 。"
+BP: "Medalha de Jogo Justo\nDesconecte de menos de 10% de partidas (com um mínimo de dez partidas jogadas) para receber esta medalha."
+PL: "Medal Fair Play\nAby zdobyć ten medal, nie możesz pozostawać rozłączony dłużej niż 10% czasu (przy co najmniej 10 grach)."
+END
+
+TOOLTIP:BattleHonorApocalypseDisabled
+US: "Apocalypse Medal\nBuild the Particle Cannon, Nuclear Missile, and SCUD Storm to earn this medal"
+DE: "Apokalypse-Orden\nBaue die Partikelkanone, das Nukleargeschütz und den SCUD-Sturm."
+FR: "Distinction de l'apocalypse\nConstruisez le canon à particules, le nuclécanon et les SCUDS multiples pour recevoir cette médaille."
+ES: "Medalla del Apocalipsis\nConstruye el cañón de Partículas, Lanzador Nuclear, y la Tormenta SCUD para conseguir esta medalla."
+IT: "Medaglia dell'apocalisse\nCrea il cannone particellare, il lanciatore di missili nucleari e lo SCUD Storm per ottenere questa onorificenza."
+KO: "아포칼립스 훈장\n파티클 캐논, 핵 미사일, 그리고 스커드 폭풍을 건설하여 해당 훈장을 획득하십시오."
+ZH: "天啟勳章\n曾建造離子砲、核彈和生化死雨風暴能得到此勳章。"
+BP: "Medalha Apocalipse\nConstrua o Canhão de Partículas, o lançador de Mísseis Nucleares e o lançador Tempestade SCUD para receber esta medalha."
+PL: "Medal Apokalipsy\nTen medal zdobędziesz, gdy zbudujesz miotacz cząstek, wyrzutnię pocisków nuklearnych i Deszcz SCUD-ów."
+END
+
+TOOLTIP:BattleHonorPreorder
+US: "Officers Club Honor\nPlayer is a founding member of the Generals community"
+DE: "Offiziersclub-Medaille\nDer Spieler wird Mitglied der Generals-Community."
+FR: "Distinction du club des officiers\nLe joueur est un membre fondateur de la communauté de Generals."
+ES: "Medalla Club Oficiales\nJugador nombrado miembro de la comunidad de Generals."
+IT: "Medaglia del circolo ufficiali\nIl giocatore è uno dei membri fondatori della comunità di Generals."
+KO: "장교 클럽 훈장\n해당 플레이어는 제너럴 커뮤니티의 창립 회원입니다."
+ZH: "官方俱樂部勳章\n玩家預定將軍。"
+BP: "Medalha do Clube de Oficiais\nO jogador é um membro fundador da comunidade do Generals."
+PL: "Medal Klubu Oficerskiego\nGracz jest członkiem-założycielem społeczności generalskiej."
+END
+
+TOOLTIP:BattleHonorPreorderDisabled
+US: "Officers Club Medal\nPlayer did not preorder Generals"
+DE: "Offiziersclub-Medaille\nDer Spieler hat Generals nicht vorbestellt."
+FR: "Distinction du club des officiers\nLe joueur n'a pas commandé Generals."
+ES: "Medalla Club Oficiales Jugador no ordenado por Generales"
+IT: "Medaglia del circolo ufficiali\nIl giocatore non ha pre-ordinato Generals."
+KO: "장교 클럽 메달\n해당 플레이어는 제너럴 커뮤니티의 창립 회원이 아닙니다."
+ZH: "官方俱樂部勳章\n玩家未預定將軍。"
+BP: "Medalha do Clube de Oficiais\nO jogador não fez a reserva adiantada da sua cópia do Generals."
+PL: "Medal Klubu Oficerskiego\nGracz nie kupił Generals w przedsprzedaży."
+END
+
+TOOLTIP:CheckAudioHardware
+US: "Check this box to enable hardware acceleration for Audio"
+DE: "Mit diesem Kontrollkästchen aktivierst du die Hardwarebeschleunigung der Soundausgabe."
+FR: "Sélectionnez cette option pour autoriser l'accélération matérielle du son."
+ES: "Marca esta casilla para activar la aceleración de audio por Hardware"
+IT: "Attiva questa opzione per abilitare l'accelerazione hardware per l'audio."
+KO: "해당 박스를 체크하면 오디오의 하드웨어 가속이 가능하게 됩니다."
+ZH: "點選此方塊能啟動硬體加速音效的功能。"
+BP: "Clique nesta caixa para habilitar a aceleração de Áudio por hardware."
+PL: "Zaznacz to pole, aby włączyć akcelerację sprzętową dźwięku"
+END
+
+TOOLTIP:AudioSurround
+US: "Check this box if you have surround sound speakers"
+DE: "Aktiviere dieses Kontrollkästchen, wenn du Surround-Lautsprecher hast."
+FR: "Sélectionnez cette option si vous avez des hauts-parleurs Surround."
+ES: "Marca esta casilla si tienes altavoces con sonido surround."
+IT: "Attiva questa opzione se hai le casse surround."
+KO: "서라운드 스피커가 있다면 해당 박스를 체크하십시오."
+ZH: "點選此方塊能啟動環繞音效的功能。"
+BP: "Clique nesta caixa se você possui alto-falantes com capacidade de reprodução surround."
+PL: "Zaznacz to pole, jeśli masz głośniki pracujące w systemie Surround Sound."
+END
+
+TOOLTIP:TooltipNukeReactorOverChargeIsOn
+US: "Overcharge is currently ON"
+DE: "Überladung ist EINgeschaltet."
+FR: "Surcharge activée."
+ES: "Sobrecargar está en ON."
+IT: "Sovraccarico ATTIVATO."
+KO: "과충전: 켜짐"
+ZH: "過度發電已啟動。"
+BP: "No momento, a sobrecarga está ATIVADA."
+PL: "Przeciążenie włączone"
+END
+
+TOOLTIP:TooltipNukeReactorOverChargeIsOff
+US: "Overcharge is currently OFF"
+DE: "Überladung ist AUSgeschaltet."
+FR: "Surcharge désactivée."
+ES: "Sobrecargar está en OFF."
+IT: "Sovraccarico DISATTIVATO."
+KO: "과충전: 꺼짐"
+ZH: "過度發電已關閉。"
+BP: "No momento, a sobrecarga está DESATIVADA."
+PL: "Przeciążenie wyłączone"
+END
+
+TOOLTIP:TooltipNotEnoughMoneyToBuild
+US: "Insufficient funds"
+DE: "Zu wenig Geld."
+FR: "Fonds insuffisants."
+ES: "Fondos Insuficientes"
+IT: "Fondi insufficienti."
+KO: "자금이 부족합니다."
+ZH: "資金不足。"
+BP: "Recursos insuficientes."
+PL: "Brak funduszy"
+END
+
+TOOLTIP:TooltipCannotPurchaseBecauseQueueFull
+US: "Build queue full"
+DE: "Die Bauliste ist voll."
+FR: "Chaîne de construction pleine."
+ES: "Cola de espera llena."
+IT: "Coda di costruzione completa."
+KO: "생산 칸이 가득 찼습니다."
+ZH: "建造列已滿。"
+BP: "A linha de produção está cheia."
+PL: "Kolejka budowania pełna"
+END
+
+TOOLTIP:TooltipCannotBuildUnitBecauseParkingFull
+US: "Airfield full"
+DE: "Das Flugfeld ist voll."
+FR: "Base aérienne pleine."
+ES: "Aeropuerto Lleno."
+IT: "Aeroporto completo."
+KO: "겹납고가 가득 찼습니다."
+ZH: "停機坪已滿。"
+BP: "A base aérea está lotada."
+PL: "Lotnisko pełne"
+END
+
+TOOLTIP:TooltipCannotBuildUnitBecauseMaximumNumber
+US: "Unit already exists"
+DE: "Die Einheit existiert bereits."
+FR: "Cette unité existe déjà."
+ES: "La unidad ya existe."
+IT: "L'unità esiste già."
+KO: "해당 유닛이 이미 존재합니다."
+ZH: "單位已存在。"
+BP: "Esta unidade já existe."
+PL: "Jednostka już istnieje"
+END
+
+TOOLTIP:BattleHonorOfficersClub
+US: "Officers Club Honor\nFounding member of the Generals Community"
+DE: "Offiziersclub-Medaille\nDer Spieler hat C&C Generals vorbestellt."
+FR: "Distinction du club des officiers\nLe joueur est un fondateur de la communauté de Generals."
+ES: "Club de Honor de los Oficiales\nMiembro fundador de la Comunidad Generals."
+IT: "Medaglia del circolo ufficiali\nMembro fondatore della comunità Generals."
+KO: "장교 클럽 훈장\n제너럴 커뮤니티의 창립 회원입니다."
+ZH: "官方榮譽俱樂部\n將軍創始社群會員。"
+BP: "Medalha do Clube de Oficiais\nMembro fundador da Comunidade do Generals."
+PL: "Medal Klubu Oficerskiego\nGracz załozyciel generalskiej społeczności."
+END
+
+TOOLTIP:BattleHonorStreak25
+US: "Streak Honor(25)\nPlayer has won 25 games in a row"
+DE: "Siegesmedaille (25)\nDer Spieler hat 25 Spiele in Folge gewonnen."
+FR: "Distinction pour série (25)\nLe joueur a remporté 25 parties d'affilée."
+ES: "Medalla (25)\nEl jugador ha ganado 25 partidas."
+IT: "Vittorie in serie (25)\nIl giocatore ha vinto 25 partite consecutive in singolo o multigiocatore online."
+KO: "연승 훈장(25)\n해당 플레이어는 25 연승을 기록했습니다."
+ZH: "榮譽徽章(25)\n玩家連續贏得25場遊戲。"
+BP: "Medalha de Série(25)\nO jogador venceu 25 partidas seguidas."
+PL: "Medal Pasma Sukcesów (25)\nGracz wygrał 25 rozgrywek z rzędu."
+END
+
+TOOLTIP:NumberOfPlayers
+US: "Number of players currently in this game"
+DE: "Anzahl der Spieler, die sich momentan im Spiel befinden."
+FR: "Nombre de joueurs dans la partie en cours."
+ES: "Número de Jugadores en esta Partida."
+IT: "Numero di giocatori attualmente nella partita."
+KO: "현재 플레이어 수"
+ZH: "現正存於此遊戲中的玩家數"
+BP: "Número de jogadores atualmente nesta partida."
+PL: "Liczba graczy w rozgrywce"
+END
+
+TOOLTIP:PingInfo
+US: "Connection speed quality to host"
+DE: "Qualität der Verbindungsgeschwindigkeit."
+FR: "Qualité de la vitesse de connexion requise pour accueillir une partie."
+ES: "Velocidad de conexión con el servidor."
+IT: "Velocità della connessione all'host."
+KO: "호스트와의 접속 상태"
+ZH: "連接至主機的連線品質"
+BP: "Qualidade da conexão do Host."
+PL: "Jakość połączenia z gospodarzem"
+END
+
+TOOLTIP:LobbyOfficersClub
+US: "Officers Club: Founding member of the Generals Community"
+DE: "Offiziersclub: Der Spieler hat C&C Generals vorbestellt."
+FR: "Distinction du club des officiers\nLe joueur est un fondateur de la communauté de Generals."
+ES: "Club de Oficiales: Miembro fundador de la Comunidad Generals."
+IT: "Circolo ufficiali: Membro fondatore della comunità Generals."
+KO: "장교 클럽: 제너럴 커뮤니티의 창립 회원입니다."
+ZH: "官方俱樂部：將軍創始社群會員。"
+BP: "Clube de Oficiais: Membro fundador da Comunidade do Generals."
+PL: "Klub oficerski: Członek założyciel społeczności generalskiej."
+END
+
+TOOLTIP:LowTextureDetail
+US: "Use Low Resolution Textures"
+DE: "Texturen mit niedriger Auflösung verwenden."
+FR: "Utiliser des textures de basse résolution."
+ES: "Usar Bajo Detalle de Texturas"
+IT: "Utilizza texture a bassa risoluzione."
+KO: "낮은 해상도 텍스처를 사용합니다."
+ZH: "使用低解析度材質。"
+BP: "Usar Texturas de Baixa Resolução"
+PL: "Użyj tekstur niskiej rozdzielczości"
+END
+
+TOOLTIP:Campaign1
+US: "Campaign 1"
+DE: "Mission 1"
+FR: "Campagne 1"
+ES: "Campaña 1"
+IT: "Campagna 1"
+KO: "제1 캠페인"
+ZH: "戰役 1"
+BP: "Campanha 1"
+PL: "Kampania 1"
+END
+
+TOOLTIP:Campaign2
+US: "Campaign 2"
+DE: "Mission 2"
+FR: "Campagne 2"
+ES: "Campaña 2"
+IT: "Campagna 2"
+KO: "제2 캠페인"
+ZH: "戰役 2"
+BP: "Campanha 2"
+PL: "Kampania 2"
+END
+
+TOOLTIP:Campaign3
+US: "Campaign 3"
+DE: "Mission 3"
+FR: "Campagne 3"
+ES: "Campaña 3"
+IT: "Campagna 3"
+KO: "제3 캠페인"
+ZH: "戰役 3"
+BP: "Campanha 3"
+PL: "Kampania 3"
+END
+
+TOOLTIP:StartPositionN
+US: "Start Position for player %d"
+DE: "Start-Position für Spieler %d"
+FR: "Point de départ du joueur %d"
+ES: "Ininiar posición para el jugador %d"
+IT: "Posizione di partenza del giocatore %d."
+KO: "%d의 시작 위치"
+ZH: "玩家 %d 的開始位置"
+BP: "Posição Inicial do jogador %d."
+PL: "Pozycja startowa gracza: %d"
+END
+
+TOOLTIP:AdvanceOptionsAccept
+US: "Accept the changes made to the Advance Display Options"
+DE: "Änderungen an den Erweiterte Anzeige-Optionen annehmen."
+FR: "Acceptez les modifications faites dans les Options d'affichage avancées."
+ES: "Aceptar los cambios hechos en las Opciones de Vídeo Avanzadas."
+IT: "Accetta le modifiche apportate alle opzioni grafiche avanzate."
+KO: "화면 고급설정의 변동사항을 적용합니다."
+ZH: "確認進階顯示選項的改變。"
+BP: "Aceita as alterações feitas nas Opções Avançadas de Vídeo."
+PL: "Zaakceptuj zmiany zaawansowanych opcji wyświetlania"
+END
+
+TOOLTIP:AdvanceOptionsCancel
+US: "Exit the Advance Display Options Menu without making your changes"
+DE: "Das Erweiterte Anzeige-Optionenmenü ohne Änderungen verlassen."
+FR: "Sortez des Options d'affichage avancées sans faire de modifications."
+ES: "Salir del menú de Opciones de Vídeo Avanzadas sin hacer cambios."
+IT: "Chiudi il menu delle opzioni grafiche avanzate senza apportare alcuna modifica."
+KO: "변동사항 없이 화면 고급설정을 나갑니다."
+ZH: "離開進階顯示選項選單， 並不做任何變更。"
+BP: "Sai do Menu de Opções Avançadas de Vídeo sem aplicar suas alterações."
+PL: "Wyjdź z menu zaawansowanych opcji wyświetlania bez zapisywania zmian."
+END
+
+TOOLTIP:Shadows
+US: "Toggle showing shadows in game. On can be slower"
+DE: "Schatten im Spiel ein-/ausschalten. Einschalten kann Spiel verlangsamen."
+FR: "Rendre ombres visibles (peut ralentir)"
+ES: "Activar sombras en el juego. Puede resultar más lento."
+IT: "Mostra o nasconde le ombre. Se l'opzione è attiva, può rallentare il gioco."
+KO: "그림자 유/무를 설정합니다. 게임속도에 영향을 끼칩니다."
+ZH: "遊戲中陰影的選項開關， 開啟會使遊戲較慢。"
+BP: "Ativa/Desativa a exibição de sombras no jogo. Pode causar lentidão quando ativada."
+PL: "Wyświetlanie cieni obiektów podczas gry. Włączenie może spowolnić grę."
+END
+
+TOOLTIP:BehindBuilding
+US: "Toggle showing units behind buildings. On can be slower"
+DE: "Zeigen von Einheiten hinter Gebäuden ein-/ausschalten. Einschalten kann Spiel verlangsamen."
+FR: "Unités visibles derrière un bâtiment (peut ralentir)."
+ES: "Activar mostrar unidades tras los edificios. Puede resultar más lento."
+IT: "Mostra o nasconde le tracce di calore delle unità dietro gli edifici. Se l'opzione è attiva, può rallentare il gioco."
+KO: "건물 뒤 유닛 윤곽 유/무를 설정합니다. 게임속도에 영향을 끼칩니다."
+ZH: "單位在建築物後方顯示的選項開關，開啟會使遊戲較慢。"
+BP: "Ativa/Desativa a assinatura de calor para mostrar unidades atrás de estruturas. Pode causar lentidão quando ativada."
+PL: "Wyświetlanie jednostek znajdujących się za budynkami. Wyłącz, aby gra działała szybciej."
+END
+
+TOOLTIP:ShowProps
+US: "Toggle displaying game props. On can be slower"
+DE: "Anzeige der Spieleinstellungen ein-/ausschalten. Einschalten kann Spiel verlangsamen."
+FR: "Affichage des objets du jeu (peut ralentir)"
+ES: "Activar visión de soportes. Puede resultar más lento."
+IT: "Mostra o nasconde gli oggetti aggiuntivi nel gioco. Se l'opzione è attiva, può rallentare il gioco."
+KO: "배경 효과 유/무를 설정합니다. 게임속도에 영향을 끼칩니다."
+ZH: "遊戲中顯示小道具的選項開關，開啟會使遊戲較慢。"
+BP: "Ativa/Desativa a exibição de objetos adicionais no jogo. Pode causar lentidão quando ativada."
+PL: "Wyświetlanie szczegółowych tekstur obiektów na mapie. Wyłącz, aby gra działała szybciej"
+END
+
+TOOLTIP:LowResSlider
+US: "Higher resolution textures can slow the game down"
+DE: "Eine höhere Texturauflösung kann das Spiel verlangsamen."
+FR: "Les textures de plus haute résolution peuvent rendre le jeu plus lent."
+ES: "Las texturas de resolución altas pueden ralentizar el juego."
+IT: "Le texture ad alta risoluzione possono rallentare il gioco."
+KO: "해상도가 높아질수록 게임이 느려질 수 있습니다."
+ZH: "較高的材質解析度會使遊戲較慢。"
+BP: "Utilizar texturas de alta qualidade pode causar lentidão durante o jogo."
+PL: "Tekstury wysokiej rozdzielczości mogą spowolnić działanie gry."
+END
+
+TOOLTIP:ParticleCapSlider
+US: "More particles can slow the game down"
+DE: "Mehr Partikel können das Spiel verlangsamen."
+FR: "L'ajout de particules peut rendre le jeu plus lent."
+ES: "Máyor número de partículas puede ralentizar el juego"
+IT: "Più particelle possono rallentare il gioco."
+KO: "파티클이 많아질수록 게임이 느려질 수 있습니다."
+ZH: "越多的粒子數會使遊戲執行變慢"
+BP: "Utilizar muitos efeitos de partículas pode causar lentidão durante o jogo."
+PL: "Większa liczba punktów, wyświetlana na przykład podczas eksplozji, może spowolnić działanie gry."
+END
+
+TOOLTIP:Shadows2D
+US: "Toggle showing 2D shadows in game. Turn off for improved performance"
+DE: "2D-Schatten im Spiel ein-/ausschalten. Ausschalten verbessert die Leistung."
+FR: "Afficher les ombres 2D. Pour améliorer les performances, n'activez pas cette option."
+ES: "Activar sombras 2D en el juego. Desactivar para mejorar el rendimiento."
+IT: "Attiva e disattiva le ombre 2D nel gioco. Disattivale per migliorare le prestazioni."
+KO: "2D 그림자 유/무를 설정합니다. 게임 처리 성능 향상을 원하시면 꺼주십시오."
+ZH: "遊戲的2D陰影開關。關閉能改善遊戲效能。"
+BP: "Ativa/Desativa a exibição de sombras 2D. Desative esta opção para melhorar o desempenho do jogo."
+PL: "Wyświetlanie cieni dwuwymiarowych. Wyłącz, aby przyspieszyć działanie gry."
+END
+
+TOOLTIP:Shadows3D
+US: "Toggle showing 3D shadows in game. Turn off for improved performance"
+DE: "3D-Schatten im Spiel ein-/ausschalten. Ausschalten verbessert die Leistung."
+FR: "Afficher les ombres 3D. Pour améliorer les performances, n'activez pas cette option."
+ES: "Activar sombras 3D en el juego. Desactivar para mejorar el rendimiento."
+IT: "Attiva e disattiva le ombre 3D nel gioco. Disattivale per migliorare le prestazioni."
+KO: "3D 그림자 유/무를 설정합니다. 게임 처리 성능 향상을 원하시면 꺼주십시오."
+ZH: "遊戲的3D陰影開關。關閉能改善遊戲效能。"
+BP: "Ativa/Desativa a exibição de sombras 3D. Desative esta opção para melhorar o desempenho do jogo."
+PL: "Wyświetlanie cieni trójwymiarowych. Wyłącz, aby przyspieszyć działanie gry."
+END
+
+TOOLTIP:CloudShadows
+US: "Toggle showing cloud shadows on terrain. Turn off for improved performance"
+DE: "Wolken-Schatten auf dem Boden ein-/ausschalten. Ausschalten verbessert die Leistung."
+FR: "Afficher les ombres des nuages au sol. Pour améliorer les performances du jeu, n'activez pas cette option."
+ES: "Activar sombras de las nubes sobre el terreno. Desactivar para mejorar el rendimiento."
+IT: "Mostra o nasconde le ombre delle nuvole sul terreno. Disattivale per migliorare le prestazioni."
+KO: "구름 그림자 유/무를 설정합니다. 게임 처리 성능 향상을 원하시면 꺼주십시오."
+ZH: "遊戲的雲朵陰影開關。關閉能改善遊戲效能。"
+BP: "Ativa/Desativa a exibição das sombras das nuvens sobre o terreno. Desative esta opção para melhorar o desempenho do jogo."
+PL: "Wyświetlanie cieni chmur na powierzchni ziemi. Wyłącz, aby gra działała szybciej.\n"
+END
+
+TOOLTIP:GroundLighting
+US: "Toggle showing detailed lighting on terrain. Turn off for improved performance"
+DE: "Beleuchtung auf dem Boden ein-/ausschalten. Ausschalten verbessert die Leistung."
+FR: "Afficher un éclairage du sol plus détaillé. Pour améliorer les performances, n'activez pas cette option."
+ES: "Activar luz más detallada en el terreno. Desactivar para mejorar el rendimiento."
+IT: "Attiva o disattiva l'illuminazione dettagliata del terreno. Disattivala per migliorare le prestazioni."
+KO: "지면의 추가적 세부묘사 유/무를 설정합니다. 게임 처리 성능 향상을 원하시면 꺼주십시오."
+ZH: "遊戲顯示地面光影細緻的開關。關閉能改善遊戲效能。"
+BP: "Ativa/Desativa a iluminação detalhada do terreno. Desative esta opção para melhorar o desempenho do jogo."
+PL: "Wyświetlanie szczegółowych efektów świetlnych na ziemi. Wyłącz, aby gra działała szybciej.\n"
+END
+
+TOOLTIP:SmoothWater
+US: "Toggle smoothing of water borders. Turn off for improved performance"
+DE: "Wasser glätten ein-/ausschalten. Ausschalten verbessert die Leistung."
+FR: "Afficher les bords de l'eau de manière plus douce. Pour améliorer les performances, n'activez pas cette option."
+ES: "Activar suavizado del agua en las orillas. Desactivar para mejorar el rendimiento."
+IT: "Mostra o nasconde i dettagli dei margini dell'acqua. Disattivali per migliorare le prestazioni."
+KO: "수면 경계 고급처리 유/무를 설정합니다. 게임 처리 성능 향상을 원하시면 꺼주십시오."
+ZH: "平滑水面邊緣的開關。關閉能改善遊戲效能。"
+BP: "Ativa/Desativa a suavização de bordas para as áreas com água. Desative esta opção para melhorar o desempenho do jogo."
+PL: "Wygładzanie krawędzi zbiorników wodnych. Wyłącz, aby gra działała szybciej.\n"
+END
+
+TOOLTIP:ExtraAnimations
+US: "Toggle showing optional animations like tree sway. Turn off for improved performance"
+DE: "Optionale Animationen wie im Wind schwankende Bäume ein-/ausschalten. Ausschalten verbessert die Leistung."
+FR: "Afficher les animations optionnelles, comme des arbres qui bougent. Pour améliorer les performances, n'activez pas cette option."
+ES: "Activar animaciones extra como el balanceo de los árboles. Desactivar para mejorar el rendimiento."
+IT: "Attiva o disattiva delle animazioni extra, come quelle degli alberi. Disattivale per migliorare le prestazioni."
+KO: "나무의 움직임과 같은 추가적 애니메이션 유/무를 설정합니다. 게임 처리 성능 향상을 원하시면 꺼주십시오."
+ZH: "額外的動態效果的開關，如樹的搖曳效果。關閉能改善遊戲效能。"
+BP: "Ativa/Desativa as animações otimizadas, como o balanço de árvores. Desative esta opção para melhorar o desempenho do jogo."
+PL: "Wyświetlanie dodatkowych animacji, np. ruchu koron drzew na wietrze. Wyłącz, aby gra działała szybciej."
+END
+
+TOOLTIP:NoDynamicLOD
+US: "Disable automatic detail adjustment. Turn off for improved performance"
+DE: "Automatische Detail-Anpassung deaktivieren. Deaktivierung verbessert die Leistung."
+FR: "Désactiver l'ajustement automatique des détails. Pour améliorer les performances, n'activez pas cette option."
+ES: "Desactivar ajuste de detalle automático. Desactivar para mejorar el rendimiento."
+IT: "Disattiva la regolazione automatica del livello di dettaglio (LOD). Migliora le prestazioni."
+KO: "자동 세부묘사 조정 기능을 끕니다. 게임 처리 성능 향상을 원하시면 꺼주십시오."
+ZH: "關閉自動細度調整。關閉能改善遊戲效能。"
+BP: "Desabilita o ajuste automático do nível de detalhes. Desative esta opção para melhorar o desempenho do jogo."
+PL: "Wyłączenie automatycznej  regulacji szczegółowości grafiki. Gdy automatyczna regulacja jest włączona, gra powinna działać optymalnie."
+END
+
+TOOLTIP:UnlockMaxFPS
+US: "Allows frame rates above 30. Affects game speed so only recommended for benchmarks"
+DE: "Ermöglicht Frame-Rates über 30. Beeinflusst die Spielgeschwindigkeit, wird daher nur für Benchmarks empfohlen."
+FR: "Permet des taux d'affichage de 30. Affecte la vitesse d'exécution du jeu (recommandé pour des tests seulement)."
+ES: "Permite ratios de imágenes sobre 30. Afecta a la velocidad del juego y por tanto sólo recomendado para programas de banco de pruebas."
+IT: "Permette il superamento dei 30 FPS (fotogrammi al secondo). Influenza la velocità di gioco, raccomandato solo per i benchmark."
+KO: "30이상의 프레임률을 허용합니다. 게임 처리 성능 향상을 원하시면 꺼주십시오."
+ZH: "允許更新率高於30。將會影響遊戲的速度，只建議給檢查程式使用。"
+BP: "Permite que o jogo seja executado com animações acima de 30 quadros por segundo. Esta opção afeta a velocidade do jogo. Recomendada apenas para fins de avaliação de desempenho."
+PL: "Szybkość zmiany klatek powyżej 30. Wpływa na szybkość gry."
+END
+
+TOOLTIP:TreeSway
+US: "Toggle tree animations. Turn off for improved performance"
+DE: "Baum-Animationen ein-/ausschalten. Ausschalten verbessert die Leistung."
+FR: "Afficher l'animation des arbres. Pour améliorer les performances, n'activez pas cette option."
+ES: "Activar animaciones de árboles. Desactivar para mejorar el rendimiento."
+IT: "Attiva o disattiva le animazioni degli alberi. Disattivale per migliorare le prestazioni."
+KO: "나무 애니메이션 유/무를 설정합니다. 게임 처리 성능 향상을 원하시면 꺼주십시오."
+ZH: "關閉樹的動態效果。關閉能改善遊戲效能。"
+BP: "Ativa/Desatia a animação das árvores. Desative esta opção para melhorar o desempenho do jogo."
+PL: "Wyświetlanie animacj drzew. Wyłącz, aby przyspieszyć działanie."
+END
+
+TOOLTIP:TankTreads
+US: "Toggle marks left by vehicles. Turn off for improved performance"
+DE: "Reifenspuren ein-/ausschalten. Ausschalten verbessert die Leistung."
+FR: "Afficher les traces laissées par les véhicules. Pour améliorer les performances, n'activez pas cette option."
+ES: "Activar marcas dejadas por los vehículos. Desactivar para mejorar el rendimiento."
+IT: "Attiva e disattiva le tracce dei veicoli. Disattivale per migliorare le prestazioni."
+KO: "차량 바퀴 자국 유/무를 설정합니다. 게임 처리 성능 향상을 원하시면 꺼주십시오."
+ZH: "載具軌跡開關。關閉能改善遊戲效能。"
+BP: "Ativa/Desativa os rastros deixados pelos veículos. Desative esta opção para melhorar o desempenho do jogo."
+PL: "Wyświetlanie śladów pojazdów. Wyłącz, aby przyspieszyć działanie."
+END
+
+TOOLTIP:WaterWaves
+US: "Toggle wave animations on shorelines. Turn off for improved performance"
+DE: "Wellenanimationen an der Küste ein-/ausschalten. Ausschalten verbessert die Leistung."
+FR: "Afficher l'animation des vagues le long des côtes. Pour améliorer les performances, n'activez pas cette option."
+ES: "Activar animaciones de las olas en la costa. Desactivar para mejorar el rendimiento."
+IT: "Attiva e disattiva le onde. Disattivale per migliorare le prestazioni."
+KO: "물가의 파도 애니메이션 유/무를 설정합니다. 게임 처리 성능 향상을 원하시면 꺼주십시오."
+ZH: "水波效果開關。關閉能改善遊戲效能。"
+BP: "Ativa/Desativa a animação de ondas nas margens. Desative esta opção para melhorar o desempenho do jogo."
+PL: "Wyświetlanie fal na wodach przybrzeżnych. Wyłącz, aby przyspieszyć działanie."
+END
+
+TOOLTIP:BuildupAnimations
+US: "Show additional animations during structure construction. Turn off for improved performance"
+DE: "Zusätzliche Animationen während Gebäudeerstellung zeigen. Für verbesserte Leistung ausschalten."
+FR: "Afficher des animations supplémentaires pendant la construction d'une structure. Pour améliorer les performances, n'activez pas cette option."
+ES: "Mostrar animaciones adicionales durante la construcción de estructuras. Desactivar para mejorar el rendimiento."
+IT: "Mostra animazioni aggiuntive durante la costruzione delle strutture. Disattivale per migliorare le prestazioni."
+KO: "추가적 건설 애니메이션 유/무를 설정합니다. 게임 처리 성능 향상을 원하시면 꺼주십시오."
+ZH: "建築動態效果開關。關閉能改善遊戲效能。"
+BP: "Exibe animações adicionais durante a construção de estruturas. Desative esta opção para melhorar o desempenho do jogo."
+PL: "Dodatkowe animacje w czasie kontrukcji budynków. Wyłącz, aby przyspieszyć działanie."
+END
+
+TOOLTIP:ReducedColor
+US: "Improves performance but reduces visual quality"
+DE: "Verbessert die Leistung, vermindert jedoch die visuelle Qualität."
+FR: "Améliore les performances mais réduit la qualité visuelle."
+ES: "Mejora el rendimiento pero reduce la calidad visual."
+IT: "Migliora le prestazioni ma riduce la qualità video."
+KO: "게임 처리 성능은 향상되는 반면 화질은 저하됩니다."
+ZH: "改善遊戲效能但會減少視訊品質。"
+BP: "Melhora o desempenho do jogo, mas reduz a qualidade visual."
+PL: "Poprawia działanie, ale redukuje jakość obrazu"
+END
+
+TOOLTIP:GameAcceptance
+US: "Game Acceptance"
+DE: "Akzeptieren"
+FR: "Approbation du jeu"
+ES: "Aceptación de partida"
+IT: "Ha accettato / Non ha accettato"
+KO: "게임 동의"
+ZH: "接受遊戲"
+BP: "Aceitar Opções"
+PL: "Akceptacja gry"
+END
+
+TOOLTIP:ConnectionSpeed
+US: "Connection Speed"
+DE: "Verbindung"
+FR: "Vitesse de connexion"
+ES: "Velocidad de conexión"
+IT: "Velocità di connessione"
+KO: "접속 속도"
+ZH: "連線速度"
+BP: "Velocidade de Conexão"
+PL: "Szybkość połączenia"
+END
+
+TOOLTIP:RefreshGamePlayerList
+US: "Refresh the game and player lists"
+DE: "Spiel und Spielerliste aktualisieren"
+FR: "Actualiser la partie et les listes de joueur"
+ES: "Refresca el juego y la lista de jugadores"
+IT: "Aggiorna lista partite e giocatori."
+KO: "게임과 플레이어 리스트를 새로 고칩니다"
+ZH: "更新遊戲及玩家名單"
+BP: "Atualizar listas de jogo e jogadores"
+PL: "Odśwież listę gier i graczy"
+END
+
+TOOLTIP:CommunicatorBuddyRadioButton
+US: "Right click name in Custom Lobby player list to send buddy request"
+DE: "Auf Namen in Spielerliste in eigener Lobby rechtsklicken, um Buddy-Anfrage zu senden"
+FR: "Faites un clic droit sur un nom dans la liste des joueurs d'un Match personnalisé pour envoyer une demande d'amitié"
+ES: "Clic derecho en el nombre de la lista de jugadores en la sala para enviar una petición"
+IT: "Clicca col destro sul nome nella lista giocatori della lobby personalizzata per inviare la richiesta."
+KO: "친구관계 요청을 하기 위해서는 사용자 로비 플레이어 리스트상에 있는 이름을 오른쪽 클릭하십시오"
+ZH: "在自訂大廳中的名字上按滑鼠右鍵送出加入好友需求"
+BP: "Clique com o botão direito sobre o nome na Sala Personalizar para enviar o pedido"
+PL: "Kliknij PPM na imieniu na liście przyjaciół, aby wysłać zaproszenie do gry"
+END
+
+TOOLTIP:CommunicatorIgnoreRadioButton
+US: "Right click name in Custom Lobby player list to ignore player"
+DE: "Auf Namen in Spielerliste in eigener Lobby rechtsklicken, um Spieler zu ignorieren"
+FR: "Faites un clic droit sur un nom dans la liste des joueurs d'un Match personnalisé pour ignorer un joueur"
+ES: "Clic derecho en el nombre de la lista de jugadores en la sala para ignorar al jugador"
+IT: "Clicca col destro sul nome nella lista giocatori della lobby personalizzata per ignorare il giocatore."
+KO: "플레이어를 무시하려면 사용자 로비 플레이어 리스트상에 있는 이름을 오른쪽 클릭하십시오"
+ZH: "在自訂大廳中的名字上按滑鼠右鍵來忽略玩家"
+BP: "Clique com o botão direito sobre o nome na Sala Personalizar para ignorar o jogador"
+PL: "Kliknij PPM na imieniu gracza na liście, aby go zignorować"
+END
+
+TOOLTIP:AlternateMouse
+US: "Right mouse button initiates unit action on battle field (attack, move, etc.)"
+DE: "Rechtsklick initiiert Aktion der Einheit (Angriff, Bewegung usw.)"
+FR: "Déclencher une action avec le bouton droit de la souris (attaque, déplacement, etc.)"
+ES: "El botón derecho del ratón inicia una acción en el campo de batalla (ataques, movimientos, etc..)"
+IT: "Il pulsante destro del mouse attiva le azioni dell'unità sul campo di battaglia (attacco, movimento, ecc.)."
+KO: "마우스 오른쪽 버튼은 전장에서 유닛의 행동을 지정합니다. (공격, 이동 등)"
+ZH: "滑鼠右鍵初始化單位戰場行動設定（攻擊、移動，等等）"
+BP: "O botão direito do mouse passa a iniciar as ações das unidades no campo de batalha (atacar, mover, etc)."
+PL: "Prawy przycisk myszy inicjuje działanie jednostki na polu bitwy (atak, przegrupowanie, etc.)"
+END
+
+TOOLTIP:FireWallPort
+US: "Open Firewall Port Number"
+DE: "Firewall-Port öffnen:"
+FR: "Numéro du port firewall"
+ES: "Número del puerto abierto del firewall"
+IT: "Numero porta firewall aperta."
+KO: "방화벽 포트 번호 열기"
+ZH: "開啟防火牆通訊埠號碼"
+BP: "Número de Porta do Firewall Aberta"
+PL: "Otwórz port firewalla numer"
+END

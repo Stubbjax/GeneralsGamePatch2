@@ -1,0 +1,983 @@
+HELP:SentryDrone-01
+US: "HINT:\nThe Sentry Drone can detect camouflaged enemy units"
+DE: "TIPP:\nÜberwachungsdrohnen orten getarnte Gegner."
+FR: "ASTUCE :\nLe Drone sentinelle peut détecter les unités ennemies camouflées."
+ES: "PISTA:\nEl teledirigido centinela puede detectar enemigos camuflados"
+IT: "SUGGERIMENTO:\nIl Drone da ricognizione può rilevare le unità nemiche mimetizzate."
+KO: "힌트:\n센트리 드론은 위장한 적의 유닛을 추적할 수 있습니다."
+ZH: "建議：\n無人哨兵機可以偵測隱形的敵人單位"
+BP: "DICA:\nO Drone Sentinela pode detectar unidades inimigas camufladas"
+PL: "RADA:\nRobot strażniczy może wykrywać zamaskowane jednostki wroga"
+END
+
+HELP:SentryDrone-02
+US: "HINT:\nPurchase the Sentry Done gun from the Strategy Center"
+DE: "TIPP:\nKaufen Sie im Strategiezentrum das Geschütz-Upgrade für die Überwachungsdrohne."
+FR: "ASTUCE :\nAchetez la mitrailleuse du Drone sentinelle au Commandement tactique."
+ES: "PISTA:\nAdquiere el cañón teledirigido centinela en el centro de estrategia"
+IT: "SUGGERIMENTO:\nAcquistate l'arma del Drone da ricognizione nel Centro strategico."
+KO: "힌트:\n전략센터로부터 센트리 드론 건을 구입하십시오."
+ZH: "建議：\n從戰略中心處可以購買無人哨兵機機槍"
+BP: "DICA:\nCompre a arma do Drone Sentinela na Central de Estratégia"
+PL: "RADA:\nDziałko robota strażniczego można zakupić w ośrodku badań strategicznych"
+END
+
+HELP:MicrowaveTank-01
+US: "HINT:\nThe Microwave Tank can disable structures"
+DE: "TIPP:\nDer Mikrowellenpanzer kann feindliche Gebäude deaktivieren."
+FR: "ASTUCE :\nLe Char Micro-ondes peut désactiver des bâtiments."
+ES: "PISTA:\nEl tanque de micr. inutiliza edificios"
+IT: "SUGGERIMENTO:\nIl carro a microonde può disattivare le strutture."
+KO: "힌트:\n초단파 탱크는 건물을 무력화 시킬 수 있습니다."
+ZH: "建議：\n微波坦克可以癱瘓建築"
+BP: "DICA:\nO Tanque de Microondas pode desativar estruturas"
+PL: "RADA:\nCzołg mikrofalowy może unieszkodliwiać budynki"
+END
+
+HELP:MicrowaveTank-02
+US: "HINT:\nThe Microwave Tank's microwaves injure nearby infantry"
+DE: "TIPP:\nDer Mikrowellenpanzer beschädigt gegnerische Cyborgs."
+FR: "ASTUCE :\nLe Char Micro-ondes blesse les unités d'infanterie situées à proximité."
+ES: "PISTA:\nLas ondas del tanque de microondas hieren a la infantería cercana"
+IT: "SUGGERIMENTO:\nLe microonde del carro a microonde danneggiano la fanteria."
+KO: "힌트:\n초단파 탱크는 근처의 보병에 손상을 입힐 수 있습니다."
+ZH: "建議：\n微波坦克的微波可以殺傷鄰近的步兵"
+BP: "DICA:\nAs microondas do Tanque de Microondas danificam as unidades de infantaria próximas"
+PL: "RADA:\nOstrzał z czołgu mikrofalowego rani znajdującą się w pobliżu piechotę"
+END
+
+HELP:Avenger-01
+US: "HINT:\nThe Avenger laser can 'paint' enemy targets\nFiring at painted targets inflicts more damage"
+DE: "TIPP:\nDer Avenger kann feindliche Ziele markieren.\nEinheiten, die auf markierte Ziele feuern, verursachen mehr Schaden."
+FR: "ASTUCE :\nLe laser du Vengeur peut 'marquer' les cibles ennemies.\nElles subissent alors davantage de dégâts."
+ES: "PISTA:\nEl láser Avenger 'pinta' dianas enemigas\nDisparar a objetivos pintados inflige más daño"
+IT: "SUGGERIMENTO:\nIl laser dell'Avenger può 'illuminare' i bersagli nemici.\nSparando contro un bersaglio illuminato provochi danni più gravi."
+KO: "힌트:\n어벤져 레이저는 적 목표물을 색깔로 표시할 수 있습니다.\n표시된 목표물을 사격하는 것이 더 큰 손상을 줍니다."
+ZH: "建議：\n復仇者雷射可以「照亮」敵軍目標\n對被照亮的敵軍單位開火可造成更大的傷害"
+BP: "DICA:\nO laser Vingador pode 'marcar' os alvos inimigos\nDisparar nos alvos marcados causa mais danos"
+PL: "RADA:\nLaser Mściciela może \"znakować\" nieprzyjacielskie cele.\nOstrzeliwanie oznakowanych celów wywołuje większe zniszczenia"
+END
+
+HELP:Avenger-02
+US: "HINT:\nAvengers are support units that can also attack aircraft"
+DE: "TIPP:\nAvenger können auch Flugzeuge angreifen."
+FR: "ASTUCE :\nLe Vengeur est une unité de soutien qui peut aussi attaquer l'aviation."
+ES: "PISTA:\nLos Avenger son unidades de apoyo que pueden atacar aviones"
+IT: "SUGGERIMENTO:\nGli Avenger sono unità di supporto con capacità antiaerea."
+KO: "힌트:\n어벤져는 항공기들도 공격할 수 있는 지원 유닛입니다."
+ZH: "建議：\n復仇者是一種支援單位，且具備攻擊飛機的能力"
+BP: "DICA:\nOs Vingadores são unidades de apoio que também podem atacar aeronaves"
+PL: "RADA:\nMściciele to jednostki wspierające, które mogą też atakować lotnictwo"
+END
+
+HELP:FireBase-01
+US: "HINT:\nMan the Fire Base with Missile Defenders\nto provide both air and ground defense"
+DE: "TIPP:\nBesetzen Sie die Geschützstellung mit Raketen-Troopern, um Boden- und Luftziele anzugreifen."
+FR: "ASTUCE :\nArmez la position de tir avec des lance-missiles polyvalents\npour bénéficier d'une défense sur terre et dans les airs."
+ES: "PISTA:\nDota la base de disparo con defensores de misiles\npara tener defensa en tierra y aire"
+IT: "SUGGERIMENTO:\nFornite le difese anticarro alla Base di fuoco, per\nottenere difesa aerea e terrestre."
+KO: "힌트:\n파이어 베이스에 미사일 디펜더를 배치하십시오.\n대공 및 지상 방어를 수행합니다."
+ZH: "建議：\n以飛彈防禦兵駐守火力基地以\n提供對空與對地的防禦火力"
+BP: "DICA:\nEquipe a Base de Disparo com Mísseis de Defesa\npara proporcionar defesa aérea e terrestre"
+PL: "RADA:\nObsadź bazę ogniową piechotą rakietową, a zapewnisz\nsobie obronę przeciwko wrogom naziemnym i powietrznym"
+END
+
+HELP:SpectreGunship-01
+US: "HINT:\nSelect an area for the Spectre Gunship to attack,\nthen manually target enemies"
+DE: "TIPP:\nBestimmen Sie das Zielgebiet des Spectres und wählen\nSie die Gegner manuell aus."
+FR: "ASTUCE :\nSélectionnez la zone que le Spectre doit attaquer,\npuis visez manuellement les ennemis."
+ES: "PISTA:\nSelecciona zona de ataque para el Spectre\ny luego apunta a los enemigos manualmente"
+IT: "SUGGERIMENTO:\nSelezionate una zona per l'attacco della Cannoniera Spectre,\nquindi indicate manualmente i bersagli."
+KO: "힌트:\n스펙터 건쉽으로 공격할 지역을 선택하십시오\n그리고 나서 수동으로 적을 조준하십시오."
+ZH: "建議：\n選擇鬼魅炮艇機要攻擊的地區，\n然後手動選擇要攻擊的敵軍目標"
+BP: "DICA:\nEscolha uma área para ser atacada pela Nave de Artilharia Spectre,\ne, depois, aponte manualmente para os inimigos"
+PL: "RADA:\nWybierz obszar, który zaatakuje Szturmowiec Widmo,\na następnie wskazuj cele samodzielnie"
+END
+
+HELP:LeafletDrop-01
+US: "HINT:\nUse the Leaflet Drop to disable enemy infantry"
+DE: "TIPP:\nDeaktivieren Sie gegnerische Cyborgs mit Flugblattaktionen."
+FR: "ASTUCE :\nUtilisez le largage de propagande pour neutraliser l'infanterie ennemie."
+ES: "PISTA:\nLanza propaganda para inutilizar a la infantería enemiga"
+IT: "SUGGERIMENTO:\nUsa il Lancio di volantini per bloccare la fanteria nemica."
+KO: "힌트:\n적의 차량과 보병들을 무력화 시키기 위해 선전물 투하를 이용하십시오."
+ZH: "建議：\n使用空投傳單來癱瘓敵軍載具與步兵"
+BP: "DICA:\nUse Soltar Folhetos para desativar os veículos e a infantaria do inimigo"
+PL: "RADA:\nZrzut ulotek unieruchomi nieprzyjacielskie jednostki"
+END
+
+HELP:MOAB-01
+US: "HINT:\nMOABs are effective against vehicles and\nwill stun any survivors"
+DE: "TIPP:\nMOABs zerstören Fahrzeuge und deaktivieren vorübergehend alle Insassen."
+FR: "ASTUCE :\nLes BAM sont efficaces contre les véhicules\net étourdissent les survivants."
+ES: "PISTA:\nLas MDTB son eficaces contra vehículos y\naturden a supervivientes"
+IT: "SUGGERIMENTO:\nLa MDTB è efficace contro i veicoli\ne stordisce i superstiti."
+KO: "힌트:\nMOAB은 차량에 강하며,\n살아남은 유닛은 정신을 잃게 만들 것입니다."
+ZH: "建議：\n炸彈之母可以有效對付載具，且\n會震住於攻擊中殘存的單位"
+BP: "DICA:\nAs Mães de Todas as Bombas são eficientes contra veículos e\nirão deixar em estado de choque qualquer sobrevivente"
+PL: "RADA:\nBomby nad bombami skutecznie niszczą pojazdy\ni ogłuszają wrogów, którzy przeżyli"
+END
+
+HELP:Countermeasures-01
+US: "HINT:\nUpgrade to Countermeasures to help air units evade attacks"
+DE: "TIPP:\nOptimieren Sie Ihre Flugzeuge mit Flugsicherungssystemen."
+FR: "ASTUCE :\nAméliorez les Contre-mesures pour que les unités aériennes évitent mieux les attaques."
+ES: "PISTA:\nAyuda a la aviación a evitar ataques mejorando a contramedidas"
+IT: "SUGGERIMENTO:\nUtilizzate le Contromisure per permettere alle\nunità aeree di sfuggire agli attacchi."
+KO: "힌트:\n항공 유닛이 공격을 피할 수 있도록 전자전 장비를 업그레이드 하십시오."
+ZH: "建議：\n升級反制裝置可以幫助空中單位閃躲飛彈攻擊"
+BP: "DICA:\nAtualize as Contramedidas para ajudar as unidades aéreas a se desviar de ataques"
+PL: "RADA:\nModernizacja \"Przeciwśrodki\" pomaga jednostkom latającym unikać ataków"
+END
+
+HELP:HellfireDrone-01
+US: "HINT:\nUpgrade your vehicles with Hellfire Drones\nto increase effectiveness against armored forces"
+DE: "TIPP:\nBestücken Sie Ihre Fahrzeuge mit Hellfire-Drohnen,\num Ihre Effektivität gegen gepanzerte Einheiten zu erhöhen."
+FR: "ASTUCE :\nAméliorez vos véhicules avec des Drones lance-missile\npour augmenter leur efficacité contre les blindés ennemis."
+ES: "PISTA:\nPara aumentar la efectividad contra enemigos blindados\nmejora tus vehículos con teledirigidos Hellfire"
+IT: "SUGGERIMENTO:\nAggiornate i veicoli con i Droni Hellfire\nper aumentarne l'efficacia contro le forze corazzate."
+KO: "힌트:\n장갑이 강화된 적을 효과적으로 공격하려면 헬파이어 드론으로 차량을 업그레이드 하십시오."
+ZH: "建議：\n以地獄火蜂型機升級您的載具，\n以更有效火力對抗裝甲目標"
+BP: "DICA:\nAprimore os seus veículos com Drones Hellfire\npara aumentar a eficiência contra os blindados inimigos"
+PL: "RADA:\nWyposaż swoje pojazdy w roboty rakietowe,\nby zwiększyć ich skuteczność w walce z opancerzonym przeciwnikiem"
+END
+
+HELP:ChemicalSuit-01
+US: "HINT:\nUtilize the Chemical Suit upgrade to protect infantry\nfrom deadly toxins and radiation"
+DE: "TIPP:\nSchützen Sie Ihre Cyborgs mit Schutzanzügen\nvor Säure und Strahlung."
+FR: "ASTUCE :\nUtilisez les combinaisons NBC pour protéger votre infanterie\ndes radiations et des toxines mortelles."
+ES: "PISTA:\nUsa la mejora del traje antiquímico para proteger\na la infantería de toxinas y radiación"
+IT: "SUGGERIMENTO:\nUtilizzate le Tute chimiche per proteggere la\nfanteria da tossine e radiazioni."
+KO: "힌트:\n치명적인 독소와 방사능으로부터 보병을 보호하려면 화생방 방호복을 업그레이드 하십시오."
+ZH: "建議：\n使用生化防護衣升級能力來保護步兵\n不受致命的毒素與輻射傷害"
+BP: "DICA:\nAproveite a atualização do Traje Químico para proteger a infantaria\nde toxinas e radiações fatais"
+PL: "RADA:\nSkorzystaj z kombinezonów chemicznych, by ochronić swoją piechotę\nprzed groźnymi toksynami i promieniowaniem"
+END
+
+HELP:BunkerBuster-01
+US: "HINT:\nThe Stealth Bomber's Bunker Buster upgrade\ncan damage garrisoned enemies"
+DE: "TIPP:\nDie Bunker Buster-Bomben des Tarnkappenbombers\nbeschädigen auch in Häusern verschanzte Gegner."
+FR: "ASTUCE :\nL'amélioration Tueur de bunker du Chasseur furtif\npermet de blesser les ennemis en garnison dans un bâtiment."
+ES: "PISTA:\nMejorar el bombardero invisible con antibúnker\npuede dañar a enemigos guarnecidos"
+IT: "SUGGERIMENTO:\nI Distruttori di bunker del Caccia stealth permettono\ndi danneggiare le strutture presidiate dal nemico."
+KO: "힌트:\n스텔스 폭격기의 벙커 버스터 업그레이드는\n건물 안의 적에게 피해를 줄 수 있습니다."
+ZH: "建議：\n隱形轟炸機的碉堡殺手升級能力可以\n殺傷建築內駐守的敵軍"
+BP: "DICA:\nA atualização do Destruidor de Bunker dos Bombardeiros Invisíveis\npode danificar as guarnições inimigas"
+PL: "RADA:\nModernizacja \"Niszczyciel bunkrów\" umożliwia niewykrywalnemu bombowcowi\nzadawanie obrażeń obsadzie budynków"
+END
+
+HELP:BunkerBuster-02
+US: "HINT:\nBunker Busters can kill units inside of Bunkers"
+DE: "TIPP:\nBunker Buster-Bomben können Gegner in Bunkern vernichten."
+FR: "ASTUCE :\nLes Tueurs de bunker peuvent tuer les unités postées dans des bunkers."
+ES: "PISTA:\nLos antibúnker pueden eliminar unidades dentro de búnkeres"
+IT: "SUGGERIMENTO:\nI Distruttori di bunker possono annientare\nle unità nascoste in un bunker."
+KO: "힌트:\n벙커 버스터는 벙커내의 유닛을 섬멸할 수 있습니다."
+ZH: "建議：\n碉堡殺手可以殺傷碉堡內的單位"
+BP: "DICA:\nOs Destruidores de Bunkers podem eliminar as unidades dentro dos Bunkers"
+PL: "RADA:\nNiszczyciele bunkrów mogą zabijać jednostki ukryte w bunkrach"
+END
+
+HELP:SupplyLines-01
+US: "HINT:\nThe Supply Lines upgrade improves income"
+DE: "TIPP:\nMit dem Nachschubwege-Upgrade verbessern Sie Ihr Einkommen."
+FR: "ASTUCE :\nL'amélioration Lignes de ravitaillement augmente les revenus."
+ES: "PISTA:\nLas líneas de suministros suben las ganancias"
+IT: "SUGGERIMENTO:\nLe Linee di rifornimento aumentano gli introiti."
+KO: "힌트:\n보급선 업그레이드는 수입을 증가시킵니다."
+ZH: "建議：\n升級補給線可以增加收入"
+BP: "DICA:\nA atualização da Linha de Suprimentos aprimora os resultados"
+PL: "RADA:\nLinie zaopatrzeniowe zwiększają dochody"
+END
+
+HELP:SupplyLines-02
+US: "HINT:\nUpgrade Supply Lines to increase\nthe efficiency of Chinooks"
+DE: "TIPP:\nVerbessern Sie Ihre Nachschubwege, um die\nEffektivität Ihrer Chinooks zu erhöhen."
+FR: "ASTUCE :\nConstruisez l'amélioration Lignes de ravitaillement pour augmenter\nl'efficacité des Chinooks."
+ES: "PISTA:\nMejora las líneas de suministros para tener\nChinook más eficaces"
+IT: "SUGGERIMENTO:\nAggiornate le Linee di rifornimento per\naumentare l'efficacia dei Chinook."
+KO: "힌트:\n치누크의 효율성을 향상시키려면 보급선 업그레이드를 하십시오."
+ZH: "建議：\n升級補給線來增加\n運輸直昇機的效率"
+BP: "DICA:\nAtualize as Linhas de Suprimentos para aumentar\na eficiência dos Chinooks"
+PL: "RADA:\nZmodernizuj linie zaopatrzeniowe w celu zwiększenia\nefektywności działania Chinooków"
+END
+
+HELP:ListeningOutpost-01
+US: "HINT:\nListening Outposts are stealthed and will detect\ncamouflaged units"
+DE: "TIPP:\nHorchposten sind getarnt und orten andere\ngetarnte Einheiten."
+FR: "ASTUCE :\nLes Postes mobiles d'écoute sont furtifs et peuvent détecter\nles unités camouflées."
+ES: "PISTA:\nLos puestos de escucha están infiltrados\ny detectan unidades camufladas"
+IT: "SUGGERIMENTO:\nLe postazioni d'ascolto sono mimetizzate e\nrilevano le unità occultate."
+KO: "힌트:\n감시 아웃포스트는 스텔스 기능이 있고, 위장한 적을 찾아낼 수 있습니다."
+ZH: "建議：\n前哨監聽車具備隱形能力，且可以偵測\n其他隱形的單位"
+BP: "DICA:\nOs Postos Avançados de Escuta são invisíveis ao radar e poderão detectar\nunidades camufladas"
+PL: "RADA:\nPosterunki nasłuchowe są zamaskowane i będą wykrywać\ninne zamaskowane jednostki"
+END
+
+HELP:ListeningOutpost-02
+US: "HINT:\nListening Outposts have a very large sight radius"
+DE: "TIPP:\nHorchposten haben ein sehr großes Sichtfeld."
+FR: "ASTUCE :\nLes Postes mobiles d'écoute ont un large champ de vision."
+ES: "PISTA:\nLos puestos de escucha tienen un radio de visión muy grande"
+IT: "SUGGERIMENTO:\nLe postazioni d'ascolto hanno un campo visivo elevato."
+KO: "힌트:\n감시 아웃포스트는 매우 넓은 시야 반경을 가지고 있습니다."
+ZH: "建議：\n前哨監聽車擁有很大的視野範圍"
+BP: "DICA:\nOs Postos Avançados de Escuta têm um raio de alcance muito amplo"
+PL: "RADA:\nPosterunki nasłuchowe mają bardzo duży zasięg widzenia"
+END
+
+HELP:Helix-01
+US: "HINT:\nUpgrade a Helix with a Propaganda Tower to\nrepair and heal your nearby units"
+DE: "TIPP:\nBestücken Sie einen Helix mit einem Propagandaturm,\num Einheiten in der Nähe zu reparieren."
+FR: "ASTUCE :\nAméliorez un Hélix avec un Haut-parleur d'embrigadement\npour réparer et soigner les unités à proximité."
+ES: "PISTA:\nMejora un Helix con una torre de propaganda para\nreparar y curar a tus unidades cercanas"
+IT: "SUGGERIMENTO:\nAggiornate un Helix con un diffusore per\nriparare e curare le unità vicine."
+KO: "힌트:\n주위의 유닛을 수리 및 치료하려면, 프로퍼갠더 타워로 헬릭스를 업그레이드 하십시오."
+ZH: "建議：\n以思想強化電塔升級螺旋直昇機，以\n修復與治療鄰近的單位"
+BP: "DICA:\nAtualize um Helix com uma Torre de Propaganda para\nreparar e curar as suas unidades próximas"
+PL: "RADA:\nWyposaż Spiralę w megafon,\nby naprawiać i leczyć jednostki przebywające w pobliżu"
+END
+
+HELP:Helix-02
+US: "HINT:\nThe Helix can be upgraded to drop napalm bombs\nThese can be dropped on targets beneath the Helix"
+DE: "TIPP:\nDer Helix kann mit Napalmbomben bestückt werden.\nDiese werden auf Ziele unter dem Helix abgeworfen."
+FR: "ASTUCE :\nAméliorez l'Hélix pour qu'il largue des bombes au napalm\nsur les cibles se trouvant juste en dessous."
+ES: "PISTA:\nEl Helix puede mejorarse para lanzar bombas de napalm\nPueden lanzarse sobre objetivos situados debajo"
+IT: "SUGGERIMENTO:\nPuoi aggiornare l'Helix con delle Bombe al napalm.\nGli ordigni potranno essere sganciati sui bersagli sottostanti."
+KO: "힌트:\n헬릭스는 업그레이드하면 네이팜탄을 투하할 수 있습니다.\n네이팜탄은 헬릭스 아래의 목표물에 투하될 것입니다."
+ZH: "建議：\n螺旋直昇機可以升級攜帶汽油彈\n對下方的目標進行轟炸"
+BP: "DICA:\nO Helix pode ser atualizado para lançar bombas de napalm\nElas podem ser lançadas sobre alvos abaixo do Helix"
+PL: "RADA:\nSpiralę można wyposażyć w bomby napalmowe\nBomby te mogą być zrzucane na cele znajdujące się pod Spiralą"
+END
+
+HELP:Helix-03
+US: "HINT:\nYou can upgrade a Helix with a Battle Bunker,\nPropaganda Tower, or Gattling Cannon"
+DE: "TIPP:\nSie können einen Helix mit einem Bunker,\neinem Propagandaturm oder einem Gatling-Geschütz bestücken."
+FR: "ASTUCE :\nAméliorez l'Hélix avec un bunker chinois,\nun Haut-parleur d'embrigadement ou une Mitrailleuse Gattling."
+ES: "PISTA:\nPuedes mejorar un Helix con un búnker de combate,\nuna torre de propaganda o un cañón Gattling"
+IT: "SUGGERIMENTO:\nPotete aggiornare un Helix con Bunker da battaglia,\nDiffusore o Cannone gatling."
+KO: "힌트:\n배틀 벙커, 프로퍼갠더 타워, 혹은 개틀링 캐논으로 헬릭스를 업그레이드 할 수 있습니다."
+ZH: "建議：\n您可以以戰鬥碉堡、思想強化電塔、\n或蓋特機槍來升級螺旋直昇機"
+BP: "DICA:\nVocê pode atualizar um Helix com um Bunker de Combate,\numa Torre de Propaganda ou um Canhão Gattling"
+PL: "RADA:\nSpiralę można wyposażyć w bunkier bojowy,\nmegafon lub działko gattling"
+END
+
+HELP:ECMTank-01
+US: "HINT:\nUse the ECM Tank to disrupt enemy missile and rocket fire"
+DE: "TIPP:\nLenken Sie feindliche Raketen mit ECM-Panzern ab."
+FR: "ASTUCE :\nUtilisez le Char CME pour perturber les tirs de missiles et de roquettes ennemis."
+ES: "PISTA:\nUsa el tanque CME para trastocar los misiles y cohetes enemigos"
+IT: "SUGGERIMENTO:\nUsate il Carro ECM per disturbare i missili e i razzi nemici."
+KO: "힌트:\n적의 미사일과 로켓 사격을 교란시키려면 ECM 탱크를 이용하십시오."
+ZH: "建議：\n使用電子干擾坦克去干擾敵軍飛彈與火箭發射"
+BP: "DICA:\nUse o Tanque ECM para confundir os disparos de mísseis e foguetes inimigos"
+PL: "RADA:\nCzołg do walki elektronicznej może mylić nieprzyjacielskie pociski i zakłócać ostrzał rakietowy"
+END
+
+HELP:Frenzy-01
+US: "HINT:\nUse the Frenzy Generals Power to increase the\nfirepower and armor of your units"
+DE: "TIPP:\nMit der Generalsfähigkeit \"Boost\" verbessern Sie\ndie Feuerkraft und die Panzerung Ihrer Einheiten."
+FR: "ASTUCE :\nUtilisez le pouvoir de général Frénésie pour augmenter\nla puissance de feu de vos unités et renforcer leur blindage."
+ES: "PISTA:\nUsa el poder de general Frenesí para que tus unidades tengan\nmás potencia de fuego y blindaje"
+IT: "SUGGERIMENTO:\nUsate il potere del generale Esaltazione per\naumentare potenza di fuoco e difesa delle vostre unità."
+KO: "힌트:\n유닛의 화력과 장갑을 향상시키려면 프렌지 제너럴 특수기술을 이용하십시오."
+ZH: "建議：\n使用狂暴將軍能力來增加您的單位\n的火力與裝甲"
+BP: "DICA:\nUse o Poder de Ataque Enfurecido do Generals para aumentar o\npoder de fogo e a armadura de suas unidades"
+PL: "RADA:\nSzał jest umiejętnością generalską, która zwiększa\nsiła ognia i pancerza Twoich jednostek"
+END
+
+HELP:InternetCenter-01
+US: "HINT:\nPlace Hackers in the Internet Center\nto increase money collection rate"
+DE: "TIPP:\nPlatzieren Sie im Web-Zentrum Hacker,\num die Geldbeschaffung zu beschleunigen."
+FR: "ASTUCE :\nPlacez des Technopirates dans les Centres Internet\npour augmenter la vitesse de collecte de l'argent."
+ES: "PISTA:\nPon hackers en el centro de Internet\npara aumentar el ritmo de recaudación monetaria"
+IT: "SUGGERIMENTO:\nInviate degli Hacker nel Centro Internet\nper ottenere più denaro."
+KO: "힌트:\n자금 수집률을 높이려면 인터넷 센터에 해커를 배치하십시오."
+ZH: "建議：\n將駭客部署到網際網路中心\n可以增加收集資金的速度"
+BP: "DICA:\nColoque os Hackers na Central da Internet\npara aumentar a velocidade para coletar dinheiro"
+PL: "RADA:\nUmieszczenie hakerów w ośrodkach internetowych\nzwiększa szybkość gromadzenia funduszy"
+END
+
+HELP:InternetCenter-02
+US: "HINT:\nBuild an Internet Center and upgrade to\nSatellite Hack 1 and 2"
+DE: "TIPP:\nBauen Sie ein Web-Zentrum und kaufen Sie die Upgrades\nSatellitenzugriff I und II."
+FR: "ASTUCE :\nConstruisez un Centre Internet et procédez aux améliorations\nPiratage satellite 1 et 2"
+ES: "PISTA:\nEdifica un centro de Internet y mejora a\npirateo de satélite 1 y 2"
+IT: "SUGGERIMENTO:\nCostruite un Centro Internet per passare da\nViolazione satellite I a Violazione satellite II."
+KO: "힌트:\n인터넷 센터를 건설하고 위성 해킹 1과 2를 업그레이드 하십시오."
+ZH: "建議：\n建造一座網際網路中心並升級到\n衛星侵入1與2"
+BP: "DICA:\nConstrua uma Central da Internet e atualize-a para\nSatélites Espiões 1 e 2"
+PL: "RADA:\nWybuduj ośrodek internetowy i zaopatrz go w\nłącze hakerskie I i II"
+END
+
+HELP:SatelliteHack1-01
+US: "HINT:\nSatellite Hack 1 reveals all enemy Command Centers"
+DE: "TIPP:\nDer Satellitenzugriff I ermöglicht die Überwachung feindlicher Kommandozentralen."
+FR: "ASTUCE :\nL'amélioration Piratage satellite 1 révèle tous les Postes de commandement ennemis."
+ES: "PISTA:\nPirateo de satélite 1 revela todos los centros de mando enemigos"
+IT: "SUGGERIMENTO:\nViolazione satellite I rivela tutti i Centri comando nemici."
+KO: "힌트:\n위성 해킹 1은 모든 적 커맨드 센터를 표시해줍니다."
+ZH: "建議：\n衛星侵入1可以顯示所有敵人指揮中心的位置"
+BP: "DICA:\nO Satélite Espião 1 mostra todos os Centros de Comando inimigos"
+PL: "RADA:\nŁącze hakerskie I odsłania położenie wszystkich nieprzyjacielskich sztabów"
+END
+
+HELP:SatelliteHack2-01
+US: "HINT:\nSatellite Hack 2 reveals all that enemy units can see"
+DE: "TIPP:\nMit dem Satellitenzugriff II sehen Sie alle Gebiete, die auch Ihr Gegner sieht."
+FR: "ASTUCE :\nL'amélioration Piratage satellite 2 révèle tout ce que les unités ennemies peuvent voir."
+ES: "PISTA:\nPirateo de satélite 2 revela cuánto pueden ver las unidades enemigas"
+IT: "SUGGERIMENTO:\nViolazione satellite II rivela tutto ciò che\nle unità nemiche possono vedere."
+KO: "힌트:\n위성 해킹 2는 지도 상의 적 유닛 전체를 표시해줍니다."
+ZH: "建議：\n衛星侵入2可以顯示所有可見的敵人單位位置"
+BP: "DICA:\nO Satélite Espião 2 mostra todas as unidades inimigas que podem ser vistas"
+PL: "RADA:\nŁącze hakerskie II odsłania wszystko, co widzą nieprzyjacielskie jednostki"
+END
+
+HELP:EMPMines-01
+US: "HINT:\nMines can be upgraded to Neutron Mines, which will\ndisrupt enemy vehicles"
+DE: "TIPP:\nNeutronenminen sind Upgrades normaler Minen. Sie stören feindliche Fahrzeuge."
+FR: "ASTUCE :\nAméliorez les mines en mines à neutrons\npour perturber les véhicules ennemis."
+ES: "PISTA:\nLas minas pueden mejorarse a minas de neutrones, que\nperturbarán los vehículos enemigos"
+IT: "SUGGERIMENTO:\nLe mine possono essere aggiornate in Mine a neutroni, in grado\ndi bloccare i veicoli nemici."
+KO: "힌트:\n지뢰는 중성자 지뢰로 업그레이드 될 수 있고,\n이것은 적의 차량을 교란시킬 것입니다."
+ZH: "建議：\n地雷可以升級成為中子地雷，引爆時\n會干擾敵軍載具"
+BP: "DICA:\nAs Minas podem ser atualizadas para Minas de Nêutron, as quais irão\ndesorientar os veículos inimigos"
+PL: "RADA:\nMiny można wyposażyć w łądunki neutronowe, które będą\nunieruchamiać nieprzyjacielskie pojazdy"
+END
+
+HELP:NeutronShell-01
+US: "HINT:\nNeutron Shell attacks from the Nuke Cannon neutralize\nvehicles, allowing any infantry to capture them"
+DE: "TIPP:\nMit dem Nukleargeschütz abgefeuerte Neutronengranaten neutralisieren Fahrzeuge. Diese können anschließend von Cyborgs erobert werden."
+FR: "ASTUCE :\nLes Obus à neutrons du Nuclécanon neutralisent\nles véhicules, que votre infanterie peut ensuite capturer."
+ES: "PISTA:\nLos ataques con proy. de neutrones del cañón nuclear neutralizan\nvehículos, pudiendo capturarlos la infantería"
+IT: "SUGGERIMENTO:\nGli attacchi con Proiettili ai neutroni del\nCannone nucleare neutralizzano i veicoli e ne permettono la cattura."
+KO: "힌트:\n핵 캐논의 중성자탄 공격은 차량들을 무력화시켜 보병대가 차량들을 탈취할 수 있게 합니다."
+ZH: "建議：\n自核子加農炮中發射的中子砲彈可以癱瘓\n載具，讓步兵可以佔領它"
+BP: "DICA:\nOs ataques com a Munição de Neutrônio do Canhão Nuclear neutralizam\nos veículos, permitindo que qualquer infantaria os capture"
+PL: "RADA:\nPocisk neutronowy z działa jądrowego unieruchamia\npojazdy, dzięki czemu dowolna piechota może je przejąć"
+END
+
+HELP:CombatCycle-01
+US: "HINT:\nCombat Cycles can jump off of cliffs"
+DE: "TIPP:\nKampfbikes können von Klippen springen."
+FR: "ASTUCE :\nLes Motos de combat peuvent sauter du haut des falaises."
+ES: "PISTA:\nLas motos de combate pueden saltar precipicios"
+IT: "SUGGERIMENTO:\nLe Moto da combattimento possono\nscendere dai dirupi."
+KO: "힌트:\n컴뱃 사이클은 절벽에서도 뛰어내릴 수 있습니다."
+ZH: "建議：\n戰鬥摩托車可以飛躍峭壁"
+BP: "DICA:\nAs Motos de Combate podem saltar de penhascos"
+PL: "RADA:\nMotory bojowe mogą zeskakiwać z urwisk"
+END
+
+HELP:CombatCycle-02
+US: "HINT:\nPlace a Tunnel Defender on a Combat Cycle to\nallow it to fire rockets"
+DE: "TIPP:\nFährt eine RPG-Einheit mit einem Kampfbike, kann sie Raketen abfeuern."
+FR: "ASTUCE :\nPlacez un défenseur de tunnels sur une Moto de combat pour\nqu'il tire des roquettes."
+ES: "PISTA:\nPon un defensor de túnel en una moto de combate para\nque pueda disparar cohetes"
+IT: "SUGGERIMENTO:\nMettete un Difensore su una Moto da combattimento\nper sparare dei razzi."
+KO: "힌트:\n컴뱃 사이클이 로켓을 발사할 수 있도록 터널 디펜더를 장착하십시오."
+ZH: "建議：\n讓地道防禦兵騎上戰鬥摩托車便可讓\n它發射火箭"
+BP: "DICA:\nColoque um Defensor de Túnel em uma Moto de Combate para\npermitir que dispare foguetes"
+PL: "RADA:\nUmieszczenie żołnierza z bazuką na motorze bojowym\numożliwia pojazdowi odpalanie rakiet"
+END
+
+HELP:CombatCycle-03
+US: "HINT:\nPlace a Terrorist on a Combat Cycle to\nproduce a Suicide Bike"
+DE: "TIPP:\nEine fahrende Bombe kann mit\neinem Kampfbike kombiniert werden."
+FR: "ASTUCE :\nPlacez un Terroriste sur une Moto de combat\npour générer une Moto suicide."
+ES: "PISTA:\nPon un terrorista en una moto de combate para\ncrear una moto suicida"
+IT: "SUGGERIMENTO:\nMettete un Terrorista su una Moto da combattimento\ne otterrete una moto suicida."
+KO: "힌트:\n자폭 오토바이를 만들려면 컴뱃사이클에 테러리스트를 탑승시키십시오."
+ZH: "建議：\n讓恐怖份子騎上戰鬥摩托車便可讓\n它成為自殺摩托車"
+BP: "DICA:\nColoque um Terrorista em uma Moto de Combate para\ngerar uma Moto- Bomba"
+PL: "RADA:\nUmieszczenie terrorysty na motorze bojowym\npowoduje przekształcenie pojazdu w motor samobójczy"
+END
+
+HELP:CombatCycle-04
+US: "HINT:\nJarmen Kell can snipe from a Combat Cycle"
+DE: "TIPP:\nInfiltratoren mit Kampfbikes können Gegner gezielt ausschalten."
+FR: "ASTUCE :\nJarmen Kell peut utiliser son fusil à lunette en conduisant une Moto de combat."
+ES: "PISTA:\nJarmen Kell puede disparar con precisión desde la moto"
+IT: "SUGGERIMENTO:\nJarmen Kell può sparare da una Moto da combattimento."
+KO: "힌트:\n쟈멘 켈은 컴뱃 사이클에서 저격을 할 수 있습니다."
+ZH: "建議：\n賈曼卡爾可以從戰鬥摩托車上進行狙擊"
+BP: "DICA:\nJarmen Kell pode atirar com precisão em cima de uma Moto de Combate"
+PL: "RADA:\nJarmen Kell może używać karabinu snajperskiego, jadąc na motorze bojowym"
+END
+
+HELP:CombatCycle-05
+US: "HINT:\nWorkers can use Combat Cycles to travel quickly"
+DE: "TIPP:\nArbeitsbots kommen mit Kampfbikes schneller an ihr Ziel."
+FR: "ASTUCE :\nLes Ouvriers peuvent utiliser des Motos de combat pour se déplacer plus rapidement."
+ES: "PISTA:\nLos trabajadores pueden usar motos de combate para ir rápido"
+IT: "SUGGERIMENTO:\nGli Operai possono spostarsi velocemente\ncon le moto da combattimento."
+KO: "힌트:\n일꾼들은 빠른 이동을 위해 컴뱃 사이클을 사용할 수 있습니다."
+ZH: "建議：\n工人可以騎上戰鬥摩托車快速移動"
+BP: "DICA:\nOs Trabalhadores podem usar as Motos de Combate para se deslocar com rapidez"
+PL: "RADA:\nRobotnicy mogą wykorzystać motory bojowe do przyspieszenia swych podróży"
+END
+
+HELP:Saboteur-01
+US: "HINT:\nThe Saboteur disrupts the abilities of enemy structures"
+DE: "TIPP:\nSaboteure behindern den Betrieb feindlicher Gebäude."
+FR: "ASTUCE :\nLe Saboteur perturbe les aptitudes des bâtiments ennemis."
+ES: "PISTA:\nEl saboteador trastoca las capacidades de los edificios enemigos"
+IT: "SUGGERIMENTO:\nIl Sabotatore blocca le capacità delle\nstrutture nemiche."
+KO: "힌트:\n새보터는 적 구조물의 능력을 저하시킵니다."
+ZH: "建議：\n破壞者可以干擾敵軍建築的能力"
+BP: "DICA:\nO Sabotador desorienta as habilidades das estruturas inimigas"
+PL: "RADA:\nSabotażysta unieszkodliwia nieprzyjacielskie budynki"
+END
+
+HELP:Saboteur-02
+US: "HINT:\nDirect the Saboteur into an enemy Command Center\nto reset their Generals Powers timers"
+DE: "TIPP:\nSchicken Sie den Saboteur in eine feindliche Kommandozentrale,\num den Timer der entsprechenden Generalsfähigkeiten zurückzusetzen."
+FR: "ASTUCE :\nEnvoyez votre Saboteur dans un Poste de commandement ennemi\npour réinitialiser les Compteurs de pouvoirs de général."
+ES: "PISTA:\nDirige al saboteador a un centro de mando enemigo\npara reiniciar la cuenta atrás de sus poderes de general"
+IT: "SUGGERIMENTO:\nDirigete il Sabotatore in un Centro comando nemico\nper far ripartire i contatori dei poteri del generale."
+KO: "힌트:\n적의 제너럴 특수기술 타이머를 리셋하기 위해 새보터를 적 커맨드 센터 안으로 보내십시오."
+ZH: "建議：\n指派破壞者侵入敵人的指揮中心\n來重設將軍能力計時器"
+BP: "DICA:\nDirija o Sabotador para dentro de um Centro de Comando inimigo\npara zerar os contadores dos Poderes do Generals deles"
+PL: "RADA:\nSkieruj sabotażystę do nieprzyjacielskiego sztabu,\nby wyzerować zegary umiejętności generalskiej"
+END
+
+HELP:FakeStructures-01
+US: "HINT:\nBuild Fake Structures to fool your enemies"
+DE: "TIPP:\nFühren Sie Ihre Gegner mit Kulissen in die Irre."
+FR: "ASTUCE :\nConstruisez des décors pour tromper vos ennemis."
+ES: "PISTA:\nEngaña al enemigo haciendo edificios falsos"
+IT: "SUGGERIMENTO:\nCostruite delle strutture false per ingannare i nemici."
+KO: "힌트:\n적을 속이기 위해 위장 구조물을 만드십시오."
+ZH: "建議：\n建造假建築來欺騙您的敵人"
+BP: "DICA:\nConstrua Estruturas Falsas para enganar os seus inimigos"
+PL: "RADA:\nWznoś fałszywe budynki, by zmylić wrogów"
+END
+
+HELP:SneakAttack-01
+US: "HINT:\nUse Sneak Attack to instantly build a Tunnel Network\nanywhere you can see"
+DE: "TIPP:\nBauen Sie mit dem Schleichangriff\nein Tunnelsystem."
+FR: "ASTUCE :\nLancez une Attaque furtive pour construire instantanément un Réseau de tunnels\nà n'importe quel point de votre champ de vision."
+ES: "PISTA:\nUsa el ataque furtivo para hacer una red de túneles\ninstantánea allá donde puedas ver"
+IT: "SUGGERIMENTO:\nUsate l'Attacco furtivo per realizzare una Rete di tunnel\nin qualunque luogo visibile."
+KO: "힌트:\n시야가 확보된 곳 어디에든 즉시 터널 네트워크를 만들려면 잠입 공격을 사용하십시오."
+ZH: "建議：\n使用偷襲來瞬間於地圖上讓任何\n可見的地點建造地道網路系統"
+BP: "DICA:\nUse o Ataque Sorrateiro para construir instantaneamente uma Rede de Túneis\nem qualquer lugar que você possa ver"
+PL: "RADA:\nAtak z zaskoczenia umożliwia natychmiastowe wybudowanie sieci tuneli\nw dowolnym widzianym przez ciebie miejscu"
+END
+
+HELP:GPSScramble-01
+US: "HINT:\nUse the GPS Scrambler Generals Power to\ncamouflage friendly units"
+DE: "TIPP:\nMit der Generalsfähigkeit \"GPS-Störsender\" können\nSie verbündete Einheiten tarnen."
+FR: "ASTUCE :\nUtilisez le pouvoir de général Brouilleur GPS pour\ncamoufler les unités alliées."
+ES: "PISTA:\nUsa el poder de general de codificador\nGPS para camuflar unidades aliadas"
+IT: "SUGGERIMENTO:\nUsate il potere del generale Interferenza GPS\nper mimetizzare le unità alleate."
+KO: "힌트:\n아군을 위장하려면 GPS 교란장치 제너럴 특수기술을 이용하십시오."
+ZH: "建議：\n使用GPS干擾器將軍能力來偽裝友軍單位"
+BP: "DICA:\nUse o Desorientador de GPS do Poderes do Generals para\ncamuflar unidades aliadas"
+PL: "RADA:\nUmiejętność generalska \"Zagłuszacz GPS\"\numożliwia maskowanie własnych jednostek"
+END
+
+HELP:WorkerShoes-01
+US: "HINT:\nPurchase Worker Shoes to increase the speed Workers\ntravel and collect resources"
+DE: "TIPP:\nArbeitsschuhe erhöhen das Tempo Ihrer Arbeitsbots."
+FR: "ASTUCE :\nAchetez des Chaussures renforcées pour augmenter la vitesse de déplacement\nde vos Ouvriers et donc la vitesse de collecte des ressources."
+ES: "PISTA:\nAdquiere botas de trabajador para subir la velocidad\na la que viajan y reúnen recursos"
+IT: "SUGGERIMENTO:\nAcquistate Scarpe da operaio per aumentare la\nvelocità di spostamento e il lavoro degli Operai."
+KO: "힌트:\n일꾼들이 보다 빨리 이동하고 자원을 수집하게 하려면 일꾼 신발을 구입하십시오."
+ZH: "建議：\n購買工人工作鞋來增加工人\n移動與收集資源的速度"
+BP: "DICA:\nCompre Sapatos de Trabalhador para aumentar a velocidade dos Trabalhadores\nquando estão se deslocando e coletando recursos"
+PL: "RADA:\nZakup obuwie robocze w celu zwiększenia szybkości\nruchu i pracy robotników"
+END
+
+HELP:CamoNetting-01
+US: "HINT:\nCamo-Netting camouflages your Stinger Sites\nand Tunnel Networks"
+DE: "TIPP:\nMit Tarnnetzen können Sie Ihre Stinger-Stellungen\nund Tunnelsysteme tarnen."
+FR: "ASTUCE :\nLes Filets de camouflage permettent de dissimuler vos Réseaux de tunnels\net vos Sites Stingers."
+ES: "PISTA:\nLa red de camuflaje oculta tus emplazamientos de Stinger\ny redes de túneles"
+IT: "SUGGERIMENTO:\nLe Reti mimetiche nascondono le Postazioni Stinger\ne le Reti di tunnel."
+KO: "힌트:\n위장망은 스팅어 사이트와 터널 네트워크를 위장할 수 있습니다."
+ZH: "建議：\n偽裝網可以偽裝您的針刺飛彈陣地\n與地道網路系統"
+BP: "DICA:\nA Rede Camuflagem esconde a sua Bateria de Stinger\ne Rede de Túneis"
+PL: "RADA:\nSiatki maskujące zakamuflują Twoje wyrzutnie stingerów\ni wejścia do sieci tuneli"
+END
+
+HELP:FortifiedStructures-01
+US: "HINT:\nFortified Structures are harder to destroy"
+DE: "TIPP:\nBefestigte Gebäude sind widerstandsfähiger."
+FR: "ASTUCE :\nLes Structures fortifiées sont plus résistantes."
+ES: "PISTA:\nLos edificios fortificados son más difíciles de destruir"
+IT: "SUGGERIMENTO:\nLe Strutture fortificate sono più difficili\nda distruggere."
+KO: "힌트:\n요새화 건물은 파괴하기 어렵습니다."
+ZH: "建議：\n防禦建築較難被摧毀"
+BP: "DICA:\nAs Estruturas Fortificadas são mais difíceis de destruir"
+PL: "RADA:\nWzmocnione struktury trudniej zniszczyć"
+END
+
+HELP:BoobyTrap-01
+US: "HINT:\nBooby Traps will detonate when an enemy tries\nto garrison or capture the trapped structure"
+DE: "TIPP:\nSprengfallen detonieren, wenn der Gegner\nversucht, das entsprechende Gebäude zu befestigen oder einzunehmen."
+FR: "ASTUCE :\nLes mines artisanales explosent lorsqu'un ennemi tente\nde s'abriter ou de capturer un bâtiment piégé."
+ES: "PISTA:\nLas trampas explosivas explotarán cuando un enemigo\nintente capturar el edificio o guarnecerse en él"
+IT: "SUGGERIMENTO:\nGli Ordigni esplosivi esplodono quando un\nnemico presidia o conquista l'edificio dove si trovano."
+KO: "힌트:\n부비 트랩은 적이 트랩이 설치된 건물에 주둔하거나 점령하려고 할 때 폭파됩니다."
+ZH: "建議：\n當敵軍單位嚐試駐守或佔領\n建築時，詭雷便會引爆"
+BP: "DICA:\nAs Armadilhas Explosivas serão detonadas quando um inimigo tentar\nocupar ou capturar a estrutura sabotada"
+PL: "RADA:\nPułapka bombowa eksploduje, gdy wróg spróbuje\nobsadzić lub zająć zaminowany obiekt"
+END
+
+HELP:KingRaptor-01
+US: "HINT:\nKing Raptors carry extra ammo and have more armor"
+DE: "TIPP:\nKing Raptors haben mehr Munition und sind besser gepanzert."
+FR: "ASTUCE :\nLe King Raptor transporte plus de munitions et a un blindage renforcé."
+ES: "PISTA:\nLos King Raptor llevan munición extra y tienen más blindaje"
+IT: "SUGGERIMENTO:\nI Re Raptor trasportano munizioni extra\ne hanno una corazza più robusta."
+KO: "힌트:\n킹 랩터는 더 많은 탄약을 싣고 더욱 강한 장갑을 가집니다."
+ZH: "建議：\n猛禽王戰機可以攜帶額外的彈藥且具備較厚的裝甲"
+BP: "DICA:\nOs King Raptors carregam munição extra e possuem uma blindagem reforçada"
+PL: "RADA:\nKrólewski Raptor ma więcej amunicji i grubszy pancerz"
+END
+
+HELP:CombatChinooks-01
+US: "HINT:\nInfantry inside of a Combat Chinook can fire in flight"
+DE: "TIPP:\nCyborgs können auch aus einem fliegenden Chinook feuern."
+FR: "ASTUCE :\nLes unités d'infanterie se trouvant dans un Chinook peuvent tirer en vol."
+ES: "PISTA:\nLa infantería de un Chinook de combate puede disparar en vuelo"
+IT: "SUGGERIMENTO:\nLa fanteria dentro un Chinook da combattimento\npuò sparare durante il volo."
+KO: "힌트:\n컴뱃 치누크 에 탑승한 보병은 비행 중에 사격할 수 있습니다."
+ZH: "建議：\n戰鬥運輸直昇機內的步兵可以於飛行中對外開火"
+BP: "DICA:\nA infantaria dentro de um Chinook de Combate pode disparar durante o combate"
+PL: "RADA:\nPiechota przewożona w Chinooku bojowym może ostrzeliwać się podczas lotu"
+END
+
+HELP:AuroraAlpha-01
+US: "HINT:\nThe Aurora Alpha is equipped with a small\nbut devastating Fuel Air Bomb"
+DE: "TIPP:\nDer Aurora Alpha ist mit einer kleinen aber\neffektiven Benzinbombe bestückt"
+FR: "ASTUCE :\nL'Aurora Alpha dispose d'une bombe\naéro-incendiaire de petite taille, mais très dévastatrice."
+ES: "PISTA:\nEl Aurora Alpha está equipado con una bomba\nincendiaria pequeña pero devastadora"
+IT: "SUGGERIMENTO:\nL'Aurora Alfa è dotato di una piccola\nma devastante Bomba a benzina."
+KO: "힌트:\n오로라 알파는 작지만 파괴력이 강한 기화 폭탄을\n갖추고 있습니다."
+ZH: "建議：\n阿爾發曙光轟炸機攜帶有小型\n但致命的油氣彈"
+BP: "DICA:\nO Aurora Alfa está equipado com uma pequena\nporém devastadora Bomba Incendiária"
+PL: "RADA:\nAurora Alfa jest wyposażona w małą,\nlecz niszczycielską bombę zapalającą"
+END
+
+HELP:MicrowavePatriot-01
+US: "HINT:\nThe EMP Patriot's Rockets are effective\nagainst both vehicles and infantry"
+DE: "TIPP:\nEMP-Raketen sind gegen Fahrzeuge und Cyborgs effektiv."
+FR: "ASTUCE :\nLes Roquettes IEM du Patriot sont\nefficaces contre les véhicules et l'infanterie."
+ES: "PISTA:\nLos cohetes IEM del Patriot son efectivos\ncontra vehículos e infantería"
+IT: "SUGGERIMENTO:\nI razzi del Patriot EMP sono efficaci\ncontro veicoli e fanteria."
+KO: "힌트:\nEMP 패트리어트의 로켓은 차량과 보병 모두에\n효과적입니다."
+ZH: "建議：\n微波愛國者飛彈的電磁脈衝火箭可以有效\n對抗載具與步兵"
+BP: "DICA:\nFoguetes do Patriot E.M. são tão eficientes\ncontra veículos quanto infantaria"
+PL: "RADA:\nRakiety elektromagnetyczne Patriot są skuteczne\nzarówno przeciwko pojazdom, jak i piechocie"
+END
+
+HELP:AdvancedRods-01
+US: "HINT:\nAdvanced Rods provide more power than normal Control Rods"
+DE: "TIPP:\nVerbesserte Brennstäbe erzeugen mehr Energie als herkömmliche Brennstäbe."
+FR: "ASTUCE :\nLes Crayons améliorés fournissent plus d'énergie que les Crayons normaux."
+ES: "PISTA:\nLas barras avanzadas dan más potencia que las de control normales"
+IT: "SUGGERIMENTO:\nLe Barre di controllo avanzate forniscono\npiù energia di quelle normali."
+KO: "힌트:\n고급 로드는 일반 제어 로드보다 더 많은 전력을 제공합니다."
+ZH: "建議：\n先進核能控制棒可以比一般核能控制棒提供更多的電力"
+BP: "DICA:\nBarras Avançadas fornecem mais força do que as Barras de Controle normais"
+PL: "RADA:\nUnowocześnione pręty zwiększają wydajność elektrowni w porównaniu ze zwykłymi prętami sterującymi"
+END
+
+HELP:LaserTank-01
+US: "HINT:\nBuild extra Power Plants when using Laser Tanks\nThey cannot move or fire when power is low"
+DE: "TIPP:\nBauen Sie zusätzliche Kraftwerke, wenn Sie Laser-Panzer einsetzen.\nDiese können ohne Energie weder fahren noch feuern."
+FR: "ASTUCE :\nConstruisez plus de centrales lorsque vous utilisez des chars lasers.\nIls ne peuvent ni se déplacer ni tirer si l'approvisionnement en énergie est faible."
+ES: "PISTA:\nConstruye más centrales eléctricas cuando uses tanques láser\nCon poca energía ni se mueven ni disparan"
+IT: "SUGGERIMENTO:\nQuando usi dei Carri laser, costruisci molte centrali energetiche.\nLe unità non possono né muoversi, né sparare, se vi è carenza di energia."
+KO: "힌트:\n레이저 탱크를 사용할 때는 발전소를 미리 더 건설해 놓으십시오.\n레이저 탱크는 전력이 낮아졌을 때는 사격을 하거나 이동할 수 없습니다."
+ZH: "建議：\n當使用雷射坦克需建造更多的發電廠\n當電力短缺時它們會無法移動或開火"
+BP: "DICA:\nConstrua Centrais de Energia a mais quando for usar os Tanques com Laser.\nEles não se movem ou disparam quando a energia está baixa"
+PL: "RADA:\nGdy używasz czołgów laserowych, wybuduj dodatkowe elektrownie\nCzołgi te nie mogą się poruszać ani ostrzeliwać, gdy brak im energii"
+END
+
+HELP:LaserDefenseTurret-01
+US: "HINT:\nLaser Defense Turrets are strong but require extra power"
+DE: "TIPP:\nLasertürme sind sehr effektiv, benötigen aber zusätzliche Energie."
+FR: "ASTUCE :\nLes Tourelles de défense laser sont efficaces, mais consomment beaucoup d'énergie."
+ES: "PISTA:\nLas torretas láser de defensa son fuertes pero necesitan energía extra"
+IT: "SUGGERIMENTO:\nLe torrette laser sono potenti, ma richiedono\nenergia extra."
+KO: "힌트:\n레이저 방어 포탑은 강력하지만 전력을 많이 소모합니다."
+ZH: "建議：\n雷射防禦炮塔威力強大但需耗費額外的電力"
+BP: "DICA:\nTorres de Defesa com Laser são poderosas, mas requerem mais energia"
+PL: "RADA:\nLaserowe wieżyczki obronne są potężne, lecz wymagają dodatkowej energii"
+END
+
+HELP:AssaultTroopTransport-01
+US: "HINT:\nUnits can fire out of the Assault Troop Transport"
+DE: "TIPP:\nAlle Einheiten können auch aus Truppentransportern feuern."
+FR: "ASTUCE :\nVos unités peuvent tirer depuis le Transporteur."
+ES: "PISTA:\nLas unidades pueden disparar desde el transporte de asalto"
+IT: "SUGGERIMENTO:\nLe unità possono sparare dal Trasporto truppe d'assalto."
+KO: "힌트:\n유닛들은 공격 부대 수송 차량에서 사격을 할 수 있습니다."
+ZH: "建議：\n單位可以從突擊運輸機上對外開火"
+BP: "DICA:\nAs unidades podem disparar de um Transporte de Tropas de Assalto"
+PL: "RADA:\nTransporter szturmowy umożliwia przewożonym jednostkom ostrzeliwanie się"
+END
+
+HELP:AttackOutpost-01
+US: "HINT:\nThe Attack Outpost can hold extra infantry and\ncan detect stealthed units"
+DE: "TIPP:\nIm Horchposten sind zusätzliche Cyborgs stationiert.\nAußerdem ortet er getarnte Einheiten."
+FR: "ASTUCE :\nLe Poste d'écoute amélioré peut abriter plus d'unités d'infanterie et\ndétecter les unités furtives."
+ES: "PISTA:\nEl puesto de escucha puede tener infantería extra y\ndetectar unidades infiltradas"
+IT: "SUGGERIMENTO:\nL'Avamposto d'assalto può ospitare fanteria extra\ne può rilevare le unità mimetizzate."
+KO: "힌트:\n공격 아웃포스트는 보병을 수용할 수 있고 적의 위장 유닛을 탐지할 수 있습니다."
+ZH: "建議：\n攻擊前哨車可以容納額外的步兵並\n可以偵測隱形單位"
+BP: "DICA:\nOs Postos Avançados de Ataque podem manter unidades de infantaria adicionais e\npodem detectar unidades invisíveis"
+PL: "RADA:\nPosterunek szturmowy mieści więcej piechoty\ni potrafi lokalizować jednostki niewykrywalne"
+END
+
+HELP:FortifiedBunkers-01
+US: "HINT:\nThe Fortified Bunkers come with Mines and\nstronger armor and can hold extra infantry"
+DE: "TIPP:\nBefestigte Bunker sind mit Minen und einer stärkeren\nPanzerung gesichert. Sie bieten Platz für zusätzliche Cyborgs."
+FR: "ASTUCE :\nLe bunker fortifié est pourvu de mines,\nd'un blindage plus épais et peut abriter plus d'unités d'infanterie."
+ES: "PISTA:\nLos búnkeres fortificados tienen minas y\nmayor blindaje, y pueden tener infantería extra"
+IT: "SUGGERIMENTO:\nI Bunker fortificati sono dotati di mine e di\nprotezioni più robuste, inoltre ospitano fanteria extra."
+KO: "힌트:\n강화 벙커는 강화 장갑과 지뢰를 가지며, 보병을 수용할 수 있습니다."
+ZH: "建議：\n防禦碉堡具備地雷雨\n厚重的裝甲，可以容納額外的步兵"
+BP: "DICA:\nOs Bunkers Reforçados vêm com Minas e\nforte blindagem, podendo manter infantaria adicional"
+PL: "RADA:\nWzmocnione bunkry są wyposażone w miny\ni silniejszy pancerz, mieszczą też więcej piechoty"
+END
+
+HELP:Mini-Gunner-01
+US: "HINT:\nMini-Gunners carry a personal Gattling Gun"
+DE: "TIPP:\nMinigun-Cyborgs haben eine eigene Gatling-Kanone."
+FR: "ASTUCE :\nLes Mitrailleurs transportent leur propre Mitrailleuse Gattling."
+ES: "PISTA:\nLos artilleros de minigun llevan un cañón Gattling"
+IT: "SUGGERIMENTO:\nI Commando sono dotati di un Cannone\ngatling portatile."
+KO: "힌트:\n미니 거너는 개틀링 건을 사용합니다."
+ZH: "建議：\n蓋特機槍兵需帶有單兵用蓋特機槍"
+BP: "DICA:\nMinicanhoneiros carregam um Canhão Gattling individual"
+PL: "RADA:\nKomandosi posługują się przenośnym działkiem gattling"
+END
+
+HELP:InfantryBlackLotus-01
+US: "HINT:\nYour Black Lotus units have improved abilities"
+DE: "TIPP:\nBlack Bot-Einheiten haben besondere Fähigkeiten."
+FR: "ASTUCE :\nVotre Lotus Noir dispose d'aptitudes améliorées."
+ES: "PISTA:\nTus unidades Loto Negro tienen capacidades mejoradas"
+IT: "SUGGERIMENTO:\nLe unità Loto Nero hanno capacità potenziate."
+KO: "힌트:\n흑수선이 더욱 향상되었습니다."
+ZH: "建議：\n您的黑蓮花能力提昇了"
+BP: "DICA:\nSuas unidades Black Lotus têm habilidades aprimoradas"
+PL: "RADA:\nCzarny Lotos będzie mieć większe możliwości"
+END
+
+HELP:InfantryBlackLotus-02
+US: "HINT:\nYou can build multiple Black Lotus units"
+DE: "TIPP:\nSie können mehrere Black Bots bauen."
+FR: "ASTUCE :\nVous pouvez construire plusieurs unités Lotus Noir."
+ES: "PISTA:\nPuedes crear varias unidades Loto Negro"
+IT: "SUGGERIMENTO:\nPotete realizzare più unità Loto Nero."
+KO: "힌트:\n여러 명의 흑수선 유닛을 만들 수 있습니다."
+ZH: "建議：\n您可以建造多位黑蓮花單位"
+BP: "DICA:\nVocê pode construir múltiplas unidades Black Lotus"
+PL: "RADA:\nMożesz werbować więcej niż jeden Czarny Lotos"
+END
+
+HELP:InfantryHacker-01
+US: "HINT:\nThe Infantry General's Hacker hack money faster"
+DE: "TIPP:\nDer Hacker des Cyborg-Generals ist ein Meister der Geldbeschaffung."
+FR: "ASTUCE :\nLe Technopirate du général d'infanterie détourne encore plus rapidement l'argent."
+ES: "PISTA:\nEl hacker del general de infantería piratea dinero más rápido"
+IT: "SUGGERIMENTO:\nL'Hacker della fanteria può raccogliere denaro velocemente."
+KO: "힌트:\n보병 제너럴의 해커는 돈을 더 빠르게 해킹합니다."
+ZH: "建議：\n步兵將軍的駭客具備較高速的資金侵入速度"
+BP: "DICA:\nA Infantaria Hacker do Generals desvia o dinheiro rapidamente"
+PL: "RADA:\nHaker generała piechoty szybciej pozyskuje fundusze"
+END
+
+HELP:ChineseParadrop-01
+US: "HINT:\nThe Chinese Paradrop parachutes Red Guard anywhere"
+DE: "TIPP:\nDer asiatische Pakt kann Standard-Cyborgs über dem Zielgebiet abwerfen."
+FR: "ASTUCE :\nLe Parachutage chinois permet de parachuter des Gardes rouges n'importe où."
+ES: "PISTA:\nLos chinos lanzan en paracaídas a la Guardia Roja a cualquier sitio"
+IT: "SUGGERIMENTO:\nCon il Lancio di paracadutisti, la Guardia Rossa\npuò arrivare ovunque."
+KO: "힌트:\n중국의 공수 투하는 어디에든 홍위병을 공수합니다."
+ZH: "建議：\n中國空降紅衛兵可以降落於任何地點"
+BP: "DICA:\nO Pára-Quedista Chinês lança de pára-quedas os Guardas Vermelhos em qualquer lugar"
+PL: "RADA:\nChiński desant umożliwia czerwonogwardzistom desantowanie się w dowolnym miejscu"
+END
+
+HELP:EmperorTank-01
+US: "HINT:\nEmperor Tanks are the ultimate tank,\neffective against both vehicles and infantry"
+DE: "TIPP:\nEmperor-Panzer sind gegen Fahrzeuge\nund Cyborgs außerordentlich effektiv."
+FR: "ASTUCE :\nLe Char Despote bénéficie des dernières technologies,\nce qui le rend efficace contre les véhicules et l'infanterie."
+ES: "PISTA:\nEl Emperor es el tanque definitivo,\neficaz contra vehículos e infantería"
+IT: "SUGGERIMENTO:\nI Carri Emperor sono i più potenti e sono\nefficaci contro veicoli e fanteria."
+KO: "힌트:\n엠퍼러 탱크는 최고의 탱크로, 차량과 보병 모두에 강합니다."
+ZH: "建議：\n帝王坦克是最頂級的坦克，\n可有效對抗載具與步兵"
+BP: "DICA:\nOs Tanques Emperor são os tanques mais modernos,\neficientes contra veículos e infantaria"
+PL: "RADA:\nImperator to najlepszy model czołgu,\nskuteczny zarówno w walce z piechotą, jak i pojazdami"
+END
+
+HELP:EmperorTank-02
+US: "HINT:\nThe Emperor Tank can be upgraded with a Gattling Cannon"
+DE: "TIPP:\nDer Emperor-Panzer kann mit einem Gatling-Geschütz aufgerüstet werden."
+FR: "ASTUCE :\nLe Char Despote peut être amélioré avec une Mitrailleuse Gattling."
+ES: "PISTA:\nEl tanque Emperor puede mejorarse con un cañón Gattling"
+IT: "SUGGERIMENTO:\nIl Carro Emperor si può potenziare con\nun Cannone gatling."
+KO: "힌트:\n엠퍼러 탱크는 개틀링 캐논 장착 업그레이드를 할 수 있습니다."
+ZH: "建議：\nThe 帝王坦克可以升級加裝一門蓋特機槍"
+BP: "DICA:\nO Tanque Emperor pode ser atualizado com um Canhão Gattling"
+PL: "RADA:\nCzołg Imperator można uzbroić w działko gattling"
+END
+
+HELP:EmperorTank-03
+US: "HINT:\nEmperor Tanks come equipped with Propaganda Towers"
+DE: "TIPP:\nDer Emperor-Panzer kann mit einem Propagandaturm aufgerüstet werden."
+FR: "ASTUCE :\nLe Char Despote est équipé de Haut-parleurs d'embrigadement."
+ES: "PISTA:\nLos tanques Emperor vienen equipados con torres de propaganda"
+IT: "SUGGERIMENTO:\nI Carri Emperor sono dotati di Diffusori."
+KO: "힌트:\n엠퍼러 탱크는 프로퍼갠더 타워를 장비합니다."
+ZH: "建議：\n帝王坦克配備思想強化電塔"
+BP: "DICA:\nTanques Emperor vêm equipados com Torres de Propaganda"
+PL: "RADA:\nCzołg Imperator wyposażony jest w megafon"
+END
+
+HELP:TankDrop-01
+US: "HINT:\nThe Tank Drop allows you to parachute Battlemasters"
+DE: "TIPP:\nMit dem Panzer-Abwurf können Sie Battlemaster über dem Zielgebiet abwerfen."
+FR: "ASTUCE :\nLe Parachutage de chars vous permet de parachuter des Maîtres de guerre."
+ES: "PISTA:\nEl paracaídas de tanque te permite lanzar los Battlemaster"
+IT: "SUGGERIMENTO:\nIl Lancio carri permette di\nlanciare Battlemaster in battaglia."
+KO: "힌트:\n탱크 투하는 배틀 마스터를 투하할 수 있게 해 줍니다."
+ZH: "建議：\n升級空投坦克讓您可以空頭戰神坦克"
+BP: "DICA:\nO Lança Tanque permite que você lance de pára-quedas os Battlemasters"
+PL: "RADA:\nDesant czołgów umożliwia zrzucanie Pancernych Pięści z samolotów"
+END
+
+HELP:TacticalNuke-01
+US: "HINT:\nYour Airfield can upgrade MiGs to carry Tactical Nukes"
+DE: "TIPP:\nAuf Flugfeldern können MiGs mit taktischen Raketen bestückt werden."
+FR: "ASTUCE :\nVotre Aérodrome peut améliorer les Migs pour qu'ils transportent des bombes atomiques tactiques."
+ES: "PISTA:\nTu aeródromo puede mejorar MiG para que lleven cabezas nucleares tácticas"
+IT: "SUGGERIMENTO:\nL'Aeroporto può potenziare i MIG con testate\nnucleari tattiche."
+KO: "힌트:\n비행장에서 미그기에 전술 핵을 탑재할 수 있게 업그레이드 할 수 있습니다."
+ZH: "建議：\n您的機場可以讓米格機升級攜帶戰術核彈"
+BP: "DICA:\nSua Base Aérea pode atualizar MiGs para carregar Armas Nucleares Táticas"
+PL: "RADA:\nLotnisko może uzbroić MiG-i w taktyczne bomby atomowe"
+END
+
+HELP:IsotopeStability-01
+US: "HINT:\nIsotope Stability will reduce the damage done to friendly\nunits when Nuclear Tanks are destroyed"
+DE: "TIPP:\nDie Isotopstabilität verringert im Falle der Zerstörung eines Nuklearpanzers die Schäden an verbündeten Einheiten."
+FR: "ASTUCE :\nLa stabilité des isotopes permet de réduire les dégâts infligés aux unités\nalliées lorsque des Chars à Propulsion nucléaire sont détruits."
+ES: "PISTA:\nLa estabilidad del isótopo reducirá el daño a las\nunidades aliadas al destruirse los tanques nucleares"
+IT: "SUGGERIMENTO:\nLa Stabilità isotopo riduce i danni alle\nunità alleate quando vengono distrutti dei Carri nucleari."
+KO: "힌트:\n동위원소 안정성은 핵 탱크가 파괴될 때, 아군이 입는 피해를 감소시킵니다."
+ZH: "建議：\n同位素穩定化可以減低友軍的核子坦克\n遭摧毀時所散佈的輻射傷害"
+BP: "DICA:\nA Estabilidade Radioativa reduzirá os danos causados nas unidades aliadas quando os Tanques Nucleares forem destruídos"
+PL: "RADA:\nOdporność izotopowa zmniejszy szkody, jakie ponoszą\ntwoje jednostki po zniszczeniu czołgu atomowego"
+END
+
+HELP:AdvancedNuclearPower-01
+US: "HINT:\nAdvanced Nuclear Power Plants generate more power than normal Nuclear Plans"
+DE: "TIPP:\nVerbesserte Atomkraftwerke erzeugen mehr Energie."
+FR: "ASTUCE :\nLes centrales nucléaires améliorées génèrent plus de courant que les centrales normales."
+ES: "PISTA:\nLas centrales nucleares avanzadas generan más energía que las normales"
+IT: "SUGGERIMENTO:\nLe Centrali energetiche nucleari avanzate\ngenerano più energia di quelle normali."
+KO: "힌트:\n고급 핵 발전소는 일반 핵 발전소보다 더 많은 전력을 생산합니다."
+ZH: "建議：\n先進核子發電廠可以比一般核子電廠產生更多的電力"
+BP: "DICA:\nCentrais de Energia Nuclear Avançadas geram mais energia do que as Centrais de Energia normais"
+PL: "RADA:\nNowoczesna elektrownia jądrowa wytwarza więcej energii"
+END
+
+HELP:ToxinRebels-01
+US: "HINT:\nToxin Rebels shoot a stream of highly poisonous toxins"
+DE: "TIPP:\nSäure-Cyborgs attackieren ihre Gegner mit einer starken Säure."
+FR: "ASTUCE :\nLes Empoisonneurs rebelles tirent un jet de toxines très toxiques."
+ES: "PISTA:\nLos rebeldes de la toxina disparan un chorro muy venenoso"
+IT: "SUGGERIMENTO:\nI Ribelli con tossine lanciano delle tossine\naltamente velenose."
+KO: "힌트:\n독소 반군은 독성이 매우 강한 독소를 발사합니다."
+ZH: "建議：\n毒素反抗軍可以發射一連串致命的毒素"
+BP: "DICA:\nRebeldes Tóxicos disparam um fluxo de toxinas altamente venenosas"
+PL: "RADA:\nBuntownicy z toksyną wystrzeliwują strumienie wysoce zabójczej trucizny"
+END
+
+HELP:ToxinRebels-02
+US: "HINT:\nToxin Rebels are resistant to toxin attacks"
+DE: "TIPP:\nSäure-Cyborgs sind gegen Säureangriffe immun."
+FR: "ASTUCE :\nLes Empoisonneurs rebelles résistent aux attaques bactériologiques."
+ES: "PISTA:\nLos rebeldes de la toxina resisten los ataques con toxinas"
+IT: "SUGGERIMENTO:\nI Ribelli con tossine sono resistenti agli\nattacchi tossici."
+KO: "힌트:\n독소 반군은 독소에 대한 내성이 있습니다."
+ZH: "建議：\n毒素反抗軍對毒素攻擊具有抵抗性"
+BP: "DICA:\nRebeldes Tóxicos são resistentes a ataques de toxinas"
+PL: "RADA:\nBuntownicy z toksyną są odporni na atak toksyną"
+END
+
+HELP:ToxinRebels-03
+US: "HINT:\nUse Toxin Rebels to quickly clear out garrisoned structures"
+DE: "TIPP:\nMit Säure-Cyborgs können Sie befestigte Gebäude in kürzester Zeit räumen."
+FR: "ASTUCE :\nUtilisez les Empoisonneurs rebelles pour nettoyer rapidement les bâtiments de garnison."
+ES: "PISTA:\nUsa rebeldes de la toxina para vaciar los edificios guarnecidos"
+IT: "SUGGERIMENTO:\nUsate i Ribelli con tossine per ripulire le strutture\npresidiate."
+KO: "힌트:\n병력이 주둔한 건물을 빨리 소탕하려면 독소 반군을 이용하십시오."
+ZH: "建議：\n使用毒素反抗軍可以快速清除被駐守的建築"
+BP: "DICA:\nUse os Rebeldes Tóxicos para eliminar rapidamente as estruturas ocupadas"
+PL: "RADA:\nBuntownicy z toksyną mogą szybko oczyszczać obsadzone budynki"
+END
+
+HELP:ToxinNetworks-01
+US: "HINT:\nToxin Networks fire streams of toxin from their cannons"
+DE: "TIPP:\nDie Kanonen eines Säuresystems feuern Säure auf den Gegner ab."
+FR: "ASTUCE :\nLes canons des Réseaux de tunnels bactériologiques tirent des jets de toxines."
+ES: "PISTA:\nLas redes de toxina disparan chorros de toxina desde sus cañones"
+IT: "SUGGERIMENTO:\nLe Reti di tossine sparano un flusso di\ntossine con i loro cannoni."
+KO: "힌트:\n독소 네트워크는 자체 대포에서 독소를 발사합니다."
+ZH: "建議：\n毒素網路可以從加農炮上發射一連串的毒素"
+BP: "DICA:\nRedes Tóxicas disparam fluxos de toxina de seus canhões"
+PL: "RADA:\nSieć toksyny wystrzeliwuje strumienie trucizny ze swych działek"
+END
+
+HELP:ToxinTerrorists-01
+US: "HINT:\nToxin Terrorists explode in a cloud of toxin"
+DE: "TIPP:\nSäure-Bomben explodieren in einer gefährlichen Säurewolke."
+FR: "ASTUCE :\nLes Bioterroristes explosent en dégageant un nuage de toxines."
+ES: "PISTA:\nLos terroristas de la toxina explotan en una nube tóxica"
+IT: "SUGGERIMENTO:\nI Terroristi con tossine si fanno saltare\ncreando una nube velenosa."
+KO: "힌트:\n독소 테러리스트들은 자폭하며 독소 구름을 만듭니다."
+ZH: "建議：\n毒素恐怖份子會引爆出一片毒素雲"
+BP: "DICA:\nTerroristas Tóxicos explodem formando uma nuvem tóxica"
+PL: "RADA:\nToksyczny terrorysta wybucha w chmurze toksyny"
+END
+
+HELP:ToxinTerrorists-02
+US: "HINT:\nUse Toxin Terrorists to attack large groups of infantry"
+DE: "TIPP:\nSäure-Bomben greifen auch größere Cyborg-Verbände an."
+FR: "ASTUCE :\nUtilisez des Bioterroristes pour attaquer les groupes d'infanterie importants."
+ES: "PISTA:\nUsa terroristas de la toxina para atacar a grupos de infantería"
+IT: "SUGGERIMENTO:\nUsate i Terroristi con tossine per colpire\ngruppi di fanteria."
+KO: "힌트:\n대규모 보병을 공격할 때 독소 테러리스트를 이용하십시오."
+ZH: "建議：\n使用毒素恐怖份子去攻擊群集的步兵"
+BP: "DICA:\nUse Terroristas Tóxicos para atacar grandes grupos de infantaria"
+PL: "RADA:\nToksyczni terroryści znakomicie nadają się do atakowania dużych oddziałów piechoty"
+END
+
+HELP:AnthraxGamma-01
+US: "HINT:\nAnthrax Gamma increases the damage of all toxin attacks"
+DE: "TIPP:\nDas Gamma-Upgrade erhöht den Schaden aller Säureangriffe."
+FR: "ASTUCE :\nLe Gamma-Anthrax augmente les dégâts de toutes les attaques bactériologiques."
+ES: "PISTA:\nEl Ántrax gamma aumenta el daño de todos los ataques con toxinas"
+IT: "SUGGERIMENTO:\nL'Antrace gamma aumenta il danno di\ntutti gli attacchi tossici."
+KO: "힌트:\n탄저병 감마는 모든 독소 공격의 피해를 증폭시킵니다."
+ZH: "建議：\n炭疽菌伽瑪可以增加所有毒素攻擊的攻擊力"
+BP: "DICA:\nAntraz Gama aumenta o dano de todos os ataques tóxicos"
+PL: "RADA:\nWąglik Gamma zwiększa siłę wszystkich ataków toksyną"
+END
+
+HELP:AnthraxGamma-02
+US: "HINT:\nAnthrax Gamma is even more potent than Anthrax Beta"
+DE: "TIPP:\nDas Gamma-Upgrade ist effektiver als das Beta-Upgrade."
+FR: "ASTUCE :\nLe Gamma-Anthrax est encore plus puissant que le Beta-Anthrax."
+ES: "PISTA:\nEl Ántrax gamma es incluso más potente que el Ántrax beta"
+IT: "SUGGERIMENTO:\nL'Antrace gamma è ancora più potente\ndell'Antrace beta."
+KO: "힌트:\n탄저병 감마는 탄저병 베타보다 훨씬 강력합니다."
+ZH: "建議：\n炭疽菌伽瑪比炭疽菌貝塔更毒"
+BP: "DICA:\nAntraz Gama é bem mais potente do que o Antraz Beta"
+PL: "RADA:\nWąglik Gamma jest bardziej zjadliwy niż wąglik Beta"
+END
+
+HELP:AdvancedTrap-01
+US: "HINT:\nAdvanced Traps are more powerful than normal Demo Traps"
+DE: "TIPP:\nVerbesserte Fallen sind effektiver als normale Sprengfallen."
+FR: "ASTUCE :\nLes Pièges améliorés sont plus puissants que les Pièges explosifs standard."
+ES: "PISTA:\nLas trampas avanzadas son más potentes que las normales de demolición"
+IT: "SUGGERIMENTO:\nLe Trappole avanzate sono più potenti delle\nnormali Trappole demolitrici."
+KO: "힌트:\n고급 함정은 일반 폭약 함정보다 훨씬 더 강력합니다."
+ZH: "建議：\n先進陷阱比一般炸藥陷阱威力更強"
+BP: "DICA:\nArmadilhas Avançadas são mais poderosas do que as Armadilhas Normais"
+PL: "RADA:\nNowoczesne pułapki są potężniejsze od zwykłych pułapek wybuchowych"
+END
+
+HELP:Demolitions-01
+US: "HINT:\nThe Demolitions upgrade gives units the ability to detonate"
+DE: "TIPP:\nDas Demolieren-Upgrade ermöglicht Ihren Einheiten, sich selbst zu sprengen."
+FR: "ASTUCE :\nL'amélioration Charges explosives confère à vos unités la capacité d'exploser."
+ES: "PISTA:\nLa mejora de demoliciones permite que las unidades detonen"
+IT: "SUGGERIMENTO:\nIl potenziamento Demolizione consente alle\nunità di esplodere."
+KO: "힌트:\n데몰리션 업그레이드는 유닛에 폭발 능력을 제공합니다."
+ZH: "建議：\n升級炸藥可讓單位擁有引爆炸藥的能力"
+BP: "DICA:\nA atualização das Cargas de Demolição concede às unidades a habilidade de explodi-las"
+PL: "RADA:\nWyposażenie jednostki w materiały wybuchowe umożliwia jej detonację"
+END
+
+HELP:OilRefinery-01
+US: "HINT:\nCapture Oil Refineries to reduce the cost of vehicles"
+DE: "TIPP:\nErobern Sie Raffinerien, um die Kosten für Fahrzeuge zu senken."
+FR: "ASTUCE :\nCapturez des Complexes pétrochimiques pour réduire le coût des véhicules."
+ES: "PISTA:\nCaptura refinerías de petróleo para reducir el coste de los vehículos"
+IT: "SUGGERIMENTO:\nConquistate le Raffinerie per ridurre il costo\ndei veicoli."
+KO: "힌트:\n차량 생산 비용을 줄이려면 정유 공장을 점령하십시오."
+ZH: "建議：\n佔領煉油廠以降低建造載具的花費"
+BP: "DICA:\nCapture as Refinarias de Petróleo para diminuir o custo dos veículos"
+PL: "RADA:\nZajmuj rafinerie w celu zmniejszania kosztów budowy pojazdów"
+END
+
+HELP:ReinforcementPad-01
+US: "HINT:\nCapture Reinforcement Pads to gain tank reinforcements"
+DE: "TIPP:\nErobern Sie Entsatzzonen, um zusätzliche Panzer anzufordern."
+FR: "ASTUCE :\nCapturez des plates-formes de renforts pour obtenir des renforts de chars."
+ES: "PISTA:\nCaptura plataformas de refuerzo para obtener refuerzos de tanque"
+IT: "SUGGERIMENTO:\nConquistate i Centri rinforzo per potenziare\ni carri armati."
+KO: "힌트:\n탱크 지원부대를 얻으려면 지원군 패드를 점령하십시오."
+ZH: "建議：\n佔領增援機坪以獲得坦克增援"
+BP: "DICA:\nCapture as Plataformas de Reforço para reforçar os seus tanques"
+PL: "RADA:\nZajmuj platformy uzupełnień w celu uzyskania dodatkowych czołgów"
+END
+
+HELP:OilDerrick-01
+US: "HINT:\nCapture Oil Derricks to gain extra money"
+DE: "Tipp:\nErobern Sie Bohrtürme, um sich zusätzliche Einnahmen zu sichern."
+FR: "ASTUCE :\nCapturez des Derricks de pétrole pour gagner plus d'argent."
+ES: "PISTA:\nCaptura torres de perf. para obtener dinero extra"
+IT: "SUGGERIMENTO:\nConquistate i Derrick per ottenere denaro extra."
+KO: "힌트:\n추가 자금을 획득하려면 원유 유정탑을 점령하십시오."
+ZH: "建議：\n佔領油井以獲得額外的資金"
+BP: "DICA:\nCapture os Poços de Petróleo para ganhar mais dinheiro"
+PL: "RADA:\nZajmuj szyby naftowe, by uzyskać większy dochód"
+END
+
+HELP:RepairBay-01
+US: "HINT:\nCapture Repair Bays to repair vehicles anywhere"
+DE: "TIPP:\nErobern Sie Reparaturplattformen, damit Sie Ihre Fahrzeuge überall reparieren können."
+FR: "ASTUCE :\nCapturez des Plates-formes de réparation pour réparer vos véhicules n'importe où."
+ES: "PISTA:\nCaptura compart. de reparación para reparar vehículos en cualquier sitio"
+IT: "SUGGERIMENTO:\nConquistate il Garage per riparare veicoli."
+KO: "힌트:\n어디서든 차량을 수리하려면 수리 시설을 점령하십시오."
+ZH: "建議：\n佔領維修機坪以獲得於任何地點維修載具的能力"
+BP: "DICA:\nCapture as Alas de Reparo para reparar veículos em qualquer lugar"
+PL: "RADA:\nZajmuj platformy naprawcze w celu reperowania pojazdów w dowolnym miejscu"
+END
+
+HELP:ArtilleryPlatform-01
+US: "HINT:\nCapture Artillery Platforms to control key regions"
+DE: "TIPP:\nErobern Sie Artillerieplattformen, um Schlüsselpositionen zu sichern."
+FR: "ASTUCE :\nCapturez des Plates-formes d'artillerie pour contrôler les régions clés"
+ES: "PISTA:\nCaptura estaciones de artillería para controlar regiones clave"
+IT: "SUGGERIMENTO:\nConquistate le Postazioni d'artiglieria per\ncontrollare i punti chiave."
+KO: "힌트:\n핵심 지역을 통제하려면 캐논 플랫폼을 점령하십시오."
+ZH: "建議：\n佔領砲兵陣地以掌控主要地區"
+BP: "DICA:\nCapture as Plataformas de Artilharia para controlar regiões importantes"
+PL: "RADA:\nZajmuj platformy artyleryjskie w celu przejęcia kontroli nad kluczowymi punktami"
+END
+
+HELP:Hijacker-01
+US: "HINT:\nMove a Hijacker into an enemy vehicle to steal it"
+DE: "TIPP:\nSetzen Sie einen Entführer in ein feindliches Fahrzeug, um es zu stehlen."
+FR: "ASTUCE :\nLes Pirates de la route peuvent monter dans les véhicules ennemis pour les voler."
+ES: "PISTA:\nLleva un secuestrador hasta un vehículo enemigo para robarlo"
+IT: "SUGGERIMENTO:\nPortate un Dirottatore sopra un veicolo nemico per rubarlo."
+KO: "힌트:\n적 차량으로 하이재커를 이동하여 탈취하십시오."
+ZH: "建議：\n將劫持犯潛入敵軍載具並偷取它"
+BP: "DICA:\nMova um Seqüestrador em um veículo inimigo para roubá-lo"
+PL: "RADA:\nWprowadź porywacza do nieprzyjacielskiego pojazdu, by go ukraść"
+END

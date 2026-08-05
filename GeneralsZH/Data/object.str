@@ -1,0 +1,5315 @@
+OBJECT:Beacon
+US: "Beacon"
+DE: "Notiz"
+FR: "Balise"
+ES: "Señal"
+IT: "Radiofaro"
+KO: "비컨"
+ZH: "標記"
+BP: "Sinalizador"
+PL: "Znak"
+END
+
+OBJECT:Dam
+US: "Dam"
+DE: "Damm"
+FR: "Barrage"
+ES: "Presa"
+IT: "Diga"
+KO: "댐"
+ZH: "水壩"
+BP: "Represa"
+PL: "Zapora"
+END
+
+OBJECT:CommandCenter
+US: "Command Center"
+DE: "Kommandozentrale"
+FR: "Poste de commandement"
+ES: "Centro de mando"
+IT: "Centro comando"
+KO: "커맨드 센터"
+ZH: "指揮中心"
+BP: "Centro de Comando"
+PL: "Sztab"
+END
+
+OBJECT:ColdFusionReactor
+US: "Cold Fusion Reactor"
+DE: "Fusionsreaktor"
+FR: "Réacteur à fusion froide"
+ES: "Reactor de fusión fría"
+IT: "Reattore a fusione a freddo"
+KO: "상온핵융합 발전소"
+ZH: "冷融合反應爐"
+BP: "Reator de Fusão a Frio"
+PL: "Reaktor zimnej fuzji"
+END
+
+OBJECT:NuclearReactor
+US: "Nuclear Reactor"
+DE: "Atomreaktor"
+FR: "Réacteur nucléaire"
+ES: "Reactor nuclear"
+IT: "Reattore nucleare"
+KO: "원자력 발전소"
+ZH: "核子反應爐"
+BP: "Reator Nuclear"
+PL: "Reaktor jądrowy"
+END
+
+OBJECT:DemoTrap
+US: "Demo Trap"
+DE: "Sprengfalle"
+FR: "Piège explosif"
+ES: "Trampa de demolición"
+IT: "Trappola demolitrice"
+KO: "폭약 함정"
+ZH: "圈套炸彈"
+BP: "Armadilha"
+PL: "Pułapka wybuchowa"
+END
+
+OBJECT:PowerPlant
+US: "Power Plant"
+DE: "Kraftwerk"
+FR: "Centrale électrique"
+ES: "Central eléctrica"
+IT: "Centrale energetica"
+KO: "발전소"
+ZH: "發電廠"
+BP: "Central de Energia"
+PL: "Elektrownia"
+END
+
+OBJECT:DetentionCamp
+US: "Detention Camp"
+DE: "Gefangenenlager"
+FR: "Pénitencier"
+ES: "Campo de prisioneros"
+IT: "Campo di detenzione"
+KO: "포로 수용소"
+ZH: "拘留營"
+BP: "Campo de Detenção"
+PL: "Obóz internowania"
+END
+
+OBJECT:StrategyCenter
+US: "Strategy Center"
+DE: "Strategiezentrum"
+FR: "Commandement tactique"
+ES: "Centro de estrategia"
+IT: "Centro strategico"
+KO: "전략 센터"
+ZH: "策略中心"
+BP: "Central de Estratégia"
+PL: "Ośrodek badań strategicznych"
+END
+
+OBJECT:Airfield
+US: "Air Field"
+DE: "Flugfeld"
+FR: "Aérodrome"
+ES: "Aeródromo"
+IT: "Aeroporto"
+KO: "비행장"
+ZH: "機場"
+BP: "Base Aérea"
+PL: "Lotnisko"
+END
+
+OBJECT:SupplyCenter
+US: "Supply Center"
+DE: "Nachschublager"
+FR: "Dépôt de ravitaillement"
+ES: "Centro de suministros"
+IT: "Centro rifornimenti"
+KO: "서플라이 센터"
+ZH: "補給中心"
+BP: "Central de Suprimentos"
+PL: "Ośrodek zaopatrzeniowy"
+END
+
+OBJECT:AmericaSupplyDropZone
+US: "Supply Drop Zone"
+DE: "Abwurfzone"
+FR: "Pont aérien"
+ES: "Zona de lanzamiento de suministros"
+IT: "Zona di lancio dei rifornimenti"
+KO: "투하지역"
+ZH: "補給空投區"
+BP: "Zona de Abastecimento Aéreo"
+PL: "Strefa zrzutu"
+END
+
+OBJECT:SupplyStash
+US: "Supply Stash"
+DE: "Geheimlager"
+FR: "Cache de ravitaillement"
+ES: "Reserva de suministros"
+IT: "Nucleo rifornimenti"
+KO: "서플라이 은닉처"
+ZH: "補給站"
+BP: "Armazém de Suprimentos"
+PL: "Skład zaopatrzenia"
+END
+
+OBJECT:Barracks
+US: "Barracks"
+DE: "Cyborg-Kaserne"
+FR: "Caserne"
+ES: "Barracones"
+IT: "Caserma"
+KO: "막사"
+ZH: "兵營"
+BP: "Quartel"
+PL: "Koszary"
+END
+
+OBJECT:BlackMarket
+US: "Black Market"
+DE: "Schwarzmarkt"
+FR: "Marché noir"
+ES: "Mercado Negro"
+IT: "Mercato nero"
+KO: "암시장"
+ZH: "黑市"
+BP: "Mercado Negro"
+PL: "Czarny rynek"
+END
+
+OBJECT:WarFactory
+US: "War Factory"
+DE: "Waffenfabrik"
+FR: "Complexe militaro-industriel"
+ES: "Fábrica de guerra"
+IT: "Fabbrica militare"
+KO: "군수공장"
+ZH: "戰車工廠"
+BP: "Fábrica de Armamentos"
+PL: "Fabryka wojenna"
+END
+
+OBJECT:ArmsDealer
+US: "Arms Dealer"
+DE: "Waffenhändler"
+FR: "Trafiquant d'armes"
+ES: "Tienda de armas"
+IT: "Trafficante d'armi"
+KO: "무기상"
+ZH: "軍火商"
+BP: "Negociante de Armas"
+PL: "Handlarz bronią"
+END
+
+OBJECT:AmmoCache
+US: "Ammo Cache"
+DE: "Munitionslager"
+FR: "Cache de munitions"
+ES: "Alijo de municiones"
+IT: "Deposito di munizioni"
+KO: "탄약 은닉처"
+ZH: "軍火庫"
+BP: "Depósito de Munição"
+PL: "Skład amunicji"
+END
+
+OBJECT:AmphibiousTransport
+US: "Amphibious Transport"
+DE: "Amphibientransporter"
+FR: "Transport amphibie"
+ES: "Transporte anfibio"
+IT: "Trasporto anfibio"
+KO: "수륙양용 수송선"
+ZH: "兩棲運輸"
+BP: "Transporte Anfíbio"
+PL: "Transporter pływający"
+END
+
+OBJECT:AutoFerry
+US: "Automobile Ferry"
+DE: "Autofähre"
+FR: "Ferry"
+ES: "Transbordador de automóviles"
+IT: "Traghetto"
+KO: "차량 페리"
+ZH: "汽車渡輪"
+BP: "Transporte de Veículos"
+PL: "Prom samochodowy"
+END
+
+OBJECT:TrainGuide
+US: "Train Guide"
+DE: "Zugführer"
+FR: "Aiguillage"
+ES: "Guía del ferrocarril"
+IT: "Scambio"
+KO: "기차 가이드"
+ZH: "訓練指南"
+BP: "Controle de Trilhos"
+PL: "Zwrotnica"
+END
+
+OBJECT:AngryMob
+US: "Angry Mob"
+DE: "Cyborg-Trupp"
+FR: "Emeutiers"
+ES: "Turba"
+IT: "Folla inferocita"
+KO: "성난 군중"
+ZH: "狂暴暴民"
+BP: "Multidão Revoltada"
+PL: "Wściekły tłum"
+END
+
+OBJECT:TankHunter
+US: "Tank Hunter"
+DE: "Panzerjäger"
+FR: "Tueur de chars"
+ES: "Cazatanques"
+IT: "Cacciatore di carri"
+KO: "탱크 헌터"
+ZH: "坦克獵人"
+BP: "Caçador de Tanques"
+PL: "Tropiciel czołgów"
+END
+
+OBJECT:Apartment
+US: "Apartment"
+DE: "Apartment"
+FR: "Appartement"
+ES: "Apartamento"
+IT: "Appartamento"
+KO: "아파트"
+ZH: "公寓"
+BP: "Apartamentos"
+PL: "Apartament"
+END
+
+OBJECT:ChemicalFactory
+US: "Chemical Factory"
+DE: "Säurefabrik"
+FR: "Usine chimique"
+ES: "Planta química"
+IT: "Impianto chimico"
+KO: "화학 공장"
+ZH: "化學工廠"
+BP: "Indústria Química"
+PL: "Fabryka chemiczna"
+END
+
+OBJECT:GovBuilding
+US: "Government Building"
+DE: "Regierungsgebäude"
+FR: "Siège du gouvernement"
+ES: "Edificio administrativo"
+IT: "Edificio governativo"
+KO: "정부 건물"
+ZH: "政府大樓"
+BP: "Prédio do Governo"
+PL: "Budynek rządowy"
+END
+
+OBJECT:TechHospital
+US: "Hospital -- Capture to allow all infantry to auto heal"
+DE: "Cyborgwerkstatt – Erobern, um Infanterie-Cyborgs automatisch zu reparieren."
+FR: "Hôpital : s'en emparer permet une guérison automatique de l'infanterie."
+ES: "Hospital -- Capturar para que la infantería se cure automáticamente."
+IT: "Ospedale - Conquistalo per consentire alla fanteria la cura automatica"
+KO: "병원 -- 점령 시 모든 보병이 자동 회복됩니다."
+ZH: "醫院 -- 佔領後能讓所有步兵單位自動補血。"
+BP: "Hospital - Capture esta instalação para permitir que todas as suas unidades de infantaria se curem."
+PL: "Szpital"
+END
+
+OBJECT:ApartmentComplex
+US: "Apartment Complex"
+DE: "Apartmentanlage"
+FR: "Complexe immobilier"
+ES: "Complejo de apartamentos"
+IT: "Complesso d'appartamenti"
+KO: "아파트 단지"
+ZH: "複合式公寓"
+BP: "Condomínio"
+PL: "Budynek mieszkalny"
+END
+
+OBJECT:SpyPost
+US: "Spy Post"
+DE: "Spionage-Posten"
+FR: "Poste espion"
+ES: "Puesto Espía"
+IT: "Postazione spia"
+KO: "스파이 포스트"
+ZH: "間諜站"
+BP: "Posto de Espionagem"
+PL: "Posterunek szpiegowski"
+END
+
+OBJECT:SupplyPile
+US: "Supply Pile"
+DE: "Rohstoffe"
+FR: "Réserve"
+ES: "Montón de suministros"
+IT: "Zona di rifornimento"
+KO: "서플라이 더미"
+ZH: "補給堆"
+BP: "Suprimentos"
+PL: "Stos zaopatrzenia"
+END
+
+OBJECT:TrainStation
+US: "Train Station"
+DE: "Bahnhof"
+FR: "Gare"
+ES: "Estación de ferrocarril"
+IT: "Stazione ferroviaria"
+KO: "기차역"
+ZH: "火車站"
+BP: "Estação de Trem"
+PL: "Dworzec"
+END
+
+OBJECT:TechRadioStation
+US: "Radio Station"
+DE: "Radiosender"
+FR: "Station radio"
+ES: "Emisora"
+IT: "Stazione radio"
+KO: "라디오 방송국"
+ZH: "廣播電台"
+BP: "Estação de Rádio"
+PL: "Radiostacja"
+END
+
+OBJECT:TechOilDerrick
+US: "Oil Derrick -- Capture to receive additional funds"
+DE: "Ölförderturm -- Erobern, um zusätzliche Rohstoffe zu gewinnen."
+FR: "Derrick de pétrole : s'en emparer permet de recevoir des fonds supplémentaires."
+ES: "Torre de perforación -- Capturar para recibir recursos adicionales."
+IT: "Pozzo Derrick - Conquistalo per ricevere fondi aggiuntivi"
+KO: "원유 유정탑 -- 점령 시 추가적 자금이 들어옵니다."
+ZH: "油井 -- 佔領後能獲得額外的資金。"
+BP: "Poço de Petróleo - Capture esta instalação para receber recursos adicionais."
+PL: "Szyb naftowy"
+END
+
+OBJECT:Arcade
+US: "Arcade"
+DE: "Spielhalle"
+FR: "Arcade"
+ES: "Arcada"
+IT: "Sala giochi"
+KO: "아케이드"
+ZH: "騎樓"
+BP: "Fliperama"
+PL: "Arkada"
+END
+
+OBJECT:Aurora
+US: "Aurora Bomber"
+DE: "Aurora-\nBomber"
+FR: "Bombardier Aurora"
+ES: "Bombardero Aurora"
+IT: "Bombardiere Aurora"
+KO: "오로라 폭격기"
+ZH: "曙光轟炸機"
+BP: "Bombardeiro Aurora"
+PL: "Bombowiec Aurora"
+END
+
+OBJECT:A10Thunderbolt
+US: "A10 Thunderbolt"
+DE: "E10 Thunderflash"
+FR: "Tonnerre A10"
+ES: "A10 Thunderbolt"
+IT: "A10 Thunderbolt"
+KO: "A10 썬더볼트"
+ZH: "A10 雷電攻擊機"
+BP: "A-10 Thunderbolt"
+PL: "A10 Thunderbolt"
+END
+
+OBJECT:AVPOWTRUCK
+US: "POW Truck"
+DE: "Gefangenentransporter"
+FR: "Camion prisonniers"
+ES: "Camión de prisioneros"
+IT: "Camion prigionieri"
+KO: "POW 트럭"
+ZH: "托式飛彈卡車"
+BP: "Caminhão de Prisioneiros"
+PL: "Ciężarówka z jeńcami"
+END
+
+OBJECT:B52
+US: "B52"
+DE: "P52"
+FR: "B52"
+ES: "B52"
+IT: "B52"
+KO: "B52"
+ZH: "B52 轟炸機"
+BP: "B-52"
+PL: "B52"
+END
+
+OBJECT:BMW
+US: "Car"
+DE: "Auto"
+FR: "Voiture"
+ES: "Coche"
+IT: "Auto"
+KO: "차량"
+ZH: "汽車"
+BP: "Carro"
+PL: "Samochód"
+END
+
+OBJECT:Bank
+US: "Bank"
+DE: "Bank"
+FR: "Banque"
+ES: "Banco"
+IT: "Banca"
+KO: "은행"
+ZH: "銀行"
+BP: "Banco"
+PL: "Bank"
+END
+
+OBJECT:BarnCoop
+US: "Barn Coop"
+DE: "Kolchose"
+FR: "Poulailler"
+ES: "Gallinero"
+IT: "Rivendita agricola"
+KO: "곳간"
+ZH: "穀倉欄舍"
+BP: "Cercado da Fazenda"
+PL: "Przybudówka"
+END
+
+OBJECT:BarnShed
+US: "Barn Shed"
+DE: "Bauernhaus"
+FR: "Resserre"
+ES: "Cobertizo"
+IT: "Fattoria"
+KO: "헛간"
+ZH: "穀倉小屋"
+BP: "Barracão da Fazenda"
+PL: "Stodoła"
+END
+
+OBJECT:Barrel
+US: "Barrel"
+DE: "Fass"
+FR: "Tonneau"
+ES: "Barril"
+IT: "Barile"
+KO: "배럴"
+ZH: "桶子"
+BP: "Barril"
+PL: "Beczka"
+END
+
+OBJECT:BattleDrone
+US: "Battle Drone"
+DE: "Kampfdrohne"
+FR: "Drone de combat"
+ES: "Teledirigido de combate"
+IT: "Drone da battaglia"
+KO: "배틀 드론"
+ZH: "攻擊蜂型機"
+BP: "Drone de Combate"
+PL: "Robot bojowy"
+END
+
+OBJECT:BattleMaster
+US: "Battlemaster"
+DE: "Battlemaster"
+FR: "Maître de guerre"
+ES: "Battlemaster"
+IT: "Battlemaster"
+KO: "배틀마스터"
+ZH: "戰神坦克"
+BP: "Battlemaster"
+PL: "Pancerna Pięść"
+END
+
+OBJECT:Battleship
+US: "Battleship"
+DE: "Schlachtschiff"
+FR: "Cuirassé"
+ES: "Buque de guerra"
+IT: "Nave da guerra"
+KO: "전함"
+ZH: "戰艦"
+BP: "Encouraçado"
+PL: "Okręt liniowy"
+END
+
+OBJECT:BigRig
+US: "Big Rig"
+DE: "LKW"
+FR: "Semi-remorque"
+ES: "Camión grande"
+IT: "TIR"
+KO: "빅 릭"
+ZH: "大帆船"
+BP: "Caminhão"
+PL: "Pociąg drogowy"
+END
+
+OBJECT:BikeRack
+US: "Bike Rack"
+DE: "Pete´s Fahrradständer"
+FR: "Support à vélo"
+ES: "Portaequipajes de bici"
+IT: "Rastrelliera per biciclette"
+KO: "바이크 랙"
+ZH: "腳踏車架"
+BP: "Engate p/ Bicicletas"
+PL: "Stojak rowerowy"
+END
+
+OBJECT:Billboard
+US: "Billboard"
+DE: "Werbetafel"
+FR: "Panneau publicitaire"
+ES: "Valla"
+IT: "Cartellone"
+KO: "빌보드"
+ZH: "告示牌"
+BP: "Outdoor"
+PL: "Tablica"
+END
+
+OBJECT:Bird
+US: "Bird"
+DE: "Vogel"
+FR: "Oiseau"
+ES: "Pájaro"
+IT: "Uccello"
+KO: "새"
+ZH: "鳥"
+BP: "Pássaro"
+PL: "Ptak"
+END
+
+OBJECT:BombTruck
+US: "Bomb Truck"
+DE: "Bomben-LKW"
+FR: "Camion piégé"
+ES: "Camión bomba"
+IT: "Camion-bomba"
+KO: "폭탄 트럭"
+ZH: "炸彈卡車"
+BP: "Caminhão Bomba"
+PL: "Ciężarówka z bombą"
+END
+
+OBJECT:Boulders
+US: "Boulders"
+DE: "Felsen"
+FR: "Roches"
+ES: "Rocas"
+IT: "Macigni"
+KO: "바위"
+ZH: "卵石"
+BP: "Rocha"
+PL: "Kamienie"
+END
+
+OBJECT:Boxes
+US: "Boxes"
+DE: "Kisten"
+FR: "Boîtes"
+ES: "Cajas"
+IT: "Casse"
+KO: "박스"
+ZH: "箱子"
+BP: "Caixas"
+PL: "Skrzynie"
+END
+
+OBJECT:BrickWall
+US: "Brick Wall"
+DE: "Ziegelmauer"
+FR: "Mur en briques"
+ES: "Pared de ladrillos"
+IT: "Muro di mattoni"
+KO: "돌담"
+ZH: "磚牆"
+BP: "Muro de Tijolos"
+PL: "Mur ceglany"
+END
+
+OBJECT:BrokenWall
+US: "Broken Wall"
+DE: "Zerstörte Mauer"
+FR: "Mur effondré"
+ES: "Pared derribada"
+IT: "Muro distrutto"
+KO: "무너진 담"
+ZH: "毀壞的牆"
+BP: "Muro Quebrado"
+PL: "Uszkodzony mur"
+END
+
+OBJECT:Bunker
+US: "Bunker"
+DE: "Bunker"
+FR: "Bunker"
+ES: "Búnker"
+IT: "Bunker"
+KO: "벙커"
+ZH: "碉堡"
+BP: "Bunker"
+PL: "Bunkier"
+END
+
+OBJECT:BurningBarricade
+US: "Burning Barricade"
+DE: "Brennende Barrikade"
+FR: "Barricade en flammes"
+ES: "Barricada ardiendo"
+IT: "Barricata in fiamme"
+KO: "버닝 배리케이드"
+ZH: "火焰牆"
+BP: "Barricada em Chamas"
+PL: "Płonąca barykada"
+END
+
+OBJECT:Checkpoint
+US: "Checkpoint"
+DE: "Kontrollpunkt"
+FR: "Point de passage"
+ES: "Control"
+IT: "Punto di controllo"
+KO: "체크포인트"
+ZH: "檢查站"
+BP: "Barreira Policial"
+PL: "Rogatka policyjna"
+END
+
+OBJECT:BusStop
+US: "Bus Stop"
+DE: "Bushaltestelle"
+FR: "Arrêt de bus"
+ES: "Parada de bus"
+IT: "Fermata dell'autobus"
+KO: "버스 정류장"
+ZH: "巴士站"
+BP: "Ponto de Ônibus"
+PL: "Przystanek"
+END
+
+OBJECT:Bush
+US: "Bush"
+DE: "Busch"
+FR: "Buisson"
+ES: "Arbusto"
+IT: "Cespuglio"
+KO: "덤불"
+ZH: "灌木叢"
+BP: "Arbusto"
+PL: "Krzak"
+END
+
+OBJECT:Camaro
+US: "Car"
+DE: "Auto"
+FR: "Voiture"
+ES: "Coche"
+IT: "Auto"
+KO: "차량"
+ZH: "汽車"
+BP: "Carro"
+PL: "Samochód"
+END
+
+OBJECT:CarBug
+US: "Car"
+DE: "Auto"
+FR: "Voiture"
+ES: "Coche"
+IT: "Auto"
+KO: "차량"
+ZH: "汽車"
+BP: "Carro"
+PL: "Garbus"
+END
+
+OBJECT:CarSwatchEuro
+US: "Car"
+DE: "Auto"
+FR: "Voiture"
+ES: "Coche"
+IT: "Auto"
+KO: "차량"
+ZH: "汽車"
+BP: "Carro"
+PL: "Samochód europejski"
+END
+
+OBJECT:CargoLoadingCranes
+US: "Cargo Loading Cranes"
+DE: "Verladekräne"
+FR: "Grue à marchandises"
+ES: "Grúas para cargamento"
+IT: "Gru di carico"
+KO: "화물 적재 크레인"
+ZH: "貨物裝載起重機"
+BP: "Guindaste de Carga"
+PL: "Żurawie"
+END
+
+OBJECT:CargoNet
+US: "Cargo Net"
+DE: "Lastennetz"
+FR: "Filet d'arrimage"
+ES: "Red de cargamento"
+IT: "Rete di carico"
+KO: "화물 넷"
+ZH: "貨網"
+BP: "Rede de Carga"
+PL: "Sieć załadunkowa"
+END
+
+OBJECT:Cart
+US: "Cart"
+DE: "Kutsche"
+FR: "Charrette"
+ES: "Carro"
+IT: "Carrello"
+KO: "카트"
+ZH: "貨車"
+BP: "Carroça"
+PL: "Wóz"
+END
+
+OBJECT:ChainLinkFence
+US: "Chain-link Fence"
+DE: "Zaun"
+FR: "Grillage"
+ES: "Valla de Alambre"
+IT: "Recinzione in metallo"
+KO: "펜스"
+ZH: "鍊條圍欄"
+BP: "Cerca de Arame"
+PL: "Ogrodzenie"
+END
+
+OBJECT:Chalet
+US: "Chalet"
+DE: "Chalet"
+FR: "Chalet"
+ES: "Chalet"
+IT: "Chalet"
+KO: "샬레"
+ZH: "農舍"
+BP: "Chalé"
+PL: "Wygódka"
+END
+
+OBJECT:CheckPointCrossingGuard
+US: "Checkpoint"
+DE: "Bahnschranke"
+FR: "Point de passage"
+ES: "Control"
+IT: "Punto di controllo"
+KO: "체크포인트"
+ZH: "檢查站"
+BP: "Barreira Policial"
+PL: "Rogatka"
+END
+
+OBJECT:Chinook
+US: "Chinook"
+DE: "Chinook"
+FR: "Chinook"
+ES: "Chinook"
+IT: "Chinook"
+KO: "치누크"
+ZH: "運輸直昇機"
+BP: "Chinook"
+PL: "Chinook"
+END
+
+OBJECT:Church
+US: "Church"
+DE: "Kirche"
+FR: "Eglise"
+ES: "Iglesia"
+IT: "Chiesa"
+KO: "교회"
+ZH: "教堂"
+BP: "Igreja"
+PL: "Kościół"
+END
+
+OBJECT:Clete
+US: "Cleat"
+DE: "Boot"
+FR: "Bite d'amarrage"
+ES: "Embarcación"
+IT: "Barca"
+KO: "클리트"
+ZH: "克爾特"
+BP: "Barco"
+PL: "Poler"
+END
+
+OBJECT:ClothesLine
+US: "Clothesline"
+DE: "Wäscheleine"
+FR: "Vêtements"
+ES: "Cuerda de tender"
+IT: "Corda per il bucato"
+KO: "빨랫줄"
+ZH: "曬衣繩"
+BP: "Varal"
+PL: "Sznur do suszenia"
+END
+
+OBJECT:Comanche
+US: "Comanche"
+DE: "Comanche"
+FR: "Comanche"
+ES: "Comanche"
+IT: "Comanche"
+KO: "코만치"
+ZH: "卡曼契"
+BP: "Comanche"
+PL: "Comanche"
+END
+
+OBJECT:ComancheHull
+US: "Comanche Hull"
+DE: "Comanche-Wrack"
+FR: "Débris de Comanche"
+ES: "Restos de Comanche"
+IT: "Resti"
+KO: "코만치 동체"
+ZH: "卡曼契機殼"
+BP: "Comanche Destruído"
+PL: "Kadłub Comanche'a"
+END
+
+OBJECT:CompactCar
+US: "Compact Car"
+DE: "Kleinwagen"
+FR: "Voit. tourisme"
+ES: "Coche compacto"
+IT: "Utilitaria"
+KO: "컴팩트 카"
+ZH: "小汽車"
+BP: "Carro Compacto"
+PL: "Samochodzik"
+END
+
+OBJECT:Ambassador
+US: "Ambassador"
+DE: "Botschafter"
+FR: "Ambassadeur"
+ES: "Embajador"
+IT: "Ambasciatore"
+KO: "대사"
+ZH: "大使"
+BP: "Embaixador"
+PL: "Ambasador"
+END
+
+OBJECT:Redguard
+US: "Red Guard"
+DE: "Standard-Cyborg"
+FR: "Garde rouge"
+ES: "Guardia Roja"
+IT: "Guardia Rossa"
+KO: "홍위병"
+ZH: "紅衛兵"
+BP: "Guarda Vermelho"
+PL: "Czerwonogwardzista"
+END
+
+OBJECT:ConstructionBarricade
+US: "Construction Barricade"
+DE: "Absperrung"
+FR: "Barrière de chantier"
+ES: "Barricada de construcción"
+IT: "Barriera antitraffico"
+KO: "컨스트럭션 배리케이드"
+ZH: "建造火焰牆"
+BP: "Barricada de Construção"
+PL: "Bariera budowlana"
+END
+
+OBJECT:ConvenienceStore
+US: "Convenience Store"
+DE: "KWIK-E-markt"
+FR: "Supérette"
+ES: "Supermercado"
+IT: "Centro commerciale"
+KO: "편의점"
+ZH: "便利商店"
+BP: "Supermercado"
+PL: "Supermarket"
+END
+
+OBJECT:ConvoyTruck
+US: "Convoy Truck"
+DE: "Transport-LKW"
+FR: "Convoi exceptionnel"
+ES: "Camión Convoy"
+IT: "TIR"
+KO: "호송 트럭"
+ZH: "護衛卡車"
+BP: "Caminhão do Comboio"
+PL: "Ciężarówka"
+END
+
+OBJECT:Cottage
+US: "Cottage"
+DE: "Hütte"
+FR: "Ferme"
+ES: "Casita"
+IT: "Cottage"
+KO: "오두막"
+ZH: "農舍"
+BP: "Cabana"
+PL: "Chatka"
+END
+
+OBJECT:Crate
+US: "Crate"
+DE: "Kiste"
+FR: "Caisse"
+ES: "Cajón"
+IT: "Cassa"
+KO: "크레이트"
+ZH: "箱子"
+BP: "Caixa"
+PL: "Paka"
+END
+
+OBJECT:CrossingGuard
+US: "Crossing Guard"
+DE: "Bahnübergang"
+FR: "Croisement"
+ES: "Paso a nivel"
+IT: "Passaggio a livello"
+KO: "크로싱 가드"
+ZH: "交叉守衛"
+BP: "Cancela de Cruzamento"
+PL: "Przejazd kolejowy"
+END
+
+OBJECT:Crusader
+US: "Crusader"
+DE: "Crusader-Panzer"
+FR: "Crusader"
+ES: "Crusader"
+IT: "Crusader"
+KO: "크루세이더"
+ZH: "十字軍坦克"
+BP: "Crusader"
+PL: "Krzyżowiec"
+END
+
+OBJECT:Paladin
+US: "Paladin"
+DE: "Paladin"
+FR: "Paladin"
+ES: "Paladin"
+IT: "Paladin"
+KO: "팔라딘"
+ZH: "帕拉丁坦克"
+BP: "Paladin"
+PL: "Paladyn"
+END
+
+OBJECT:DaisyCutterBomb
+US: "Fuel Air Bomb"
+DE: "Benzinbombe"
+FR: "Bombe aéro-incendiaire"
+ES: "Bomba incendiaria"
+IT: "Bomba a benzina"
+KO: "기화 폭탄"
+ZH: "油氣彈"
+BP: "Bomba Incendiária"
+PL: "Bomba zapalająca"
+END
+
+OBJECT:BlackMarketNuke
+US: "Black Market Nuke"
+DE: "Schwarzmarkt-Atombombe"
+FR: "Arme nucléaire illégale"
+ES: "Cabeza nuc Mercado Negro"
+IT: "Testata nucleare"
+KO: "암시장 핵"
+ZH: "黑市核武"
+BP: "Bomba Nuclear"
+PL: "Czarnorynkowa atomówka"
+END
+
+OBJECT:ToxinTank
+US: "Toxin Tank"
+DE: "Säuretraktor"
+FR: "Char bactériologique"
+ES: "Tanque de toxinas"
+IT: "Serbatoio di tossine"
+KO: "독소 탱크"
+ZH: "毒素坦克"
+BP: "Tanque Tóxico"
+PL: "Czołg z toksyną"
+END
+
+OBJECT:AnthraxBomb
+US: "Anthrax Bomb"
+DE: "Säurebombe"
+FR: "Bombe Anthrax"
+ES: "Bomba de Ántrax"
+IT: "Bomba all'antrace"
+KO: "탄저병 폭탄"
+ZH: "炭疽菌炸彈"
+BP: "Bomba de Antraz"
+PL: "Bomba wąglikowa"
+END
+
+OBJECT:CarpetBomb
+US: "Carpet Bomb"
+DE: "Bombenteppich"
+FR: "Tapis de bombes"
+ES: "Bombardeo a nivel"
+IT: "Bomb. a tappeto"
+KO: "융단 폭격"
+ZH: "地毯式炸彈轟炸"
+BP: "Bombardeio de Saturação"
+PL: "Nalot dywanowy"
+END
+
+OBJECT:ClusterMinesBomb
+US: "Cluster Mines"
+DE: "Streuminen"
+FR: "Mines à fragmentation"
+ES: "Minas dispersoras"
+IT: "Mine a frammentazione"
+KO: "산탄형 지뢰"
+ZH: "集束地雷"
+BP: "Minas de Fragmentação"
+PL: "Miny kasetowe"
+END
+
+OBJECT:EMPPulseBomb
+US: "EMP Pulse"
+DE: "EMP-Angriff"
+FR: "Bombe IEM"
+ES: "Impulso electromagnético"
+IT: "Impulso EMP"
+KO: "EMP 펄스"
+ZH: "電磁波脈衝"
+BP: "Pulso E.M."
+PL: "Impuls elektromagnetyczny"
+END
+
+OBJECT:NeutronMissile
+US: "Nuclear Missile"
+DE: "Atomrakete"
+FR: "Missile nucléaire"
+ES: "Misil nuclear"
+IT: "Missile nucleare"
+KO: "핵 미사일"
+ZH: "核彈"
+BP: "Míssil Nuclear"
+PL: "Rakieta atomowa"
+END
+
+OBJECT:Dealership
+US: "Dealership"
+DE: "Autohaus"
+FR: "Concessionnaire"
+ES: "Concesionario"
+IT: "Rivenditore"
+KO: "딜러쉽"
+ZH: "代理店"
+BP: "Loja de Carros"
+PL: "Salon samochodowy"
+END
+
+OBJECT:Dirt
+US: "Dirt"
+DE: "Dreck"
+FR: "Poussière"
+ES: "Tierra"
+IT: "Detriti"
+KO: "흙"
+ZH: "灰塵"
+BP: "Sujeira"
+PL: "Błoto"
+END
+
+OBJECT:Docks
+US: "Docks"
+DE: "Docks"
+FR: "Quais"
+ES: "Puerto"
+IT: "Molo"
+KO: "적재소"
+ZH: "鴨子"
+BP: "Docas"
+PL: "Doki"
+END
+
+OBJECT:DogwoodTree
+US: "Tree"
+DE: "Baum"
+FR: "Arbre"
+ES: "Árbol"
+IT: "Albero"
+KO: "나무"
+ZH: "樹"
+BP: "Árvore"
+PL: "Drzewo"
+END
+
+OBJECT:Dozer
+US: "Construction Dozer"
+DE: "Bulldozer"
+FR: "Engin de chantier"
+ES: "Excavadora"
+IT: "Bulldozer da costruzione"
+KO: "건설 불도저"
+ZH: "建築推土機"
+BP: "Construtor"
+PL: "Buldożer"
+END
+
+OBJECT:Dragon
+US: "Dragon Tank"
+DE: "Drachen-\nPanzer"
+FR: "Char Dragon"
+ES: "Tanque Dragon"
+IT: "Carro Dragon"
+KO: "드래곤 탱크"
+ZH: "火龍坦克"
+BP: "Tanque Dragon"
+PL: "Czołg Smok"
+END
+
+OBJECT:ElectricRetail
+US: "Electric Retail"
+DE: "Elektronik-Shop"
+FR: "Vendeur électroménager"
+ES: "Tienda electrónica"
+IT: "Elettricista"
+KO: "일렉트릭 리테일"
+ZH: "電力站"
+BP: "Loja de Materiais Elétricos"
+PL: "Sklep elektryczny"
+END
+
+OBJECT:ElectricalTransformer
+US: "Electrical Transformer"
+DE: "Transformator"
+FR: "Transformateur électrique"
+ES: "Transformador eléctrico"
+IT: "Trasformatore elettrico"
+KO: "일렉트릭 트랜스포머"
+ZH: "電力改造者"
+BP: "Transformador Elétrico"
+PL: "Transformator"
+END
+
+OBJECT:FireHydrant
+US: "Fire Hydrant"
+DE: "Hydrant"
+FR: "Bouche d'incendie"
+ES: "Boca de incendios"
+IT: "Idrante"
+KO: "파이어 하이드런트"
+ZH: "消防栓"
+BP: "Hidrante"
+PL: "Hydrant"
+END
+
+OBJECT:StructureMine
+US: "Mine"
+DE: "Mine"
+FR: "Mine"
+ES: "Mina"
+IT: "Mina"
+KO: "지뢰"
+ZH: "地雷"
+BP: "Mina"
+PL: "Mina"
+END
+
+OBJECT:ClusterMine
+US: "Mine"
+DE: "Mine"
+FR: "Mine"
+ES: "Mina"
+IT: "Mina"
+KO: "지뢰"
+ZH: "地雷"
+BP: "Mina"
+PL: "Mina rozpryskowa"
+END
+
+OBJECT:FireStorm
+US: "Fire Storm"
+DE: "Feuersturm"
+FR: "Pluie ardente"
+ES: "Tormenta de fuego"
+IT: "Firestorm"
+KO: "화염 폭풍"
+ZH: "火焰風暴"
+BP: "Tempestade de Fogo"
+PL: "Burza ogniowa"
+END
+
+OBJECT:FlamingInfantry
+US: "Flaming Infantry"
+DE: "Brandeinheit"
+FR: "Infanterie en flammes"
+ES: "Infantería en llamas"
+IT: "Fanteria in fiamme"
+KO: "불타는 보병"
+ZH: "火焰兵"
+BP: "Soldados em Chamas"
+PL: "Płonąca piechota"
+END
+
+OBJECT:ToxicInfantry
+US: "Toxic Infantry"
+DE: "Säuretrupp"
+FR: "Infanterie bactériologique"
+ES: "Infantería tóxica"
+IT: "Fanteria tossica"
+KO: "독소 보병"
+ZH: "毒素兵"
+BP: "Soldados Contaminados"
+PL: "Toksyczna piechota"
+END
+
+OBJECT:FoodCart
+US: "Food Cart"
+DE: "Dam0`s Imbissbude"
+FR: "Charrette de nourriture"
+ES: "Carrito de comida"
+IT: "Carrello per cibi"
+KO: "음식 짐수레"
+ZH: "食物卡車"
+BP: "Vagão-Restaurante"
+PL: "Wózek na zakupy"
+END
+
+OBJECT:Fountain
+US: "Fountain"
+DE: "Brunnen"
+FR: "Fontaine"
+ES: "Fuente"
+IT: "Fontana"
+KO: "분수대"
+ZH: "噴泉"
+BP: "Fonte"
+PL: "Fontanna"
+END
+
+OBJECT:FruitStand
+US: "Fruit Stand"
+DE: "Obststand"
+FR: "Stand de fruits"
+ES: "Puesto de fruta"
+IT: "Fruttivendolo"
+KO: "과일 스탠드"
+ZH: "水果攤"
+BP: "Barraca de Frutas"
+PL: "Stragan z owocami"
+END
+
+OBJECT:Gargoyle
+US: "Gargoyle"
+DE: "Gargyle"
+FR: "Gargouille"
+ES: "Gárgola"
+IT: "Gargoyle"
+KO: "가고일"
+ZH: "加油管"
+BP: "Gárgula"
+PL: "Gargulec"
+END
+
+OBJECT:GasStation
+US: "Gas Station"
+DE: "Elmar´s Tank 'n' Rast"
+FR: "Station service"
+ES: "Gasolinera"
+IT: "Stazione di rifornimento"
+KO: "주유소"
+ZH: "加油站"
+BP: "Posto de Gasolina"
+PL: "Stacja benzynowa"
+END
+
+OBJECT:GasStorageFacility
+US: "Gas Storage Facility"
+DE: "Benzinlager"
+FR: "Réserve d'essence"
+ES: "Depósito de combustible"
+IT: "Deposito di gas"
+KO: "가스 저장소"
+ZH: "石油儲藏設施"
+BP: "Instalação de Armazenamento de Gás"
+PL: "Skład paliwa"
+END
+
+OBJECT:GattlingTank
+US: "Gattling Tank"
+DE: "Gatling-Panzer"
+FR: "Char Gattling"
+ES: "Tanque Gattling"
+IT: "Carro gatling"
+KO: "개틀링 탱크"
+ZH: "蓋特坦克"
+BP: "Tanque Gattling"
+PL: "Czołg Gattling"
+END
+
+OBJECT:GrassHut
+US: "Grass Hut"
+DE: "Blaui`s Grashütte"
+FR: "Chaumière"
+ES: "Choza de hierba"
+IT: "Capanna di paglia"
+KO: "초가집"
+ZH: "草地獵戶"
+BP: "Cabana"
+PL: "Szałas"
+END
+
+OBJECT:Gravel
+US: "Gravel"
+DE: "Geröll"
+FR: "Gravier"
+ES: "Grava"
+IT: "Ghiaia"
+KO: "자갈"
+ZH: "碎石"
+BP: "Cascalho"
+PL: "Żwir"
+END
+
+OBJECT:FlashBangGrenade
+US: "Flash-Bang Grenade"
+DE: "Blendgranate"
+FR: "Grenade flash"
+ES: "Granada cegadora"
+IT: "Granata flash"
+KO: "섬광폭음탄"
+ZH: "閃光彈"
+BP: "Granada Flash Bang"
+PL: "Granat oślepiający"
+END
+
+OBJECT:TankShell
+US: "Tank Shell"
+DE: "Panzermunition"
+FR: "Obus"
+ES: "Proyectil de tanque"
+IT: "Resti"
+KO: "탱크 포탄"
+ZH: "坦克外殼"
+BP: "Tanque"
+PL: "Pocisk czołgowy"
+END
+
+OBJECT:Rebel
+US: "Rebel"
+DE: "MG-Cyborg"
+FR: "Rebelle"
+ES: "Rebelde"
+IT: "Ribelle"
+KO: "반군"
+ZH: "反抗軍"
+BP: "Rebelde"
+PL: "Buntownik"
+END
+
+OBJECT:JarmenKell
+US: "Jarmen Kell"
+DE: "Infiltrator"
+FR: "Jarmen Kell"
+ES: "Jarmen Kell"
+IT: "Jarmen Kell"
+KO: "쟈멘 켈"
+ZH: "賈曼卡爾"
+BP: "Jarmen Kell"
+PL: "Jarmen Kell"
+END
+
+OBJECT:GuardTower
+US: "Guard Tower"
+DE: "Wachturm"
+FR: "Tour de garde"
+ES: "Torre vigía"
+IT: "Torre di guardia"
+KO: "가드 타워"
+ZH: "防衛塔"
+BP: "Torre de Guarda"
+PL: "Strażnica"
+END
+
+OBJECT:GuardianControlCenter
+US: "Guardian Control Center"
+DE: "Kontrollzentrum"
+FR: "Centre de contrôle de la défense"
+ES: "Centro de control de vigilancia"
+IT: "Centro comando Guardian"
+KO: "가디언 컨트롤 센터"
+ZH: "防衛控制中心"
+BP: "Centro de Controle Guardião"
+PL: "Ośrodek strażniczy"
+END
+
+OBJECT:GuardianDrone
+US: "Guardian Drone"
+DE: "Drohne"
+FR: "Drone de défense"
+ES: "Vigilante teledirigido"
+IT: "Drone Guardian"
+KO: "가디언 드론"
+ZH: "防禦蜂型機"
+BP: "Drone Guardião"
+PL: "Robot strażniczy"
+END
+
+OBJECT:BlackLotus
+US: "Black Lotus"
+DE: "Black Bot"
+FR: "Lotus Noir"
+ES: "Loto Negro"
+IT: "Loto Nero"
+KO: "흑수선"
+ZH: "黑蓮花"
+BP: "Black Lotus"
+PL: "Czarny Lotos"
+END
+
+OBJECT:Hanger
+US: "Hangar"
+DE: "Hangar"
+FR: "Hangar"
+ES: "Hangar"
+IT: "Hangar"
+KO: "격납고"
+ZH: "機庫"
+BP: "Hangar"
+PL: "Hangar"
+END
+
+OBJECT:HarvardsOffice
+US: "Trash Bin"
+DE: "Mülltonne"
+FR: "Poubelle"
+ES: "Cubo de basura"
+IT: "Cestino dei rifiuti"
+KO: "쓰레기통"
+ZH: "垃圾桶"
+BP: "Lata de Lixo"
+PL: "Kosz na śmieci"
+END
+
+OBJECT:Hedge
+US: "Hedge"
+DE: "Hecke"
+FR: "Haie"
+ES: "Seto"
+IT: "Siepe"
+KO: "울타리"
+ZH: "籬笆"
+BP: "Cerca Viva"
+PL: "Żywopłot"
+END
+
+OBJECT:HighwaySign
+US: "Highway Sign"
+DE: "Straßenschild"
+FR: "Panneau d'autoroute"
+ES: "Señal de carretera"
+IT: "Cartello autostradale"
+KO: "고속도로 표지판"
+ZH: "高速公路標誌"
+BP: "Placa de Trânsito"
+PL: "Znak autostrady"
+END
+
+OBJECT:Hijacker
+US: "Hijacker"
+DE: "Entführer"
+FR: "Pirate de la route"
+ES: "Secuestrador"
+IT: "Dirottatore"
+KO: "하이잭커"
+ZH: "劫持犯"
+BP: "Sequestrador"
+PL: "Porywacz"
+END
+
+OBJECT:AngryMobNexus
+US: "<<ANGRY M0B>>"
+DE: "<<CYBORG - TRUPP>>"
+FR: "<<EMEUTIERS>>"
+ES: "<<TURBA>>"
+IT: "<<FOLLA INFEROCITA>>"
+KO: "<<성난 군중>>"
+ZH: "<<狂暴暴民>>"
+BP: "MULTIDÃO REVOLTADA"
+PL: "<<Wściekły tłum>>"
+END
+
+OBJECT:Hotel
+US: "Hotel"
+DE: "Hotel"
+FR: "Hôtel"
+ES: "Hotel"
+IT: "Hotel"
+KO: "호텔"
+ZH: "旅館"
+BP: "Hotel"
+PL: "Hotel"
+END
+
+OBJECT:Humvee
+US: "Humvee"
+DE: "Humvee"
+FR: "Hum-Vee"
+ES: "Humvee"
+IT: "Humvee"
+KO: "험비"
+ZH: "汗馬車"
+BP: "Jipe"
+PL: "Humvee"
+END
+
+OBJECT:POWTruck
+US: "POW Truck"
+DE: "Gefangenentransporter"
+FR: "Camion prisonniers"
+ES: "Camión de prisioneros"
+IT: "Camion prigionieri"
+KO: "POW 트럭"
+ZH: "托式飛彈卡車"
+BP: "Caminhão de Prisioneiros"
+PL: "Ciężarówka jeniecka"
+END
+
+OBJECT:IndustrialBuilding
+US: "Industrial Building"
+DE: "Industriegebäude"
+FR: "Bâtiment industriel"
+ES: "Edificio industrial"
+IT: "Struttura industriale"
+KO: "산업 건물"
+ZH: "工業建築"
+BP: "Edifício Industrial"
+PL: "Budynek przemysłowy"
+END
+
+OBJECT:InfernoCannon
+US: "Inferno Cannon"
+DE: "Infernal-\ngeschütz"
+FR: "Napacanon"
+ES: "Cañón Inferno"
+IT: "Cannone Inferno"
+KO: "인퍼노 캐논"
+ZH: "地獄火加農砲"
+BP: "Canhão Inferno"
+PL: "Działo piekielne"
+END
+
+OBJECT:JapaneseLantern
+US: "Japanese Lantern"
+DE: "Japanische Laterne"
+FR: "Lanterne"
+ES: "Linterna japonesa"
+IT: "Lanterna giapponese"
+KO: "일본 등불"
+ZH: "裝飾用燈籠"
+BP: "Lanterna Japonesa"
+PL: "Japoński lampion"
+END
+
+OBJECT:JunkCar
+US: "Junk Car"
+DE: "Autowrack(s)"
+FR: "Tacot(s)"
+ES: "Camión de la basura"
+IT: "Rottame"
+KO: "고물차"
+ZH: "廢車"
+BP: "Lata(s) Velha(s)"
+PL: "Śmieciara"
+END
+
+OBJECT:Limo
+US: "Limo"
+DE: "Limousine"
+FR: "Limousine"
+ES: "Limusina"
+IT: "Limousine"
+KO: "리무진"
+ZH: "禮車"
+BP: "Limusine"
+PL: "Limuzyna"
+END
+
+OBJECT:Lumber
+US: "Lumber"
+DE: "Holzbalken"
+FR: "Bric-à-brac"
+ES: "Madera"
+IT: "Legname"
+KO: "재목"
+ZH: "堆積物"
+BP: "Madeira"
+PL: "Kłody"
+END
+
+OBJECT:MIG
+US: "MiG"
+DE: "MiG"
+FR: "Mig"
+ES: "MIG"
+IT: "MIG"
+KO: "MiG"
+ZH: "米格機"
+BP: "MiG"
+PL: "MiG"
+END
+
+OBJECT:MailBox
+US: "MailBox"
+DE: "Briefkasten"
+FR: "Boîte aux lettres"
+ES: "Buzón"
+IT: "Cassetta delle lettere"
+KO: "우편함"
+ZH: "郵筒"
+BP: "Caixa de Correio"
+PL: "Skrzynka pocztowa"
+END
+
+OBJECT:ManHoleCover
+US: "ManHole Cover"
+DE: "Gullydeckel"
+FR: "Bouche d'égout"
+ES: "Boca de alcantarilla"
+IT: "Coperchio di tombino"
+KO: "맨홀 덮개"
+ZH: "人孔蓋"
+BP: "Tampa de Esgoto"
+PL: "Kanał"
+END
+
+OBJECT:MapleTree
+US: "Tree"
+DE: "Baum"
+FR: "Arbre"
+ES: "Árbol"
+IT: "Albero"
+KO: "나무"
+ZH: "樹"
+BP: "Árvore"
+PL: "Drzewo"
+END
+
+OBJECT:MarketVendor
+US: "Market Vendor"
+DE: "Marktschreier"
+FR: "Marchand"
+ES: "Tendero"
+IT: "Venditore"
+KO: "마켓 벤더"
+ZH: "市場商人"
+BP: "Mercado"
+PL: "Dostawca"
+END
+
+OBJECT:Medic
+US: "Ambulance"
+DE: "Ambulanz"
+FR: "Ambulance"
+ES: "Ambulancia"
+IT: "Ambulanza"
+KO: "앰뷸런스"
+ZH: "救護車"
+BP: "Ambulância"
+PL: "Ambulans"
+END
+
+OBJECT:MegaMall
+US: "Mega Mall"
+DE: "Einkaufszentrum"
+FR: "Centre commercial"
+ES: "Grandes almacenes"
+IT: "Centro commerciale"
+KO: "메가 몰"
+ZH: "巨型購物中心"
+BP: "Shopping Center"
+PL: "Promenada handlowa"
+END
+
+OBJECT:Missile
+US: "Missile"
+DE: "Rakete"
+FR: "Missile"
+ES: "Misil"
+IT: "Missile"
+KO: "미사일"
+ZH: "飛彈"
+BP: "Míssil"
+PL: "Pocisk"
+END
+
+OBJECT:MissileTeam
+US: "Missile Defender"
+DE: "Raketen-Bot"
+FR: "Infanterie lance-missiles"
+ES: "Defensor de misiles"
+IT: "Anticarro"
+KO: "미사일 디펜더"
+ZH: "飛彈防禦兵"
+BP: "Lança-Mísseis"
+PL: "Piechota rakietowa"
+END
+
+OBJECT:Moat
+US: "Moat"
+DE: "Graben"
+FR: "Fossés"
+ES: "Foso"
+IT: "Fossato"
+KO: "해자"
+ZH: "護城河"
+BP: "Fosso"
+PL: "Fosa"
+END
+
+OBJECT:MogadishuHighrise
+US: "Highrise"
+DE: "Hochhaus"
+FR: "Grand immeuble"
+ES: "Torre"
+IT: "Palazzo"
+KO: "고층 건물"
+ZH: "高樓"
+BP: "Arranha-Céu"
+PL: "Wysokościowiec"
+END
+
+OBJECT:NewsStand
+US: "News Stand"
+DE: "Zeitungsstand"
+FR: "Stand de journaux"
+ES: "Quiosco"
+IT: "Edicola"
+KO: "뉴스 스탠드"
+ZH: "書報攤"
+BP: "Jornais"
+PL: "Stojak z gazetami"
+END
+
+OBJECT:NightClub
+US: "Night Club"
+DE: "Nachtclub"
+FR: "Discothèque"
+ES: "Club nocturno"
+IT: "Night club"
+KO: "나이트클럽"
+ZH: "夜總會"
+BP: "Clube Noturno"
+PL: "Klub nocny"
+END
+
+OBJECT:NotAMosque
+US: "Dome"
+DE: "Dom"
+FR: "Dôme"
+ES: "Cúpula"
+IT: "Cupola"
+KO: "돔"
+ZH: "圓頂建築"
+BP: "Cúpula"
+PL: "Kopuła"
+END
+
+OBJECT:NuclearMissile
+US: "Nuclear Missile"
+DE: "Atomrakete"
+FR: "Missile nucléaire"
+ES: "Misil nuclear"
+IT: "Missile nucleare"
+KO: "핵 미사일"
+ZH: "核彈"
+BP: "Míssil Nuclear"
+PL: "Rakieta atomowa"
+END
+
+OBJECT:NukeLauncher
+US: "Nuke Cannon"
+DE: "Nukleargeschütz"
+FR: "Nuclécanon"
+ES: "Cañón nuclear"
+IT: "Cannone nucleare"
+KO: "핵 캐논"
+ZH: "核子加農砲"
+BP: "Canhão Nuclear"
+PL: "Działo atomowe"
+END
+
+OBJECT:ParticleCannon
+US: "Particle Cannon"
+DE: "Partikelkanone"
+FR: "Canon à particules"
+ES: "Cañón de partículas"
+IT: "Cannone particellare"
+KO: "파티클 캐논"
+ZH: "離子砲"
+BP: "Canhão de Partículas"
+PL: "Miotacz cząstek"
+END
+
+OBJECT:OakTree
+US: "Tree"
+DE: "Baum"
+FR: "Arbre"
+ES: "Árbol"
+IT: "Albero"
+KO: "나무"
+ZH: "樹"
+BP: "Árvore"
+PL: "Drzewo"
+END
+
+OBJECT:Office
+US: "Office"
+DE: "Büro"
+FR: "Bureau"
+ES: "Oficina"
+IT: "Ufficio"
+KO: "사무실"
+ZH: "辦公室"
+BP: "Escritório"
+PL: "Biuro"
+END
+
+OBJECT:OilDepot
+US: "Oil Depot"
+DE: "Öldepot"
+FR: "Dépôt de carburant"
+ES: "Depósito de petróleo"
+IT: "Deposito di petrolio"
+KO: "원유 저장소"
+ZH: "油井"
+BP: "Depósito de Petróleo"
+PL: "Skład ropy"
+END
+
+OBJECT:OilRefinery
+US: "Oil Refinery"
+DE: "Ölraffinerie"
+FR: "Complexe pétrochimique"
+ES: "Refinería de petróleo"
+IT: "Raffineria"
+KO: "정유 공장"
+ZH: "煉油廠"
+BP: "Refinaria de Petróleo"
+PL: "Rafineria"
+END
+
+OBJECT:OilTank
+US: "Oil Tank"
+DE: "Öltank"
+FR: "Cuve de pétrole"
+ES: "Tanque de combustible"
+IT: "Serbatoio di petrolio"
+KO: "원유 탱크"
+ZH: "油槽"
+BP: "Tanque de Petróleo"
+PL: "Zbiornik ropy"
+END
+
+OBJECT:OldWoodenTelephonePole
+US: "Telephone Pole"
+DE: "Telefonmast"
+FR: "Poteau téléphonique"
+ES: "Poste de teléfono"
+IT: "Palo del telefono"
+KO: "전주"
+ZH: "電話線桿"
+BP: "Poste Telefônico"
+PL: "Słup telefoniczny"
+END
+
+OBJECT:Outpost
+US: "Outpost"
+DE: "Außenposten"
+FR: "Avant-poste"
+ES: "Puesto"
+IT: "Avamposto"
+KO: "아웃포스트"
+ZH: "前哨站"
+BP: "Posto Avançado"
+PL: "Posterunek"
+END
+
+OBJECT:Overlord
+US: "Overlord"
+DE: "Overlord"
+FR: "Empereur"
+ES: "Overlord"
+IT: "Overlord"
+KO: "오버로드"
+ZH: "炎黃坦克"
+BP: "Overlord"
+PL: "Imperator"
+END
+
+OBJECT:Palace
+US: "Palace"
+DE: "Palast"
+FR: "Palais"
+ES: "Palacio"
+IT: "Palazzo"
+KO: "궁전"
+ZH: "皇宮"
+BP: "Palácio"
+PL: "Pałac"
+END
+
+OBJECT:PalmTree
+US: "Tree"
+DE: "Baum"
+FR: "Arbre"
+ES: "Árbol"
+IT: "Albero"
+KO: "나무"
+ZH: "樹"
+BP: "Árvore"
+PL: "Drzewo"
+END
+
+OBJECT:ParkBench
+US: "Park Bench"
+DE: "Parkbank"
+FR: "Banc public"
+ES: "Banco"
+IT: "Panchina"
+KO: "공원 의자"
+ZH: "公園長椅"
+BP: "Banco de Parque"
+PL: "Ławka"
+END
+
+OBJECT:ParkGazebo
+US: "Park Gazebo"
+DE: "Aussichtspunkt"
+FR: "Belvédère"
+ES: "Área infantil"
+IT: "Gazebo"
+KO: "공원 전망대"
+ZH: "公園露台"
+BP: "Playground"
+PL: "Altana"
+END
+
+OBJECT:ParkPavillion
+US: "Park Pavilion"
+DE: "Pavillon"
+FR: "Pavillon"
+ES: "Pabellón"
+IT: "Padiglione"
+KO: "공원 천막"
+ZH: "公園涼亭"
+BP: "Pavilhão"
+PL: "Pawilonik"
+END
+
+OBJECT:ParkingGarage
+US: "Parking Garage"
+DE: "Parkhaus"
+FR: "Garage"
+ES: "Garaje"
+IT: "Garage"
+KO: "주차장"
+ZH: "車庫"
+BP: "Estacionamento"
+PL: "Garaż piętrowy"
+END
+
+OBJECT:ParkingMeter
+US: "Parking Meter"
+DE: "Parkuhr"
+FR: "Parcmètre"
+ES: "Parquímetro"
+IT: "Parchimetro"
+KO: "주차 미터기"
+ZH: "停車收費器"
+BP: "Parquímetro"
+PL: "Parkometr"
+END
+
+OBJECT:Pathfinder
+US: "Pathfinder"
+DE: "Kundschafter"
+FR: "Commando"
+ES: "Explorador"
+IT: "Esploratore"
+KO: "패스 파인더"
+ZH: "尖兵"
+BP: "Batedor Avançado"
+PL: "Tropiciel"
+END
+
+OBJECT:PatriotBattery
+US: "Patriot Missile System"
+DE: "Patriot-Batterie"
+FR: "Système défensif Patriot"
+ES: "Misil Patriot"
+IT: "Missili Patriot"
+KO: "패트리엇 미사일 시스템"
+ZH: "愛國者飛彈"
+BP: "Míssil Patriot"
+PL: "Rakieta Patriot"
+END
+
+OBJECT:GattlingCannon
+US: "Gattling Cannon"
+DE: "Gatling-Geschütz"
+FR: "Mitrailleuse Gattling"
+ES: "Cañón Gattling"
+IT: "Cannone gatling"
+KO: "개틀링 캐논"
+ZH: "蓋特機砲"
+BP: "Canhão Gattling"
+PL: "Działko Gattling"
+END
+
+OBJECT:PatriotMissile
+US: "Patriot Missile System"
+DE: "Patriot-Rakete"
+FR: "Système défensif Patriot"
+ES: "Misil Patriot"
+IT: "Missili Patriot"
+KO: "패트리엇 미사일 시스템"
+ZH: "愛國者飛彈"
+BP: "Míssil Patriot"
+PL: "Rakieta Patriot"
+END
+
+OBJECT:PhoneBooth
+US: "Phone Booth"
+DE: "Telefonzelle"
+FR: "Cabine téléphonique"
+ES: "Cabina telefónica"
+IT: "Cabina telefonica"
+KO: "공중전화 박스"
+ZH: "電話亭"
+BP: "Cabine Telefônica"
+PL: "Budka telefoniczna"
+END
+
+OBJECT:PineTree
+US: "Tree"
+DE: "Baum"
+FR: "Arbre"
+ES: "Árbol"
+IT: "Albero"
+KO: "나무"
+ZH: "樹"
+BP: "Árvore"
+PL: "Drzewo"
+END
+
+OBJECT:PoliceCar
+US: "Police Car"
+DE: "Streifenwagen"
+FR: "Voiture de police"
+ES: "Coche de policía"
+IT: "Auto della polizia"
+KO: "경찰차"
+ZH: "警車"
+BP: "Viatura Policial"
+PL: "Radiowóz"
+END
+
+OBJECT:Prison
+US: "Prison"
+DE: "Gefängnis"
+FR: "Prison"
+ES: "Cárcel"
+IT: "Prigione"
+KO: "감옥"
+ZH: "監獄"
+BP: "Prisão"
+PL: "Więzienie"
+END
+
+OBJECT:PropagandaBlimp
+US: "Prop. Blimp"
+DE: "Propaganda-Zeppelin"
+FR: "Dirigeable de propagande"
+ES: "Zepelín de propaganda"
+IT: "Dirigibile di propaganda"
+KO: "프로퍼갠더 블림프"
+ZH: "思想強化飛船"
+BP: "Balão de Propaganda"
+PL: "Sterowiec propagandowy"
+END
+
+OBJECT:PropagandaCenter
+US: "Propaganda Center"
+DE: "Propagandazentrale"
+FR: "Centre de propagande"
+ES: "Centro de propaganda"
+IT: "Centro di propaganda"
+KO: "프로퍼갠더 센터"
+ZH: "思想強化中心"
+BP: "Central de Propaganda"
+PL: "Ośrodek propagandowy"
+END
+
+OBJECT:Pub
+US: "Watering Hole"
+DE: "Kneipe"
+FR: "Bar"
+ES: "Tugurio"
+IT: "Locale"
+KO: "사교장"
+ZH: "酒吧"
+BP: "Bar"
+PL: "Wodopój"
+END
+
+OBJECT:QuadCannon
+US: "Quad Cannon"
+DE: "Vierlings-\ngeschütz"
+FR: "Quad"
+ES: "Cañón Quad"
+IT: "Cannone quadruplo"
+KO: "쿼드 캐논"
+ZH: "四管加農砲"
+BP: "Canhão Quádruplo"
+PL: "Działko czterolufowe"
+END
+
+OBJECT:QuonsetHut
+US: "Quonset Hut"
+DE: "Nissenhütte"
+FR: "Baraque préfabriquée"
+ES: "Prefabricado"
+IT: "Capanno Quonset"
+KO: "퀀셋"
+ZH: "鐵皮屋"
+BP: "Cabana"
+PL: "Blaszak"
+END
+
+OBJECT:RailTie
+US: "Rail Tie"
+DE: "Eisenbahnschwellen"
+FR: "Selle de rail"
+ES: "Traviesa"
+IT: "Traversina"
+KO: "레일 타이"
+ZH: "平交道"
+BP: "Trilhos"
+PL: "Podkład"
+END
+
+OBJECT:Ranger
+US: "Ranger"
+DE: "Ranger"
+FR: "Ranger"
+ES: "Ranger"
+IT: "Ranger"
+KO: "레인저"
+ZH: "游騎兵"
+BP: "Ranger"
+PL: "Ranger"
+END
+
+OBJECT:Raptor
+US: "Raptor"
+DE: "Raptor"
+FR: "Raptor"
+ES: "Raptor"
+IT: "Raptor"
+KO: "랩터"
+ZH: "猛禽戰機"
+BP: "Raptor"
+PL: "Raptor"
+END
+
+OBJECT:RaptorPilot
+US: "Pilot"
+DE: "Pilot"
+FR: "Pilote"
+ES: "Piloto"
+IT: "Pilota"
+KO: "파일럿"
+ZH: "駕駛員"
+BP: "Piloto"
+PL: "Pilot"
+END
+
+OBJECT:Restaurant
+US: "Restaurant"
+DE: "Restaurant"
+FR: "Restaurant"
+ES: "Restaurante"
+IT: "Ristorante"
+KO: "레스토랑"
+ZH: "餐廳"
+BP: "Restaurante"
+PL: "Restauracja"
+END
+
+OBJECT:RetailStore
+US: "Retail Store"
+DE: "Laden"
+FR: "Petit magasin"
+ES: "Tienda"
+IT: "Negozio al dettaglio"
+KO: "소매점"
+ZH: "零售商店"
+BP: "Loja de Varejo"
+PL: "Sklep detaliczny"
+END
+
+OBJECT:RiverHouse
+US: "River House"
+DE: "Bootshaus"
+FR: "Maison"
+ES: "Casa del río"
+IT: "Casa sul fiume"
+KO: "리버 하우스"
+ZH: "河屋"
+BP: "Casa no Rio"
+PL: "Domek nadrzeczny"
+END
+
+OBJECT:RoadCone
+US: "Road Cone"
+DE: "Pylon"
+FR: "Cône de signalisation"
+ES: "Cono de tráfico"
+IT: "Cono stradale"
+KO: "로드 콘"
+ZH: "路標"
+BP: "Cone de Trânsito"
+PL: "Pachołek"
+END
+
+OBJECT:RocketBuggy
+US: "Rocket Buggy"
+DE: "Raketenbuggy"
+FR: "Buggy lance-roquettes"
+ES: "Buggy Lanzacohetes"
+IT: "Buggy lanciarazzi"
+KO: "로켓 버기"
+ZH: "火箭吉普車"
+BP: "Buggy Lança Foguetes"
+PL: "Pojazd rakietowy"
+END
+
+OBJECT:RadarVan
+US: "Radar Van"
+DE: "Radarwagen"
+FR: "Radar mobile"
+ES: "Furgoneta Radar"
+IT: "Furgone radar"
+KO: "레이더 밴"
+ZH: "雷達車"
+BP: "Furgão Radar"
+PL: "Furgonetka radarowa"
+END
+
+OBJECT:RocketBuggyDebris
+US: "Rocket Buggy Debris"
+DE: "Zerstörter Raketenbuggy"
+FR: "Débris de Buggy lance-roquettes"
+ES: "Restos de Buggy Lanzacohetes"
+IT: "Detriti di buggy lanciarazzi"
+KO: "로켓 버기 파편"
+ZH: "火箭吉普車殘骸"
+BP: "Destroços de Buggy Lança-Foguetes"
+PL: "Pozostałości po pojeździe rakietowym"
+END
+
+OBJECT:RocketBuggyMissile
+US: "Rocket Buggy Missile"
+DE: "Rakete für Raketenbuggy"
+FR: "Roquette"
+ES: "Misil Buggy lanzacohetes"
+IT: "Missile di buggy lanciarazzi"
+KO: "로켓 버기 미사일"
+ZH: "火箭吉普車飛彈"
+BP: "Míssil de Buggy Lança-Foguetes"
+PL: "Pocisk pojazdu rakietowego"
+END
+
+OBJECT:TomahawkMissile
+US: "Tomahawk Missile"
+DE: "Tomahawk-Rakete"
+FR: "Missile Tomahawk"
+ES: "Misil Tomahawk"
+IT: "Missile Tomahawk"
+KO: "토마호크 미사일"
+ZH: "戰斧飛彈"
+BP: "Míssil Tomahawk"
+PL: "Pocisk Tomahawk"
+END
+
+OBJECT:SCUDMissile
+US: "SCUD Missile"
+DE: "SCUD-Rakete"
+FR: "Missile Scud"
+ES: "Misil SCUD"
+IT: "Missile SCUD"
+KO: "스커드 미사일"
+ZH: "生化飛彈"
+BP: "Míssil SCUD"
+PL: "Pocisk SCUD"
+END
+
+OBJECT:RangerTeamMissile
+US: "Ranger Team Missile"
+DE: "Raketentrupp"
+FR: "Missile de Ranger"
+ES: "Misil equipo Ranger"
+IT: "Squadra ranger lanciamissili"
+KO: "레인저 팀 미사일"
+ZH: "游騎兵隊飛彈"
+BP: "Time de Mísseis Ranger"
+PL: "Oddział rangerów z pociskiem"
+END
+
+OBJECT:Rocks
+US: "Rocks"
+DE: "Felsen"
+FR: "Rochers"
+ES: "Rocas"
+IT: "Rocce"
+KO: "돌"
+ZH: "岩石"
+BP: "Pedras"
+PL: "Skały"
+END
+
+OBJECT:RopeCoil
+US: "Rope Coil"
+DE: "Seilrolle"
+FR: "Rouleau de corde"
+ES: "Bobina de cuerda"
+IT: "Matassa di corda"
+KO: "로프 코일"
+ZH: "繩圈"
+BP: "Rolo de Corda"
+PL: "Zwój liny"
+END
+
+OBJECT:Rubble
+US: "Rubble"
+DE: "Kies"
+FR: "Gravats"
+ES: "Escombros"
+IT: "Macerie"
+KO: "잡석"
+ZH: "碎石"
+BP: "Entulho"
+PL: "Gruz"
+END
+
+OBJECT:ColonelBurton
+US: "Colonel Burton"
+DE: "Kommandobot"
+FR: "Colonel Burton"
+ES: "Coronel Burton"
+IT: "Colonnello Burton"
+KO: "버튼 대령"
+ZH: "貝頓上校"
+BP: "Coronel Burton"
+PL: "Pułkownik Burton"
+END
+
+OBJECT:SUV
+US: "SUV"
+DE: "Jeep"
+FR: "4x4"
+ES: "SUV"
+IT: "Jeep"
+KO: "SUV"
+ZH: "休旅車"
+BP: "Utilitário"
+PL: "Wóz terenowy"
+END
+
+OBJECT:Schoolhouse
+US: "Schoolhouse"
+DE: "Schule"
+FR: "Ecole"
+ES: "Colegio"
+IT: "Scuola"
+KO: "학교 건물"
+ZH: "校舍"
+BP: "Escola"
+PL: "Szkoła"
+END
+
+OBJECT:Scorpion
+US: "Scorpion"
+DE: "Skorpion"
+FR: "Scorpion"
+ES: "Scorpion"
+IT: "Scorpion"
+KO: "스콜피온"
+ZH: "天蠍坦克"
+BP: "Escorpião"
+PL: "Skorpion"
+END
+
+OBJECT:Marauder
+US: "Marauder Tank"
+DE: "Marodeurpanzer"
+FR: "Maraudeur"
+ES: "Tanque Marauder"
+IT: "Carro Marauder"
+KO: "머로더 탱크"
+ZH: "掠奪者坦克"
+BP: "Tanque Marauder"
+PL: "Czołg Grabieżca"
+END
+
+OBJECT:ScoutDrone
+US: "Scout Drone"
+DE: "Spähdrohne"
+FR: "Drone de reconnaissance"
+ES: "Teledirigido de reconocimiento"
+IT: "Drone scout"
+KO: "스카웃 드론"
+ZH: "偵搜蜂型機"
+BP: "Drone de Reconhecimento"
+PL: "Robot zwiadowczy"
+END
+
+OBJECT:SpyDrone
+US: "Spy Drone"
+DE: "Aufklärungsdrohne"
+FR: "Drone espion"
+ES: "Espía teledirigido"
+IT: "Drone spia"
+KO: "스파이 드론"
+ZH: "偵察蜂型機"
+BP: "Drone Espião"
+PL: "Robot szpiegowski"
+END
+
+OBJECT:ScrapCar
+US: "Scrap Car"
+DE: "Rostlaube"
+FR: "Voiture à la casse"
+ES: "Chatarra"
+IT: "Rottame"
+KO: "스크랩 카"
+ZH: "車輛廢棄物"
+BP: "Carro Abandonado"
+PL: "Rzęch"
+END
+
+OBJECT:ScudLauncher
+US: "SCUD Launcher"
+DE: "SCUD-Stellung"
+FR: "Lanceur mobile Scud"
+ES: "Lanzador SCUD"
+IT: "Lanciatore SCUD"
+KO: "스커드 발사기"
+ZH: "生化飛彈發射車"
+BP: "Lançador SCUD"
+PL: "Wyrzutnia SCUD-ów"
+END
+
+OBJECT:ScudStorm
+US: "SCUD Storm"
+DE: "SCUD-Sturm"
+FR: "Scuds multiples"
+ES: "Tormenta SCUD"
+IT: "SCUD Storm"
+KO: "스커드 폭풍"
+ZH: "生化死雨風暴"
+BP: "Tempestade SCUD"
+PL: "Deszcz SCUD-ów"
+END
+
+OBJECT:SecretLab
+US: "Secret Lab"
+DE: "Geheimlabor"
+FR: "Labo secret"
+ES: "Laboratorio secreto"
+IT: "Laboratorio segreto"
+KO: "시크릿 랩"
+ZH: "機密實驗室"
+BP: "Laboratório Secreto"
+PL: "Tajne laboratorium"
+END
+
+OBJECT:SecretPolice
+US: "Secret Police"
+DE: "Geheimpolizei"
+FR: "Police secrète"
+ES: "Policía Secreta"
+IT: "Polizia segreta"
+KO: "비밀 경찰"
+ZH: "秘密警察"
+BP: "Polícia Secreta"
+PL: "Tajna policja"
+END
+
+OBJECT:SecurityFence
+US: "Security Fence"
+DE: "Sicherheitszaun"
+FR: "Muret laser"
+ES: "Cerco de seguridad"
+IT: "Recinzione di sicurezza"
+KO: "시큐리티 펜스"
+ZH: "保全護欄"
+BP: "Cerca de Segurança"
+PL: "Płot ochronny"
+END
+
+OBJECT:Hacker
+US: "Hacker"
+DE: "Cyborg-Hacker"
+FR: "Technopirate"
+ES: "Hacker"
+IT: "Hacker"
+KO: "해커"
+ZH: "駭客"
+BP: "Hacker"
+PL: "Haker"
+END
+
+OBJECT:Officer
+US: "Officer"
+DE: "Cyborg-Offizier"
+FR: "Officier"
+ES: "Oficial"
+IT: "Ufficiale"
+KO: "장교"
+ZH: "軍官"
+BP: "Oficial"
+PL: "Oficer"
+END
+
+OBJECT:Agent
+US: "Agent"
+DE: "Cyborg-Agent"
+FR: "Agent"
+ES: "Agente"
+IT: "Agente"
+KO: "에이전트"
+ZH: "探員"
+BP: "Agente"
+PL: "Agent"
+END
+
+OBJECT:Sedan
+US: "Sedan"
+DE: "Limousine"
+FR: "Berline"
+ES: "Sedán"
+IT: "Berlina"
+KO: "세단"
+ZH: "轎子"
+BP: "Sedan"
+PL: "Sedan"
+END
+
+OBJECT:SeismicTank
+US: "Seismic Tank"
+DE: "Seismikpanzer"
+FR: "Char sismique"
+ES: "Tanque Seismic"
+IT: "Carro sismico"
+KO: "사이즈믹 탱크"
+ZH: "地動坦克"
+BP: "Tanque Sísmico"
+PL: "Czołg sejsmiczny"
+END
+
+OBJECT:Shack
+US: "Shack"
+DE: "Baracke"
+FR: "Cabane"
+ES: "Choza"
+IT: "Capanna"
+KO: "판잣집"
+ZH: "簡陋木屋"
+BP: "Barraca"
+PL: "Szopa"
+END
+
+OBJECT:ShippingContainer
+US: "Shipping Container"
+DE: "Verladecontainer"
+FR: "Conteneur"
+ES: "Contenedor de carga"
+IT: "Container"
+KO: "선적 컨테이너"
+ZH: "運輸櫃"
+BP: "Container de Carga"
+PL: "Kontener"
+END
+
+OBJECT:ShippingCrate
+US: "Shipping Crate"
+DE: "Verladekran"
+FR: "Caisse de transport"
+ES: "Caja de carga"
+IT: "Cassa"
+KO: "선적 크레이트"
+ZH: "運送物資"
+BP: "Caixa de Carga"
+PL: "Skrzynia dostawcza"
+END
+
+OBJECT:SignalLights
+US: "Signal Lights"
+DE: "Warnlichter"
+FR: "Feux de signalisation"
+ES: "Señales luminosas"
+IT: "Luci di segnalazione"
+KO: "신호 불빛"
+ZH: "信號燈"
+BP: "Sinalizadores"
+PL: "Światła uliczne"
+END
+
+OBJECT:Slide
+US: "Slide"
+DE: "Rutschbahn"
+FR: "Toboggan"
+ES: "Rampa"
+IT: "Scivolo"
+KO: "슬라이드"
+ZH: "滑板"
+BP: "Escorregador"
+PL: "Zjeżdżalnia"
+END
+
+OBJECT:SovietBuilding
+US: "Old Office Building"
+DE: "Altes Bürogebäude"
+FR: "Ancien bureau"
+ES: "Antiguo edificio de oficinas"
+IT: "Vecchio palazzo di uffici"
+KO: "오랜 사무실 건물"
+ZH: "舊辦公室大樓"
+BP: "Antigo Prédio de Escritórios"
+PL: "Stary biurowiec"
+END
+
+OBJECT:SovietGovtBuildingSmall
+US: "Old Govt. Building"
+DE: "Altes Regierungsgebäude"
+FR: "Ancien bât. du gouvernement"
+ES: "Antiguo edificio admo"
+IT: "Vecchio palazzo governativo"
+KO: "오랜 정부 건물"
+ZH: "舊政府大樓"
+BP: "Antigo Prédio do Governo"
+PL: "Stary budynek rządowy"
+END
+
+OBJECT:SovietRadioBuilding
+US: "Old Radio Building"
+DE: "Alte Radiostation"
+FR: "Ancienne radio"
+ES: "Antiguo edificio de Radio"
+IT: "Vecchio palazzo radiofonico"
+KO: "오랜 라디오 건물"
+ZH: "舊廣播大樓"
+BP: "Antiga Estação de Rádio"
+PL: "Stara radiostacja"
+END
+
+OBJECT:SpeakerTower
+US: "Speaker Tower"
+DE: "Propagandaturm"
+FR: "Haut-parleur d'embrigadement"
+ES: "Torre de megafonía"
+IT: "Diffusore"
+KO: "스피커 타워"
+ZH: "思想廣播電塔"
+BP: "Torre de Alto-Falantes"
+PL: "Megafon"
+END
+
+OBJECT:SportCar
+US: "Sports Car"
+DE: "Sportwagen"
+FR: "Voiture de sport"
+ES: "Coche deportivo"
+IT: "Auto sportiva"
+KO: "스포츠 카"
+ZH: "跑車"
+BP: "Carro Esportivo"
+PL: "Samochód sportowy"
+END
+
+OBJECT:Sprinkler
+US: "Sprinkler"
+DE: "Sprinkler"
+FR: "Sprinkler"
+ES: "Aspersor"
+IT: "Irrigatore"
+KO: "스프링클러"
+ZH: "灑水車"
+BP: "Pulverizador"
+PL: "Zraszacz"
+END
+
+OBJECT:SpruceTree
+US: "Tree"
+DE: "Baum"
+FR: "Arbre"
+ES: "Árbol"
+IT: "Albero"
+KO: "나무"
+ZH: "樹"
+BP: "Árvore"
+PL: "Drzewo"
+END
+
+OBJECT:StanTallTower
+US: "Tall Tower"
+DE: "Großer Turm"
+FR: "Grande tour"
+ES: "Torre alta"
+IT: "Torre alta"
+KO: "고층 타워"
+ZH: "高塔"
+BP: "Torre Alta"
+PL: "Wysoka wieża"
+END
+
+OBJECT:Starlifter
+US: "Starlifter2"
+DE: "Starlifter 2"
+FR: "Starlifter 2"
+ES: "Starlifter2"
+IT: "Starlifter2"
+KO: "스타리프터2"
+ZH: "星形舉重機"
+BP: "Starlifter 2"
+PL: "Starlifter2"
+END
+
+OBJECT:StatueAngel
+US: "Angel Statue"
+DE: "Engelsstatue"
+FR: "Statue d'ange"
+ES: "Estatua de Ángel"
+IT: "Statua"
+KO: "천사 조각상"
+ZH: "天使雕像"
+BP: "Estátua de Anjo"
+PL: "Posąg anioła"
+END
+
+OBJECT:StatueLenin
+US: "Statue"
+DE: "Statue"
+FR: "Statue"
+ES: "Estatua"
+IT: "Statua"
+KO: "조각상"
+ZH: "雕像"
+BP: "Estátua"
+PL: "Posąg"
+END
+
+OBJECT:StatueRoman
+US: "Roman Statue"
+DE: "Römische Statue"
+FR: "Statue romaine"
+ES: "Estatua romana"
+IT: "Statua romana"
+KO: "로마 조각상"
+ZH: "羅馬人雕像"
+BP: "Estátua Romana"
+PL: "Rzymska statua"
+END
+
+OBJECT:StealthFighter
+US: "Stealth Fighter"
+DE: "Tarnkappenbomber"
+FR: "Chasseur furtif"
+ES: "Caza Stealth"
+IT: "Caccia stealth"
+KO: "스텔스 전투기"
+ZH: "隱形戰鬥機"
+BP: "Bombardeiro Invisível"
+PL: "Niewykrywalny bombowiec"
+END
+
+OBJECT:StingerSite
+US: "Stinger Site"
+DE: "Stingerstellung"
+FR: "Site Stingers"
+ES: "Emplazamiento de Stingers"
+IT: "Postazione Stinger"
+KO: "스팅어 사이트"
+ZH: "針刺飛彈"
+BP: "Bateria Stinger"
+PL: "Wyrzutnia Stingerów"
+END
+
+OBJECT:StoneArch
+US: "Stone Arch"
+DE: "Torbogen"
+FR: "Arche de pierre"
+ES: "Arco de piedra"
+IT: "Arco di pietra"
+KO: "돌 아치"
+ZH: "石拱門"
+BP: "Arco de Pedra"
+PL: "Łuk kamienny"
+END
+
+OBJECT:StoneWall
+US: "Stone Wall"
+DE: "Mauer"
+FR: "Mur de pierre"
+ES: "Muro de piedra"
+IT: "Muro di pietra"
+KO: "돌담"
+ZH: "石牆"
+BP: "Muro de Pedra"
+PL: "Mur kamienny"
+END
+
+OBJECT:PicketFence
+US: "Picket Fence"
+DE: "Lattenzaun"
+FR: "Clôture"
+ES: "Cerca"
+IT: "Recinzione"
+KO: "피켓 펜스"
+ZH: "柵欄"
+BP: "Cerca de Madeira"
+PL: "Płotek"
+END
+
+OBJECT:StopLight
+US: "Stop Light"
+DE: "Ampel"
+FR: "Feu rouge"
+ES: "Semáforo"
+IT: "Semaforo"
+KO: "신호등"
+ZH: "停止燈號"
+BP: "Luz de Parada"
+PL: "Światło Stop"
+END
+
+OBJECT:StreetLamp
+US: "Street Lamp"
+DE: "Straßenlaterne"
+FR: "Bec de gaz"
+ES: "Farola"
+IT: "Lampione"
+KO: "가로등"
+ZH: "街燈"
+BP: "Poste de Iluminação"
+PL: "Latarnia uliczna"
+END
+
+OBJECT:StreetLight
+US: "Street Light"
+DE: "Straßenbeleuchtung"
+FR: "Feux tricolores"
+ES: "Farola"
+IT: "Semaforo"
+KO: "가로등"
+ZH: "街燈"
+BP: "Semáforo"
+PL: "Światło uliczne"
+END
+
+OBJECT:StreetSign
+US: "Street Sign"
+DE: "Straßenschild"
+FR: "Panneau indicateur"
+ES: "Señal urbana"
+IT: "Cartello stradale"
+KO: "표지판"
+ZH: "路標"
+BP: "Placa de Trânsito"
+PL: "Znak drogowy"
+END
+
+OBJECT:SupplyTruck
+US: "Supply Truck"
+DE: "Versorgungslaster"
+FR: "Camion de ravitaillement"
+ES: "Camión de suministros"
+IT: "Camion dei rifornimenti"
+KO: "서플라이 트럭"
+ZH: "補給卡車"
+BP: "Caminhão de Suprimentos"
+PL: "Ciężarówka zaopatrzeniowa"
+END
+
+OBJECT:SupplyWarehouse
+US: "Supply Dock"
+DE: "Versorgungslager"
+FR: "Entrepôt de ravitaillement"
+ES: "Puerto de suministros"
+IT: "Zona di rifornimento"
+KO: "서플라이 적재소"
+ZH: "補給站"
+BP: "Doca de Suprimentos"
+PL: "Magazyn zaopatrzeniowy"
+END
+
+OBJECT:Swing
+US: "Swing"
+DE: "Schaukel"
+FR: "Balançoire"
+ES: "Columpio"
+IT: "Altalena"
+KO: "스윙"
+ZH: "鞦韆"
+BP: "Balanço"
+PL: "Huśtawka"
+END
+
+OBJECT:TVStation
+US: "TV Station"
+DE: "Fernsehsender"
+FR: "Chaîne de télé"
+ES: "Canal de TV"
+IT: "Stazione TV"
+KO: "TV 스테이션"
+ZH: "電視台"
+BP: "Estação de TV"
+PL: "Stacja telewizyjna"
+END
+
+OBJECT:TankTrap
+US: "Tank Trap"
+DE: "Panzerfalle"
+FR: "Piège à char"
+ES: "Trampa para tanques"
+IT: "Trappola per carri"
+KO: "탱크 트랩"
+ZH: "坦克陷阱"
+BP: "Armadilha p/ Tanques"
+PL: "Rów przeciwczołgowy"
+END
+
+OBJECT:TankerTruck
+US: "Tanker Truck"
+DE: "Tanklastzug"
+FR: "Camion-citerne"
+ES: "Camión cisterna"
+IT: "Autobotte"
+KO: "탱커 트럭"
+ZH: "油槽卡車"
+BP: "Caminhão-Tanque"
+PL: "Cysterna"
+END
+
+OBJECT:TaxiCab
+US: "Taxi Cab"
+DE: "Taxi"
+FR: "Taxi"
+ES: "Taxi"
+IT: "Taxi"
+KO: "택시"
+ZH: "計程車"
+BP: "Táxi"
+PL: "Taksówka"
+END
+
+OBJECT:Technical
+US: "Technical"
+DE: "Kampfjeep"
+FR: "Jeep"
+ES: "Camioneta"
+IT: "Tecnica"
+KO: "테크니컬"
+ZH: "衝鋒車"
+BP: "Técnico"
+PL: "Pick-up"
+END
+
+OBJECT:Tent
+US: "Tent"
+DE: "Zelt"
+FR: "Tente"
+ES: "Tienda de campaña"
+IT: "Tenda"
+KO: "텐트"
+ZH: "帳棚"
+BP: "Tenda"
+PL: "Namiot"
+END
+
+OBJECT:Terrorist
+US: "Terrorist"
+DE: "Fahrende Bombe"
+FR: "Terroriste"
+ES: "Terrorista"
+IT: "Terrorista"
+KO: "테러리스트"
+ZH: "恐怖份子"
+BP: "Terrorista"
+PL: "Terrorysta"
+END
+
+OBJECT:Tire
+US: "Tire"
+DE: "Reifen"
+FR: "Pneu"
+ES: "Neumático"
+IT: "Gomma"
+KO: "타이어"
+ZH: "輪胎"
+BP: "Pneu"
+PL: "Opona"
+END
+
+OBJECT:TireObstacle
+US: "Tire Obstacle"
+DE: "Reifenhindernis"
+FR: "Obstacle"
+ES: "Barricada de neumáticos"
+IT: "Barricata di gomme"
+KO: "타이어 장애물"
+ZH: "輪胎障礙物"
+BP: "Obstáculo de Pneus"
+PL: "Zapora z opon"
+END
+
+OBJECT:Tollbooth
+US: "Toll booth"
+DE: "Kassenhäuschen"
+FR: "Péage"
+ES: "Caseta de pago"
+IT: "Casello"
+KO: "징수소"
+ZH: "收費站"
+BP: "Cabine de Pedágio"
+PL: "Rogatka"
+END
+
+OBJECT:Tomahawk
+US: "Tomahawk"
+DE: "Tomahawk"
+FR: "Tomahawk"
+ES: "Tomahawk"
+IT: "Tomahawk"
+KO: "토마호크"
+ZH: "戰斧"
+BP: "Tomahawk"
+PL: "Tomahawk"
+END
+
+OBJECT:TownHouse
+US: "Townhouse"
+DE: "Wohnhaus"
+FR: "Hôtel particulier"
+ES: "Casa ayuntamiento"
+IT: "Municipio"
+KO: "타운 하우스"
+ZH: "市區房屋"
+BP: "Casa"
+PL: "Dom"
+END
+
+OBJECT:ToxinTruck
+US: "Toxin Tractor"
+DE: "Säuretraktor"
+FR: "Tracteur bactériologique"
+ES: "Tractor de toxinas"
+IT: "Contaminatore"
+KO: "독소 트랙터"
+ZH: "毒素車"
+BP: "Trator Tóxico"
+PL: "Ciągnik z toksyną"
+END
+
+OBJECT:TrashCan
+US: "Trash Can"
+DE: "Mülleimer"
+FR: "Poubelle"
+ES: "Contenedor de basura"
+IT: "Cestino"
+KO: "쓰레기통"
+ZH: "垃圾桶"
+BP: "Lata de Lixo"
+PL: "Kosz na śmieci"
+END
+
+OBJECT:TrashDumpster
+US: "Trash Bin"
+DE: "Mülltonne"
+FR: "Poubelle"
+ES: "Cubo de basura"
+IT: "Cestino dei rifiuti"
+KO: "쓰레기통"
+ZH: "垃圾桶"
+BP: "Lata de Lixo"
+PL: "Kubeł na śmieci"
+END
+
+OBJECT:TrashPaper
+US: "Trash Paper"
+DE: "Papiermüll"
+FR: "Corbeille à papier"
+ES: "Papelera"
+IT: "Carta straccia"
+KO: "쓰레기 종이"
+ZH: "廢紙"
+BP: "Lixo"
+PL: "Śmieci papierowe"
+END
+
+OBJECT:TrashPile
+US: "Trash Pile"
+DE: "Müllhaufen"
+FR: "Tas de détritus"
+ES: "Montón de basura"
+IT: "Cumulo di rifiuti"
+KO: "쓰레기 더미"
+ZH: "廢物堆"
+BP: "Pilha de Lixo"
+PL: "Stos śmieci"
+END
+
+OBJECT:TreeStump
+US: "Tree Stump"
+DE: "Baumstumpf"
+FR: "Souche d'arbre"
+ES: "Cepa"
+IT: "Ceppo"
+KO: "그루터기"
+ZH: "殘幹"
+BP: "Cepo de Árvore"
+PL: "Pień drzewa"
+END
+
+OBJECT:TroopCrawler
+US: "Troop Crawler"
+DE: "Truppen-\ntransporter"
+FR: "Transporteur"
+ES: "Oruga de transporte"
+IT: "Crawler"
+KO: "트룹 크롤러"
+ZH: "運兵車"
+BP: "Transporte Vermelho"
+PL: "Transporter opancerzony"
+END
+
+OBJECT:TunnelDefender
+US: "RPG Trooper"
+DE: "RPG-Einheit"
+FR: "Lance-\nroquettes"
+ES: "Soldado RPG"
+IT: "Soldato RPG"
+KO: "RPG 트루퍼"
+ZH: "火箭兵"
+BP: "Rebelde c/ RPG"
+PL: "Żołnierz z bazuką"
+END
+
+OBJECT:TunnelNetwork
+US: "Tunnel Network"
+DE: "Tunnelsystem"
+FR: "Réseau de tunnels"
+ES: "Red de túneles"
+IT: "Rete di tunnel"
+KO: "터널 네트워크"
+ZH: "地道網路系統"
+BP: "Rede de Túneis"
+PL: "Sieć tuneli"
+END
+
+OBJECT:Cave
+US: "Cave"
+DE: "Höhle"
+FR: "Caverne"
+ES: "Cueva"
+IT: "Caverna"
+KO: "동굴"
+ZH: "洞穴"
+BP: "Caverna"
+PL: "Jaskinia"
+END
+
+OBJECT:GLAHole
+US: "GLA Hole"
+DE: "IBG-Loch"
+FR: "Grotte de la GLA"
+ES: "Túnel GLA"
+IT: "Rifugio ELG"
+KO: "GLA 땅굴"
+ZH: "全球解放軍洞口"
+BP: "Túnel E.L.G."
+PL: "Jama AŚW"
+END
+
+OBJECT:GLARock
+US: "GLA Rock"
+DE: "IBG-Felsen"
+FR: "Rocher de la GLA"
+ES: "GLA Rock"
+IT: "Rocca ELG"
+KO: "GLA 락"
+ZH: "全球解放軍石塊"
+BP: "Rocha E.L.G."
+PL: "Skała AŚW"
+END
+
+OBJECT:UNHumvee
+US: "UN Humvee"
+DE: "NU Humvee"
+FR: "Hum-Vee NU"
+ES: "Humvee de la ONU"
+IT: "Humvee ONU"
+KO: "UN 험비"
+ZH: "聯合國汗馬車"
+BP: "Jipe da ONU"
+PL: "Humvee ONZ"
+END
+
+OBJECT:UNSoldier
+US: "UN Soldier"
+DE: "NU-Cyborg"
+FR: "Casque bleu"
+ES: "Soldado de la ONU"
+IT: "Soldato ONU"
+KO: "UN 병사"
+ZH: "聯合國士兵"
+BP: "Soldado da ONU"
+PL: "Żołnierz ONZ"
+END
+
+OBJECT:VendingMachine
+US: "Vending Machine"
+DE: "Automat"
+FR: "Distributeur"
+ES: "Máquina expendedora"
+IT: "Distributore automatico"
+KO: "자판기"
+ZH: "自動販賣機"
+BP: "Máquina de Doces"
+PL: "Automat"
+END
+
+OBJECT:Wall
+US: "Wall"
+DE: "Mauer"
+FR: "Mur"
+ES: "Muro"
+IT: "Muro"
+KO: "벽"
+ZH: "牆"
+BP: "Muro"
+PL: "Ściana"
+END
+
+OBJECT:ConcreteWall
+US: "Concrete Wall"
+DE: "Betonmauer"
+FR: "Muraille en béton"
+ES: "Muro de hormigón"
+IT: "Muro di calcestruzzo"
+KO: "콘크리트 벽"
+ZH: "混凝土牆"
+BP: "Muralha de Concreto"
+PL: "Mur betonowy"
+END
+
+OBJECT:WatchTower
+US: "Watch Tower"
+DE: "Wachturm"
+FR: "Tour de guet"
+ES: "Torre vigía"
+IT: "Torre di guardia"
+KO: "워치 타워"
+ZH: "守衛塔"
+BP: "Torre de Vigia"
+PL: "Strażnica"
+END
+
+OBJECT:WaterPlant
+US: "Water Plant"
+DE: "Wasserkraftwerk"
+FR: "Plante aquatique"
+ES: "Planta hidráulica"
+IT: "Acquedotto"
+KO: "워터 플랜트"
+ZH: "水力發電場"
+BP: "Usina de Tratamento"
+PL: "Oczyszczalnia wody"
+END
+
+OBJECT:WindMill
+US: "Wind Mill"
+DE: "Windmühle"
+FR: "Moulin à vent"
+ES: "Molino de viento"
+IT: "Mulino a vento"
+KO: "풍차"
+ZH: "風車"
+BP: "Moinho"
+PL: "Wiatrak"
+END
+
+OBJECT:WoodBeams
+US: "Wood Beams"
+DE: "Holzstämme"
+FR: "Poutres"
+ES: "Vigas de madera"
+IT: "Travi di legno"
+KO: "나무 들보"
+ZH: "木樑"
+BP: "Tocos de Madeira"
+PL: "Drewniane belki"
+END
+
+OBJECT:WoodTower
+US: "Wood Tower"
+DE: "Holzturm"
+FR: "Tour en bois"
+ES: "Torre de madera"
+IT: "Torre di legno"
+KO: "우드 타워"
+ZH: "木塔"
+BP: "Torre de Madeira"
+PL: "Drewniana wieża"
+END
+
+OBJECT:WoodWall
+US: "Wood Wall"
+DE: "Holzwand"
+FR: "Mur en bois"
+ES: "Pared de madera"
+IT: "Muro di legno"
+KO: "나무 벽"
+ZH: "木牆"
+BP: "Cerca de Madeira"
+PL: "Płot drewniany"
+END
+
+OBJECT:WoodenBarrels
+US: "Wooden Barrels"
+DE: "Holzfässer"
+FR: "Fûts de chêne"
+ES: "Barriles de madera"
+IT: "Botti"
+KO: "우드 배럴"
+ZH: "木桶"
+BP: "Barris de Madeira"
+PL: "Drewniane beczki"
+END
+
+OBJECT:Worker
+US: "Worker"
+DE: "Arbeitsbot"
+FR: "Ouvrier"
+ES: "Trabajador"
+IT: "Operaio"
+KO: "일꾼"
+ZH: "工人"
+BP: "Trabalhador"
+PL: "Robotnik"
+END
+
+OBJECT:Birch
+US: "Tree"
+DE: "Baum"
+FR: "Arbre"
+ES: "Árbol"
+IT: "Albero"
+KO: "나무"
+ZH: "樹"
+BP: "Árvore"
+PL: "Drzewo"
+END
+
+OBJECT:Building
+US: "Building"
+DE: "Gebäude"
+FR: "Bâtiment"
+ES: "Edificio"
+IT: "Struttura"
+KO: "건물"
+ZH: "建築"
+BP: "Estrutura"
+PL: "Budynek"
+END
+
+OBJECT:Cathedral
+US: "Cathedral"
+DE: "Kathedrale"
+FR: "Cathédrale"
+ES: "Catedral"
+IT: "Cattedrale"
+KO: "성당"
+ZH: "教堂"
+BP: "Catedral"
+PL: "Katedra"
+END
+
+OBJECT:FarmHouse
+US: "Farm House"
+DE: "Bauernhof"
+FR: "Ferme"
+ES: "Granja"
+IT: "Fattoria"
+KO: "농가"
+ZH: "農舍"
+BP: "Casa da Fazenda"
+PL: "Gospodarstwo"
+END
+
+OBJECT:Fir
+US: "Tree"
+DE: "Baum"
+FR: "Arbre"
+ES: "Árbol"
+IT: "Albero"
+KO: "나무"
+ZH: "樹"
+BP: "Árvore"
+PL: "Drzewo"
+END
+
+OBJECT:Garage
+US: "Garage"
+DE: "Garage"
+FR: "Garage"
+ES: "Garaje"
+IT: "Garage"
+KO: "주차장"
+ZH: "車庫"
+BP: "Garagem"
+PL: "Garaż"
+END
+
+OBJECT:OscarTheGrouch
+US: "Junk Dealer"
+DE: "Schrotthändler"
+FR: "Ferrailleur"
+ES: "Chatarrero"
+IT: "Robivecchi"
+KO: "정크 딜러"
+ZH: "廢棄物經銷商"
+BP: "Ferro-Velho"
+PL: "Handlarz złomem"
+END
+
+OBJECT:Pilot
+US: "Pilot"
+DE: "Pilot"
+FR: "Pilote"
+ES: "Piloto"
+IT: "Pilota"
+KO: "파일럿"
+ZH: "駕駛員"
+BP: "Piloto"
+PL: "Pilot"
+END
+
+OBJECT:Pump
+US: "Pump"
+DE: "Pumpe"
+FR: "Pompe"
+ES: "Bomba"
+IT: "Pompa"
+KO: "펌프"
+ZH: "幫浦"
+BP: "Bomba"
+PL: "Pompa"
+END
+
+OBJECT:Shop
+US: "Shop"
+DE: "Laden"
+FR: "Boutique"
+ES: "Tienda"
+IT: "Negozio"
+KO: "상점"
+ZH: "商店"
+BP: "Loja de Varejo"
+PL: "Sklep"
+END
+
+OBJECT:StingerMissile
+US: "Stinger Missile"
+DE: "Stinger-Rakete"
+FR: "Stinger"
+ES: "Misil Stinger"
+IT: "Missile Stinger"
+KO: "스팅어 미사일"
+ZH: "針刺飛彈"
+BP: "Míssil Stinger"
+PL: "Pocisk Stinger"
+END
+
+OBJECT:StingerSoldier
+US: "Stinger Soldier"
+DE: "Stinger-Cyborg"
+FR: "Soldat Stinger"
+ES: "Soldado Stinger"
+IT: "Soldato con Stinger"
+KO: "스팅어 병사"
+ZH: "針刺飛彈兵"
+BP: "Soldado c/ Stinger"
+PL: "Operator Stingera"
+END
+
+OBJECT:StorageTank
+US: "Storage Tank"
+DE: "Tank"
+FR: "Silo de stockage"
+ES: "Tanque depósito"
+IT: "Serbatoio"
+KO: "저장 탱크"
+ZH: "儲存槽"
+BP: "Tanque de Armazenagem"
+PL: "Zbiornik"
+END
+
+OBJECT:Well
+US: "Well"
+DE: "Brunnen"
+FR: "Puits"
+ES: "Pozo"
+IT: "Pozzo"
+KO: "우물"
+ZH: "井"
+BP: "Poço"
+PL: "Studnia"
+END
+
+OBJECT:WineVat
+US: "Vat"
+DE: "Tonne"
+FR: "Cuve"
+ES: "Tanque"
+IT: "Tino"
+KO: "뱃"
+ZH: "大桶子"
+BP: "Tanque"
+PL: "Kadź"
+END
+
+OBJECT:GenericMale
+US: "Civilian"
+DE: "Zivil-Cyborgs"
+FR: "Civil"
+ES: "Civil"
+IT: "Civile"
+KO: "민간인"
+ZH: "平民"
+BP: "Civil"
+PL: "Cywil"
+END
+
+OBJECT:GenericFemale
+US: "Civilian"
+DE: "Zivil-Cyborgs"
+FR: "Civile"
+ES: "Civil"
+IT: "Civile"
+KO: "민간인"
+ZH: "平民"
+BP: "Civil"
+PL: "Cywil"
+END
+
+OBJECT:MogadishuFemaleCivilian
+US: "Civilian"
+DE: "Zivil-Cyborgs"
+FR: "Civile"
+ES: "Civil"
+IT: "Civile"
+KO: "민간인"
+ZH: "平民"
+BP: "Civil"
+PL: "Cywil"
+END
+
+OBJECT:MogadishuMaleCivilian
+US: "Civilian"
+DE: "Zivil-Cyborgs"
+FR: "Civil"
+ES: "Civil"
+IT: "Civile"
+KO: "민간인"
+ZH: "平民"
+BP: "Civil"
+PL: "Cywil"
+END
+
+OBJECT:Crane
+US: "Crane"
+DE: "Kran"
+FR: "Grue"
+ES: "Grúa"
+IT: "Gru"
+KO: "크레인"
+ZH: "起重機"
+BP: "Guindaste"
+PL: "Dźwig"
+END
+
+OBJECT:OceanCenter
+US: "Convention Center"
+DE: "Tagungszentrum"
+FR: "Pavillon des expositions"
+ES: "Centro de Convenciones"
+IT: "Centro congressi"
+KO: "컨벤션 센터"
+ZH: "海洋中心"
+BP: "Centro de Convenções"
+PL: "Centrum wystawowe"
+END
+
+OBJECT:SoccerStadium
+US: "Soccer Stadium"
+DE: "Fußballstadion"
+FR: "Stade de football"
+ES: "Estadio de fútbol"
+IT: "Stadio"
+KO: "축구장"
+ZH: "足球場"
+BP: "Estádio de Futebol"
+PL: "Stadion piłkarski"
+END
+
+OBJECT:Ambulance
+US: "Ambulance"
+DE: "Ambulanz"
+FR: "Ambulance"
+ES: "Ambulancia"
+IT: "Ambulanza"
+KO: "앰뷸런스"
+ZH: "救護車"
+BP: "Ambulância"
+PL: "Ambulans"
+END
+
+OBJECT:AsianCar
+US: "Car"
+DE: "Auto"
+FR: "Voiture"
+ES: "Coche"
+IT: "Auto"
+KO: "차량"
+ZH: "車"
+BP: "Carro"
+PL: "Samochód"
+END
+
+OBJECT:Backhoe
+US: "Backhoe"
+DE: "Schaufelbagger"
+FR: "Pelle mécanique"
+ES: "Excavadora"
+IT: "Scavatrice"
+KO: "벡호"
+ZH: "耕耘機"
+BP: "Escavadeira"
+PL: "Koparka"
+END
+
+OBJECT:LargeForklift
+US: "Large Forklift"
+DE: "Großer Gabelstapler"
+FR: "Grand chariot élévateur"
+ES: "Carretilla elevadora grande"
+IT: "Carrello elevatore"
+KO: "대형 포크리프트"
+ZH: "大型起貨機"
+BP: "Empilhadeira Grande"
+PL: "Duży podnośnik"
+END
+
+OBJECT:SmallForklift
+US: "Forklift"
+DE: "Gabelstapler"
+FR: "Chariot élévateur"
+ES: "Carretilla elevadora"
+IT: "Carrello elevatore"
+KO: "포크리프트"
+ZH: "起貨機"
+BP: "Empilhadeira"
+PL: "Podnośnik widłowy"
+END
+
+OBJECT:CropDuster
+US: "Crop Duster"
+DE: "Flugzeug"
+FR: "Avion épandeur"
+ES: "Fumigador de cosechas"
+IT: "Velivolo spargi-insetticida"
+KO: "농약 살포기"
+ZH: "收成機"
+BP: "Avião Pulverizador"
+PL: "Opylarka"
+END
+
+OBJECT:Cessna
+US: "Plane"
+DE: "Flugzeug"
+FR: "Avion"
+ES: "Avión"
+IT: "Aereo"
+KO: "비행기"
+ZH: "飛機"
+BP: "Avião"
+PL: "Samolot"
+END
+
+OBJECT:ChickenTruck
+US: "Chicken Truck"
+DE: "Hühnerlaster"
+FR: "Camion volailler"
+ES: "Camión de pollos"
+IT: "Camion di galline"
+KO: "치킨 트럭"
+ZH: "養雞場卡車"
+BP: "Caminhão de Galinhas"
+PL: "Furgonetka z kurczakami"
+END
+
+OBJECT:Combine
+US: "Combine"
+DE: "Flugzeug"
+FR: "Moissonneuse-batteuse"
+ES: "Cosechadora"
+IT: "Macchina agricola"
+KO: "컴바인"
+ZH: "聯合收割機"
+BP: "Trator"
+PL: "Kombajn"
+END
+
+OBJECT:Eurovan
+US: "Van"
+DE: "Möbelwagen"
+FR: "Van"
+ES: "Furgoneta"
+IT: "Furgone"
+KO: "밴"
+ZH: "貨車"
+BP: "Furgão"
+PL: "Van"
+END
+
+OBJECT:EuroPoliceVan
+US: "Police Van"
+DE: "Polizeitransporter"
+FR: "Fourgonnette de police"
+ES: "Furgoneta de policía"
+IT: "Furgone della polizia"
+KO: "경찰 밴"
+ZH: "箱型警車"
+BP: "Furgão da Polícia"
+PL: "Furgonetka policyjna"
+END
+
+OBJECT:Firetruck
+US: "Fire Truck"
+DE: "Feuerwehrauto"
+FR: "Camion de pompiers"
+ES: "Camión de bomberos"
+IT: "Camion dei pompieri"
+KO: "소방차"
+ZH: "救火車"
+BP: "Caminhão de Bombeiros"
+PL: "Wóz strażacki"
+END
+
+OBJECT:FarmerTruck
+US: "Farmer Truck"
+DE: "Pickup"
+FR: "Camion agricole"
+ES: "Camión de granjero"
+IT: "Camion agricolo"
+KO: "농장 트럭"
+ZH: "農場卡車"
+BP: "Caminhão da Fazenda"
+PL: "Pickup"
+END
+
+OBJECT:AsianFishingBoat
+US: "Fishing Boat"
+DE: "Fischerboot"
+FR: "Bateau de pêche"
+ES: "Embarcación pesquera"
+IT: "Barca da pesca"
+KO: "낚싯배"
+ZH: "漁船"
+BP: "Barco de Pesca"
+PL: "Łódź rybacka"
+END
+
+OBJECT:TourBus
+US: "Tour Bus"
+DE: "Reisebus"
+FR: "Car touristique"
+ES: "Bus turístico"
+IT: "Autobus turistico"
+KO: "투어 버스"
+ZH: "觀光巴士"
+BP: "Ônibus de Excursão"
+PL: "Autobus wycieczkowy"
+END
+
+OBJECT:FishingTrowler
+US: "Fishing Trawler"
+DE: "Fischkutter"
+FR: "Chalutier"
+ES: "Arrastrero"
+IT: "Barca da pesca"
+KO: "어선"
+ZH: "釣魚用具"
+BP: "Pesqueiro"
+PL: "Trawler"
+END
+
+OBJECT:WorkTruck
+US: "Work Truck"
+DE: "Lastwagen"
+FR: "Camion de chantier"
+ES: "Camión de trabajo"
+IT: "Camion"
+KO: "워크 트럭"
+ZH: "工作用卡車"
+BP: "Caminhão"
+PL: "Ciężarówka"
+END
+
+OBJECT:TugBoat
+US: "Tug Boat"
+DE: "Boot"
+FR: "Remorqueur"
+ES: "Remolcador"
+IT: "Rimorchiatore"
+KO: "예인선"
+ZH: "拖船"
+BP: "Rebocador"
+PL: "Holownik"
+END
+
+OBJECT:BioHazardTech
+US: "Bio-Hazard Technician"
+DE: "Säurewaffen-Einheit"
+FR: "Décontamineur"
+ES: "Técnico en peligros biológicos"
+IT: "Bio-tecnico"
+KO: "바이오해저드 테크니션"
+ZH: "危險生化科技"
+BP: "Técnico Biológico"
+PL: "Technik biozagrożenia"
+END
+
+OBJECT:MilitiaTank
+US: "Militia Tank"
+DE: "Milizpanzer"
+FR: "Char milice"
+ES: "Tanque de milicia"
+IT: "Carro della milizia"
+KO: "밀리샤 탱크"
+ZH: "民兵坦克"
+BP: "Tanque da Milícia"
+PL: "Czołg milicji"
+END
+
+OBJECT:TechOilRefinery
+US: "Oil Refinery -- Capture to reduce the cost of vehicles"
+DE: "Öl-Raffinerie -- Erobern, um die Kosten für Fahrzeuge zu senken"
+FR: "Complexe pétrochimique : s'en emparer réduit les coûts d'utilisation des véhicules"
+ES: "Refinería de petróleo -- Capturar para reducir el coste de los vehículos"
+IT: "Raffineria - Conquistala per ridurre il costo dei veicoli"
+KO: "정유 공장 -- 차량의 생산 비용이 감소합니다."
+ZH: "煉油廠 -- 佔領煉油廠能減少生產載具單位的費用"
+BP: "Refinaria de Petróleo - Capture esta instalação para reduzir o custo de construção de veículos."
+PL: "Rafineria -- Przejmij, aby obniżyć koszt pojazdów"
+END
+
+OBJECT:SupplyDock
+US: "Supply Dock"
+DE: "Nachschublager"
+FR: "Entrepôt de ravitaillement"
+ES: "Puerto de suministros"
+IT: "Zona di rifornimento"
+KO: "서플라이 적재소"
+ZH: "補給站"
+BP: "Doca de Suprimentos"
+PL: "Magazyn zaopatrzeniowy"
+END
+
+OBJECT:Frosty
+US: "Snowman"
+DE: "Schneemann"
+FR: "Bonhomme de neige"
+ES: "Muñeco de nieve"
+IT: "Pupazzo di neve"
+KO: "눈사람"
+ZH: "雪人"
+BP: "Boneco de Neve"
+PL: "Bałwanek"
+END
+
+OBJECT:Prop
+US: "."
+DE: "."
+FR: "."
+ES: "."
+IT: "."
+KO: "."
+ZH: "。"
+BP: "."
+PL: "."
+END
+
+OBJECT:BigGate
+US: "Gate"
+DE: "Tor"
+FR: "Portail"
+ES: "Puerta"
+IT: "Mura"
+KO: "문"
+ZH: "大門"
+BP: "Portão"
+PL: "Brama"
+END
+
+OBJECT:TownHall
+US: "Town Hall"
+DE: "Rathaus"
+FR: "Hôtel de ville"
+ES: "Ayuntamiento"
+IT: "Municipio"
+KO: "마을 회관"
+ZH: "鎮公所"
+BP: "Prefeitura"
+PL: "Ratusz"
+END
+
+OBJECT:RailroadBridge
+US: "Railroad Bridge"
+DE: "Eisenbahnbrücke"
+FR: "Pont ferroviaire"
+ES: "Puente ferroviario"
+IT: "Ponte ferroviario"
+KO: "철교"
+ZH: "鐵路橋樑"
+BP: "Ponte Ferroviária"
+PL: "Most kolejowy"
+END
+
+OBJECT:TheLoo
+US: "Out House"
+DE: "Außenklosett"
+FR: "Toilettes en extérieur"
+ES: "Edificación anexa"
+IT: "Ritirata"
+KO: "아웃 하우스"
+ZH: "外側建築物"
+BP: "Casa"
+PL: "Wychodek"
+END
+
+OBJECT:TrainCar
+US: "Train Car"
+DE: "Eisenbahnwagon"
+FR: "Locomotive"
+ES: "Vagón"
+IT: "Vagone"
+KO: "열차"
+ZH: "火車"
+BP: "Vagão"
+PL: "Wagon"
+END
+
+OBJECT:SandBagWall
+US: "Sandbag Wall"
+DE: "Sandsack-Wall"
+FR: "Mur de sacs de sable"
+ES: "Sacos de arena"
+IT: "Sacchi di sabbia"
+KO: "모래 주머니 방벽"
+ZH: "沙袋圍牆"
+BP: "Sacos de Areia"
+PL: "Mur z worków z piaskiem"
+END
+
+OBJECT:Structure
+US: "Civilian Building"
+DE: "Zivilgebäude"
+FR: "Bâtiment civil"
+ES: "Edificio civil"
+IT: "Edificio civile"
+KO: "민간 건물"
+ZH: "民用建築物"
+BP: "Edifício Civil"
+PL: "Budynek cywilny"
+END
+
+OBJECT:Airport
+US: "Civilian Airport"
+DE: "Zivilflughafen"
+FR: "Aéroport civil"
+ES: "Aeropuerto civil"
+IT: "Aeroporto civile"
+KO: "민간 비행장"
+ZH: "民用機場"
+BP: "Aeroporto Civil"
+PL: "Lotnisko cywilne"
+END
+
+OBJECT:Highrise
+US: "Highrise"
+DE: "Hochhaus"
+FR: "Tour"
+ES: "Torre de apartamentos"
+IT: "Palazzo"
+KO: "고층 건물"
+ZH: "高樓"
+BP: "Arranha-Céu"
+PL: "Wieżowiec"
+END
+
+OBJECT:BridgeTower
+US: "Bridge Tower"
+DE: "Brückenkopf"
+FR: "Pont."
+ES: "Torre del Puente."
+IT: "Torre del ponte"
+KO: "교량 타워"
+ZH: "橋塔"
+BP: "Torre da Ponte."
+PL: "Wieża mostowa"
+END
+
+OBJECT:Field
+US: "Pitch"
+DE: "Fußballfeld"
+FR: "Terrain"
+ES: "Campo"
+IT: "Campo"
+KO: "피치"
+ZH: "帳棚"
+BP: "Campo"
+PL: "Murawa"
+END
+
+OBJECT:SoccerStadiumGoal
+US: "Goal"
+DE: "Tor"
+FR: "But"
+ES: "Portería"
+IT: "Porta"
+KO: "목표"
+ZH: "目標"
+BP: "Gol"
+PL: "Bramka"
+END
+
+OBJECT:BigLightpost
+US: "Light Post"
+DE: "Laterne"
+FR: "Réverbère"
+ES: "Farola"
+IT: "Insegna luminosa"
+KO: "라이트 포스트"
+ZH: "燈柱"
+BP: "Poste de Iluminação"
+PL: "Słup oświetleniowy"
+END
+
+OBJECT:Monument
+US: "Monument"
+DE: "Monument"
+FR: "Monument"
+ES: "Monumentos"
+IT: "Monumento"
+KO: "공적"
+ZH: "紀念碑"
+BP: "Monumento"
+PL: "Monument"
+END
+
+OBJECT:TrainWreckBridge
+US: "Train Wreck Bridge"
+DE: "Zerstörte Eisenbahnbrücke"
+FR: "Pont du déraillement"
+ES: "Puente del tren destruido"
+IT: "Ponte ferroviario distrutto"
+KO: "파손된 다리"
+ZH: "火車失事橋樑"
+BP: "Destroços da Ponte Ferroviária"
+PL: "Zniszczony most kolejowy"
+END
+
+OBJECT:PharmaceuticalFactory
+US: "Pharmaceutical Factory"
+DE: "Säurefabrik"
+FR: "Usine pharmaceutique"
+ES: "Fábrica de Fármacos"
+IT: "Fabbrica farmaceutica"
+KO: "약품 제조소"
+ZH: "製藥工廠"
+BP: "Fábrica Farmacêutica"
+PL: "Fabryka farmaceutyczna"
+END
+
+OBJECT:CargoPlane
+US: "Cargo Plane"
+DE: "Frachtflugzeug"
+FR: "Avion cargo"
+ES: "Avión de Carga"
+IT: "Cargo"
+KO: "화물 수송기"
+ZH: "貨機"
+BP: "Cargueiro"
+PL: "Samolot transportowy"
+END
+
+OBJECT:HuNanProvince
+US: "Beijing"
+DE: "Dragon City"
+FR: "Pékin"
+ES: "Pekín"
+IT: "Beijing"
+KO: "베이징"
+ZH: "北京"
+BP: "Beijing"
+PL: "Pekin"
+END
+
+OBJECT:HongKong
+US: "Hong Kong"
+DE: "New Harbor City"
+FR: "Hong-Kong"
+ES: "Hong Kong"
+IT: "Hong Kong"
+KO: "홍콩, 중국\n홍콩 재앙"
+ZH: "香港"
+BP: "Hong Kong"
+PL: "Hongkong"
+END
+
+OBJECT:HubeiProvince
+US: "Three Gorges Dam"
+DE: "Turbinen Damm"
+FR: "Barrage des 3 Gorges"
+ES: "Hubei"
+IT: "Diga delle Tre Gole"
+KO: "세 골짜기 댐"
+ZH: "三峽大壩"
+BP: "Represa Três Ravinas"
+PL: "Zapora Trzech Gardzieli"
+END
+
+OBJECT:Tangula
+US: "Tanggula Mountains"
+DE: "Blacktop Gebirge"
+FR: "Mont Tangula, Chine"
+ES: "Montañas Tangula, China."
+IT: "Monti Tangula"
+KO: "탕굴라 산맥"
+ZH: "坦谷拉山"
+BP: "Montanhas Tangula"
+PL: "Góry Tangla"
+END
+
+OBJECT:Balykchy
+US: "Balykchy"
+DE: "Hive City"
+FR: "Balykchy, Kirghizstan"
+ES: "Balykchy, Kyrgyzstán"
+IT: "Balykchy"
+KO: "발리크치"
+ZH: "凱吉斯坦"
+BP: "Balykchy"
+PL: "Bałykczi, Kirgistan"
+END
+
+OBJECT:Bishkek
+US: "Bishkek"
+DE: "Ramkek"
+FR: "Bichkek"
+ES: "Bishkek, Aldastan"
+IT: "Bishkek"
+KO: "비쉬켁"
+ZH: "畢斯凱"
+BP: "Bishkek"
+PL: "Biszkek, Aldastan"
+END
+
+OBJECT:Dushanbe
+US: "Dushanbe"
+DE: "Black Rock City"
+FR: "Dushanbe"
+ES: "Dushanbe, Aldastan"
+IT: "Dushanbe"
+KO: "두샨베"
+ZH: "杜尚別"
+BP: "Dushanbe"
+PL: "Duszanbe, Aldastan"
+END
+
+OBJECT:Shymkent
+US: "Shymkent"
+DE: "Kobey Village"
+FR: "Chymkent"
+ES: "Shymket, Kazakstán"
+IT: "Shymkent"
+KO: "심켄트"
+ZH: "希肯特"
+BP: "Shymkent"
+PL: "Szymkient"
+END
+
+OBJECT:Almaty
+US: "Almaty"
+DE: "Iron City"
+FR: "Almaty"
+ES: "Almaty"
+IT: "Almati"
+KO: "알마티"
+ZH: "雅馬提"
+BP: "Almaty"
+PL: "Ałma-Ata"
+END
+
+OBJECT:Zambul
+US: "Zhambul"
+DE: "Zhumbar"
+FR: "Zhambul, Kazakhstan"
+ES: "Zambul"
+IT: "Zhambul"
+KO: "잠불"
+ZH: "汗布爾"
+BP: "Zhambul"
+PL: "Szambul"
+END
+
+OBJECT:Astana
+US: "Astana"
+DE: "Tarmah"
+FR: "Astana, Kazakhstan"
+ES: "Astana, Kazakstán"
+IT: "Astana"
+KO: "아스타나"
+ZH: "雅達納"
+BP: "Astana"
+PL: "Astana, Kazachstan"
+END
+
+OBJECT:Incirlik
+US: "Incirlik"
+DE: "WA Luftwaffenstützpunkt"
+FR: "Incirlik, Turquie"
+ES: "Incirlik, Turquía"
+IT: "Incirlik"
+KO: "인시를릭"
+ZH: "英基里克"
+BP: "Incirlik"
+PL: "Incirlik, Turcja"
+END
+
+OBJECT:AralSea
+US: "Aral Sea"
+DE: "Northern Sea"
+FR: "Mer d'Aral"
+ES: "Mar Aral, Kazakstán"
+IT: "Mare di Aral"
+KO: "아랄 해"
+ZH: "鹹海"
+BP: "Mar de Aral"
+PL: "Jezioro Aralskie, Kazachstan"
+END
+
+OBJECT:Lenger
+US: "Lenger"
+DE: "Lendor"
+FR: "Lenger, Kazakhstan"
+ES: "Lenger, Kazakstán"
+IT: "Lenger"
+KO: "렝거"
+ZH: "林杰"
+BP: "Lenger"
+PL: "Lenger"
+END
+
+OBJECT:Baikonur
+US: "Baikonur"
+DE: "Space Port"
+FR: "Baïkonour"
+ES: "Baikonur, Kazakstán"
+IT: "Baikonur"
+KO: "바이코누르 우주선 기지, 남 카자흐스탄\n소련 로켓 발사 시설"
+ZH: "巴以庫爾"
+BP: "Baikonur"
+PL: "Bajkonur, Kazachstan"
+END
+
+OBJECT:Mazar
+US: "Mazar"
+DE: "Bazar"
+FR: "Mazar, Afghanistan"
+ES: "Mazar, Afganistán"
+IT: "Mazar"
+KO: "매자르"
+ZH: "馬薩爾"
+BP: "Mazar"
+PL: "Mazar, Afganistan"
+END
+
+OBJECT:Baghdad
+US: "Baghdad"
+DE: "Twin Sword City"
+FR: "Bagdad, Irak"
+ES: "Bagdad"
+IT: "Baghdad"
+KO: "바그다드"
+ZH: "巴格達"
+BP: "Bagdá"
+PL: "Bagdad"
+END
+
+OBJECT:AlHanad
+US: "Al Hanad"
+DE: "Sandstorm City"
+FR: "Al Hanad, Yémen"
+ES: "Al Hanad, Yemen"
+IT: "Al'hanad"
+KO: "알 하나드"
+ZH: "愛爾汗納德"
+BP: "Al Hanad"
+PL: "Al Hanad, Jemen"
+END
+
+OBJECT:NorthKazakhstan
+US: "Northern Kazakhstan"
+DE: "Nord-Deltastan"
+FR: "Nord Kazakhstan"
+ES: "Norte de Kazajstán"
+IT: "Kazakhistan"
+KO: "북 카자흐스탄"
+ZH: "哈薩克北方"
+BP: "Norte do Cazaquistão"
+PL: "Północny Kazachstan"
+END
+
+OBJECT:KazakhstanCoast
+US: "Kazakhstan Coast"
+DE: "Deltastan, Küste"
+FR: "Côtes du Kazakhstan"
+ES: "Costa de Kazajstán"
+IT: "Kazakhistan"
+KO: "카자흐스탄 해안"
+ZH: "哈薩克沿岸"
+BP: "Costa do Cazaquistão"
+PL: "Brzeg\nJ. Aralskiego"
+END
+
+OBJECT:KazakhstanDMZ
+US: "Kazakhstan DMZ"
+DE: "Deltastan DMZ"
+FR: "Kazakhstan DMZ"
+ES: "ZDM Kazajstán"
+IT: "Kazakhistan"
+KO: "카자흐스탄 DMZ"
+ZH: "哈薩克DMZ"
+BP: "ZDM do Cazaquistão"
+PL: "Kazachstan, strefa zdemilit."
+END
+
+OBJECT:SouthKazkahstan
+US: "Southeastern Kazakhstan"
+DE: "Südost-Deltastan"
+FR: "Sud-est Kazakhstan"
+ES: "Sudeste de Kazajstán"
+IT: "Kazakhistan"
+KO: "카자흐스탄 남동부"
+ZH: "哈薩克南方"
+BP: "Cazaquistão"
+PL: "Płd.-wsch. Kazachstan"
+END
+
+OBJECT:Akmola
+US: "Akmola"
+DE: "Hightower Fortress"
+FR: "Akmola, Aldastan"
+ES: "Akmola"
+IT: "Akmola"
+KO: "악몰라"
+ZH: "雅克墨拉"
+BP: "Akmola"
+PL: "Akmoła"
+END
+
+OBJECT:SecretResearchLab
+US: "Secret Research Lab"
+DE: "Geheimes Forschungslabor"
+FR: "Laboratoire de recherche secret"
+ES: "Laboratorio secreto invest."
+IT: "Laboratorio segreto"
+KO: "비밀 연구실"
+ZH: "秘密研發實驗室"
+BP: "Laboratório Secreto de Pesquisa"
+PL: "Tajne laboratorium badawcze"
+END
+
+OBJECT:InternetCenter
+US: "Internet Center"
+DE: "Web-Zentrum"
+FR: "Centre Internet"
+ES: "Centro de Internet"
+IT: "Centro Internet"
+KO: "인터넷 센터"
+ZH: "網際網路中心"
+BP: "Central da Internet"
+PL: "Ośrodek internetowy"
+END
+
+OBJECT:AircraftCarrier
+US: "Aircraft Carrier"
+DE: "Flugzeugträger"
+FR: "Porte-avions"
+ES: "Portaaviones"
+IT: "Portaerei"
+KO: "항공 모함"
+ZH: "航空母艦"
+BP: "Porta-Aviões"
+PL: "Lotniskowiec"
+END
+
+OBJECT:TechArtilleryPlatform
+US: "Artillery Platform -- Capture to bombard land based enemies"
+DE: "Artillerieplattform"
+FR: "Plate-forme d'artillerie"
+ES: "Estación de artillería - Capturar para bombardear enemigos terrestres"
+IT: "Postazione d'artiglieria - Conquistala per bombardare unità nemiche di terra."
+KO: "캐논 플랫폼 -- 점령시 지상의 적들을 포격할 수 있습니다."
+ZH: "砲兵陣地"
+BP: "Plataforma de Artilharia -- Capture para bombardear inimigos em terra"
+PL: "Platforma artyleryjska"
+END
+
+OBJECT:NukeHunter
+US: "Nuke Hunter"
+DE: "Nuklear-Panzerjäger"
+FR: "Tueur nucléaire"
+ES: "Antinucleares"
+IT: "Cacciatore di testate nucleari"
+KO: "핵 탐사병"
+ZH: "核武獵人"
+BP: "Caçador de Armas Nucleares"
+PL: "Łowca atomówek"
+END
+
+OBJECT:TechRepairPad
+US: "Repair Pad -- Capture to allow vehicles to repair at this facility"
+DE: "Reparaturplattform"
+FR: "Plate-forme de réparation : capturez-la pour y faire réparer vos véhicules."
+ES: "Plataforma de reparación - Captúrala para reparar vehículos aquí"
+IT: "Centro riparazioni: conquistalo per ripararci i tuoi veicoli."
+KO: "수리 패드 -- 이 시설에서 차량 수리를 할 수 있도록 시설을 점령합니다."
+ZH: "維修機坪，佔領讓載具可以在此設施內維修"
+BP: "Plataforma de Reparos – Capture esta instalação para permitir que os veículos sejam reparados nela"
+PL: "Platforma naprawcza - zajmij ten obiekt, a twoje pojazdy będą tu reperowane"
+END
+
+OBJECT:AirF_Aurora
+US: "Fuel-Air Aurora Bomber"
+DE: "Aurora-Bomber mit Benzinbombe"
+FR: "Bombardier Aurora aéro-incendiaire"
+ES: "Aurora Alpha"
+IT: "Bombardiere Aurora benzina"
+KO: "기화 폭탄 오로라 폭격기"
+ZH: "油氣彈曙光轟炸機"
+BP: "Bombardeiro Incendiário Aurora"
+PL: "Aurora Alfa"
+END
+
+OBJECT:SupW_Aurora
+US: "Aurora Alpha Bomber"
+DE: "Aurora Alpha Bomber"
+FR: "Aurora Alpha"
+ES: "Bombardero Aurora Alpha"
+IT: "Bombardiere Aurora Alfa"
+KO: "오로라 알파 폭격기"
+ZH: "阿爾發曙光轟炸機"
+BP: "Bombardeiro Aurora Alfa"
+PL: "Bombowiec Aurora Alfa"
+END
+
+OBJECT:BattleBus
+US: "Battle Bus"
+DE: "Kampfbus"
+FR: "Van de combat"
+ES: "Bus de combate"
+IT: "Autobus da battaglia"
+KO: "배틀 버스"
+ZH: "戰鬥巴士"
+BP: "Ônibus de Combate"
+PL: "Autobus bojowy"
+END
+
+OBJECT:Helix
+US: "Helix"
+DE: "Helix"
+FR: "Hélix"
+ES: "Helix"
+IT: "Helix"
+KO: "헬릭스"
+ZH: "螺旋直昇機"
+BP: "Helix"
+PL: "Spirala"
+END
+
+OBJECT:PropagandaTrooper
+US: "Propaganda Trooper"
+DE: "Propaganda-Trooper"
+FR: "Propagandiste"
+ES: "Soldado de propaganda"
+IT: "Addetto propaganda"
+KO: "프로퍼갠더 트루퍼"
+ZH: "思想強化士兵"
+BP: "Soldado de Propaganda"
+PL: "Propagandysta"
+END
+
+OBJECT:HellfireDrone
+US: "Hellfire Drone"
+DE: "Hellfire-Drohne"
+FR: "Drone lance-missile"
+ES: "Teledirigido Hellfire"
+IT: "Drone Hellfire"
+KO: "헬파이어 드론"
+ZH: "地獄火蜂型機"
+BP: "Drone Hellfire"
+PL: "Robot rakietowy"
+END
+
+OBJECT:Avenger
+US: "Avenger"
+DE: "Avenger"
+FR: "Vengeur"
+ES: "Avenger"
+IT: "Avenger"
+KO: "어벤져"
+ZH: "復仇者支援車"
+BP: "Vingador"
+PL: "Mściciel"
+END
+
+OBJECT:Microwave
+US: "Microwave Tank"
+DE: "Mikrowellenpanzer"
+FR: "Char Micro-ondes"
+ES: "Tanque de microondas"
+IT: "Carro a microonde"
+KO: "초단파 탱크"
+ZH: "微波坦克"
+BP: "Tanque de Microondas"
+PL: "Czołg mikrofalowy"
+END
+
+OBJECT:MOAB
+US: "Mother Of All Bombs"
+DE: "Mutter aller Bomben"
+FR: "Bombe Aéro-incendiaire Massive"
+ES: "Madre de todas las bombas"
+IT: "Madre di tutte le bombe"
+KO: "MOAB"
+ZH: "炸彈之母"
+BP: "Mãe de Todas as Bombas"
+PL: "Bomba nad bombami"
+END
+
+OBJECT:NukeDrop
+US: "Nuke Drop"
+DE: "Atombomben-Abwurf"
+FR: "Largage bombe A"
+ES: "Lanzamiento nuclear"
+IT: "Lancio nucleare"
+KO: "핵 투하"
+ZH: "空投核武"
+BP: "Lança-Bomba Nuclear"
+PL: "Zrzut atomówki"
+END
+
+OBJECT:SuitcaseNuke
+US: "Suitcase Nuke"
+DE: "Kofferbombe"
+FR: "Valise nucléaire"
+ES: "Maletín nuclear"
+IT: "Testata nucleare tascabile"
+KO: "휴대용 핵폭탄"
+ZH: "手提箱核彈"
+BP: "Maleta de Arma Nuclear"
+PL: "Walizkowa atomówka"
+END
+
+OBJECT:StructureEMPMine
+US: "Neutron Mine"
+DE: "Neutronenmine"
+FR: "Mine à neutrons"
+ES: "Mina de neutrones"
+IT: "Mina a neutroni"
+KO: "중성자 지뢰"
+ZH: "中子地雷"
+BP: "Mina de Nêutron"
+PL: "Mina neutronowa"
+END
+
+OBJECT:ECMTank
+US: "ECM Tank"
+DE: "ECM-Panzer"
+FR: "Char CME"
+ES: "Tanque CME"
+IT: "Carro ECM"
+KO: "ECM 탱크"
+ZH: "電子干擾坦克"
+BP: "Tanque ECM"
+PL: "Czołg ECM"
+END
+
+OBJECT:Saboteur
+US: "Saboteur"
+DE: "Saboteur"
+FR: "Saboteur"
+ES: "Saboteador"
+IT: "Sabotatore"
+KO: "새보터"
+ZH: "破壞者"
+BP: "Sabotador"
+PL: "Sabotażysta"
+END
+
+OBJECT:TechRepairBay
+US: "Tech Repair Bay -- Capture to repair vehicles across battlefield"
+DE: "Reparaturplattform"
+FR: "Plate-forme de réparation tech."
+ES: "Compart. repar. técnicas - Capturar para reparar vehículos a lo largo del campo de batalla"
+IT: "Garage - Conquistalo per riparare i veicoli sul campo."
+KO: "기술 수리 시설 -- 점령시 전장의 차량들을 수리합니다."
+ZH: "科技維修機坪"
+BP: "Ala de Reparos Técnicos -- Capture para reparar veículos no campo de batalha"
+PL: "Platforma naprawcza"
+END
+
+OBJECT:TechReinforcementPad
+US: "Reinforcement Pad -- Capture to receive additional vehicles"
+DE: "Entsatzzone"
+FR: "Plate-forme de renforts tech."
+ES: "Plataf. refuerzo técnico - Capturar para obtener vehículos adicionales"
+IT: "Centro rinforzo - Conquistalo per ricevere veicoli aggiuntivi."
+KO: "기술 지원군 패드 -- 점령시 추가 차량을 획득합니다."
+ZH: "科技增援機坪"
+BP: "Plataforma de Reparos Técnicos - Capture para receber veículos adicionais"
+PL: "Platforma zrzutu posiłków"
+END
+
+OBJECT:Sniper
+US: "Sniper"
+DE: "Heckenschütze"
+FR: "Tireur embusqué"
+ES: "Francotirador"
+IT: "Cecchino"
+KO: "저격병"
+ZH: "狙擊手"
+BP: "Atirador de Elite"
+PL: "Snajper"
+END
+
+OBJECT:FireBase
+US: "Fire Base"
+DE: "Geschützstellung"
+FR: "Position de tir"
+ES: "Base de disparo"
+IT: "Base di fuoco"
+KO: "파이어 베이스"
+ZH: "火力基地"
+BP: "Base de Disparo"
+PL: "Baza ogniowa"
+END
+
+OBJECT:KingRaptor
+US: "King Raptor"
+DE: "King Raptor"
+FR: "King Raptor"
+ES: "King Raptor"
+IT: "Re Raptor"
+KO: "킹 랩터"
+ZH: "猛禽王戰機"
+BP: "King Raptor"
+PL: "Królewski Raptor"
+END
+
+OBJECT:CombatBike
+US: "Combat Cycle"
+DE: "Kampfbike"
+FR: "Moto de combat"
+ES: "Moto de combate"
+IT: "Moto da combattimento"
+KO: "컴뱃 사이클"
+ZH: "戰鬥摩托車"
+BP: "Moto de Combate"
+PL: "Motor bojowy"
+END
+
+OBJECT:SentryDrone
+US: "Sentry Drone"
+DE: "Überwachungsdrohne"
+FR: "Drone sentinelle"
+ES: "Teledirigido centinela"
+IT: "Drone da ricognizione"
+KO: "센트리 드론"
+ZH: "無人哨兵機"
+BP: "Drone Sentinela"
+PL: "Robot strażniczy"
+END
+
+OBJECT:TomahawkStorm
+US: "Tomahawk Storm"
+DE: "Tomahawk-Sturm"
+FR: "Tomahawk multiples"
+ES: "Tormenta de Tomahawk"
+IT: "Tomahawk Storm"
+KO: "토마호크 폭풍"
+ZH: "戰斧風暴"
+BP: "Lançador de Tempestade Tomahawk"
+PL: "Deszcz Tomahawków"
+END
+
+OBJECT:ListeningOutpost
+US: "Listening Outpost"
+DE: "Horchposten"
+FR: "Poste mobile d'écoute"
+ES: "Puesto de escucha"
+IT: "Postazione d'ascolto"
+KO: "감시 아웃포스트"
+ZH: "前哨監聽車"
+BP: "Posto Avançado de Escuta"
+PL: "Posterunek nasłuchowy"
+END
+
+OBJECT:TrainDepot
+US: "Train Depot"
+DE: "Güterbahnhof"
+FR: "Dépôt"
+ES: "Depósito de locomotoras"
+IT: "Deposito dei treni"
+KO: "기차역"
+ZH: "火車站"
+BP: "Estação de Trem"
+PL: "Terminal kolejowy"
+END
+
+OBJECT:TrainLoading
+US: "Boarding Platform"
+DE: "Bahnsteig"
+FR: "Quai"
+ES: "Muelle de embarque"
+IT: "Piattaforma d'imbarco"
+KO: "탑승 플랫폼"
+ZH: "月台"
+BP: "Plataforma de Embarque"
+PL: "Platforma załadowcza"
+END
+
+OBJECT:GLALeader
+US: "GLA Leader"
+DE: "IBG-Führer"
+FR: "Chef de la GLA"
+ES: "Líder del GLA"
+IT: "Leader ELG"
+KO: "GLA 지도자"
+ZH: "全球解放軍領導人"
+BP: "Líder do E.L.G."
+PL: "Przywódca AŚW"
+END
+
+OBJECT:SupW_PatriotBattery
+US: "EMP Patriot System"
+DE: "EMP Patriot-System"
+FR: "Système IEM Patriot"
+ES: "Sistema de misiles Patriot de IEM"
+IT: "Sistema Patriot EMP"
+KO: "EMP 패트리엇 시스템"
+ZH: "電磁脈衝愛國者飛彈系統"
+BP: "Sistema Patriot E.M."
+PL: "System el-magn Patriot"
+END
+
+OBJECT:AssaultTroopTransport
+US: "Assault Troop Transport"
+DE: "Truppentransporter"
+FR: "Transporteur d'assaut"
+ES: "Transporte de asalto"
+IT: "Trasporto truppe d'assalto"
+KO: "공격 부대 수송 차량"
+ZH: "突擊運輸機"
+BP: "Transporte de Tropa de Assalto"
+PL: "Transporter szturmowy"
+END
+
+OBJECT:AssaultListeningOutpost
+US: "Attack Outpost"
+DE: "Horchposten"
+FR: "Poste d'écoute amélioré"
+ES: "Puesto de ataque"
+IT: "Avamposto d'assalto"
+KO: "공격 아웃포스트"
+ZH: "攻擊前哨車"
+BP: "Posto Avançado de Ataque"
+PL: "Posterunek szturmowy"
+END
+
+OBJECT:Lazr_PatriotBattery
+US: "Laser Defense Turret"
+DE: "Patriot-Laser-System"
+FR: "Tourelle de défense laser"
+ES: "Torreta láser de defensa"
+IT: "Torretta laser"
+KO: "레이저 방어 포탑"
+ZH: "雷射防禦砲塔"
+BP: "Torres de Defesa com Laser"
+PL: "Wieżyczka laserowa"
+END
+
+OBJECT:RocketDrop
+US: "Rocket"
+DE: "Rakete"
+FR: "Roquette"
+ES: "Cohete"
+IT: "Razzo"
+KO: "로켓"
+ZH: "火箭"
+BP: "Foguete"
+PL: "Rakieta"
+END
+
+OBJECT:RocketBomb
+US: "Rocket"
+DE: "Rakete"
+FR: "Roquette"
+ES: "Cohete"
+IT: "Razzo"
+KO: "로켓"
+ZH: "火箭"
+BP: "Foguete"
+PL: "Rakieta"
+END
+
+OBJECT:PTBoat
+US: "PT Boat"
+DE: "Torpedoboot"
+FR: "Vedette lance-torpille"
+ES: "Lancha torpedera"
+IT: "Barca di pattuglia"
+KO: "PT 보트"
+ZH: "小型快艇"
+BP: "Lancha torpedeira"
+PL: "Kuter wojskowy"
+END
+
+OBJECT:ShiekLimo
+US: "Limo"
+DE: "Limousine"
+FR: "Limousine"
+ES: "Limusina"
+IT: "Limousine"
+KO: "리무진"
+ZH: "禮車"
+BP: "Limusine"
+PL: "Limuzyna"
+END
+
+OBJECT:Dock
+US: "Dock"
+DE: "Dock"
+FR: "Quai"
+ES: "Plataforma"
+IT: "Molo"
+KO: "도크"
+ZH: "碼頭"
+BP: "Doca"
+PL: "Dok"
+END
+
+OBJECT:RailroadBridgeH
+US: "Railroad Bridge"
+DE: "Eisenbahnbrücke"
+FR: "Pont ferroviaire"
+ES: "Puente ferroviario"
+IT: "Ponte ferroviario"
+KO: "철교"
+ZH: "鐵路橋樑"
+BP: "Ponte Ferroviária"
+PL: "Most kolejowy"
+END
+
+OBJECT:RepairDrone
+US: "Repair Drone"
+DE: "Reparaturdrohne"
+FR: "Drone de réparation"
+ES: "Teledirigido reparac."
+IT: "Drone di riparazione"
+KO: "수리 드론"
+ZH: "修復蜂型機"
+BP: "Drone de Reparo"
+PL: "Robot naprawczy"
+END
+
+OBJECT:CINE_Carrier
+US: "Aircraft Carrier"
+DE: "Flugzeugträger"
+FR: "Porte-avions"
+ES: "Portaaviones"
+IT: "Portaerei"
+KO: "항공 모함"
+ZH: "航空母艦"
+BP: "Porta-Avião"
+PL: "Lotniskowiec"
+END
+
+OBJECT:SpectreGunship
+US: "Spectre Gunship"
+DE: "Spectre"
+FR: "Spectre"
+ES: "Helicóptero Spectre"
+IT: "Cannoniera Spectre"
+KO: "스펙터 건쉽"
+ZH: "鬼魅炮艇機"
+BP: "Nave de Artilharia Spectre"
+PL: "Szturmowiec Widmo"
+END
+
+OBJECT:LaserCannon
+US: "Laser Cannon"
+DE: "Laserkanone"
+FR: "Canon laser"
+ES: "Cañón láser"
+IT: "Cannone laser"
+KO: "레이저 캐논"
+ZH: "雷射加農砲"
+BP: "Canhão de Laser"
+PL: "Działo laserowe"
+END
+
+OBJECT:FuelAirBomb
+US: "Fuel Air Bomb"
+DE: "Benzinbombe"
+FR: "Bombe aéro-incendiaire"
+ES: "Bomba incendiaria"
+IT: "Bomba a benzina"
+KO: "기화 폭탄"
+ZH: "油氣彈"
+BP: "Bomba Incendiária"
+PL: "Bomba zapalająca"
+END
+
+OBJECT:CruiseMissile
+US: "Cruise Missile"
+DE: "Marschflugkörper"
+FR: "Missile de croisière"
+ES: "Misil de crucero"
+IT: "Missile Cruise"
+KO: "크루즈 미사일"
+ZH: "巡航飛彈"
+BP: "Míssil Cruise"
+PL: "Pocisk typu cruise"
+END
+
+OBJECT:Ox
+US: "Ox"
+DE: "Ochse"
+FR: "Boeuf"
+ES: "Buey"
+IT: "Bue"
+KO: "황소"
+ZH: "Ox"
+BP: "Boi"
+PL: "Wół"
+END
+
+OBJECT:Infa_Helix
+US: "Assault Helix"
+DE: "Helix"
+FR: "Hélix de combat"
+ES: "Helix de asalto"
+IT: "Helix d'assalto"
+KO: "공격 헬릭스"
+ZH: "攻擊螺旋直昇機"
+BP: "Helix de Assalto"
+PL: "Spirala szturmowa"
+END
+
+OBJECT:MiniGunner
+US: "Mini-Gunner"
+DE: "Minigun-Cyborg"
+FR: "Mitrailleur"
+ES: "Artillero de minigun"
+IT: "Commando"
+KO: "미니 거너"
+ZH: "蓋特機槍兵"
+BP: "Minicanhão"
+PL: "Komandos"
+END
+
+OBJECT:AirF_Chinook
+US: "Combat Chinook"
+DE: "Chinook"
+FR: "Chinook de combat"
+ES: "Chinook de combate"
+IT: "Chinook da combattimento"
+KO: "컴뱃 치누크"
+ZH: "戰鬥運輸機"
+BP: "Chinook de Combate"
+PL: "Chinook bojowy"
+END
+
+OBJECT:Infa_Bunker
+US: "Fortified Bunker"
+DE: "Befestigter Bunker"
+FR: "Bunker fortifié"
+ES: "Búnker fortificado"
+IT: "Bunker fortificato"
+KO: "강화 벙커"
+ZH: "防禦碉堡"
+BP: "Bunker Fortificado"
+PL: "Wzmocniony bunkier"
+END
+
+OBJECT:Chem_Rebel
+US: "Toxin Rebel"
+DE: "Säure-Cyborg"
+FR: "Empoisonneur rebelle"
+ES: "Rebelde de las toxinas"
+IT: "Ribelle con tossine"
+KO: "독소 반군"
+ZH: "毒素反抗軍"
+BP: "Rebelde Tóxico"
+PL: "Buntownik z toksyną"
+END
+
+OBJECT:Chem_Terrorist
+US: "Toxin Terrorist"
+DE: "Säure-Bombe"
+FR: "Bioterroriste"
+ES: "Terrorista de la toxina"
+IT: "Terrorista con tossine"
+KO: "독소 테러리스트"
+ZH: "毒素恐怖份子"
+BP: "Terrorista Tóxico"
+PL: "Terrorysta z toksyną"
+END
+
+OBJECT:Chem_TunnelNetwork
+US: "Toxin Network"
+DE: "Säure-Tunnelsystem"
+FR: "Réseau de tunnels bactériologiques"
+ES: "Red de toxina"
+IT: "Rete di tossine"
+KO: "독소 네트워크"
+ZH: "毒素地道網路"
+BP: "Rede de Toxina"
+PL: "Sieć toksyn"
+END
+
+OBJECT:Entrance
+US: "Entrance"
+DE: "Eingang"
+FR: "Entrée"
+ES: "Entrada"
+IT: "Ingresso"
+KO: "입구"
+ZH: "入口"
+BP: "Entrada"
+PL: "Wejście"
+END
+
+OBJECT:Lazr_Tank
+US: "Laser Tank"
+DE: "Laser-Panzer"
+FR: "Char laser"
+ES: "Tanque láser"
+IT: "Carro laser"
+KO: "레이저 탱크"
+ZH: "雷射坦克"
+BP: "Tanque Laser"
+PL: "Czołg laserowy"
+END
+
+OBJECT:ValveStation
+US: "Valve Station"
+DE: "Pumpenstation"
+FR: "Station de pompage"
+ES: "Estación de válvulas"
+IT: "Stazione di controllo"
+KO: "밸브 스테이션"
+ZH: "活門站"
+BP: "Estação de Registro"
+PL: "Stacja pomp"
+END
+
+OBJECT:MissileSilo
+US: "Missile Silo"
+DE: "Raketen-Silo"
+FR: "Silo de missiles"
+ES: "Silo de misiles"
+IT: "Silo missilistico"
+KO: "미사일 사일로"
+ZH: "飛彈發射井"
+BP: "Silo de Míssil"
+PL: "Silos rakietowy"
+END
+
+OBJECT:ScudLauncherHiDef
+US: "Scud Launcher"
+DE: "SCUD-Werfer"
+FR: "Lanceur mobile Scud"
+ES: "Lanzador SCUD"
+IT: "Lanciatore SCUD"
+KO: "스커드 발사기"
+ZH: "生化飛彈發射車"
+BP: "Lançador Scud"
+PL: "Wyrzutnia scudów"
+END
+
+OBJECT:CINE_SnowyMountainParticleBones
+US: "."
+DE: "."
+FR: "."
+ES: "."
+IT: "."
+KO: "."
+ZH: "."
+BP: "."
+PL: "."
+END
+
+OBJECT:CINE_SnowyMountainScrollingSnow
+US: "Snow"
+DE: "Schnee"
+FR: "Neige"
+ES: "Nieve"
+IT: "Neve"
+KO: "눈"
+ZH: "雪"
+BP: "Neve"
+PL: "Śnieg"
+END
+
+OBJECT:CINE_SnowyMountainStatic
+US: "Mountain"
+DE: "Berg"
+FR: "Montagne"
+ES: "Montaña"
+IT: "Montagna"
+KO: "산"
+ZH: "山"
+BP: "Montanha"
+PL: "Góra"
+END
+
+OBJECT:CINE_TreeBirds
+US: "Birds"
+DE: "Vögel"
+FR: "Oiseaux"
+ES: "Pájaros"
+IT: "Uccelli"
+KO: "새떼"
+ZH: "鳥"
+BP: "Pássaros"
+PL: "Ptaki"
+END
+
+OBJECT:Tank_Overlord
+US: "Emperor"
+DE: "Emperor"
+FR: "Despote"
+ES: "Emperor"
+IT: "Emperor"
+KO: "엠퍼러"
+ZH: "帝王坦克"
+BP: "Emperor"
+PL: "Cesarz"
+END
+
+OBJECT:BigNuclearReactor
+US: "Nuclear Reactor"
+DE: "Atomreaktor"
+FR: "Réacteur nucléaire"
+ES: "Reactor nuclear"
+IT: "Reattore nucleare"
+KO: "원자력 발전소"
+ZH: "核子反應爐"
+BP: "Reator Nuclear"
+PL: "Reaktor jądrowy"
+END
+
+OBJECT:Nuke_NuclearReactor
+US: "Advanced Nuclear Reactor"
+DE: "Verbesserter Atomreaktor"
+FR: "Réacteur nucléaire de pointe"
+ES: "Reactor nuclear avanzado"
+IT: "Reattore nucleare avanzato"
+KO: "고급 핵 발전소"
+ZH: "先進核子反應爐"
+BP: "Reator Nuclear Avançado"
+PL: "Unowocześniony reaktor jądrowy"
+END
+
+OBJECT:Demo_DemoTrap
+US: "Advanced Demo Trap"
+DE: "Verbesserte Sprengfalle"
+FR: "Pièges explosifs C-404"
+ES: "Trampa de demolición avanzada"
+IT: "Trappola demolitrice avanzata"
+KO: "고성능 폭약 함정"
+ZH: "先進炸藥陷阱"
+BP: "Armadilha Avançada de Demolição"
+PL: "Unowocześniona pułapka wybuchowa"
+END
+
+OBJECT:Nuke_CarpetBomb
+US: "Nuke Bomber"
+DE: "Atomwaffen-Bomber"
+FR: "Bombardier nucléaire"
+ES: "Bombardero Nuclear"
+IT: "Bombardiere nucleare"
+KO: "핵 폭격기"
+ZH: "核子炸彈"
+BP: "Bombardeiro Nuclear"
+PL: "Bombowiec atomowy"
+END

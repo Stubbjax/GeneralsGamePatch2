@@ -1,0 +1,1439 @@
+WOL:BuddyOffline
+US: "%ls is offline"
+DE: "%ls ist offline."
+FR: "%ls n'est pas en ligne"
+ES: "%ls está desconectado"
+IT: "%ls è scollegato"
+KO: "%ls은(는) 오프라인 중 입니다."
+ZH: "離線"
+BP: "%ls está offline"
+PL: "%ls nie jest połączony/a"
+END
+
+WOL:Locale00
+US: "Unknown"
+DE: "Unbekannt"
+FR: "Inconnu"
+ES: "Desconocido"
+IT: "Ignota"
+KO: "알 수 없음"
+ZH: "未知"
+BP: "Desconhecida"
+PL: "Nieznane"
+END
+
+WOL:Locale01
+US: "Other Location"
+DE: "Sonstige"
+FR: "Autre pays"
+ES: "Otro país"
+IT: "Altra nazione"
+KO: "기타 지역"
+ZH: "其他地區"
+BP: "Outro Local"
+PL: "Inny kraj"
+END
+
+WOL:Locale02
+US: "United States"
+DE: "USA"
+FR: "Etats-Unis"
+ES: "Estados Unidos"
+IT: "Stati Uniti"
+KO: "미국"
+ZH: "美國"
+BP: "Estados Unidos"
+PL: "Stany Zjednoczone"
+END
+
+WOL:Locale03
+US: "Canada"
+DE: "Kanada"
+FR: "Canada"
+ES: "Canadá"
+IT: "Canada"
+KO: "캐나다"
+ZH: "加拿大"
+BP: "Canadá"
+PL: "Kanada"
+END
+
+WOL:Locale04
+US: "United Kingdom"
+DE: "Großbritannien"
+FR: "Royaume-Uni"
+ES: "Reino Unido"
+IT: "Regno Unito"
+KO: "영국"
+ZH: "英國"
+BP: "Reino Unido"
+PL: "Wielka Brytania"
+END
+
+WOL:Locale05
+US: "Germany"
+DE: "Deutschland"
+FR: "Allemagne"
+ES: "Alemania"
+IT: "Germania"
+KO: "독일"
+ZH: "德國"
+BP: "Alemanha"
+PL: "Niemcy"
+END
+
+WOL:Locale06
+US: "France"
+DE: "Frankreich"
+FR: "France"
+ES: "Francia"
+IT: "Francia"
+KO: "프랑스"
+ZH: "法國"
+BP: "França"
+PL: "Francja"
+END
+
+WOL:Locale07
+US: "Spain"
+DE: "Spanien"
+FR: "Espagne"
+ES: "España"
+IT: "Spagna"
+KO: "스페인"
+ZH: "西班牙"
+BP: "Espanha"
+PL: "Hiszpania"
+END
+
+WOL:Locale08
+US: "Netherlands"
+DE: "Niederlande"
+FR: "Pays-Bas"
+ES: "Holanda"
+IT: "Olanda"
+KO: "네덜란드"
+ZH: "荷蘭"
+BP: "Holanda"
+PL: "Holandia"
+END
+
+WOL:Locale09
+US: "Belgium"
+DE: "Belgien"
+FR: "Belgique"
+ES: "Bélgica"
+IT: "Belgio"
+KO: "벨기에"
+ZH: "比利時"
+BP: "Bélgica"
+PL: "Belgia"
+END
+
+WOL:Locale10
+US: "Austria"
+DE: "Österreich"
+FR: "Autriche"
+ES: "Austria"
+IT: "Austria"
+KO: "오스트리아"
+ZH: "奧地利"
+BP: "Áustria"
+PL: "Austria"
+END
+
+WOL:Locale11
+US: "Switzerland"
+DE: "Schweiz"
+FR: "Suisse"
+ES: "Suiza"
+IT: "Svizzera"
+KO: "스위스"
+ZH: "瑞士"
+BP: "Suíça"
+PL: "Szwajcaria"
+END
+
+WOL:Locale12
+US: "Italy"
+DE: "Italien"
+FR: "Italie"
+ES: "Italia"
+IT: "Italia"
+KO: "이탈리아"
+ZH: "義大利"
+BP: "Itália"
+PL: "Włochy"
+END
+
+WOL:Locale13
+US: "Denmark"
+DE: "Dänemark"
+FR: "Danemark"
+ES: "Dinamarca"
+IT: "Danimarca"
+KO: "덴마크"
+ZH: "丹麥"
+BP: "Dinamarca"
+PL: "Dania"
+END
+
+WOL:Locale14
+US: "Sweden"
+DE: "Schweden"
+FR: "Suède"
+ES: "Suecia"
+IT: "Svezia"
+KO: "스웨덴"
+ZH: "瑞典"
+BP: "Suécia"
+PL: "Szwecja"
+END
+
+WOL:Locale15
+US: "Norway"
+DE: "Norwegen"
+FR: "Norvège"
+ES: "Noruega"
+IT: "Norvegia"
+KO: "노르웨이"
+ZH: "挪威"
+BP: "Noruega"
+PL: "Norwegia"
+END
+
+WOL:Locale16
+US: "Finland"
+DE: "Finnland"
+FR: "Finlande"
+ES: "Finlandia"
+IT: "Finlandia"
+KO: "핀란드"
+ZH: "芬蘭"
+BP: "Finlândia"
+PL: "Finlandia"
+END
+
+WOL:Locale17
+US: "Israel"
+DE: "Israel"
+FR: "Israël"
+ES: "Israel"
+IT: "Israele"
+KO: "이스라엘"
+ZH: "比色列"
+BP: "Israel"
+PL: "Izrael"
+END
+
+WOL:Locale18
+US: "South Africa"
+DE: "Südafrika"
+FR: "Afrique du Sud"
+ES: "Sudáfrica"
+IT: "Sud Africa"
+KO: "남아프리카"
+ZH: "南非"
+BP: "África do Sul"
+PL: "RPA"
+END
+
+WOL:Locale19
+US: "Japan"
+DE: "Japan"
+FR: "Japon"
+ES: "Japón"
+IT: "Giappone"
+KO: "일본"
+ZH: "日本"
+BP: "Japão"
+PL: "Japonia"
+END
+
+WOL:Locale20
+US: "Korea"
+DE: "Südkorea"
+FR: "Corée du Sud"
+ES: "Corea"
+IT: "Sud Corea"
+KO: "대한민국"
+ZH: "南韓"
+BP: "Coréia do Sul"
+PL: "Korea"
+END
+
+WOL:Locale21
+US: "China"
+DE: "China"
+FR: "Chine"
+ES: "China"
+IT: "Cina"
+KO: "중국"
+ZH: "中國"
+BP: "China"
+PL: "Chiny"
+END
+
+WOL:Locale22
+US: "Singapore"
+DE: "Singapur"
+FR: "Singapour"
+ES: "Singapur"
+IT: "Singapore"
+KO: "싱가폴"
+ZH: "新加坡"
+BP: "Cingapura"
+PL: "Singapur"
+END
+
+WOL:Locale23
+US: "Taiwan"
+DE: "Taiwan"
+FR: "Taïwan"
+ES: "Taiwan"
+IT: "Taiwan"
+KO: "대만"
+ZH: "台灣"
+BP: "Taiwan"
+PL: "Tajwan"
+END
+
+WOL:Locale24
+US: "Malaysia"
+DE: "Malaysia"
+FR: "Malaisie"
+ES: "Malasia"
+IT: "Malesia"
+KO: "말레이시아"
+ZH: "馬來西亞"
+BP: "Malásia"
+PL: "Malezja"
+END
+
+WOL:Locale25
+US: "Australia"
+DE: "Australien"
+FR: "Australie"
+ES: "Australia"
+IT: "Australia"
+KO: "오스트레일리아"
+ZH: "澳大利亞"
+BP: "Austrália"
+PL: "Australia"
+END
+
+WOL:Locale26
+US: "New Zealand"
+DE: "Neuseeland"
+FR: "Nouvelle-Zélande"
+ES: "Nueva Zelanda"
+IT: "Nuova Zelanda"
+KO: "뉴질랜드"
+ZH: "紐西蘭"
+BP: "Nova Zelândia"
+PL: "Nowa Zelandia"
+END
+
+WOL:Locale27
+US: "Brazil"
+DE: "Brasilien"
+FR: "Brésil"
+ES: "Brasil"
+IT: "Brasile"
+KO: "브라질"
+ZH: "巴西"
+BP: "Brasil"
+PL: "Brazylia"
+END
+
+WOL:Locale28
+US: "Thailand"
+DE: "Thailand"
+FR: "Thaïlande"
+ES: "Tailandia"
+IT: "Thailandia"
+KO: "태국"
+ZH: "泰國"
+BP: "Tailândia"
+PL: "Tajlandia"
+END
+
+WOL:Locale29
+US: "Argentina"
+DE: "Argentinien"
+FR: "Argentine"
+ES: "Argentina"
+IT: "Argentina"
+KO: "아르헨티나"
+ZH: "阿根廷"
+BP: "Argentina"
+PL: "Argentyna"
+END
+
+WOL:Locale30
+US: "Philippines"
+DE: "Philippinen"
+FR: "Philippines"
+ES: "Filipinas"
+IT: "Filippine"
+KO: "필리핀"
+ZH: "菲律賓"
+BP: "Filipinas"
+PL: "Filipiny"
+END
+
+WOL:Locale31
+US: "Greece"
+DE: "Griechenland"
+FR: "Grèce"
+ES: "Grecia"
+IT: "Grecia"
+KO: "그리스"
+ZH: "希臘"
+BP: "Grécia"
+PL: "Grecja"
+END
+
+WOL:Locale32
+US: "Ireland"
+DE: "Irland"
+FR: "Irlande"
+ES: "Irlanda"
+IT: "Irlanda"
+KO: "아일랜드"
+ZH: "愛爾蘭"
+BP: "Irlanda"
+PL: "Irlandia"
+END
+
+WOL:Locale33
+US: "Poland"
+DE: "Polen"
+FR: "Pologne"
+ES: "Polonia"
+IT: "Polonia"
+KO: "폴란드"
+ZH: "波蘭"
+BP: "Polônia"
+PL: "Polska"
+END
+
+WOL:Locale34
+US: "Portugal"
+DE: "Portugal"
+FR: "Portugal"
+ES: "Portugal"
+IT: "Portogallo"
+KO: "포르투갈"
+ZH: "葡萄牙"
+BP: "Portugal"
+PL: "Portugalia"
+END
+
+WOL:Locale35
+US: "Mexico"
+DE: "Mexiko"
+FR: "Mexique"
+ES: "Méjico"
+IT: "Messico"
+KO: "멕시코"
+ZH: "墨西哥"
+BP: "México"
+PL: "Meksyk"
+END
+
+WOL:Locale36
+US: "Russia"
+DE: "Russland"
+FR: "Russie"
+ES: "Rusia"
+IT: "Russia"
+KO: "러시아"
+ZH: "蘇俄"
+BP: "Rússia"
+PL: "Rosja"
+END
+
+WOL:Locale37
+US: "Turkey"
+DE: "Türkei"
+FR: "Turquie"
+ES: "Turquía"
+IT: "Turchia"
+KO: "터키"
+ZH: "土耳其"
+BP: "Turquia"
+PL: "Turcja"
+END
+
+WOL:InternalError
+US: "Generals Online Internal Error"
+DE: "Interner Fehler"
+FR: "Erreur interne de Generals en ligne"
+ES: "Error Interno de Generals Online"
+IT: "Errore interno di Generals Online"
+KO: "내부 오류"
+ZH: "將軍線上遊戲內部錯誤"
+BP: "Erro Interno do Generals Online"
+PL: "Wewnętrzny błąd Generals Online"
+END
+
+WOL:ServerBan
+US: "Sorry, you've been banned from Generals Online. Please review the Service Terms"
+DE: "Du wurdest aus Generals Online ausgeschlossen. Bitte lies unsere Nutzungsbedingungen."
+FR: "Vous avez été banni de Generals en ligne. Veuillez consulter les conditions d'utilisation."
+ES: "Lo siento, te han prohibido el acceso a Generals Online. Repasa los Términos de Servicio"
+IT: "Purtroppo sei stato bandito da Generals Online. Consulta nuovamente i termini d'uso."
+KO: "죄송합니다. 제너럴 온라인에 접속하실 수 없습니다. 서비스 약관을 다시 읽어보시기 바랍니다."
+ZH: "抱歉，您已經被禁止使用將軍線上遊戲。 請重新閱讀服務條款"
+BP: "Desculpe, mas você foi banido do Generals Online. Por favor, consulte os Termos de Serviço."
+PL: "Niestety masz zakaz wstępu na Generals Online. Prosimy o ponowne przeczytanie warunków umowy"
+END
+
+WOL:DisconnectedError
+US: "Sorry, you've been banned from Generals Online. Please review the Service Terms"
+DE: "Du wurdest aus Generals Online ausgeschlossen. Bitte lies unsere Nutzungsbedingungen."
+FR: "Vous avez été banni de Generals en ligne. Veuillez consulter les conditions d'utilisation."
+ES: "Lo siento, te han prohibido el acceso a Generals Online. Repasa los Términos del Servicio"
+IT: "Purtroppo sei stato bandito da Generals Online. Consulta nuovamente i termini d'uso."
+KO: "죄송합니다. 제너럴 온라인에 접속하실 수 없습니다. 서비스 약관을 다시 읽어보시기 바랍니다."
+ZH: "抱歉，您已經被禁止使用將軍線上遊戲。 請重新閱讀服務條款"
+BP: "Desculpe, mas você foi banido do Generals Online. Por favor, consulte os Termos de Serviço."
+PL: "Niestety masz zakaz wstępu na Generals Online. Prosimy o ponowne przeczytanie warunków umowy"
+END
+
+WOL:NoServers
+US: "Generals Online not found"
+DE: "Generals Online nicht gefunden"
+FR: "Generals en ligne introuvable"
+ES: "No se ha encontrado Generals Online"
+IT: "Generals Online non trovato"
+KO: "제너럴 온라인을 찾을 수 없습니다."
+ZH: "無法發現將軍線上遊戲"
+BP: "Generals Online não encontrado"
+PL: "Nie znaleziono Generals Online"
+END
+
+WOL:LoginTimeout
+US: "Timed out waiting to join Generals Online"
+DE: "Timeout beim Verbindungsaufbau"
+FR: "Temps d'attente pour rejoindre Generals en ligne écoulé"
+ES: "Agotado tiempo de espera para entrar en Generals Online"
+IT: "Tempo scaduto in attesa della connessione a Generals Online"
+KO: "제너럴 온라인 접속 시간 초과했습니다."
+ZH: "加入將軍線上遊戲愈時"
+BP: "Tempo limite excedido aguardando para conectar-se ao Generals Online"
+PL: "Przekroczenie czasu oczekiwania na połączenie z Generals Online"
+END
+
+WOL:NoMatchChannel
+US: "No match channel found"
+DE: "Kein passender Channel gefunden"
+FR: "Aucun canal trouvé"
+ES: "No se ha encontrado ningún canal de partida"
+IT: "Canale per le partite non trovato"
+KO: "매치 채널을 찾을 수 없습니다."
+ZH: "未發現符合的頻道"
+BP: "Nenhum canal de jogo encontrado"
+PL: "Nie znaleziono kanału doboru"
+END
+
+WOL:NoMatchbot
+US: "No MatchMaker found"
+DE: "Kein MatchMaker gefunden"
+FR: "Aucun outil de recherche rapide trouvé"
+ES: "No se ha encontrado el MatchMaker"
+IT: "Creatore di partite non trovato"
+KO: "매치 메이커를 찾을 수 없습니다."
+ZH: "未發現遊戲配對器"
+BP: "MatchMaker não encontrado."
+PL: "Nie znaleziono usługi doboru"
+END
+
+WOL:BadMatchParams
+US: "Bad match parameters"
+DE: "Ungültige Match-Parameter"
+FR: "Paramètres erronés"
+ES: "Parámetros de coincidencia incorrectos"
+IT: "Parametri della partita errati"
+KO: "불량 매치 변수"
+ZH: "無效的配對參數"
+BP: "Parâmetros de jogo incorretos"
+PL: "Złe parametry doboru"
+END
+
+WOL:ChatErrorNickInUse
+US: "That nickname is already in use"
+DE: "Spitzname wird bereits verwendet"
+FR: "Ce pseudo est déjà utilisé"
+ES: "Ese apodo ya está en uso"
+IT: "Il soprannome è già in uso"
+KO: "해당 별명이 이미 사용 중 입니다."
+ZH: "此綽號已被使用"
+BP: "Este apelido já está sendo usado"
+PL: "Ten pseudonim jest już używany"
+END
+
+WOL:ChatErrorBadPass
+US: "Incorrect password for that name"
+DE: "Ungültiges Passwort"
+FR: "Mot de passe incorrect pour ce pseudo"
+ES: "Contraseña incorrecta para ese nombre"
+IT: "Password errata per questo nome utente"
+KO: "해당 이름의 비밀번호가 틀립니다."
+ZH: "對應此名稱的密碼不正確"
+BP: "A senha para este nome está incorreta"
+PL: "Hasło nie pasuje do imienia"
+END
+
+WOL:ChatErrorNoneSuch
+US: "No such user or channel"
+DE: "Benutzer oder Channel nicht gefunden"
+FR: "Utilisateur ou canal inexistant"
+ES: "No existe ese usuario o canal"
+IT: "Non esiste questo canale o questo utente"
+KO: "해당 사용자 혹은 채널이 없습니다."
+ZH: "未有此使用者或頻道"
+BP: "Usuário ou canal inexistente"
+PL: "Brak użytkownika lub kanału"
+END
+
+WOL:ChatErrorConNetDown
+US: "Network connection is down"
+DE: "Netzwerkverbindung ist unterbrochen"
+FR: "Connexion réseau interrompue"
+ES: "Se ha caído la conexión a la red"
+IT: "La connessione di rete non è attiva"
+KO: "네트워크 접속이 끊어졌습니다."
+ZH: "網路連結關閉"
+BP: "Conexão com a rede interrompida"
+PL: "Połączenie z siecią nieczynne"
+END
+
+WOL:ChatErrorConLookupFailed
+US: "DNS lookup failed."
+DE: "DNS-Suche gescheitert"
+FR: "Echec de la recherche de la DNS"
+ES: "Error en la búsqueda de DNS"
+IT: "Ricerca DNS fallita"
+KO: "DNS 탐색 실패"
+ZH: "尋找DNS失敗。"
+BP: "Falha de DNS."
+PL: "Błąd wyszukiwania DNS."
+END
+
+WOL:ChatErrorConError
+US: "Fatal network error occurred"
+DE: "Schwerer Netzwerkfehler"
+FR: "Erreur fatale sur le réseau"
+ES: "Ha ocurrido un error fatal de red"
+IT: "Si è verificato un errore di rete fatale"
+KO: "치명적인 네트워크 오류 발생"
+ZH: "嚴重的網路錯誤發生"
+BP: "Ocorreu um erro fatal na rede"
+PL: "Poważny błąd sieci"
+END
+
+WOL:ChatErrorTimeout
+US: "Timeout occurred."
+DE: "Timeout"
+FR: "Temps écoulé"
+ES: "Tiempo de espera agotado"
+IT: "Tempo scaduto"
+KO: "시간 초과 발생"
+ZH: "發生愈時。"
+BP: "Tempo limite excedido."
+PL: "Błąd przekroczenia limitu czasowego."
+END
+
+WOL:ChatErrorMustPatch
+US: "You must get the latest Update before joining Generals Online"
+DE: "Installiere vor der Anmeldung bei Generals Online das aktuellste Update."
+FR: "Vous devez vous procurer la dernière mise à jour avant de rejoindre Generals en ligne"
+ES: "Tienes que descargar la última actualización para entrar en Generals Online"
+IT: "Devi scaricare gli aggiornamenti più recenti prima di collegarti a Generals Online"
+KO: "제너럴 온라인에 접속하기 전에 최신 업데이트를 받아야 합니다."
+ZH: "您在加入將軍線上遊戲前必須有最新的更新檔"
+BP: "Você deve instalar a última Atualização antes de conectar-se ao Generals Online."
+PL: "Przed połączeniem z Generals Online musisz zainstalować najnowszą aktualizację."
+END
+
+WOL:ChatErrorStatusError
+US: "Internal status error"
+DE: "Interner Statusfehler"
+FR: "Erreur de statut interne"
+ES: "Error de estado interno"
+IT: "Errore di stato interno"
+KO: "내부 상태 오류"
+ZH: "內部狀態錯誤"
+BP: "Erro de status interno"
+PL: "Wewnętrzny błąd stanu"
+END
+
+WOL:ChatErrorUnknownResponse
+US: "Unknown response"
+DE: "Unbekannte Antwort"
+FR: "Réponse inconnue"
+ES: "Respuesta desconocida"
+IT: "Risposta ignota"
+KO: "미확인 응답"
+ZH: "未知的回應"
+BP: "Resposta desconhecida"
+PL: "Nieznana odpowiedź"
+END
+
+WOL:ChatErrorChannelFull
+US: "Channel is full"
+DE: "Channel ist voll"
+FR: "Canal plein"
+ES: "Canal completo"
+IT: "Il canale è pieno"
+KO: "채널이 다 찼습니다."
+ZH: "頻道已滿"
+BP: "Este Canal está lotado"
+PL: "Kanał pełny"
+END
+
+WOL:ChatErrorChannelExists
+US: "Channel already exists"
+DE: "Channel existiert bereits"
+FR: "Ce canal existe déjà"
+ES: "Canal ya existente"
+IT: "Il canale esiste già"
+KO: "채널이 이미 존재합니다."
+ZH: "頻道已經存在"
+BP: "Este Canal já existe"
+PL: "Kanał już istnieje"
+END
+
+WOL:ChatErrorChannelDoesNotExist
+US: "Channel does not exist"
+DE: "Channel existiert nicht"
+FR: "Canal inexistant"
+ES: "Ese canal no existe"
+IT: "Il canale non esiste"
+KO: "채널이 존재하지 않습니다."
+ZH: "頻道不存在"
+BP: "Este Canal não existe"
+PL: "Kanał nie istnieje"
+END
+
+WOL:ChatErrorBadChannelPassword
+US: "Bad channel password"
+DE: "Ungültiges Channel-Passwort"
+FR: "Mot de passe du canal erroné"
+ES: "Contraseña incorrecta para el canal"
+IT: "Password del canale errata"
+KO: "불량 채널 비밀번호"
+ZH: "頻道密碼錯誤"
+BP: "Senha do Canal incorreta"
+PL: "Nieprawidłowe hasło kanału"
+END
+
+WOL:ChatErrorBanned
+US: "Sorry, you've been banned from Generals Online. Please review the Service Terms"
+DE: "Du wurdest aus Generals Online ausgeschlossen. Bitte lies unsere Nutzungsbedingungen."
+FR: "Vous avez été banni de Generals en ligne. Veuillez consulter les conditions d'utilisation."
+ES: "Lo siento, te han prohibido el acceso a Generals Online. Repasa los Términos de Servicio"
+IT: "Purtroppo sei stato bandito da Generals Online. Consulta nuovamente i termini d'uso."
+KO: "죄송합니다. 제너럴 온라인에 접속하실 수 없습니다. 서비스 약관을 다시 읽어보시기 바랍니다."
+ZH: "抱歉，您已經被禁止使用將軍線上遊戲。 請重新閱讀服務條款"
+BP: "Desculpe, mas você foi banido do Generals Online. Por favor, consulte os Termos de Serviço."
+PL: "Niestety masz zakaz wstępu na Generals Online. Prosimy o ponowne przeczytanie warunków umowy"
+END
+
+WOL:ChatErrorNotOper
+US: "Cannot perform that operation"
+DE: "Operation kann nicht ausgeführt werden"
+FR: "Impossible de réaliser cette opération"
+ES: "No se puede realizar esa operación"
+IT: "Impossibile eseguire l'operazione"
+KO: "해당 작업을 수행할 수 없습니다."
+ZH: "無法執行操作"
+BP: "Não é possível executar esta operação"
+PL: "Wykonanie czynności niemożliwe"
+END
+
+WOL:ChatErrorAccountDisabled
+US: "Your account has been disabled."
+DE: "Dein Account wurde deaktiviert"
+FR: "Votre compte a été désactivé"
+ES: "Se ha desactivado tu cuenta."
+IT: "Il tuo account è stato disattivato"
+KO: "계정이 금지되었습니다."
+ZH: "您的帳號失效。"
+BP: "Sua conta foi desativada."
+PL: "Twoje konto zostało wyłączone."
+END
+
+WOL:ChatErrorSerialBanned
+US: "Your serial number has been banned. Please review the Service Terms"
+DE: "Deine Seriennummer wurde gesperrt. Bitte lies unsere Nutzungsbedingungen."
+FR: "Votre numéro de série a été banni. Veuillez consulter les conditions d'utilisation."
+ES: "Tu número de serie ha sido rechazado. Repasa los Términos de Servicio"
+IT: "Il tuo numero di serie è stato bandito. Consulta nuovamente i termini d'uso."
+KO: "시리얼 번호가 금지되었습니다. 서비스 약관을 다시 읽어보시기 바랍니다."
+ZH: "您的序號已被禁止使用。請重新閱讀服務條款"
+BP: "O seu número serial foi banido. Por favor, consulte os Termos de Serviço."
+PL: "Twój numer seryjny został zablokowany. Prosimy o ponowne przeczytanie warunków umowy"
+END
+
+WOL:ChatErrorSerialDup
+US: "Your serial is already in use"
+DE: "Deine Seriennummer wird bereits verwendet"
+FR: "Votre numéro de série est déjà utilisé"
+ES: "Tu núm de serie ya está en uso"
+IT: "Il tuo numero di serie è in uso"
+KO: "시리얼 번호가 이미 사용 중 입니다."
+ZH: "您的序號已經在使用"
+BP: "Este número serial já está sendo usado"
+PL: "Twój numer seryjny jest już używany"
+END
+
+WOL:ChatErrorSerialUnknown
+US: "Your serial is invalid"
+DE: "Deine Seriennummer ist ungültig"
+FR: "Votre numéro de série est invalide"
+ES: "Tu núm de serie no es válido"
+IT: "Il tuo numero di serie non è valido"
+KO: "시리얼 번호를 사용할 수 없습니다."
+ZH: "您的序號無效"
+BP: "Este número serial é inválido"
+PL: "Twój numer seryjny jest nieprawidłowy"
+END
+
+WOL:NetUtilErrorGeneric
+US: "Generic NetUtil error"
+DE: "Allgemeiner Net Util-Fehler"
+FR: "Erreur générique NetUtil"
+ES: "Error genérico de NetUtil"
+IT: "Errore generico di NetUtil"
+KO: "일반 NetUtil 오류"
+ZH: "通用的網路工具錯誤"
+BP: "Erro genérico de NetUtil"
+PL: "Ogólny błąd użytkowania sieci"
+END
+
+WOL:NetUtilErrorBusy
+US: "Busy"
+DE: "Wird bearbeitet"
+FR: "Occupé"
+ES: "Ocupado"
+IT: "Occupato"
+KO: "혼잡함"
+ZH: "忙碌"
+BP: "Ocupado"
+PL: "Zajęty"
+END
+
+WOL:NetUtilErrorTimeout
+US: "Timeout"
+DE: "Timeout"
+FR: "Temps écoulé"
+ES: "Tiempo agotado"
+IT: "Tempo scaduto"
+KO: "시간초과"
+ZH: "愈時"
+BP: "Tempo limite excedido"
+PL: "Błąd limitu czasowego"
+END
+
+WOL:NetUtilErrorInvalidField
+US: "Invalid field"
+DE: "Ungültiges Feld"
+FR: "Champ invalide"
+ES: "Campo no válido"
+IT: "Campo errato"
+KO: "무효 영역"
+ZH: "無效的領域"
+BP: "Campo inválido"
+PL: "Pole nieprawidłowe"
+END
+
+WOL:NetUtilErrorCantVerify
+US: "Can't verify"
+DE: "Verifizierung nicht möglich"
+FR: "Vérification impossible"
+ES: "No se puede verificar"
+IT: "Verifica impossibile"
+KO: "입증 불가"
+ZH: "無法確認"
+BP: "Não é possível verificar"
+PL: "Weryfikacja niemożliwa"
+END
+
+WOL:NetUtilFinished
+US: "Finished"
+DE: "Fertig"
+FR: "Terminé"
+ES: "Finalizado"
+IT: "Concluso"
+KO: "완료"
+ZH: "完成"
+BP: "Concluído"
+PL: "Zakończone"
+END
+
+WOL:UnknownError
+US: "Unknown error"
+DE: "Unbekannter Fehler"
+FR: "Erreur inconnue"
+ES: "Error desconocido"
+IT: "Errore ignoto"
+KO: "미확인 오류"
+ZH: "未知的錯誤"
+BP: "Erro desconhecido"
+PL: "Nieznany błąd"
+END
+
+WOL:CouldNotCreateChannel
+US: "Could not create channel"
+DE: "Channel konnte nicht erstellt werden"
+FR: "Création du canal impossible"
+ES: "No se puede crear el canal"
+IT: "Impossibile creare il canale"
+KO: "채널 생성 불가"
+ZH: "無法開創頻道"
+BP: "Não é possível criar o canal"
+PL: "Utworzenie kanału niemożliwe"
+END
+
+WOL:ErrorTitle
+US: "Generals Online Error"
+DE: "Generals Online-Fehler"
+FR: "Erreur de Generals en ligne"
+ES: "Error de Generals Online"
+IT: "Errore di Generals Online"
+KO: "온라인 오류"
+ZH: "將軍線上遊戲錯誤"
+BP: "Erro no Generals Online"
+PL: "Błąd Generals Online"
+END
+
+WOL:LoginErrorTitle
+US: "Login Error"
+DE: "Fehler bei der Anmeldung"
+FR: "Erreur d'identification"
+ES: "Error de acceso"
+IT: "Errore di collegamento"
+KO: "로그인 오류"
+ZH: "登入錯誤"
+BP: "Erro de Login"
+PL: "Błąd logowania"
+END
+
+WOL:CreatingChannel
+US: "Creating channel"
+DE: "Erstellt Channel"
+FR: "Création du canal…"
+ES: "Creando canal"
+IT: "Creazione canale"
+KO: "채널 생성"
+ZH: "開創頻道"
+BP: "Criando Canal"
+PL: "Tworzenie kanału"
+END
+
+WOL:ChannelClosed
+US: "Channel has closed"
+DE: "Der Channel wurde geschlossen"
+FR: "Canal fermé"
+ES: "Se ha cerrado el canal"
+IT: "Il canale è stato chiuso"
+KO: "채널이 닫혔습니다."
+ZH: "頻道關閉"
+BP: "Este canal foi fechado"
+PL: "Kanał został zamknięty"
+END
+
+WOL:BadChannelPassword
+US: "Bad channel password"
+DE: "Ungültiges Channel-Passwort"
+FR: "Mot de passe du canal erroné"
+ES: "Contraseña incorrecta para el canal"
+IT: "Password canale errata"
+KO: "불량 채널 비밀번호"
+ZH: "錯誤的頻道密碼"
+BP: "Senha do Canal incorreta"
+PL: "Nieprawidłowe hasło kanału"
+END
+
+WOL:ChannelFull
+US: "Channel full"
+DE: "Der Channel ist voll"
+FR: "Canal plein"
+ES: "Canal completo"
+IT: "Canale pieno"
+KO: "채널 자리 없음"
+ZH: "頻道已滿"
+BP: "Canal lotado"
+PL: "Kanał pełny"
+END
+
+WOL:BannedFromChannel
+US: "You've been banned from the channel"
+DE: "Du wurdest aus dem Channel verbannt"
+FR: "Vous avez été banni du canal"
+ES: "Te han vetado del canal"
+IT: "Sei stato bandito dal canale"
+KO: "채널에서 추방 되었습니다."
+ZH: "您已經被禁止使用頻道"
+BP: "Você foi banido deste canal"
+PL: "Zakazano Ci wstępu na ten kanał"
+END
+
+WOL:CannotJoinChannel
+US: "Cannot join channel"
+DE: "Anschluss an Channel nicht möglich"
+FR: "Impossible de rejoindre le canal"
+ES: "No se puede entrar en el canal"
+IT: "Ingresso nel canale impossibile"
+KO: "채널에 접속할 수 없습니다."
+ZH: "無法加入頻道"
+BP: "Não é possível conectar-se ao canal"
+PL: "Dołączenie do kanału niemożliwe"
+END
+
+WOL:NoWOLAPI
+US: "Shared Internet Components have not been installed."
+DE: "Die gemeinsamen Internetkomponenten wurden nicht installiert."
+FR: "Composants Internet partagés non installés"
+ES: "No se han instalado los componentes de internet compartidos"
+IT: "I componenti condivisi di Internet non sono stati installati"
+KO: "공유 인터넷 구성요소가 설치 안 되었습니다."
+ZH: "網際網路分享原件無法安裝。"
+BP: "Os Componentes Compartilhados de Internet não foram instalados."
+PL: "Wspólne komponenty internetowe nie są zainstalowane."
+END
+
+WOL:OldWOLAPI
+US: "Shared Internet Components need to be updated. Please install from the C&C Generals disc"
+DE: "Aktualisiere die gemeinsamen Internetkomponenten. Du findest sie auf der C&C: Generals-CD."
+FR: "Les composants Internet partagés doivent être mis à jour. Veuillez les installer à partir du disque de C&C Generals"
+ES: "Los componentes de internet compartidos tienen que ser actualizados. Instala desde el disco de C&C Generals"
+IT: "I componenti condivisi di Internet devono essere aggiornati. Installali dal disco di C&C Generals."
+KO: "공유 인터넷 구성요소를 업데이트 해야 합니다. C&C: 제너럴 디스크에서 설치하십시오."
+ZH: "網際網路分享原件需要更新。 請由終極動員令：將軍 光碟中更新"
+BP: "Os Componentes Compartilhados de Internet devem ser atualizados. Por favor, instale a versão mais recente a partir do disco do C&C Generals."
+PL: "Wspólne komponenty internetowe wymagają aktualizacji. Należy je zainstalować z płyty C&C Generals."
+END
+
+WOL:BadRegistry
+US: "C&C Generals Registry is corrupt"
+DE: "C&C: Generals-Registrierung ist ungültig"
+FR: "Entrée du registre de C&C Generals corrompu"
+ES: "El Registro de C&C Generals está corrupto"
+IT: "Il registro di C&C Generals è danneggiato"
+KO: "C&C: 제너럴 레지스트리가 손상되었습니다."
+ZH: "終極動員令：將軍，登錄檔損毀"
+BP: "O Registro do C&C Generals foi corrompido"
+PL: "Rejestr C&C Generals jest uszkodzony"
+END
+
+WOL:GotPing
+US: "Received ping of %dms. The lower the ping, the better the connection"
+DE: "Ping-Zeit: %dms. Je niedriger die Ping-Zeit, desto besser ist die Verbindung."
+FR: "Ping de %d ms. Plus la valeur du ping est faible, plus la connexion est optimale."
+ES: "Recibido ping de %dms. Cuanto más bajo sea el ping, mejor será la conexión"
+IT: "Ricevuto un ping di %d ms. Più basso è il ping, migliore è la connessione."
+KO: "현재 핑: %dms. 핑이 낮을수록 접속상태가 좋습니다."
+ZH: "接收Ping值為%dms 。 較低的Ping值，表示連接速度較快"
+BP: "Ping recebido de %dms. Quanto menor o ping, melhor a conexão."
+PL: "Ping wynosi %dms. Im niższa wartość pingu, tym lepsze połączenie"
+END
+
+WOL:ServerListAndVersion
+US: "Fetching server list"
+DE: "Lade Server-Liste"
+FR: "Récupération de la liste des serveurs…"
+ES: "Buscando lista de servidores"
+IT: "Recupero elenco dei server"
+KO: "서버 리스트 불러오기"
+ZH: "伺服器列表"
+BP: "Recebendo lista de servidores"
+PL: "Kompletowanie listy serwerów"
+END
+
+WOL:GettingPings
+US: "Getting pings. The lower the ping, the better the connection"
+DE: "Prüfe Pings. Je niedriger die Ping-Zeit, desto besser ist die Verbindung."
+FR: "Récupération des pings. Plus la valeur du ping est faible, plus la connexion est optimale."
+ES: "Analizando pings. Cuanto más bajo sea el ping, mejor será la conexión."
+IT: "Ricezione ping. Più basso è il ping, migliore è la connessione."
+KO: "핑을 받고 있습니다. 핑이 낮을수록 접속상태가 좋습니다."
+ZH: "擷取Ping值中。 較低的Ping值，表示連接速度較快"
+BP: "Recebendo pings. Quanto menor o ping, melhor a conexão."
+PL: "Sprawdzanie pingów. Im niższa wartość pingu, tym lepsze połączenie"
+END
+
+WOL:Connecting
+US: "Connecting"
+DE: "Verbindung wird hergestellt"
+FR: "Connexion…"
+ES: "Conectando"
+IT: "Connessione"
+KO: "접속 중"
+ZH: "連接中"
+BP: "Conectando"
+PL: "Łączenie"
+END
+
+WOL:JoinedChannel
+US: "You joined %ls"
+DE: "Angeschlossen an %ls"
+FR: "Vous avez rejoint %ls"
+ES: "Has entrado en %ls."
+IT: "Sei entrato in %ls"
+KO: "%ls에 접속했습니다."
+ZH: "您加入 %ls"
+BP: "Você conectou-se à %ls"
+PL: "Dołączasz do %ls"
+END
+
+WOL:LeftChannel
+US: "You left %ls"
+DE: "Verlassen: %ls"
+FR: "Vous avez quitté %ls"
+ES: "Has dejado %ls."
+IT: "Hai lasciato %ls"
+KO: "%ls을 떠났습니다."
+ZH: "您離開 %ls"
+BP: "Você desconectou-se de %ls"
+PL: "Opuszczasz %ls"
+END
+
+WOL:UserKicked
+US: "%ls kicked %ls out of %ls"
+DE: "%ls hat %ls von %ls verbannt"
+FR: "%ls a exclu %ls de %ls"
+ES: "%ls ha expulsado a %ls de %ls"
+IT: "%ls ha espulso %ls da %ls"
+KO: "%ls이(가) %ls을(를) %ls에서 추방했습니다."
+ZH: "%ls 踢除 %ls 離開 %ls"
+BP: "%ls expulsou %ls de %ls"
+PL: "%ls wyklucza gracza %ls z %ls"
+END
+
+WOL:BeginIgnoreList
+US: "Begin Ignore List"
+DE: "Ignorieren-Liste starten"
+FR: "Commencer liste Ignorer"
+ES: "Iniciar Lista de ignorados"
+IT: "Inizio lista ignorati"
+KO: "무시 명단 시작"
+ZH: "開始忽略名單"
+BP: "Iniciar Lista de Ignorados"
+PL: "Początek listy ignorowanych"
+END
+
+WOL:IgnoredUser
+US: "%ls"
+DE: "%ls"
+FR: "%ls"
+ES: "%ls"
+IT: "%ls"
+KO: "%ls"
+ZH: "%ls"
+BP: "%ls"
+PL: "%ls"
+END
+
+WOL:EndIgnoreList
+US: "End Ignore List"
+DE: "Ignorieren-Liste beenden"
+FR: "Terminer liste Ignorer"
+ES: "Finalizar Lista de ignorados"
+IT: "Fine lista ignorati"
+KO: "무시 명단 종료"
+ZH: "結束忽略名單"
+BP: "Terminar Lista de Ignorados"
+PL: "Koniec listy ignorowanych"
+END
+
+WOL:DownloadPatchNow
+US: "Would you like to download the Update at this time?"
+DE: "Update jetzt herunterladen?"
+FR: "Voulez-vous télécharger la mise à jour maintenant ?"
+ES: "¿Quieres descargar la actualización ahora?"
+IT: "Vuoi scaricare ora l'aggiornamento?"
+KO: "이번에 업데이트를 다운로드 받으시겠습니까?"
+ZH: "您想要下載更新嗎？"
+BP: "Você gostaria de fazer o download da Atualização agora?"
+PL: "Czy chcesz tym razem pobrać aktualizację?"
+END
+
+WOL:FindInChannel
+US: "%ls is in %s"
+DE: "%ls ist in %s"
+FR: "%ls est dans %s"
+ES: "%ls está en %s"
+IT: "%ls è in %s"
+KO: "%ls은(는) %s에 있습니다."
+ZH: "%ls 是在 %s"
+BP: "%ls está em %s"
+PL: "%ls jest na %s"
+END
+
+WOL:FindInChannelOtherServer
+US: "%ls is in %s on %s"
+DE: "%ls ist in %s auf %s"
+FR: "%ls est dans %s sur %s"
+ES: "%ls está en %s en %s"
+IT: "%ls è in %s su %s"
+KO: "%ls은(는) %s(%s)에 있습니다."
+ZH: "%ls 是在 %s 上的 %s"
+BP: "%ls está em %s em %s"
+PL: "%ls jest na %s w %s"
+END
+
+WOL:FindOffline
+US: "%ls is not logged in"
+DE: "%ls ist nicht angemeldet"
+FR: "%ls n'est pas identifié"
+ES: "%ls no está conectado"
+IT: "%ls non è collegato"
+KO: "%ls은(는) 접속 중이 아닙니다."
+ZH: "%ls 未登入"
+BP: "%ls não está conectado"
+PL: "%ls nie jest zalogowany/a"
+END
+
+WOL:FindHiding
+US: "%ls is not responding to search"
+DE: "%ls antwortet nicht"
+FR: "%ls ne répond pas à la recherche"
+ES: "%ls no responde a la búsqueda"
+IT: "%ls non risponde alla ricerca"
+KO: "%ls은(는) 탐색에 응답할 수 없습니다."
+ZH: "%ls 搜尋無反應"
+BP: "%ls não está respondendo à busca"
+PL: "%ls nie odpowiada na wyszukiwanie"
+END
+
+WOL:FindNotInChannel
+US: "%ls is not in a channel"
+DE: "%ls ist nicht in diesem Channel"
+FR: "%ls n'est dans aucun canal"
+ES: "%ls no está en ningún canal"
+IT: "%ls non è in un canale"
+KO: "%ls은(는) 채널에 없습니다."
+ZH: "%ls 不在頻道中"
+BP: "%ls não está em nenhum canal"
+PL: "%ls nie jest obecny/a na kanale"
+END
+
+WOL:FindNotInChannelOtherServer
+US: "%ls is on %s"
+DE: "%ls ist auf %s"
+FR: "%ls est sur %s"
+ES: "%ls está en %s"
+IT: "%ls è su %s"
+KO: "%ls은(는) %s에 있습니다."
+ZH: "%ls 於 %s"
+BP: "%ls está em %s"
+PL: "%ls jest w %s"
+END
+
+WOL:Lob_49_0
+US: "Main Lobby"
+DE: "Haupt-Lobby"
+FR: "Salle principale"
+ES: "Sala principal"
+IT: "Lobby principale"
+KO: "메인 로비"
+ZH: "大廳"
+BP: "Sala Principal"
+PL: "Główna poczekalnia"
+END
+
+WOL:Lob_49_1
+US: "Alternate"
+DE: "Parallelwelt"
+FR: "Alternatif"
+ES: "Alternativo"
+IT: "Alternativo"
+KO: "대체"
+ZH: "替代"
+BP: "Alternativo"
+PL: "Alternatywny"
+END
+
+WOL:Lob_49_2
+US: "Reality"
+DE: "Realität"
+FR: "Réel"
+ES: "Realidad"
+IT: "Realtà"
+KO: "현실성"
+ZH: "實際"
+BP: "Real"
+PL: "Rzeczywistość"
+END
+
+WOL:Lob_41_0
+US: "QuickMatch"
+DE: "QuickMatch"
+FR: "QuickMatch"
+ES: "QuickMatch"
+IT: "QuickMatch"
+KO: "퀵매치"
+ZH: "快速配對"
+BP: "QuickMatch"
+PL: "QuickMatch"
+END
+
+WOL:UnknownServer
+US: "unknown server"
+DE: "Unbekannter Server"
+FR: "serveur inconnu"
+ES: "Servidor desconocido"
+IT: "Server ignoto"
+KO: "알 수 없는 서버"
+ZH: "未知伺服器"
+BP: "servidor desconhecido"
+PL: "nieznany serwer"
+END
+
+WOL:UnknownChannel
+US: "unknown channel"
+DE: "Unbekannter Channel"
+FR: "canal inconnu"
+ES: "Canal desconocido"
+IT: "Canale ignoto"
+KO: "알 수 없는 채널"
+ZH: "未知頻道"
+BP: "canal desconhecido"
+PL: "nieznany kanał"
+END
+
+WOL:BuddyMatching
+US: "%ls is QuickMatching"
+DE: "%ls startet QuickMatch"
+FR: "%ls effectue un QuickMatch"
+ES: "%ls está haciendo una búsqueda rápida"
+IT: "%ls sta usando QuickMatch"
+KO: "%ls(퀵매치중)"
+ZH: "%ls 快速配對中"
+BP: "%ls está procurando um QuickMatch"
+PL: "%ls prowadzi QuickMatching"
+END
+
+WOL:BuddyNotInChan
+US: "%ls is online"
+DE: "%ls ist online"
+FR: "%ls est en ligne"
+ES: "%ls está conectado"
+IT: "%ls è collegato"
+KO: "%ls(접속중)"
+ZH: "%ls 上線"
+BP: "%ls está online"
+PL: "%ls jest połączony/a"
+END
+
+WOL:BuddyInGame
+US: "%ls is playing a game"
+DE: "%ls spielt gerade"
+FR: "%ls joue une partie"
+ES: "%ls está jugando una partida"
+IT: "%ls sta disputando una partita"
+KO: "%ls(게임중)"
+ZH: "%ls 正於遊戲中"
+BP: "%ls está jogando uma partida"
+PL: "%ls rozgrywa sesję"
+END
+
+WOL:BuddyInChat
+US: "%ls is chatting in %ls"
+DE: "%ls chattet in %ls"
+FR: "%ls discute dans %ls"
+ES: "%ls está chateando en %ls"
+IT: "%ls sta parlando in %ls"
+KO: "%ls(%ls에서 채팅 중)"
+ZH: "%ls 正與 %ls 交談中"
+BP: "%ls está conversando em %ls"
+PL: "%ls rozmawia w %ls"
+END
+
+WOL:BuddyGameSetup
+US: "%ls is in %ls"
+DE: "%ls ist in %ls"
+FR: "%ls est dans %ls"
+ES: "%ls está en %ls"
+IT: "%ls è in %ls"
+KO: "%ls(%ls에 있음)"
+ZH: "%ls 在 %ls 中"
+BP: "%ls está em %ls"
+PL: "%ls jest w %ls"
+END
+
+WOL:BuddyMatchingOtherServer
+US: "%ls is QuickMatching on %ls"
+DE: "%ls startet QuickMatch auf %ls"
+FR: "%ls effectue un QuickMatch sur %ls"
+ES: "%ls está haciendo una búsqueda rápida en %ls"
+IT: "%ls sta usando QuickMatch su %ls"
+KO: "%ls(%ls에서 퀵매치중)"
+ZH: "%ls 正與 %ls 快速配對中"
+BP: "%ls está procurando um QuickMatch em %ls"
+PL: "%ls prowadzi QuickMatching na %ls"
+END
+
+WOL:BuddyNotInChanOtherServer
+US: "%ls is online on %ls"
+DE: "%ls ist online auf %ls"
+FR: "%ls est en ligne sur %ls"
+ES: "%ls está conectado en %ls"
+IT: "%ls è collegato a %ls"
+KO: "%ls(%ls에 접속중)"
+ZH: "%ls 正在 %ls 線上"
+BP: "%ls está online em %ls"
+PL: "%ls jest połączony/a z %ls"
+END
+
+WOL:BuddyInGameOtherServer
+US: "%ls is playing a game on %ls"
+DE: "%ls spielt auf %ls"
+FR: "%ls joue une partie sur %ls"
+ES: "%ls está jugando una partida en %ls"
+IT: "%ls sta disputando una partita su %ls"
+KO: "%ls(%ls에서 게임중)"
+ZH: "%ls 正在與 %ls 玩遊戲"
+BP: "%ls está jogando uma partida em %ls"
+PL: "%ls rozgrywa sesję na %ls"
+END
+
+WOL:BuddyInChatOtherServer
+US: "%ls is chatting in %ls on %ls"
+DE: "%ls chattet auf %ls"
+FR: "%ls discute dans %ls sur %ls"
+ES: "%ls está chateando en %ls en %ls"
+IT: "%ls sta parlando in %ls su %ls"
+KO: "%ls은(는) %ls(%ls)에서 채팅 중입니다."
+ZH: "%ls 正與 %ls 於 %ls 交談中"
+BP: "%ls está conversando em %ls em %ls"
+PL: "%ls rozmawia na %ls w %ls"
+END
+
+WOL:BuddyGameSetupOtherServer
+US: "%ls is in %ls on %ls"
+DE: "%ls ist in %ls auf %ls"
+FR: "%ls est dans %ls sur %ls"
+ES: "%ls está en %ls en %ls"
+IT: "%ls è in %ls su %ls"
+KO: "%ls은(는) %ls(%ls)에 있습니다."
+ZH: "%ls 正在 %ls 中的 %ls"
+BP: "%ls está em %ls em %ls"
+PL: "%ls jest na %ls w %ls"
+END
+
+WOL:BuddyHiding
+US: "%ls is hiding"
+DE: "%ls versteckt sich"
+FR: "%ls se cache"
+ES: "%ls está oculto"
+IT: "%ls è invisibile"
+KO: "%ls(숨음)"
+ZH: "%ls 隱藏中"
+BP: "%ls está escondido"
+PL: "%ls ukrywa się"
+END

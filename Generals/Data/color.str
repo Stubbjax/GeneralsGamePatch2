@@ -1,0 +1,95 @@
+Color:Gold
+US: "Gold"
+DE: "Gold"
+FR: "Or"
+ES: "Amarillo"
+IT: "Oro"
+KO: "금색"
+ZH: "金色"
+BP: "Amar."
+PL: "Złoty"
+END
+
+Color:Red
+US: "Red"
+DE: "Rot"
+FR: "Rouge"
+ES: "Rojo"
+IT: "Rosso"
+KO: "적색"
+ZH: "紅色"
+BP: "Verm."
+PL: "Czerwony"
+END
+
+Color:Blue
+US: "Blue"
+DE: "Blau"
+FR: "Bleu"
+ES: "Azul"
+IT: "Blu"
+KO: "청색"
+ZH: "藍色"
+BP: "Azul"
+PL: "Błękitny"
+END
+
+Color:Green
+US: "Green"
+DE: "Grün"
+FR: "Vert"
+ES: "Verde"
+IT: "Verde"
+KO: "녹색"
+ZH: "綠色"
+BP: "Verde"
+PL: "Zielony"
+END
+
+Color:Orange
+US: "Orange"
+DE: "Orange"
+FR: "Orange"
+ES: "Naranja"
+IT: "Arancio"
+KO: "주황색"
+ZH: "橙色"
+BP: "Laranja"
+PL: "Pomarańcz"
+END
+
+Color:SkyBlue
+US: "Cyan"
+DE: "Türkis"
+FR: "Cyan"
+ES: "Celeste"
+IT: "Ciano"
+KO: "하늘색"
+ZH: "青色"
+BP: "Azul C."
+PL: "Niebieski"
+END
+
+Color:Purple
+US: "Purple"
+DE: "Violett"
+FR: "Violet"
+ES: "Morado"
+IT: "Viola"
+KO: "보라색"
+ZH: "紫色"
+BP: "Roxo"
+PL: "Fioletowy"
+END
+
+Color:Pink
+US: "Pink"
+DE: "Pink"
+FR: "Rose"
+ES: "Rosa"
+IT: "Rosa"
+KO: "핑크색"
+ZH: "粉紅"
+BP: "Rosa"
+PL: "Liliowy"
+END

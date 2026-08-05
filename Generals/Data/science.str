@@ -1,0 +1,587 @@
+SCIENCE:GeneralName
+US: "<Enter Name>"
+DE: "<Namen eingeben>"
+FR: "<Saisir nom>"
+ES: "<Teclear nombre>"
+IT: "<Inserisci nome>"
+KO: "<이름 입력>"
+ZH: "<輸入名稱>"
+BP: "<Digitar Nome>"
+PL: "<Wpisz imię>"
+END
+
+SCIENCE:SkillPoints
+US: "Skill Points: %d"
+DE: "Punkte: %d"
+FR: "Points de compétence : %d"
+ES: "Puntos habilidad: %d"
+IT: "Punti abilità: %d"
+KO: "기술 점수: %d"
+ZH: "技能點數： %d"
+BP: "Pontos de Habilidades: %d"
+PL: "Punkty umiejętności: %d"
+END
+
+SCIENCE:Rank
+US: "Level %d"
+DE: "Rang: %d"
+FR: "Niveau : %d"
+ES: "Nivel %d"
+IT: "Livello %d"
+KO: "등급 %d"
+ZH: "等級 %d"
+BP: "Nível %d"
+PL: "Poziom %d"
+END
+
+SCIENCE:TempName
+US: "Give My Science A Name"
+DE: "Give My Science A Name"
+FR: "Give My Science A Name"
+ES: "Give My Science A Name"
+IT: "Give My Science A Name"
+KO: "Give My Science A Name"
+ZH: "Give My Science A Name"
+BP: "Give My Science A Name"
+PL: "Give My Science A Name"
+END
+
+SCIENCE:TempDescription
+US: "Please take the time to fill out my description located in Science.ini! Thanks a bunch"
+DE: "Please take the time to fill out my description located in Science.ini! Thanks a bunch"
+FR: "Please take the time to fill out my description located in Science.ini! Thanks a bunch"
+ES: "Please take the time to fill out my description located in Science.ini! Thanks a bunch"
+IT: "Please take the time to fill out my description located in Science.ini! Thanks a bunch"
+KO: "Please take the time to fill out my description located in Science.ini! Thanks a bunch"
+ZH: "Please take the time to fill out my description located in Science.ini! Thanks a bunch"
+BP: "Please take the time to fill out my description located in Science.ini! Thanks a bunch"
+PL: "Please take the time to fill out my description located in Science.ini! Thanks a bunch"
+END
+
+SCIENCE:USAPaladin
+US: "Paladin Tank"
+DE: "Paladin"
+FR: "Char Paladin"
+ES: "Tanque Paladin"
+IT: "Carro Paladin"
+KO: "팔라딘 탱크"
+ZH: "帕拉丁坦克"
+BP: "Tanque Paladin"
+PL: "Czołg Paladyn"
+END
+
+SCIENCE:USAPathFinder
+US: "Pathfinder"
+DE: "Späher"
+FR: "Commando"
+ES: "Explorador"
+IT: "Esploratore"
+KO: "패스 파인더"
+ZH: "尖兵"
+BP: "Batedor Avançado"
+PL: "Tropiciel"
+END
+
+SCIENCE:USAStealthFighter
+US: "Stealth Fighter"
+DE: "Tarnkappenbomber"
+FR: "Chasseur furtif"
+ES: "Caza Stealth"
+IT: "Caccia stealth"
+KO: "스텔스 전투기"
+ZH: "隱形戰鬥機"
+BP: "Bombardeiro Invisível"
+PL: "Niewykrywalny myśliwiec"
+END
+
+SCIENCE:USASpyDrone
+US: "Spy Drone"
+DE: "Aufklärungsdrohne"
+FR: "Drone espion"
+ES: "Espía teledirigido"
+IT: "Drone spia"
+KO: "스파이 드론"
+ZH: "偵察蜂型機"
+BP: "Drone Espião"
+PL: "Robot szpiegowski"
+END
+
+SCIENCE:USAParaDrop1
+US: "Para Drop 1"
+DE: "Fallschirmjäger 1"
+FR: "Para 1"
+ES: "Paracaidista 1"
+IT: "Lancio paracadutisti 1"
+KO: "낙하산 강하 1"
+ZH: "空降部隊 1"
+BP: "Pára-Quedistas 1"
+PL: "Desant 1"
+END
+
+SCIENCE:USAParaDrop2
+US: "Para Drop 2"
+DE: "Fallschirmjäger 2"
+FR: "Para 2"
+ES: "Paracaidista 2"
+IT: "Lancio paracadutisti 2"
+KO: "낙하산 강하 2"
+ZH: "空降部隊 2"
+BP: "Pára-Quedistas 2"
+PL: "Desant 2"
+END
+
+SCIENCE:USAParaDrop3
+US: "Para Drop 3"
+DE: "Fallschirmjäger 3"
+FR: "Para 3"
+ES: "Paracaidista 3"
+IT: "Lancio paracadutisti 3"
+KO: "낙하산 강하 3"
+ZH: "空降部隊 3"
+BP: "Pára-Quedistas 3"
+PL: "Desant 3"
+END
+
+SCIENCE:USAA10Strike1
+US: "A10 Strike 1"
+DE: "A10-Luftangriff 1"
+FR: "Bombardement A10 1"
+ES: "Ataque A10 1"
+IT: "Bombardamento con A10 1"
+KO: "A10 공습 1"
+ZH: "A-10攻擊機 1"
+BP: "Ataque A-10 1"
+PL: "Nalot A10 1"
+END
+
+SCIENCE:USAA10Strike2
+US: "A10 Strike 2"
+DE: "A10-Luftangriff 2"
+FR: "Bombardement A10 2"
+ES: "Ataque A10 2"
+IT: "Bombardamento con A10 2"
+KO: "A10 공습 2"
+ZH: "A-10攻擊機 2"
+BP: "Ataque A-10 2"
+PL: "Nalot A10 2"
+END
+
+SCIENCE:USAA10Strike3
+US: "A10 Strike 3"
+DE: "A10-Luftangriff 3"
+FR: "Bombardement A10 3"
+ES: "Ataque A10 3"
+IT: "Bombardamento con A10 3"
+KO: "A10 공습 3"
+ZH: "A-10攻擊機 3"
+BP: "Ataque A-10 3"
+PL: "Nalot A10 3"
+END
+
+SCIENCE:USADaisyCutter
+US: "Fuel Air Bomb"
+DE: "Benzinbombe"
+FR: "Bombe aéro-incendiaire"
+ES: "Bomba incendiaria"
+IT: "Bomba a benzina"
+KO: "기화폭탄"
+ZH: "油氣彈"
+BP: "Bomba Incendiária"
+PL: "Bomba zapalająca"
+END
+
+SCIENCE:ChinaNukeLauncher
+US: "Nuke Cannon"
+DE: "Nukleargeschütz"
+FR: "Nuclécanon"
+ES: "Cañón nuclear"
+IT: "Cannone nucleare"
+KO: "핵 캐논"
+ZH: "核子加農砲"
+BP: "Canhão Nuclear"
+PL: "Działo atomowe"
+END
+
+SCIENCE:ChinaRedGuardTraining
+US: "Red Guard Training"
+DE: "Rotgardisten-Ausbildung"
+FR: "Instructeur Gardes rouges"
+ES: "Entrenamiento de Guardia Roja"
+IT: "Addestramento Guardia Rossa"
+KO: "홍위병 훈련"
+ZH: "紅衛兵訓練"
+BP: "Treinamento da Guarda Vermelha"
+PL: "Szkolenie Czerwonej Gwardii"
+END
+
+SCIENCE:ChinaClusterMines
+US: "Cluster Mines"
+DE: "Streuminen"
+FR: "Mines à fragmentation"
+ES: "Minas dispersoras"
+IT: "Mine a frammentazione"
+KO: "산탄형 지뢰"
+ZH: "集束地雷"
+BP: "Minas de Fragmentação"
+PL: "Miny kasetowe"
+END
+
+SCIENCE:ChinaArtilleryTraining
+US: "Artillery Training"
+DE: "Artillerie-Ausbildung"
+FR: "Instructeur Artillerie"
+ES: "Entrenamiento de artillería"
+IT: "Addestramento artiglieria"
+KO: "포대 훈련"
+ZH: "自走砲訓練"
+BP: "Treinamento de Artilharia"
+PL: "Szkolenie artylerii"
+END
+
+SCIENCE:ChinaArtilleryBarrage
+US: "Artillery Barrage 1"
+DE: "Artilleriebeschuss 1"
+FR: "Barrage d'artillerie 1"
+ES: "Barrera de artillería 1"
+IT: "Pioggia di bombe 1"
+KO: "포대 탄막 1"
+ZH: "自走砲攻擊 1"
+BP: "Barragem de Artilharia 1"
+PL: "Ostrzał artyleryjski 1"
+END
+
+SCIENCE:ChinaArtilleryBarrage2
+US: "Artillery Barrage 2"
+DE: "Artilleriebeschuss 2"
+FR: "Barrage d'artillerie 2"
+ES: "Barrera de artillería 2"
+IT: "Pioggia di bombe 2"
+KO: "포대 탄막 2"
+ZH: "自走砲攻擊 2"
+BP: "Barragem de Artilharia 2"
+PL: "Ostrzał artyleryjski 2"
+END
+
+SCIENCE:ChinaArtilleryBarrage3
+US: "Artillery Barrage 3"
+DE: "Artilleriebeschuss 3"
+FR: "Barrage d'artillerie 3"
+ES: "Barrera de artillería 3"
+IT: "Pioggia di bombe 3"
+KO: "포대 탄막 3"
+ZH: "自走砲攻擊 3"
+BP: "Barragem de Artilharia 3"
+PL: "Ostrzał artyleryjski 3"
+END
+
+SCIENCE:ChinaCashHack1
+US: "Cash Hack 1"
+DE: "Geldtransfer 1"
+FR: "Larcin 1"
+ES: "Pirateo de dinero 1"
+IT: "Acquisizione ostile 1"
+KO: "자금 해킹 1"
+ZH: "金牌駭客 1"
+BP: "Assalto Hacker 1"
+PL: "e-Kradzież pieniędzy 1"
+END
+
+SCIENCE:ChinaCashHack2
+US: "Cash Hack 2"
+DE: "Geldtransfer 2"
+FR: "Larcin 2"
+ES: "Pirateo de dinero 2"
+IT: "Acquisizione ostile 2"
+KO: "자금 해킹 2"
+ZH: "金牌駭客 2"
+BP: "Assalto Hacker 2"
+PL: "e-Kradzież pieniędzy 2"
+END
+
+SCIENCE:ChinaCashHack3
+US: "Cash Hack 3"
+DE: "Geldtransfer 3"
+FR: "Larcin 3"
+ES: "Pirateo de dinero 3"
+IT: "Acquisizione ostile 3"
+KO: "자금 해킹 3"
+ZH: "金牌駭客 3"
+BP: "Assalto Hacker 3"
+PL: "e-Kradzież pieniędzy 3"
+END
+
+SCIENCE:ChinaEMPPulse
+US: "EMP Pulse"
+DE: "EMP-Angriff"
+FR: "Bombe IEM"
+ES: "Impulso electromagnético"
+IT: "Impulso EMP"
+KO: "EMP 펄스"
+ZH: "電磁波脈衝"
+BP: "Pulso E.M."
+PL: "Impuls elektromagnetyczny"
+END
+
+SCIENCE:GLAHijacker
+US: "Hijacker"
+DE: "Entführer"
+FR: "Pirates de la route"
+ES: "Secuestrador"
+IT: "Dirottatore"
+KO: "하이잭커"
+ZH: "劫持犯"
+BP: "Sequestrador"
+PL: "Porywacz"
+END
+
+SCIENCE:GLASCUDLauncher
+US: "SCUD Launcher"
+DE: "SCUD-Stellung"
+FR: "Lanceur mobile Scud"
+ES: "Lanzador SCUD"
+IT: "Lanciatore SCUD"
+KO: "스커드 발사기"
+ZH: "生化飛彈發射車"
+BP: "Lançador SCUD"
+PL: "Wyrzutnia SCUD-ów"
+END
+
+SCIENCE:GLAMaruaderTank
+US: "Marauder Tank"
+DE: "Marodeurpanzer"
+FR: "Maraudeur"
+ES: "Tanque Marauder"
+IT: "Carro Marauder"
+KO: "머로더 탱크"
+ZH: "掠奪者坦克"
+BP: "Tanque Marauder"
+PL: "Czołg Grabieżca"
+END
+
+SCIENCE:GLATechnicalTraining
+US: "Technical Training"
+DE: "Kampfjeep-Ausbildung"
+FR: "Apprentissage mécano"
+ES: "Entrenamiento camionetas"
+IT: "Addestramento tecnica"
+KO: "테크니컬 훈련"
+ZH: "科技訓練"
+BP: "Treino Técnico"
+PL: "Szkolenie techniczne"
+END
+
+SCIENCE:GLARebelAmbush1
+US: "Rebel Ambush 1"
+DE: "Rebellenhinterhalt 1"
+FR: "Cinquième colonne 1"
+ES: "Emboscada rebelde 1"
+IT: "Imboscata ribelle 1"
+KO: "반군 매복 1"
+ZH: "反抗軍突擊 1"
+BP: "Emboscada Rebelde 1"
+PL: "Zasadzka buntowników 1"
+END
+
+SCIENCE:GLARebelAmbush2
+US: "Rebel Ambush 2"
+DE: "Rebellenhinterhalt 2"
+FR: "Cinquième colonne 2"
+ES: "Emboscada rebelde 2"
+IT: "Imboscata ribelle 2"
+KO: "반군 매복 2"
+ZH: "反抗軍突擊 2"
+BP: "Emboscada Rebelde 2"
+PL: "Zasadzka buntowników 2"
+END
+
+SCIENCE:GLARebelAmbush3
+US: "Rebel Ambush 3"
+DE: "Rebellenhinterhalt 3"
+FR: "Cinquième colonne 3"
+ES: "Emboscada rebelde 3"
+IT: "Imboscata ribelle 3"
+KO: "반군 매복 3"
+ZH: "反抗軍突擊 3"
+BP: "Emboscada Rebelde 3"
+PL: "Zasadzka buntowników 3"
+END
+
+SCIENCE:GLACashBounty1
+US: "Cash Bounty 1"
+DE: "Kopfgeld 1"
+FR: "Chasseur de primes 1"
+ES: "Recompensa monetaria 1"
+IT: "Ricompensa 1"
+KO: "보상금 1"
+ZH: "獎金 1"
+BP: "Recompensa 1"
+PL: "Okup pieniężny 1"
+END
+
+SCIENCE:GLACashBounty2
+US: "Cash Bounty 2"
+DE: "Kopfgeld 2"
+FR: "Chasseur de primes 2"
+ES: "Recompensa monetaria 2"
+IT: "Ricompensa 2"
+KO: "보상금 2"
+ZH: "獎金 2"
+BP: "Recompensa 2"
+PL: "Okup pieniężny 2"
+END
+
+SCIENCE:GLACashBounty3
+US: "Cash Bounty 3"
+DE: "Kopfgeld 3"
+FR: "Chasseur de primes 3"
+ES: "Recompensa monetaria 3"
+IT: "Ricompensa 3"
+KO: "보상금 3"
+ZH: "獎金 3"
+BP: "Recompensa 3"
+PL: "Okup pieniężny 3"
+END
+
+SCIENCE:GLAAnthraxBomb
+US: "Anthrax Bomb"
+DE: "Anthraxbombe"
+FR: "Bombe Anthrax"
+ES: "Bomba de Antrax"
+IT: "Bomba all'antrace"
+KO: "탄저병 폭탄"
+ZH: "炭疽菌炸彈"
+BP: "Bomba de Antraz"
+PL: "Bomba wąglikowa"
+END
+
+SCIENCE:Rank1
+US: "1 Star General"
+DE: "1 Stern-General"
+FR: "Général 1 étoile"
+ES: "General rango 1"
+IT: "Generale a 1 stella"
+KO: "대위"
+ZH: "一星上將"
+BP: "General de 1 Estrela"
+PL: "Generał 1-gwiazdkowy"
+END
+
+SCIENCE:Rank2
+US: "2 Star General"
+DE: "2 Sterne-General"
+FR: "Général 2 étoiles"
+ES: "General rango 2"
+IT: "Generale a 2 stelle"
+KO: "소령"
+ZH: "二星上將"
+BP: "General de 2 Estrelas"
+PL: "Generał 2-gwiazdkowy"
+END
+
+SCIENCE:Rank3
+US: "3 Star General"
+DE: "3 Sterne-General"
+FR: "Général 3 étoiles"
+ES: "General rango 3"
+IT: "Generale a 3 stelle"
+KO: "중령"
+ZH: "三星上將"
+BP: "General de 3 Estrelas"
+PL: "Generał 3-gwiazdkowy"
+END
+
+SCIENCE:Rank4
+US: "4 Star General"
+DE: "4 Sterne-General"
+FR: "Général 4 étoiles"
+ES: "General rango 4"
+IT: "Generale a 4 stelle"
+KO: "대령"
+ZH: "四星上將"
+BP: "General de 4 Estrelas"
+PL: "Generał 4-gwiazdkowy"
+END
+
+SCIENCE:Rank5
+US: "5 Star General"
+DE: "5 Sterne-General"
+FR: "Général 5 étoiles"
+ES: "General rango 5"
+IT: "Generale a 5 stelle"
+KO: "준장"
+ZH: "五星上將"
+BP: "General de 5 Estrelas"
+PL: "Generał 5-gwiazdkowy"
+END
+
+SCIENCE:Rank6
+US: "Major General"
+DE: "Major General"
+FR: "Général de division"
+ES: "General de división"
+IT: "Maggior generale"
+KO: "소장"
+ZH: "少將"
+BP: "Major-General"
+PL: "Generał major"
+END
+
+SCIENCE:Rank7
+US: "Lt. General"
+DE: "Lt. General"
+FR: "Général de corps d'armée"
+ES: "Teniente General"
+IT: "Tenente generale"
+KO: "중장"
+ZH: "中將"
+BP: "Tenente-General"
+PL: "Generał porucznik"
+END
+
+SCIENCE:Rank8
+US: "General"
+DE: "General"
+FR: "Général d'armée"
+ES: "General"
+IT: "Generale"
+KO: "대장"
+ZH: "將軍"
+BP: "General"
+PL: "Generał"
+END
+
+SCIENCE:EmergencyRepair1
+US: "Emergency Repair 1"
+DE: "Notreparatur 1"
+FR: "Réparations d'urgence 1"
+ES: "Reparación de urgencia 1"
+IT: "Riparazione d'emergenza 1"
+KO: "긴급 복구 1"
+ZH: "緊急修復1"
+BP: "Reparos de Emergência 1"
+PL: "Naprawa pojazdów 1"
+END
+
+SCIENCE:EmergencyRepair2
+US: "Emergency Repair 2"
+DE: "Notreparatur 2"
+FR: "Réparations d'urgence 2"
+ES: "Reparación de urgencia 2"
+IT: "Riparazione d'emergenza 2"
+KO: "긴급 복구 2"
+ZH: "緊急修復2"
+BP: "Reparos de Emergência 2"
+PL: "Naprawa pojazdów 2"
+END
+
+SCIENCE:EmergencyRepair3
+US: "Emergency Repair 3"
+DE: "Notreparatur 3"
+FR: "Réparations d'urgence 3"
+ES: "Reparación de urgencia 3"
+IT: "Riparazione d'emergenza 3"
+KO: "긴급 복구 3"
+ZH: "緊急修復3"
+BP: "Reparos de Emergência 3"
+PL: "Naprawa pojazdów 3"
+END

@@ -1,0 +1,239 @@
+Buddy:Offline
+US: "Offline"
+DE: "Offline"
+FR: "Hors ligne"
+ES: "Desconectado"
+IT: "Scollegato"
+KO: "오프라인"
+ZH: "離線"
+BP: "Offline"
+PL: "Rozłączony"
+END
+
+Buddy:Online
+US: "Online"
+DE: "Online"
+FR: "En ligne"
+ES: "Conectado"
+IT: "Collegato"
+KO: "온라인"
+ZH: "線上"
+BP: "Online"
+PL: "Połączony"
+END
+
+Buddy:Chatting
+US: "Chatting in %ls"
+DE: "%ls"
+FR: "En discussion dans %ls"
+ES: "Chateando en %ls"
+IT: "Chatta in %ls"
+KO: "%ls(채팅중)"
+ZH: "在 %ls 聊天中"
+BP: "Conversando em %ls"
+PL: "Rozmawia w: %ls"
+END
+
+Buddy:Staging
+US: "Staging in %ls"
+DE: "Meldet sich in %ls an."
+FR: "En réunion dans %ls"
+ES: "Conectando con %ls."
+IT: "Entra in %ls"
+KO: "%ls(접속중)"
+ZH: "與 %ls 同台中"
+BP: "Conectando-se em %ls"
+PL: "Organizuje w: %ls"
+END
+
+Buddy:Loading
+US: "Loading in %ls"
+DE: "Lädt ein Spiel in %ls."
+FR: "En chargement dans %ls"
+ES: "Cargando en %ls"
+IT: "Carica in %ls"
+KO: "%ls(게임시작중)"
+ZH: "在 %ls 讀取中"
+BP: "Carregando em %ls"
+PL: "Wczytuje w: %ls"
+END
+
+Buddy:Playing
+US: "Playing in %ls"
+DE: "Spielt in %ls"
+FR: "En cours de partie dans %ls"
+ES: "Jugando en %ls"
+IT: "Gioca in %ls"
+KO: "%ls(게임중)"
+ZH: "在 %ls 遊戲中"
+BP: "Jogando em %ls"
+PL: "Gra w: %ls"
+END
+
+Buddy:Matching
+US: "QuickMatching"
+DE: "QuickMatching"
+FR: "QuickMatch en cours"
+ES: "Buscando coincidencia"
+IT: "Usa QuickMatch"
+KO: "퀵매치 탐색 중 입니다."
+ZH: "快速配對"
+BP: "Procurando QuickMatch"
+PL: "Prowadzi QuickMatching"
+END
+
+Buddy:OnlineNotification
+US: "%hs is now online"
+DE: "%hs ist online"
+FR: "%hs est en ligne"
+ES: "%hs está conectado"
+IT: "%hs è collegato"
+KO: "%hs(온라인)"
+ZH: "%hs 上線"
+BP: "%hs está online"
+PL: "%hs jest połączony/a"
+END
+
+Buddy:OfflineNotification
+US: "%hs is now offline"
+DE: "%hs ist offline"
+FR: "%hs n'est pas en ligne"
+ES: "%hs está desconectado"
+IT: "%hs è scollegato"
+KO: "%hs(오프라인)"
+ZH: "%hs 離線"
+BP: "%hs está offline"
+PL: "%hs jest rozłączony/a"
+END
+
+Buddy:AddNotification
+US: "Add Buddy request from %hs"
+DE: "Buddy-Anfrage von %hs"
+FR: "Accepter la demande de l'ami %hs"
+ES: "Añadir petición de %hs"
+IT: "%hs ti vuole fra i suoi amici"
+KO: "%hs(친구 추가 요청)"
+ZH: "%hs 要求加入好友"
+BP: "Autorização - %hs."
+PL: "%hs prosi o dodanie do listy kolegów"
+END
+
+Buddy:MessageNotification
+US: "%hs says:\n'%s...'"
+DE: "%hs sagt:\n\"%s…\""
+FR: "%hs dit :\n'%s...'"
+ES: "%hs dice:\n'%s...'"
+IT: "%hs:\n'%s...'"
+KO: "%hs 의 메시지:\n'%s...'"
+ZH: "%hs 說：\n'%s...'"
+BP: "%hs:\n'%s...'"
+PL: "%hs mówi:\n'%s...'"
+END
+
+Buddy:SelectBuddyToChat
+US: "Select Buddy to chat"
+DE: "Wähle einen Buddy zum Chatten aus."
+FR: "Sélectionnez un ami avec qui discuter."
+ES: "Seleccionar un colega para chatear"
+IT: "Seleziona un amico per chattare"
+KO: "채팅할 친구를 선택하십시오."
+ZH: "選擇聊天夥伴"
+BP: "Escolha um Amigo para conversar."
+PL: "Wybierz kolegę, z którym chcesz się porozumieć"
+END
+
+Buddy:Disconnected
+US: "You have been disconnected\nfrom the buddy list"
+DE: "Verbindung zur Buddy-Liste\nabgebrochen."
+FR: "Vous avez été déconnecté de\nla liste d'amis."
+ES: "Te han desconectado\nde la lista de colegas"
+IT: "Sei stato escluso\ndall'elenco amici."
+KO: "친구 목록에서 접속이\n끊어졌습니다."
+ZH: "您已經離開\n好友名單"
+BP: "Você foi desconectado\nda lista de Amigos."
+PL: "Rozłączono Cię\nz listą kolegów."
+END
+
+Buddy:MessageDisconnected
+US: "You have been disconnected\nfrom the buddy list"
+DE: "Verbindung zur Buddyliste\nunterbrochen."
+FR: "Vous avez été déconnecté de\nla liste d'amis."
+ES: "Te han desconectado\nde la lista de colegas"
+IT: "Sei stato escluso\ndall'elenco amici."
+KO: "친구 목록에서 접속이\n끊어졌습니다."
+ZH: "您已經離開好友名單了。"
+BP: "Você foi desconectado\nda lista de Amigos."
+PL: "Odłączono Cię\nod listy kolegów."
+END
+
+Buddy:MultipleOnlineNotification
+US: "You have buddies online"
+DE: "Einige Buddys von dir sind online"
+FR: "Vous avez des amis en ligne"
+ES: "Tienes colegas conectados"
+IT: "Hai degli amici collegati"
+KO: "접속 중인 친구가 있습니다."
+ZH: "您的好友上線了。"
+BP: "Você tem Amigos online"
+PL: "Twoi koledzy są na serwerze"
+END
+
+Buddy:CantTalkToIngameBuddy
+US: "You cannot send messages to buddies in your game if you are observing"
+DE: "Als Zuschauer kannst du deinen Buddys keine Nachrichten schicken"
+FR: "Vous ne pouvez pas envoyer de messages à vos amis pendant la partie si vous êtes en mode observateur."
+ES: "No puedes enviar mensajes a tus colegas en tu juego si estás de observador."
+IT: "Non puoi inviare messaggi agli amici presenti nella partita, se sei un osservatore."
+KO: "옵저버 상태로 게임내의 친구들에게 메시지를 보낼 수 없습니다."
+ZH: "您無法傳送訊息給您的好友，如果您在遊戲中是觀察者。"
+BP: "Você não pode enviar mensagens para Amigos em seu jogo se estiver como Observador."
+PL: "W trybie obserwatora nie możesz wysyłać wiadomości do uczestników swojej gry."
+END
+
+Buddy:MatchingNotification
+US: "%hs is QuickMatching"
+DE: "%hs hat QuickMatching gestartet"
+FR: "%hs effectue un QuickMatch"
+ES: "%hs está QuickMatching"
+IT: "%hs sta usando QuickMatch"
+KO: "%hs은(는) 퀵매치 중입니다."
+ZH: "%hs快速配對賽"
+BP: "%hs está procurando um QuickMatch"
+PL: "%hs prowadzi QuickMatching"
+END
+
+Buddy:StagingNotification
+US: "%hs is setting up a game"
+DE: "%hs erstellt ein Spiel"
+FR: "%hs configure une partie"
+ES: "%hs está configurando una partida"
+IT: "%hs sta impostando una partita"
+KO: "%hs은(는) 게임 설정 중입니다."
+ZH: "%hs設定遊戲中"
+BP: "%hs está preparando uma partida"
+PL: "%hs konfiguruje grę"
+END
+
+Buddy:LoadingNotification
+US: "%hs is starting a game"
+DE: "%hs startet ein Spiel"
+FR: "%hs commence une partie"
+ES: "%hs está comenzando una partida"
+IT: "%hs sta avviando una partita"
+KO: "%hs은(는) 게임 시작 중입니다."
+ZH: "%hs遊戲開始中"
+BP: "%hs está iniciando uma partida"
+PL: "%hs rozpoczyna grę"
+END
+
+Buddy:PlayingNotification
+US: "%hs is playing a game"
+DE: "%hs spielt ein Spiel"
+FR: "%hs est en train de jouer"
+ES: "%hs está jugando una partida"
+IT: "%hs sta disputando una partita"
+KO: "%hs은(는) 게임 중입니다."
+ZH: "%hs執行遊戲中"
+BP: "%hs está jogando uma partida"
+PL: "%hs gra"
+END

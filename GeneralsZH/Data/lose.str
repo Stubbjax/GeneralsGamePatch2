@@ -1,0 +1,35 @@
+LOSE:AllUnits
+US: "INCOMING TRANSMISSION:\nAll of our units have been destroyed\nWe have been defeated, General. This time"
+DE: "NACHRICHT:\nAlle Ihre Einheiten wurden zerstört.\nWir haben verloren, General! Dieses Mal!"
+FR: "DERNIERES NOUVELLES DU FRONT :\nToutes nos unités ont été détruites.\nNous avons perdu cette bataille, général, mais nous prendrons notre revanche."
+ES: "TRANSMISIÓN:\nHan destruido todas nuestras unidades\nNos han vencido, general. Por esta vez."
+IT: "TRASMISSIONE IN ARRIVO:\nTutte le nostre unità sono state distrutte.\nPer questa volta ci hanno sconfitto, Generale."
+KO: "수신 메시지:\n아군의 모든 유닛들이 파괴되었습니다.\n우리가 패했습니다, 장군님."
+ZH: "訊息：\n我們所有的單位都被摧毀了\n我們這次被擊敗了，將軍。"
+BP: "RECEBENDO TRANSMISSÃO:\nTodas as nossas unidades foram destruídas.\nFomos derrotados, General. Desta vez"
+PL: "ODEBRANA WIADOMOŚĆ:\nWszystkie nasze jednostki zostały zniszczone\nZostaliśmy pokonani, generale. Tym razem."
+END
+
+LOSE:AllBuildings
+US: "INCOMING TRANSMISSION:\nAll of our buildings have been destroyed\nWe have been defeated, General. This time"
+DE: "NACHRICHT:\nAlle unsere Gebäude wurden zerstört.\nWir haben verloren, General. Dieses Mal!"
+FR: "DERNIERES NOUVELLES DU FRONT :\nTous nos bâtiments ont été détruits.\nNous avons perdu cette bataille, général, mais nous prendrons notre revanche."
+ES: "TRANSMISIÓN:\nHan destruido todos nuestros edificios\nNos han vencido, general. Por esta vez."
+IT: "TRASMISSIONE IN ARRIVO:\nTutte le nostre strutture sono state distrutte.\nPer questa volta ci hanno sconfitto, generale."
+KO: "수신 메시지:\n아군의 모든 건물들이 파괴되었습니다.\n우리가 패했습니다, 장군님."
+ZH: "訊息：\n我們所有的建築都被摧毀了\n我們這次被擊敗了，將軍。"
+BP: "RECEBENDO TRANSMISSÃO:\nTodas as nossas estruturas foram destruídas.\nFomos derrotados, General. Desta vez"
+PL: "ODEBRANA WIADOMOŚĆ:\nWszystkie nasze budynki zostały zniszczone\nZostaliśmy pokonani, generale. Tym razem."
+END
+
+LOSE:AllUnitsAndBuildings
+US: "INCOMING TRANSMISSION:\nAll of our units and buildings have been destroyed\nWe have been defeated, General. This time"
+DE: "NACHRICHT:\nAlle unsere Gebäude und Einheiten wurden zerstört.\nWir haben verloren, General. Dieses Mal!"
+FR: "DERNIERES NOUVELLES DU FRONT :\nLa totalité de nos unités et de nos bâtiments a été détruite.\nNous avons perdu cette bataille, général, mais nous prendrons notre revanche."
+ES: "TRANSMISIÓN:\nHan destruido todas nuestras unidades y edificios\nNos han vencido, general. Por esta vez."
+IT: "TRASMISSIONE IN ARRIVO:\nTutte le nostre unità e strutture sono state distrutte.\nPer questa volta ci hanno sconfitto, generale."
+KO: "수신 메시지:\n아군의 모든 유닛과 건물들이 파괴되었습니다.\n우리가 패했습니다, 장군님."
+ZH: "訊息：\n我們所有的建築與單位都被摧毀了\n我們這次被擊敗了，將軍。"
+BP: "RECEBENDO TRANSMISSÃO:\nTodas as nossas unidades e estruturas foram destruídas.\nFomos derrotados, General. Desta vez"
+PL: "ODEBRANA WIADOMOŚĆ:\nWszystkie nasze jednostki i budynki zostały zniszczone\nZostaliśmy pokonani, generale. Tym razem."
+END

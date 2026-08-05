@@ -1,0 +1,455 @@
+MD_GLA05-MilitaryBriefing:String_2
+US: "MISSION OBJECTIVE:\nDestroy US European Central Command in the Northeast"
+DE: "EINSATZZIEL:\nZerstören Sie die Kontinentalzentrale der WA im Nordosten."
+FR: "OBJECTIF DE MISSION :\nDétruire le Q.G. américain en Europe. Il est situé au nord-est."
+ES: "OBJETIVO DE LA MISIÓN:\nDestruir el mando central europeo de EE.UU. en el noreste"
+IT: "OBIETTIVO MISSIONE:\nDistruggete il Centro comando USA europeo, a nord-est."
+KO: "임무 목표:\n북동쪽의 미국 유럽 중앙 사령부를 파괴하십시오"
+ZH: "任務目標：\n摧毀東北方的美國駐歐洲中央指揮部"
+BP: "OBJETIVO DA MISSÃO:\nDestrua o Centro de Comando dos E.U.A. no Nordeste"
+PL: "CEL MISJI:\nZniszczyć amerykańsko-europejskie centrum dowodzenia na północnym wschodzie"
+END
+
+MD_GLA05-MilitaryBriefing:String_3
+US: "INCOMING TRANSMISSION:\nRescue the POWs and bring them back here\nThe Terror Cell will awaken to assist you against the US"
+DE: "NACHRICHT:\nRetten Sie die Kriegsgefangenen und bringen Sie sie hierher zurück.\nAnschließend unterstützen uns ihre Anhänger im Kampf gegen die WA."
+FR: "DERNIERES NOUVELLES DU FRONT :\nLibérez les prisonniers de guerre et ramenez-les ici.\nLa Cellule terroriste va se reformer pour vous aider à affronter les Américains."
+ES: "TRANSMISIÓN:\nRescata a los prisioneros y tráelos aquí\nLa célula terrorista despertará para ayudarte contra los EE.UU."
+IT: "TRASMISSIONE IN ARRIVO:\nSalvate i prigionieri e riportateli qui.\nLa Cellula terroristica si attiverà per aiutarvi."
+KO: "수신 메시지:\n포로들을 구출하고, 그들을 이곳으로 데려 오십시오\n테러 세포 조직이 미국에 대항하는 당신을 돕기 위해 봉기할 것입니다."
+ZH: "訊息：\n救出戰俘並將他們帶回這，\n恐怖囚房將會協助您對抗美國"
+BP: "RECEBENDO TRANSMISSÃO:\nResgate os Prisioneiros de Guerra e traga-os aqui\nA Célula Terrorista será ativada para ajudá-lo contra os E.U.A"
+PL: "ODEBRANA WIADOMOŚĆ:\nUratuj jeńców i sprowadź ich z powrotem tutaj\nKomórka terrorystyczna uaktywni się, by wspomóc cię w walce z Amerykanami"
+END
+
+MD_GLA05-MilitaryBriefing:String_4
+US: "HINT:\nMove the POWs to their village\nin the North and they will assist us"
+DE: "TIPP:\nBringen Sie die Kriegsgefangenen in ihr Dorf\nim Norden, damit sie uns unterstützen."
+FR: "ASTUCE :\nEmmenez les prisonniers de guerre dans leur village\nau nord pour qu'ils vous prêtent main forte."
+ES: "PISTA:\nLleva a los prisioneros a su aldea\nen el norte y nos ayudarán"
+IT: "SUGGERIMENTO:\nPortate i prigionieri al loro villaggio\na nord per ottenere il loro aiuto."
+KO: "힌트:\n포로들을 그들의 북쪽 마을로 이동시키십시오\n그들이 우리를 지원할 것입니다."
+ZH: "建議：\n將戰俘移往北方他們的城鎮內\n他們將會協助我們"
+BP: "DICA:\nLeve os Prisioneiros de Guerra para a vila deles\nno Norte e eles nos ajudarão"
+PL: "RADA:\nPrzenieś jeńców do ich wioski\nna północy, a pomogą nam w walce"
+END
+
+MD_GLA05-MilitaryBriefing:String_5
+US: "INCOMING TRANSMISSION:\nRemove the American threat to\nfree the POWs from their captors"
+DE: "NACHRICHT:\nVernichten Sie die WA-Truppen und befreien\nSie die Kriegsgefangenen."
+FR: "DERNIERES NOUVELLES DU FRONT :\nEliminez toute menace américaine pour\nlibérer les prisonniers."
+ES: "TRANSMISIÓN:\nElimina la amenaza yanqui para\nliberar a los presos de sus captores"
+IT: "TRASMISSIONE IN ARRIVO:\nEliminate la minaccia americana\ne liberate i prigionieri."
+KO: "수신 메시지:\n포로들을 해방시키기 위해 미국의 위협을 제거하십시오."
+ZH: "訊息：\n將美國勢力逐出以\n解救戰俘不受欺壓"
+BP: "RECEBENDO TRANSMISSÃO:\nElimine os E.U.A. para\nlibertar os Prisioneiros de Guerra"
+PL: "ODEBRANA WIADOMOŚĆ:\nZlikwiduj zagrożenie ze strony Amerykanów,\nby uwolnić jeńców"
+END
+
+MD_GLA05-MilitaryBriefing:String_6
+US: "INCOMING TRANSMISSION:\nWe are ready to return to our village in the North"
+DE: "NACHRICHT:\nWir sind bereit, in unser Dorf im Norden zurückzukehren."
+FR: "DERNIERES NOUVELLES DU FRONT :\nNous sommes prêts à regagner notre village au nord."
+ES: "TRANSMISIÓN:\nEstamos listos para volver a nuestra aldea en el norte"
+IT: "TRASMISSIONE IN ARRIVO:\nSiamo pronti a tornare al nostro villaggio a nord."
+KO: "수신 메시지: 우리는 북쪽에 있는 우리의 마을로 돌아갈 준비가\n되어 있습니다."
+ZH: "訊息：\n我們已經準備返回北方的城鎮"
+BP: "RECEBENDO TRANSMISSÃO:\nEstamos prontos para retornar até a nossa vila no Norte"
+PL: "ODEBRANA WIADOMOŚĆ:\nJesteśmy gotowi wrócić do naszej wioski na północy"
+END
+
+MD_GLA05-MilitaryBriefing:String_7
+US: "INCOMING TRANSMISSION:\nYou have rescued the POWs and returned them home\nThe Terror Cell will activate and begin to assault the US"
+DE: "NACHRICHT:\nSie haben die Kriegsgefangenen gerettet und nach Hause eskortiert.\nZum Dank schließen sie sich unserem Kampf gegen die WA an."
+FR: "DERNIERES NOUVELLES DU FRONT :\nVous avez sauvé les prisonniers et leur avez permis de retrouver leur famille !\nLa Cellule terroriste va se reformer et lancer un assaut contre les Américains."
+ES: "TRANSMISIÓN:\nHas rescatado a los presos y los has devuelto a casa\nLa célula terrorista se activará y empezará a atacar los EE.UU."
+IT: "TRASMISSIONE IN ARRIVO:\nAvete salvato i prigionieri e li avete fatti tornare a casa!\nLa cellula di terroristi si attiverà e inizierà ad attaccare gli USA."
+KO: "수신 메시지:\n포로들을 구출해서 그들을 집으로 돌려보냈습니다!\n테러 세포 조직이 다시 살아나 미국군을 공격하기 시작할 것입니다."
+ZH: "訊息：\n您解救了戰俘並將他們送回故鄉！\n恐怖囚房將因此啟動並開始對抗美國"
+BP: "RECEBENDO TRANSMISSÃO:\nResgate os Prisioneiros de Guerra e leve-os para a vila deles\nA Célula Terrorista será ativada e os E.U.A. serão atacados"
+PL: "ODEBRANA WIADOMOŚĆ:\nUdało ci się uratować jeńców i przenieść ich z powrotem do domu!\nKomórka terrorystyczna uaktywni się i zacznie atakować Amerykanów"
+END
+
+MD_GLA05-MilitaryBriefing:String_8
+US: "HINT:\nCapture the remaining US structures\nand build a second base here"
+DE: "TIPP:\nErobern Sie die übrigen WA-Gebäude\nund errichten Sie einen zweiten Stützpunkt."
+FR: "ASTUCE :\nCapturez le reste des bâtiments américains et\nconstruisez une deuxième base ici."
+ES: "PISTA:\nCaptura los edificios yanquis restantes\ny construye aquí una segunda base"
+IT: "SUGGERIMENTO:\nCatturate le strutture USA residue\ne costruite qui una seconda base."
+KO: "힌트:\n남아 있는 미국 건물을 점령하고 제2 기지를 건설하십시오."
+ZH: "建議：\n佔領剩餘的美國建築\n並在此建立第二個基地"
+BP: "DICA:\nCapture as estruturas dos E.U.A. restantes\ne construa uma segunda base aqui."
+PL: "RADA:\nZajmij pozostałe obiekty amerykańskie\ni wybuduj tu drugą bazę."
+END
+
+MD_GLA05-MilitaryBriefing:String_9
+US: "WARNING:\nTime is running out. Rescue the POWs"
+DE: "WARNUNG:\nDie Zeit wird knapp! Retten Sie die Kriegsgefangenen!"
+FR: "ALERTE :\nLe temps presse ! Libérez les prisonniers de guerre."
+ES: "AVISO:\nEl tiempo se acaba. Rescata a los presos"
+IT: "ATTENZIONE:\nIl tempo sta per scadere! Salvate i prigionieri."
+KO: "경고:\n시간이 없습니다! 포로들을 구하십시오."
+ZH: "警告：\n時間所剩不多了！快解救戰俘"
+BP: "ATENÇÃO:\nO tempo está acabando. Resgate os Prisioneiros de Guerra"
+PL: "OSTRZEŻENIE:\nCzas ucieka! Uratuj jeńców"
+END
+
+MD_GLA05-MilitaryBriefing:String_10
+US: "WARNING:\nWe must eliminate the enemy's Southern\nsupport base before they become too powerful"
+DE: "WARNUNG:\nWir müssen den Stützpunkt im Süden zerstören,\nbevor unsere Gegner zu stark werden!"
+FR: "ALERTE :\nNous devons éliminer la base de soutien ennemie au sud\navant qu'ils ne deviennent trop puissants."
+ES: "AVISO:\nDebemos eliminar la base de apoyo enemiga\ndel sur antes de que sean demasiado poderosos"
+IT: "ATTENZIONE:\nDobbiamo eliminare la base di supporto nemica a sud,\nprima che diventi troppo potente."
+KO: "경고:\n적이 더 강해지기 전에 적의 남쪽 지원 기지를\n섬멸해야 합니다."
+ZH: "警告：\n我們必須在敵人南方支援基地壯大前\n先摧毀它"
+BP: "ATENÇÃO:\nPrecisamos eliminar a base de apoio no Sul\ndos inimigos antes que eles se tornem poderosos demais"
+PL: "OSTRZEŻENIE:\nMusimy zlikwidować południową bazę\npomocniczą wroga, nim przeciwnik stanie się zbyt potężny"
+END
+
+MD_GLA05-MilitaryBriefing:String_11
+US: "INCOMING TRANSMISSION:\nThe Terror Cell has been eliminated\nDo not let their deaths go unpunished"
+DE: "NACHRICHT:\nUnsere Verbündeten sind gefallen,\naber wir werden sie rächen!"
+FR: "DERNIERES NOUVELLES DU FRONT :\nLa Cellule terroriste a été éliminée.\nVengez leur mort !"
+ES: "TRANSMISIÓN:\nLa célula terrorista ha sido eliminada\nNo dejes que su asesinato quede impune"
+IT: "TRASMISSIONE IN ARRIVO:\nLa cellula di terroristi è stata eliminata.\nDovete vendicare la loro morte."
+KO: "수신 메시지:\n테러 세포조직이 전멸했습니다.\n그들의 죽음을 헛되게 하지 마십시오."
+ZH: "訊息：\n恐怖囚房遭摧毀了。\n不要讓它們的死白費了。"
+BP: "RECEBENDO TRANSMISSÃO:\nA Célula Terrorista foi eliminada.\nVingue a morte deles"
+PL: "ODEBRANA WIADOMOŚĆ:\nKomórka terrorystyczna została zlikwidowana\nNie pozwól, by śmierć tych bojowników poszła na marne"
+END
+
+MD_GLA05-MilitaryBriefing:String_12
+US: "INCOMING TRANSMISSION:\nWe have beaten the enemy. Victory is ours"
+DE: "NACHRICHT:\nWir haben gewonnen. Der Sieg ist unser!"
+FR: "DERNIERES NOUVELLES DU FRONT :\nNous avons vaincu l'ennemi ! Victoire !"
+ES: "TRANSMISIÓN:\nHemos derrotado al enemigo. La victoria es nuestra"
+IT: "TRASMISSIONE IN ARRIVO:\nAbbiamo sconfitto il nemico! La vittoria è nostra!"
+KO: "수신 메시지:\n적을 섬멸했습니다! 승리는 우리의 것입니다!"
+ZH: "訊息：\n我們擊敗了敵人！勝利是屬於我們的！"
+BP: "RECEBENDO TRANSMISSÃO:\nDerrotamos o inimigo. A vitória é nossa"
+PL: "ODEBRANA WIADOMOŚĆ:\nPokonaliśmy wroga! Zwwycięstwo należy do nas!"
+END
+
+MD_GLA05-MilitaryBriefing:String_13
+US: "INCOMING TRANSMISSION:\nThe enemy is holding our brothers captive\nFree them and they will assist us against the US"
+DE: "NACHRICHT:\nDer Feind hält unsere Leute gefangen!\nWenn Sie die Gefangenen befreien, schließen sie sich unserer Sache an."
+FR: "DERNIERES NOUVELLES DU FRONT :\nL'ennemi a fait prisonniers nos frères !\nSi vous les libérez, ils vous aideront à vaincre les Américains."
+ES: "TRANSMISIÓN:\nEl enemigo tiene presos a nuestros hermanos\nLibéralos y nos ayudarán contra los EE.UU."
+IT: "TRASMISSIONE IN ARRIVO:\nIl nemico tiene prigionieri i nostri fratelli!\nLiberateli e vi aiuteranno contro gli USA."
+KO: "수신 메시지:\n적이 우리의 형제들을 포로로 잡고 있습니다!\n그들을 자유롭게 해주면 우리를 지원하며 함께 미국에 대항할 것입니다."
+ZH: "訊息：\n敵軍俘虜了我們的手足！\n解救他們讓他們能與我們一同對抗美國"
+BP: "RECEBENDO TRANSMISSÃO:\nO inimigo mantém os nossos irmãos presos\nLiberte-os e eles nos ajudarão a combater os E.U.A."
+PL: "ODEBRANA WIADOMOŚĆ:\nWróg przetrzymuje naszych braci w niewoli!\nUwolnij ich, a pomogą nam w walce z Amerykanami"
+END
+
+MD_GLA05-MilitaryBriefing:String_14
+US: "INCOMING TRANSMISSION:\nIntel has reported that the POWs will be moved soon\nInfiltrate the US base to rescue them"
+DE: "NACHRICHT:\nDie Kriegsgefangenen sollen in Kürze verlegt werden.\nDringen Sie in den WA-Stützpunkt ein und retten Sie sie."
+FR: "DERNIERES NOUVELLES DU FRONT :\nLes renseignements signalent que le transfert des prisonniers est imminent.\nInfiltrez la base américaine pour les libérer."
+ES: "TRANSMISIÓN:\nInteligencia comunica que los presos serán trasladados pronto\nInfíltrate en la base yanqui para rescatarlos"
+IT: "TRASMISSIONE IN ARRIVO:\nSappiamo che presto i prigionieri saranno trasferiti.\nInfiltratevi nella base USA per salvarli."
+KO: "수신 메시지:\n정보에 의하면 포로들이 곧 이송될 것이라고 합니다.\n미국 기지에 잠입하여 그들을 구하십시오."
+ZH: "訊息：\n情報指出戰俘即將被遷移。\n滲透進入美國基地並營救他們"
+BP: "RECEBENDO TRANSMISSÃO:\nA Inteligência relatou que os Prisioneiros de Guerra serão transferidos logo.\nInfiltre-se na base dos E.U.A. para resgatá-los"
+PL: "ODEBRANA WIADOMOŚĆ:\nWywiad donosi, że więźniowie zostaną wkrótce przeniesieni\nPrzeniknij do amerykańskiej bazy, by ich uratować"
+END
+
+MD_GLA05-MilitaryBriefing:String_15
+US: "HINT:\nUpgrade the China Command Center with Radar"
+DE: "TIPP:\nRüsten Sie die AP-Kommandozentrale mit einer Radaranlage auf."
+FR: "ASTUCE :\nAméliorez le Poste de commandement chinois avec un radar."
+ES: "PISTA:\nMejora con un radar el centro de mando chino"
+IT: "SUGGERIMENTO:\nPotenziate il Centro comando cinese con un radar."
+KO: "힌트:\n중국 커맨드 센터의 레이더 업그레이드를 하십시오."
+ZH: "建議：\n以雷達升級中國的指揮中心"
+BP: "DICA:\nAtualize o Centro de Comando da China com Radar"
+PL: "RADA:\nZainstaluj radar w chińskim sztabie"
+END
+
+MD_GLA05-MilitaryBriefing:String_16
+US: "INCOMING TRANSMISSION:\nProtect the GLA Terror Cell from US attacks\nand secure the area"
+DE: "NACHRICHT:\nSchützen Sie unsere Verbündeten vor den WA-Truppen\nund sichern Sie den Sektor."
+FR: "DERNIERES NOUVELLES DU FRONT :\nProtégez la Cellule terroriste de la GLA des attaques américaines\net sécurisez la zone."
+ES: "TRANSMISIÓN:\nProtege la célula terrorista del GLA de los ataques yanquis\ny asegura la zona"
+IT: "TRASMISSIONE IN ARRIVO:\nProteggete la cellula di terroristi dell'ELG dagli attacchi\nUSA e prendete il controllo della zona."
+KO: "수신 메시지:\nGLA 테러 세포 조직을 미국의 공격으로부터 보호하고\n이 지역을 안전하게 지키십시오."
+ZH: "訊息：\n守護全球解放軍的恐怖囚房不受美軍攻擊\n並安全佔領本區域"
+BP: "RECEBENDO TRANSMISSÃO:\nProteja a Célula Terrorista do E.L.G. dos ataques dos E.U.A.\ne mantenha a área em segurança"
+PL: "ODEBRANA WIADOMOŚĆ:\nChroń komórkę terrorystyczną AŚW przed atakami\nAmerykanów i zabezpiecz okolicę"
+END
+
+MD_GLA05-MilitaryBriefing:String_17
+US: "HINT:\nBuild a GLA Command Center to use your Generals Powers"
+DE: "TIPP:\nBauen Sie eine IBG-Kommandozentrale,\ndamit Sie Ihre Generalsfähigkeiten einsetzen können."
+FR: "ASTUCE :\nConstruisez un Poste de commandement de la GLA pour utiliser vos pouvoirs\nde général."
+ES: "PISTA:\nCrea un centro de mando del GLA para usar tus poderes de general"
+IT: "SUGGERIMENTO:\nCostruite un Centro comando dell'ELG per usare i vostri poteri da generale."
+KO: "힌트:\nGLA 커맨드 센터를 지어 제너럴 특수기술을 사용하십시오."
+ZH: "建議：\n建造一個全球解放軍指揮中心以使用您的將軍能力"
+BP: "DICA:\nConstrua um Centro de Comando do E.L.G. para usar as suas Energias do Generals"
+PL: "RADA:\nWybuduj sztab AŚW, by wykorzystać swe umiejętności generalskie"
+END
+
+MD_GLA05-MilitaryBriefing:String_18
+US: "INCOMING TRANSMISSION:\nOur base is under attack"
+DE: "NACHRICHT:\nUnser Stützpunkt wird angegriffen."
+FR: "DERNIERES NOUVELLES DU FRONT :\nNotre base est attaquée !"
+ES: "TRANSMISIÓN:\nAtacan nuestra base"
+IT: "TRASMISSIONE IN ARRIVO:\nLa nostra base è sotto attacco!"
+KO: "수신 메시지:\n기지가 공격을 받고 있습니다!"
+ZH: "訊息：\n我們的基地正被攻擊！"
+BP: "RECEBENDO TRANSMISSÃO:\nNossa base está sendo atacada"
+PL: "ODEBRANA WIADOMOŚĆ:\nNasza baza jest atakowana!"
+END
+
+MD_GLA05-MilitaryBriefing:String_19
+US: "WARNING:\nThe POWs are being attacked. Defend them"
+DE: "WARNUNG:\nDie Kriegsgefangenen werden angegriffen! Helfen Sie ihnen!"
+FR: "ALERTE :\nLes prisonniers de guerre se font attaquer ! Protégez-les !"
+ES: "AVISO:\nEstán atacando a los presos. Defiéndelos"
+IT: "ATTENZIONE:\nI prigionieri sono sotto attacco! Difendeteli!"
+KO: "경고:\n포로들이 공격을 받고 있습니다! 그들을 보호하십시오!"
+ZH: "警告：\n戰俘被攻擊了！保護他們！"
+BP: "ATENÇÃO:\nOs Prisioneiros de Guerra estão sendo atacados. Defenda-os"
+PL: "OSTRZEŻENIE:\nJeńcy są atakowani! Broń ich!"
+END
+
+MD_GLA05-MilitaryBriefing:String_20
+US: "INCOMING TRANSMISSION:\nThe POWs have all been killed\nThe Terror Cell joins us to avenge their deaths"
+DE: "NACHRICHT:\nAlle Kriegsgefangenen sind gefallen!\nIhre Anhänger unterstützen uns, um ihre Anführer zu rächen!"
+FR: "DERNIERES NOUVELLES DU FRONT :\nLes prisonniers de guerre ont été décimés !\nLa Cellule terroriste va se joindre à nous pour venger leur mort !"
+ES: "TRANSMISIÓN:\nTodos los presos han sido asesinados\nLa célula terrorista se ha unido a nosotros para vengar sus muertes"
+IT: "TRASMISSIONE IN ARRIVO:\nI prigionieri sono stati massacrati!\nLa cellula di terroristi si è unita a noi per vendicarli!"
+KO: "수신 메시지:\n포로들이 모두 죽었습니다!\n테러 세포 조직이 그들의 복수를 위해 우리에게 합류합니다!"
+ZH: "訊息：\n戰俘被殺害了！\n恐怖囚房加入了我們來為他們的死復仇！"
+BP: "RECEBENDO TRANSMISSÃO:\nTodos os Prisioneiros de Guerra foram eliminados\nA Célula Terrorista se juntará a nós para vingar a morte deles"
+PL: "ODEBRANA WIADOMOŚĆ:\nWszyscy jeńcy zostali zabici!\nKomórka terrorystyczna przyłącza się do nas, by pomścić ich śmierć!"
+END
+
+MD_GLA05-MilitaryBriefing:String_21
+US: "INCOMING TRANSMISSION:\nThe enemy has spread out to secure more resources\nRemove them and use the resources for ourselves"
+DE: "NACHRICHT:\nDer Feind sucht zusätzliche Rohstoffe.\nVernichten Sie die feindlichen Einheiten und stellen Sie die Rohstoffe sicher."
+FR: "DERNIERES NOUVELLES DU FRONT :\nL'ennemi s'est déployé pour sécuriser plus de ressources.\nEliminez-les pour vous emparer des ressources."
+ES: "TRANSMISIÓN:\nEl enemigo se ha extendido para asegurar más recursos\nElimínalos y aprovechémoslos nosotros"
+IT: "TRASMISSIONE IN ARRIVO:\nIl nemico sta cercando di controllare altre risorse.\nDistruggetelo e fate vostre queste risorse."
+KO: "수신 메시지:\n적이 더 많은 자원을 보호하기 위해 넓게 퍼져 있습니다.\n그들을 제거하고 자원을 우리 것으로 만드십시오."
+ZH: "訊息：\n敵軍已經散開企圖佔領更多的資源。\n消滅他們並確保我們擁有這些資源"
+BP: "RECEBENDO TRANSMISSÃO:\nO inimigo se espalhou para obter mais recursos\nRemova-os e use os recursos a nosso favor"
+PL: "ODEBRANA WIADOMOŚĆ:\nWróg rozproszył się, by zabezpieczyć więcej zasobów\nZlikwiduj przeciwników i wykorzystaj te zasoby"
+END
+
+MD_GLA05-MilitaryBriefing:String_22
+US: "HINT:\nTheir base is massive\nPerhaps Sneak Attacks will help us infiltrate it"
+DE: "TIPP:\nIhr Stützpunkt ist eine harte Nuss.\nVielleicht können wir ihn mit Schleichangriffen infiltrieren."
+FR: "ASTUCE :\nLeur base est gigantesque.\nIl sera peut-être plus facile de s'y infiltrer avec des attaques furtives."
+ES: "PISTA:\nSu base es enorme\nPuede que el ataque furtivo nos ayude a infiltrarnos"
+IT: "SUGGERIMENTO:\nLa base nemica è potente:\nforse con un Attacco furtivo riusciremo a infiltrarci."
+KO: "힌트:\n적의 기지가 매우 넓습니다\n잠입 공격이 침투에 도움을 줄 것 같습니다."
+ZH: "建議：\n他們的基地十分巨大\n也許偷襲可以幫助我們滲透它"
+BP: "DICA:\nA base deles é muito grande.\nTalvez Ataques Sorrateiros ajudassem na nossa infiltração"
+PL: "RADA:\nBaza wroga jest potężna\nByć może atak z zaskoczenia pomoże nam wślizgnąć się do środka"
+END
+
+MD_GLA05-MilitaryBriefing:String_23
+US: "INCOMING TRANSMISSION:\nWith the small base neutralized, we can focus on\nthe US European Central Command base"
+DE: "NACHRICHT:\nNachdem wir die kleine Basis neutralisiert haben, können wir uns jetzt auf die Kontinentalzentrale der WA konzentrieren."
+FR: "DERNIERES NOUVELLES DU FRONT :\nMaintenant que la petite base est neutralisée, nous pouvons nous concentrer sur\nle quartier général américain en Europe."
+ES: "TRANSMISIÓN:\nCon la base pequeña neutralizada, podemos concentrarnos en\nla base del mando central europeo de EE.UU."
+IT: "TRASMISSIONE IN ARRIVO:\nUna volta neutralizzata la piccola base,\npossiamo concentrarci sul Centro comando USA in Europa."
+KO: "수신 메시지:\n작은 기지는 무력화 되었고, 이제 미국 유럽 중앙 사령부 기지에 집중할 수 있습니다."
+ZH: "訊息：\n當較小的基地被清除後，我們便可以將注意力\n集中在美國駐歐洲中央指揮部上"
+BP: "RECEBENDO TRANSMISSÃO:\nCom a base pequena neutralizada, podemos concentrar os nossos ataques\nna base Européia do Centro de Comando dos E.U.A."
+PL: "ODEBRANA WIADOMOŚĆ:\nSkoro mała baza została zlikwidowana, możemy skupić się\nna amerykańsko-europejskim centrum dowodzenia"
+END
+
+MD_GLA05-MilitaryBriefing:String_24
+US: "\nWe have a plan...\nWe shall move in and capture the Chinese Base\nand use it to drive the USA out of Europe"
+DE: "\nWir haben einen Plan ...\nZuerst erobern wir den Stützpunkt des Asiatischen Paktes.\nAnschließend kümmern wir uns um die WA."
+FR: "\nNous avons un plan...\nCapturons la base chinoise et\nutilisons-la pour chasser les Américains d'Europe."
+ES: "\nTenemos un plan...\nCapturaremos la base china y la usaremos para\nexpulsar a los EE.UU. de Europa"
+IT: "\nAbbiamo un piano...\nAvanzeremo e conquisteremo la base cinese,\nquindi la useremo per scacciare gli americani dall'Europa."
+KO: "\n계획이 있습니다.\n이동하여 중국 기지를 점령하고 유럽에서 미국을 몰아내는데\n이 기지를 이용하는 것입니다."
+ZH: "\n我們的計劃是這樣的…\n我們應該進入並佔領中國的基地\n並使用它來將美國趕出歐洲"
+BP: "\nTemos um plano...\nInvadiremos e capturaremos a Base Chinesa,\nusando-a para expulsar os E.U.A. da Europa."
+PL: "\nMamy pewien plan...\nPowinniśmy wykonać zdecydowany ruch i zająć chińską bazę\nBędziemy mogli wykorzystać ją do wyparcia Amerykanów z Europy"
+END
+
+MD_GLA05-MilitaryBriefing:String_25
+US: "The U.S. European Central Command base must fall"
+DE: "Die Kontinentalzentrale der WA muss zerstört werden!"
+FR: "Le quartier général américain en Europe doit tomber !"
+ES: "La base yanqui del mando central europeo debe caer"
+IT: "*The U.S. European Central Command base must fall"
+KO: "미국 유럽 중앙 사령부 기지는 반드시 사라져야 합니다!"
+ZH: "必須攻下美國駐歐洲中央指揮部！"
+BP: "A base Européia do Centro de Comando dos E.U.A. deve ser eliminada"
+PL: "Amerykańsko-europejskie centrum dowodzenia musi upaść!"
+END
+
+MD_GLA05-MilitaryBriefing:String_26
+US: "INCOMING TRANSMISSION:\nWe are being attacked from the East\nEliminate the southern US Support base"
+DE: "NACHRICHT:\nDer Feind nähert sich aus östlicher Richtung.\nZerstören Sie die Basis im Süden!"
+FR: "DERNIERES NOUVELLES DU FRONT :\nL'ennemi nous attaque de l'est.\nEliminez la base de soutien américaine au sud."
+ES: "TRANSMISIÓN:\nNos atacan desde el este\nElimina la base de apoyo yanqui del sur"
+IT: "TRASMISSIONE IN ARRIVO:\nCi stanno attaccando da est.\nEliminate la base di supporto USA meridionale."
+KO: "수신 메시지:\n동쪽으로부터 공격을 받고 있습니다.\n남쪽의 미국 지원 기지를 파괴하십시오"
+ZH: "訊息：\n我們從東側被攻擊了\n殲滅南方的美軍支援基地"
+BP: "RECEBENDO TRANSMISSÃO:\nEstamos sendo atacados pelo Leste\nElimine a base de Apoio dos E.U.A. no Sul"
+PL: "ODEBRANA WIADOMOŚĆ:\nJesteśmy atakowani ze wschodu\nZlikwiduj amerykańską bazę pomocniczą na południu"
+END
+
+MD_GLA05-MilitaryBriefing:String_27
+US: "INCOMING TRANSMISSION:\nThe Terror Cell is being attacked by the US\nAssist them in repulsing our foes"
+DE: "NACHRICHT:\nDie WA greift unsere Verbündeten an!\nWir müssen ihnen helfen!"
+FR: "DERNIERES NOUVELLES DU FRONT :\nLes Américains attaquent la Cellule terroriste.\nAidez les nôtres à repousser l'ennemi."
+ES: "TRANSMISIÓN:\nLa célula terrorista está siendo atacada por los EE.UU.\nAyúdala a rechazar a nuestro enemigo"
+IT: "TRASMISSIONE IN ARRIVO:\nGli USA stanno attaccando la cellula di terroristi.\nAiutate i nostri compagni a resistere."
+KO: "수신 메시지:\n테러 세포 조직이 미국에 의해 공격받고 있습니다.\n그들이 적들을 격퇴하도록 지원하십시오."
+ZH: "訊息：\n恐怖囚房正被美國攻擊\n協助他們對抗我們共同的敵人"
+BP: "RECEBENDO TRANSMISSÃO:\nA Célula Terrorista está sendo atacada pelos E.U.A.\nAjude-os a eliminar os nossos inimigos"
+PL: "ODEBRANA WIADOMOŚĆ:\nKomórka terrorystyczna jest atakowana przez Amerykanów\nPomóż jej odeprzeć wroga"
+END
+
+MD_GLA05-MilitaryBriefing:String_28
+US: "INCOMING TRANSMISSION:\nRescue the POWs from the US support base before\nthey are transferred to a new location"
+DE: "NACHRICHT:\nBefreien Sie die Kriegsgefangenen aus dem WA-Stützpunkt,\nbevor sie verlegt werden."
+FR: "DERNIERES NOUVELLES DU FRONT :\nLibérez les prisonniers de guerre de la base de soutien américaine\navant qu'ils ne soient transférés ailleurs."
+ES: "TRANSMISIÓN:\nRescata a los presos de la base de apoyo de EE.UU.\nantes de que los trasladen a otro lugar"
+IT: "TRASMISSIONE IN ARRIVO:\nLiberate i prigionieri nella base di supporto USA\nprima che siano trasferiti altrove."
+KO: "수신 메시지:\n포로들이 새로운 지역으로 호송되기 전에 미국의 지원 기지에서 그들을구출하십시오."
+ZH: "訊息：\n在戰俘被移送到新地點前\n從美國支援基地內解救戰俘"
+BP: "RECEBENDO TRANSMISSÃO:\nResgate os Prisioneiros de Guerra da base de apoio dos E.U.A. antes\nque eles sejam transferidos para um novo local"
+PL: "ODEBRANA WIADOMOŚĆ:\nUwolnij jeńców z amerykańskiej bazy pomocniczej,\nnim zostaną przeniesieni w inne miejsce"
+END
+
+MD_GLA05-MilitaryBriefing:String_29
+US: "MISSION OBJECTIVE:\nDestroy US European Central Command in the Northeast"
+DE: "EINSATZZIEL:\nZerstören Sie die Kontinentalzentrale der WA im Nordosten."
+FR: "OBJECTIF DE MISSION :\nDétruire le Q.G. américain au nord-est."
+ES: "OBJETIVO DE LA MISIÓN:\nDestruir el mando central europeo de EE.UU. en el noreste"
+IT: "OBIETTIVO MISSIONE:\nDistruggete il Centro comando USA europeo, a nord-est."
+KO: "임무 목표:\n북동쪽의 미국 유럽 중앙 사령부를 파괴하십시오"
+ZH: "任務目標：\n摧毀東北方的美國駐歐洲中央指揮部"
+BP: "OBJETIVO DA MISSÃO:\nDestrua o Centro de Comando dos E.U.A. no Nordeste da Europa"
+PL: "CEL MISJI:\nZniszczyć amerykańsko-europejskie centrum dowodzenia na północnym wschodzie"
+END
+
+MD_GLA05-MilitaryBriefing:String_30
+US: "US Central Command, Stuttgart-Vaihingen, Germany\n'Sneak Attack'"
+DE: "WA-Kontinentalzentrale\n'Schleichangriff'"
+FR: "Q.G. américain, Stuttgart-Vaihingen, en Allemagne\n’Attaque furtive’"
+ES: "Mando central de EE.UU., Stuttgart-Vaihingen, Alemania\n'Ataque Furtivo'"
+IT: "Centro comando USA, Stoccarda-Vaihingen, Germania\n\"Attacco furtivo\""
+KO: "미국 중앙 사령부, 슈투트가르트-바이힝겐, 독일\n'잠입 공격'"
+ZH: "德國，司徒加特-維辛津，美國中央指揮部\n『偷襲』"
+BP: "Centro de Comando dos E.U.A. Stuttgart-Vaihingen, Alemanha\n'Ataque Sorrateiro'"
+PL: "Amerykańskie centrum dowodzenia, Stuttgart-Vaihingen, Niemcy\n'Atak z Zaskoczenia'"
+END
+
+MD_GLA05-MilitaryBriefing:String_31
+US: "US Central Command, Stuttgart-Vaihingen, Germany\n'Sneak Attack'"
+DE: "WA-Kontinentalzentrale\n'Schleichangriff'"
+FR: "Q.G. américain, Stuttgart-Vaihingen, Allemagne\n’Attaque furtive’"
+ES: "Mando central de EE.UU., Stuttgart-Vaihingen, Alemania\n'Ataque Furtivo'"
+IT: "Centro comando USA, Stoccarda-Vaihingen, Germania\n\"Attacco furtivo\""
+KO: "미국 중앙 사령부, 슈투트가르트-바이힝겐, 독일\n'잠입 공격'"
+ZH: "德國，司徒加特-維辛津，美國中央指揮部\n『偷襲』"
+BP: "Centro de Comando dos E.U.A. Stuttgart-Vaihingen, Alemanha\n'Ataque Sorrateiro'"
+PL: "Amerykańskie centrum dowodzenia, Stuttgart-Vaihingen, Niemcy\n'Atak z Zaskoczenia'"
+END
+
+MD_GLA05-MilitaryBriefing:String_32
+US: "HINT: Remove the Americans from the area\nthen secure the supplies"
+DE: "TIPP: Schlagen Sie die WA zurück\nund stellen Sie die Rohstoffe sicher."
+FR: "ASTUCE : Eliminez toute présence américaine dans la zone,\npuis sécurisez le ravitaillement."
+ES: "PISTA: Elimina a los americanos de la zona\ny luego asegura los suministros"
+IT: "SUGGERIMENTO:\nEliminate gli americani presenti in zona\ne prendete il controllo dei rifornimenti."
+KO: "힌트: 이 지역의 미국군을 제거하고 서플라이를 확보하십시오."
+ZH: "建議：將美國趕出這個地區\n然後守護補給"
+BP: "DICA:\nRemova os Americanos da área\ne, depois, pegue os suprimentos."
+PL: "RADA: Zlikwiduj Amerykanów w okolicy,\na potem zabezpiecz zasoby."
+END
+
+MD_GLA05-MilitaryBriefing:String_33
+US: "HINT:\nFinish off the Central Command Base"
+DE: "TIPP:\nZerstören Sie die WA-Zentrale."
+FR: "ASTUCE :\nAchevez de détruire le Q.G."
+ES: "PISTA:\nAcaba con la base del mando central"
+IT: "SUGGERIMENTO:\nDistruggete la base del Centro comando."
+KO: "힌트: 중앙 사령부 기지를 완전히 파괴하십시오."
+ZH: "建議：\n解決中央指揮基地"
+BP: "DICA:\nDestrua a Base do Centro de Comando"
+PL: "RADA:\nZniszcz bazę centrum dowodzenia"
+END
+
+MD_GLA05-MilitaryBriefing:String_34
+US: "HINT:\nCapture Oil Derricks and secure additional supplies\nCapture Artillery Platforms to control key areas"
+DE: "TIPP:\nErobern Sie Bohrtürme und sichern Sie sich zusätzliche Vorräte.\nErobern Sie Artillerieplattformen, um Schlüsselpositionen zu kontrollieren."
+FR: "ASTUCE :\nCapturez les Derricks de pétrole et sécurisez le ravitaillement supplémentaire.\nCapturez les Plates-formes d'artillerie pour prendre le contrôle des zones clés."
+ES: "PISTA:\nCaptura torres de perforación y asegura suministros adicionales.\nCaptura estaciones de artillería para controlar áreas clave"
+IT: "SUGGERIMENTO:\nCatturate i Derrick e ottenete scorte aggiuntive.\nConquistate le Postazioni d'artiglieria per controllare le zone più importanti."
+KO: "힌트:\n원유 유정탑을 점령하여 추가 서플라이를 확보하십시오\n핵심 지역을 컨트롤하기 위하여 캐논 플랫폼을 점령하십시오."
+ZH: "建議：\n佔領油井並守護額外的補給\n佔領砲兵陣地以掌控主要地區"
+BP: "DICA:\nCapture os Poços de Petróleo e consiga suprimentos adicionais\nCapture Plataformas de Artilharia para controlar as áreas essenciais"
+PL: "RADA:\nZdobądź szyby naftowe, zabezpieczając dodatkowe zasoby.\nZdobądź platformy artyleryjskie, by przejąć kontrolę nad kluczowymi obszarami"
+END
+
+MD_GLA05-MilitaryBriefing:String_35
+US: "HINT:\nUpgrade the Cash Bounty\nGenerals Power to increase income"
+DE: "TIPP:\nVerbessern Sie die Generalsfähigkeit\n\"Kopfgeld\", um Ihr Einkommen zu erhöhen."
+FR: "ASTUCE :\nAméliorez le pouvoir de général\nChasseur de primes pour augmenter vos revenus."
+ES: "PISTA:\nMejora el poder de general\n'recompensa monetaria' para aumentar ingresos"
+IT: "SUGGERIMENTO:\nPotenziate il potere del generale\nRicompensa per aumentare gli incassi."
+KO: "힌트:\n수입을 증가시키기 위해 현금 보상금\n제너럴 특수기술을 업그레이드 하십시오."
+ZH: "建議：\n升級將軍能力獎金\n來增加資金收入"
+BP: "DICA:\nAtualize a Recompensa\ndo Poder do Generals para aumentar o rendimento"
+PL: "RADA:\nPodnieś poziom okupu pieniężnego\n(umiejętności generalskie), by zwiększyć swój dochód"
+END
+
+MD_GLA05-MilitaryBriefing:String_36
+US: "HINT:\nUse the Sneak Attack ability to\nlaunch an attack against the US base"
+DE: "TIPP:\nGreifen Sie den Stützpunkt der WA mit\neinem Schleichangriff an."
+FR: "ASTUCE :\nUtilisez l'aptitude Attaque furtive pour\nlancer une attaque contre la base américaine."
+ES: "PISTA:\nUsa la capacidad de ataque furtivo para\nlanzar un ataque contra la base de EE.UU."
+IT: "SUGGERIMENTO:\nUsate l'abilità Attacco furtivo per\nlanciare un attacco contro la base USA."
+KO: "힌트:\n미국 기지 공격에 착수하기 위해 잠입 공격 능력을 사용하십시오."
+ZH: "建議：\n使用偷襲能力來對美國基地\n發動攻擊"
+BP: "DICA:\nUse a habilidade do Ataque Sorrateiro para\natacar a base dos E.U.A."
+PL: "RADA:\nWykorzystaj umiejętność ataku z zaskoczenia,\nby zaatakować amerykańską bazę"
+END
+
+MD_GLA05-MilitaryBriefing:String_37
+US: "INCOMING TRANSMISSION:\nThe POWs have been moved away\nDespite our failure, the Terror Cell pledges their support"
+DE: "NACHRICHT:\nDie Kriegsgefangenen wurden verlegt.\nTrotzdem bieten uns ihre Gefolgsleute ihre Hilfe an."
+FR: "DERNIERES NOUVELLES DU FRONT :\nLes prisonniers de guerre ont été transférés.\nMalgré notre échec, la Cellule terroriste a promis de nous apporter son soutien."
+ES: "TRANSMISIÓN:\nHan trasladado a los presos\nA pesar de nuestro fracaso, la célula terrorista promete su apoyo"
+IT: "TRASMISSIONE IN ARRIVO:\nI prigionieri sono stati trasferiti.\nNonostante il fallimento, la cellula di terroristi sarà comunque al nostro fianco."
+KO: "수신 메시지:\n포로들이 호송되었습니다.\n우리의 실패에도 불구하고, 테러 조직은 우리에 대한 지원을 맹세합니다."
+ZH: "訊息：\n戰俘已經被移送離開\n雖然我們失敗了，恐怖囚房仍承諾會提供幫助"
+BP: "RECEBENDO TRANSMISSÃO:\nOs Prisioneiros de Guerra foram transferidos\nApesar do nosso fracasso, a Célula Terrorista promete a sua ajuda"
+PL: "ODEBRANA WIADOMOŚĆ:\nJeńcy zostali przeniesieni\nMimo naszego niepowodzenia komórka terrorystyczna deklaruje wsparcie"
+END
+
+MD_GLA05-MilitaryBriefing:String_38
+US: "US Central Command, Stuttgart-Vaihingen, Germany\n'Sneak Attack'"
+DE: "WA-Kontinentalzentrale\n'Schleichangriff'"
+FR: "Q.G. américain, Stuttgart-Vaihingen, en Allemagne\n’Attaque furtive’"
+ES: "Mando central de EE.UU., Stuttgart-Vaihingen, Alemania\n'Ataque Furtivo'"
+IT: "Centro comando USA, Stoccarda-Vaihingen, Germania\n\"Attacco furtivo\""
+KO: "미국 중앙 사령부, 슈투트가르트-바이힝겐, 독일\n'잠입 공격'"
+ZH: "德國，司徒加特-維辛津，美國中央指揮部\n『偷襲』"
+BP: "Centro de Comando dos E.U.A. Stuttgart-Vaihingen, Alemanha\n'Ataque Sorrateiro'"
+PL: "Amerykańskie centrum dowodzenia, Stuttgart-Vaihingen, Niemcy\n'Atak z Zaskoczenia'"
+END
+
+MD_GLA05-MilitaryBriefing:String_1
+US: "\nThe attack on the Chinese base begins now\nTheir base will soon be ours"
+DE: "\nDer Angriff auf den AP-Stützpunkt hat begonnen!\nBald gehört die Basis uns!"
+FR: "\nLe moment est venu d'attaquer la base chinoise !\nLeur base sera bientôt à nous."
+ES: "\nEl ataque a la base china empieza ya\nSu base pronto será nuestra"
+IT: "\nL'attacco contro la base cinese sta iniziando.\nPresto le loro strutture saranno nostre."
+KO: "\n중국 기지 공격이 이제 시작되었다.\n그들의 기지는 곧 우리가 점령한다."
+ZH: "\n現在開始攻擊中國基地\n他們的基地很快就會成為我們囊中物"
+BP: "\nO ataque à base chinesa começa agora\nLogo a base deles será nossa"
+PL: "\nAtak na chińśką bazę właśnie się rozpoczyna\nBaza Chińczyków wkrótce będzie nasza"
+END

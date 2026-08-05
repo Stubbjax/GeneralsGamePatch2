@@ -1,0 +1,191 @@
+INI:MissingDisplayName
+US: "MISSING DisplayName for Object '%S'"
+DE: "Fehlender Anzeigename für Objekt '%S'"
+FR: "Il manque le nom d'affichage de l'objet \"%S\""
+ES: "FALTA DisplayName para objeto '%S'"
+IT: "MISSING DisplayName for Object '%S'"
+KO: "%S' 대상에 대한 표시 이름이 없음"
+ZH: "遺失物件 '%S' 的顯示名稱"
+BP: "DisplayName NÃO ENCONTRADO para o Objeto '%S'"
+PL: "BRAK zmiennej DisplayName dla obiektu '%S'"
+END
+
+INI:FactionDefault
+US: "Default Army"
+DE: "Standardarmee"
+FR: "Camp par défaut"
+ES: "Ejército predeterminado"
+IT: "Esercito predefinito"
+KO: "초기 진영"
+ZH: "預設軍種"
+BP: "Exército Padrão"
+PL: "Domyślna armia"
+END
+
+INI:FactionObserver
+US: "Observer"
+DE: "Zuschauer"
+FR: "Observateur"
+ES: "Observador"
+IT: "Osservat."
+KO: "옵저버"
+ZH: "觀察者"
+BP: "Observador"
+PL: "Obserwator"
+END
+
+INI:FactionCivilian
+US: "Civilian"
+DE: "Zivilist"
+FR: "Civil"
+ES: "Civil"
+IT: "Civili"
+KO: "민간인"
+ZH: "平民"
+BP: "Civil"
+PL: "Cywile"
+END
+
+INI:FactionAmerica
+US: "USA"
+DE: "USA"
+FR: "USA"
+ES: "E.E.U.U."
+IT: "USA"
+KO: "미국"
+ZH: "美國"
+BP: "E.U.A."
+PL: "USA"
+END
+
+INI:FactionChina
+US: "China"
+DE: "China"
+FR: "Chine"
+ES: "China"
+IT: "Cina"
+KO: "중국"
+ZH: "中國"
+BP: "China"
+PL: "Chiny"
+END
+
+INI:FactionGLA
+US: "GLA"
+DE: "GBA"
+FR: "GLA"
+ES: "GLA"
+IT: "ELG"
+KO: "GLA"
+ZH: "全球解放軍"
+BP: "E.L.G."
+PL: "AŚW"
+END
+
+INI:FactionChinaHacker
+US: "Chinese Hacker"
+DE: "Chinesischer Hacker"
+FR: "Technopirate chinois"
+ES: "Hacker china"
+IT: "Hacker cinese"
+KO: "중국 해커"
+ZH: "中國駭客"
+BP: "Hacker Chinês"
+PL: "Chiński haker"
+END
+
+INI:RankLevel1
+US: "1 Star General"
+DE: "1 Stern-General"
+FR: "Général 1 étoile"
+ES: "Gen.1 Estrella"
+IT: "Generale a 1 stella"
+KO: "대위"
+ZH: "一星上將"
+BP: "General de 1 Estrela"
+PL: "Generał 1-gwiazdkowy"
+END
+
+INI:RankLevel2
+US: "2 Star General"
+DE: "2 Sterne-General"
+FR: "Général 2 étoiles"
+ES: "Gen.2 Estrellas"
+IT: "Generale a 2 stelle"
+KO: "소령"
+ZH: "二星上將"
+BP: "General de 2 Estrelas"
+PL: "Generał 2-gwiazdkowy"
+END
+
+INI:RankLevel3
+US: "3 Star General"
+DE: "3 Sterne-General"
+FR: "Général 3 étoiles"
+ES: "Gen.3 Estrellas"
+IT: "Generale a 3 stelle"
+KO: "중령"
+ZH: "三星上將"
+BP: "General de 3 Estrelas"
+PL: "Generał 3-gwiazdkowy"
+END
+
+INI:RankLevel4
+US: "4 Star General"
+DE: "4 Sterne-General"
+FR: "Général 4 étoiles"
+ES: "Gen.4 Estrellas"
+IT: "Generale a 4 stelle"
+KO: "대령"
+ZH: "四星上將"
+BP: "General de 4 Estrelas"
+PL: "Generał 4-gwiazdkowy"
+END
+
+INI:RankLevel5
+US: "5 Star General"
+DE: "5 Sterne-General"
+FR: "Général 5 étoiles"
+ES: "Gen.5 Estrellas"
+IT: "Generale a 5 stelle"
+KO: "준장"
+ZH: "五星上將"
+BP: "General de 5 Estrelas"
+PL: "Generał 5-gwiazdkowy"
+END
+
+INI:RankLevel6
+US: "Mr. Bad Dude (Rank 6)"
+DE: "Mr. Bösewicht (Rang 6)"
+FR: "M. Vilain (6e rang)"
+ES: "Tipo Duro (Rango 6)"
+IT: "Mr. Cattiveria (grado 6)"
+KO: "소장"
+ZH: "毀滅將軍（等級六）"
+BP: "Sr. Cara Mal (Patente 6)"
+PL: "Generalissimus (ranga 6)"
+END
+
+INI:RankLevel7
+US: "Dr. Death (Rank 7)"
+DE: "Dr. Tod (Rang 7)"
+FR: "Dr Mort (7e rang)"
+ES: "Dr. Muerte (Rango 7)"
+IT: "Dott. Morte (grado 7)"
+KO: "중장"
+ZH: "死亡博士（等級七）"
+BP: "Dr. Morte (Patente 7)"
+PL: "Dr Śmierć (ranga 7)"
+END
+
+INI:RankLevel8
+US: "Ultimate Deadly Dude (Rank 8)"
+DE: "Todesengel (Rang 8)"
+FR: "Assassin suprême (8e rang)"
+ES: "Aniquilador Total (Rango 8)"
+IT: "Guerriero letale (grado 8)"
+KO: "대장"
+ZH: "終極將軍（等級八）"
+BP: "Cara Realmente Mal (Patente 8)"
+PL: "Jeździec apokalipsy (ranga 8)"
+END

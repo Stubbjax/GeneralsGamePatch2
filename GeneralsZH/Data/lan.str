@@ -1,0 +1,227 @@
+LAN:GameStartTimerPlural
+US: "Game will start in %d seconds"
+DE: "Spiel beginnt in %d Sekunden."
+FR: "La partie va démarrer dans %d secondes."
+ES: "La partida empezará en %d segundos"
+IT: "La partita avrà inizio fra %d secondi"
+KO: "%d 초 후에 게임이 시작됩니다."
+ZH: "遊戲將由 %d 秒後開始。"
+BP: "A partida terá início em %d segundos"
+PL: "Rozpoczęcie gry za %d s."
+END
+
+LAN:GameStartTimerSingular
+US: "Game will start in %d second"
+DE: "Spiel beginnt in %d Sekunde."
+FR: "La partie va démarrer dans %d seconde."
+ES: "La partida empezará en %d segundo"
+IT: "La partita avrà inizio fra %d secondo"
+KO: "%d 초 후에 게임이 시작됩니다."
+ZH: "遊戲將由 %d 秒後開始。"
+BP: "A partida terá início em %d segundo"
+PL: "Rozpoczęcie gry za %d s."
+END
+
+LAN:HostNotResponding
+US: "Game exited; the host was not responding"
+DE: "Spiel beendet. Der Host reagiert nicht."
+FR: "Partie interrompue. Pas de réponse de l'hôte."
+ES: "Saliendo del juego; el anfitrión no responde"
+IT: "Uscita dalla partita, l'host non rispondeva"
+KO: "게임을 취소합니다. 호스트가 응답하지 않습니다."
+ZH: "離開遊戲，主機未有回應。"
+BP: "Partida abandonada; o Host não estava respondendo"
+PL: "Opuszczono sesję; gospodarz nie odpowiada"
+END
+
+LAN:PlayerDropped
+US: "%ls dropped; player was not responding"
+DE: "%ls ausgeschlossen; Spieler hat nicht reagiert"
+FR: "%ls déconnecté. Pas de réponse du joueur."
+ES: "%ls se ha caído; el jugador no responde"
+IT: "%ls è stato espulso, il giocatore non rispondeva"
+KO: "%ls이(가) 응답하지 않아 게임에서 제외됩니다."
+ZH: "%ls 離開，玩家未有回應。"
+BP: "%ls desconectado; o jogador não estava respondendo"
+PL: "%ls porzucony/a; gracz nie odpowiadał"
+END
+
+LAN:NeedMorePlayers
+US: "You need more than %d player(s) to start a game"
+DE: "Du brauchst mehr als %d Spieler, um ein Spiel zu starten."
+FR: "Il faut plus de %d joueur(s) pour lancer une partie"
+ES: "Necesitas más de %d jugadores para empezar una partida"
+IT: "Ancora %d giocatore/i è/sono necessario/i per iniziare una partita"
+KO: "게임을 시작하려면 %d 명 이상 플레이어가 필요합니다."
+ZH: "您需要有 %d 玩家來開始遊戲"
+BP: "Você precisa de mais do que %d jogador(es) para iniciar a partida."
+PL: "Do rozpoczęcia gry potrzeba więcej niż %d graczy/a."
+END
+
+LAN:NeedMoreTeams
+US: "You need more than 1 team to start a game"
+DE: "Du brauchst mehr als 1 Team, um ein Spiel zu starten."
+FR: "Il faut plus d'une équipe pour lancer une partie"
+ES: "Necesitas más de 1 equipo para empezar una partida"
+IT: "Ti serve più di una squadra per iniziare una partita"
+KO: "게임을 시작하려면 팀이 하나 이상 필요합니다."
+ZH: "您必須要有一個隊伍來開始遊戲。"
+BP: "Você precisa de mais do que 1 time para iniciar a partida."
+PL: "Do rozpoczęcia gry potrzeba więcej niż jednej drużyny."
+END
+
+LAN:TooManyPlayers
+US: "This map only supports up to %d players"
+DE: "Diese Karte unterstützt maximal %d Spieler."
+FR: "Cette carte est conçue pour %d joueurs au maximum"
+ES: "En este mapa sólo caben %d jugadores"
+IT: "Questa mappa supporta al massimo %d giocatori"
+KO: "해당 지도는 최대 %d 명까지만 수용할 수 있습니다."
+ZH: "這地圖只支援到 %d 位玩家。"
+BP: "Este mapa suporta no máximo %d jogadores."
+PL: "Ta mapa jest przeznaczona dla maksymalnie %d graczy"
+END
+
+LAN:OK
+US: "OK"
+DE: "OK"
+FR: "OK"
+ES: "ACEPTAR"
+IT: "OK"
+KO: "확인"
+ZH: "確定"
+BP: "OK"
+PL: "OK"
+END
+
+LAN:ErrorNoGameSelected
+US: "Please select a game first"
+DE: "Bitte wähle zuerst ein Spiel."
+FR: "Sélectionnez d'abord une partie"
+ES: "Por favor, selecciona una partida primero"
+IT: "Seleziona prima una partita"
+KO: "먼저 게임을 선택하십시오."
+ZH: "請先選擇遊戲。"
+BP: "Por favor, primeiro selecione um jogo."
+PL: "Proszę najpierw wybrać grę"
+END
+
+LAN:ErrorTimeout
+US: "Connection timed out"
+DE: "Verbindung unterbrochen"
+FR: "Temps de connexion écoulé"
+ES: "Conexión agotada"
+IT: "Tempo per la connessione esaurito"
+KO: "접속 시간을 초과했습니다."
+ZH: "連結愈時。"
+BP: "Tempo limite de conexão excedido"
+PL: "Czas połączenia przekroczony"
+END
+
+LAN:ErrorGameFull
+US: "This game is full"
+DE: "Dieses Spiel ist voll."
+FR: "Cette partie est complète"
+ES: "Esta partida está completa"
+IT: "Questa partita è completa"
+KO: "게임 정원이 다 찼습니다."
+ZH: "遊戲人數已滿。"
+BP: "Este jogo está lotado"
+PL: "Ta sesja jest pełna"
+END
+
+LAN:ErrorDuplicateName
+US: "Duplicate name already in game"
+DE: "Dieser Name ist bereits vorhanden."
+FR: "Un joueur du même nom joue déjà"
+ES: "Nombre duplicado ya en partida"
+IT: "Nella partita è già stato utilizzato questo nome"
+KO: "동일한 플레이어 이름이 존재합니다."
+ZH: "一樣的名稱已經在遊戲中了。"
+BP: "Nome duplicado já em jogo"
+PL: "Gracz o takim imieniu jest już uczestnikiem sesji"
+END
+
+LAN:ErrorCRCMismatch
+US: "Game has detected a mismatch. This means the multiplayer game has lost synchronization data between the players. It is possible that your opponent has modified his version and you may want to include him on your Ignore List"
+DE: "Fehler! Die Daten der einzelnen Spieler sind nicht mehr synchron! Möglicherweise hat dein Gegner seine Version des Spiels bearbeitet. Wenn du willst, kannst du ihn auf deine Ignorieren-Liste setzen."
+FR: "Le jeu a détecté une incompatibilité. La partie multijoueur a perdu les données de synchronisation entre les joueurs. Il se peut que votre adversaire ait modifié sa version. Vous pouvez l'inclure dans votre liste Ignorer."
+ES: "El juego ha detectado un error en la búsqueda. La partida multijugador ha perdido los datos de sincronización entre jugadores. Es posible que tu rival haya modificado su versión y puede que quieras incluirlo en tu lista de Ignorados"
+IT: "Il gioco ha rilevato un errore di sincronizzazione nei dati della partita multigiocatore. È possibile che il tuo avversario abbia modificato la sua versione. Se vuoi, puoi inserirlo nella Lista ignorati."
+KO: "게임 참여자들 사이에서 동기화 오류가 발생했습니다. 다른 참여자들이 게임의 수정된 버전을 가졌을 확률이 높습니다. 해당 플레이어들을 통신기 무시 목록에 등록하게 되면 향후 이들과의 게임을 피할 수 있게 됩니다."
+ZH: "遊戲偵測到錯誤配對，這表示多人連線遊戲已無法在各玩家間同步化資料。這有可能是您的對手更改他的遊戲版本或是您想將他加入您的忽略名單中。"
+BP: "O jogo detectou uma incompatibilidade. Isto significa que esta partida multijogador perdeu o sincronismo de dados entre os jogadores. É possível que seu oponente tenha modificado sua versão do jogo e talvez você queira adicioná-lo à sua Lista de Ignorados."
+PL: "Gra wykryła niezgodność. Oznacza to, że sesja utraciła synchronizację pomiędzy uczestnikami. Możliwe, że zmodyfikowali oni swoje wersje gry. Możesz dodać tych graczy do listy ignorowanych."
+END
+
+LAN:ErrorGameStarted
+US: "Sorry, this game has already started"
+DE: "Dieses Spiel hat leider schon begonnen."
+FR: "Cette partie a déjà commencé"
+ES: "Esta partida ya ha empezado"
+IT: "Purtroppo questa partita è già iniziata"
+KO: "죄송합니다. 이미 게임이 시작되었습니다."
+ZH: "抱歉，此遊戲已經開始。"
+BP: "Desculpe, mas este jogo já foi iniciado."
+PL: "Niestety, ta gra się już rozpoczęła"
+END
+
+LAN:ErrorGameExists
+US: "A game of the same name already exists"
+DE: "Es existiert bereits ein Spiel mit diesem Namen."
+FR: "Une partie du même nom existe déjà"
+ES: "Ya existe una partida con ese nombre"
+IT: "Esiste già una partita con questo nome"
+KO: "동일한 게임 이름이 존재합니다."
+ZH: "一個相同名稱的遊戲已經存在。"
+BP: "Já existe um jogo com este nome"
+PL: "Sesja o takiej nazwie już istnieje"
+END
+
+LAN:ErrorGameGone
+US: "Game has dissappeared"
+DE: "Kein Spiel vorhanden."
+FR: "La partie a disparu"
+ES: "La partida ha desaparecido"
+IT: "La partita è scomparsa"
+KO: "게임이 없어졌습니다."
+ZH: "遊戲已經消失了。"
+BP: "Jogo não encontrado."
+PL: "Sesja znikła"
+END
+
+LAN:ErrorBusy
+US: "Another operation is pending"
+DE: "Ein anderer Vorgang wurde noch nicht beendet."
+FR: "Une autre opération est en attente"
+ES: "Está pendiente otra operación"
+IT: "C'è un'altra operazione in attesa"
+KO: "또 다른 작업이 대기중입니다."
+ZH: "另一操作暫停。"
+BP: "Existe outra operação pendente"
+PL: "Inna operacja jeszcze trwa"
+END
+
+LAN:ErrorUnknown
+US: "Unknown error"
+DE: "Unbekannter Fehler"
+FR: "Erreur inconnue"
+ES: "Error desconocido"
+IT: "Errore sconosciuto"
+KO: "미확인 오류"
+ZH: "未知的錯誤"
+BP: "Erro desconhecido"
+PL: "Nieznany błąd"
+END
+
+LAN:JoinFailed
+US: "JOIN FAILED"
+DE: "Teilnahme nicht möglich"
+FR: "Jonction impossible"
+ES: "Error de acceso"
+IT: "Ingresso fallito"
+KO: "참가 실패"
+ZH: "加入失敗"
+BP: "ERRO DE CONEXÃO"
+PL: "Dołączenie nieudane"
+END

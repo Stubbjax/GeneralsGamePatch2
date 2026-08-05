@@ -1,0 +1,71 @@
+ThingTemplate:EuropeanTowerBridge01
+US: "Bridge"
+DE: "Brücke"
+FR: "Pont"
+ES: "Puente"
+IT: "Ponte"
+KO: "다리"
+ZH: "橋樑"
+BP: "Ponte"
+PL: "Most"
+END
+
+ThingTemplate:BridgeTowerConcreteRight02
+US: "Bridge"
+DE: "Brücke"
+FR: "Pont"
+ES: "Puente"
+IT: "Ponte"
+KO: "다리"
+ZH: "橋樑"
+BP: "Ponte"
+PL: "Most"
+END
+
+ThingTemplate:SalvageCrate
+US: "Salvage Crate"
+DE: "Kiste"
+FR: "Casse"
+ES: "Rescatar Caja"
+IT: "Materiale di ricupero"
+KO: "크레이트"
+ZH: "救助箱"
+BP: "Destroços"
+PL: "Skrzynia z łupem"
+END
+
+ThingTemplate:IndustrialBridgeTower01
+US: "Bridge"
+DE: "Brücke"
+FR: "Pont"
+ES: "Puente"
+IT: "Ponte"
+KO: "다리"
+ZH: "橋"
+BP: "Ponte"
+PL: "Most"
+END
+
+ThingTemplate:Crypt01
+US: "Crypt"
+DE: "Krypta"
+FR: "Crypte"
+ES: "Cripta"
+IT: "Cripta"
+KO: "지하실"
+ZH: "箱子"
+BP: "Cripta"
+PL: "Krypta"
+END
+
+ThingTemplate:AsianAartmentSingle01
+US: "Apartment"
+DE: "Apartment"
+FR: "Appartement"
+ES: "Apartamento"
+IT: "Appartamento"
+KO: "아파트"
+ZH: "公寓"
+BP: "Apartamentos"
+PL: "Apartament"
+END

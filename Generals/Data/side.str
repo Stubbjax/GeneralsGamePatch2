@@ -1,0 +1,35 @@
+SIDE:America
+US: "USA"
+DE: "USA"
+FR: "USA"
+ES: "E.E.U.U."
+IT: "USA"
+KO: "미국"
+ZH: "美國"
+BP: "E.U.A."
+PL: "USA"
+END
+
+SIDE:China
+US: "China"
+DE: "China"
+FR: "Chine"
+ES: "China"
+IT: "Cina"
+KO: "중국"
+ZH: "中國"
+BP: "China"
+PL: "Chiny"
+END
+
+SIDE:GLA
+US: "GLA"
+DE: "GBA"
+FR: "GLA"
+ES: "GLA"
+IT: "ELG"
+KO: "GLA"
+ZH: "全球解放軍"
+BP: "E.L.G."
+PL: "AŚW"
+END

@@ -1,0 +1,215 @@
+FTP:StatusIdle
+US: "Idle"
+DE: "Leerlauf"
+FR: "Inactif"
+ES: "Inactivo"
+IT: "Inattivo"
+KO: "대기"
+ZH: "呆滯"
+BP: "Ocioso"
+PL: "Bezczynny"
+END
+
+FTP:UnknownError
+US: "Unknown Error"
+DE: "Unbekannter Fehler"
+FR: "Erreur inconnue"
+ES: "Error desconocido"
+IT: "Errore sconosciuto"
+KO: "알 수 없는 오류"
+ZH: "未知的錯誤"
+BP: "Erro Desconhecido"
+PL: "Nieznany błąd"
+END
+
+FTP:NoSuchServer
+US: "No Such Server"
+DE: "Server existiert nicht"
+FR: "Serveur inexistant"
+ES: "No hay tal servidor"
+IT: "Questo server non esiste"
+KO: "서버를 찾을 수 없음"
+ZH: "沒有發現伺服器"
+BP: "Servidor Desconhecido"
+PL: "Brak serwera"
+END
+
+FTP:CouldNotConnect
+US: "Could Not Connect"
+DE: "Verbindungsaufbau nicht möglich"
+FR: "Connexion impossible"
+ES: "No se pudo conectar"
+IT: "Connessione impossibile"
+KO: "서버에 접속할 수 없음"
+ZH: "無法連結"
+BP: "Falha de Conexão"
+PL: "Połączenie niemożliwe"
+END
+
+FTP:LoginFailed
+US: "Login Failed"
+DE: "Anmeldung gescheitert"
+FR: "Echec de l'identification"
+ES: "Error de acceso"
+IT: "Collegamento fallito"
+KO: "로그인 실패"
+ZH: "登入失敗"
+BP: "Falha no Login"
+PL: "Logowanie nieudane"
+END
+
+FTP:NoSuchFile
+US: "No Such File"
+DE: "Datei existiert nicht"
+FR: "Fichier inexistant"
+ES: "No hay tal archivo"
+IT: "Questo file non esiste"
+KO: "파일을 찾을 수 없음"
+ZH: "未發現檔案"
+BP: "Arquivo Desconhecido"
+PL: "Brak pliku"
+END
+
+FTP:LocalFileOpenFailed
+US: "Local File Open Failed"
+DE: "Öffnen der Datei nicht möglich"
+FR: "Echec de l'ouverture du fichier local"
+ES: "Error para abrir archivo local"
+IT: "Apertura del file locale fallita"
+KO: "로컬 파일 열기 실패"
+ZH: "本地端檔案開啟失敗"
+BP: "Falha na Abertura do Arquivo"
+PL: "Otwarcie lokalnego pliku nieudane"
+END
+
+FTP:TCPError
+US: "TCP Error"
+DE: "TCP-Fehler"
+FR: "Erreur TCP"
+ES: "Error de TCP"
+IT: "Errore TCP"
+KO: "TCP 오류"
+ZH: "TCP錯誤"
+BP: "Erro de TCP"
+PL: "Błąd protokołu TCP"
+END
+
+FTP:DisconnectError
+US: "Disconnect Error"
+DE: "Verbindung wurde unterbrochen"
+FR: "Erreur de déconnexion"
+ES: "Error por desconexión"
+IT: "Errore di disconnessione"
+KO: "접속 해제 오류"
+ZH: "斷線錯誤"
+BP: "Erro de Desconexão"
+PL: "Błąd rozłączenia"
+END
+
+FTP:StatusConnecting
+US: "Connecting"
+DE: "Verbindung wird hergestellt"
+FR: "Connexion…"
+ES: "Conectando"
+IT: "Connessione in corso"
+KO: "접속중"
+ZH: "連結中"
+BP: "Conectando"
+PL: "Łączenie"
+END
+
+FTP:StatusLoggingIn
+US: "Logging In"
+DE: "Anmeldung"
+FR: "Identification…"
+ES: "Entrando"
+IT: "Accesso in corso"
+KO: "로그인중"
+ZH: "登入中"
+BP: "Executando Login"
+PL: "Logowanie"
+END
+
+FTP:StatusFindingFile
+US: "Finding File"
+DE: "Sucht Datei"
+FR: "Repérage du fichier..."
+ES: "Encontrando archivo"
+IT: "Ricerca del file in corso"
+KO: "파일 검색중"
+ZH: "尋找檔案中"
+BP: "Procurando Arquivo"
+PL: "Wyszukiwanie pliku"
+END
+
+FTP:StatusQueryingResume
+US: "Querying to Resume Download"
+DE: "Download wird fortgesetzt"
+FR: "Demande autorisation pour reprendre téléchargement…"
+ES: "Consultando para reanudar la descarga"
+IT: "Richiesta di ripresa del download"
+KO: "다운로드 재개 조회중"
+ZH: "提出重新下載"
+BP: "Preparando para Continuar Download"
+PL: "Prośba o kontynuację pobierania"
+END
+
+FTP:StatusDownloading
+US: "Downloading"
+DE: "Daten werden geladen"
+FR: "Téléchargement…"
+ES: "Descargando"
+IT: "Scaricamento in corso"
+KO: "다운로드중"
+ZH: "下載中"
+BP: "Transferindo"
+PL: "Pobieranie"
+END
+
+FTP:StatusDisconnecting
+US: "Disconnecting"
+DE: "Verbindung wird getrennt"
+FR: "Déconnexion…"
+ES: "Desconectando"
+IT: "Disconnessione in corso"
+KO: "접속 해제중"
+ZH: "斷線中"
+BP: "Desconectando"
+PL: "Rozłączanie"
+END
+
+FTP:StatusFinishing
+US: "Finishing"
+DE: "Vorgang wird beendet"
+FR: "Phase terminale…"
+ES: "Terminando"
+IT: "Conclusione in corso"
+KO: "완료중"
+ZH: "結束中"
+BP: "Terminando"
+PL: "Finalizowanie"
+END
+
+FTP:StatusDone
+US: "Done"
+DE: "Fertig"
+FR: "Effectué"
+ES: "Finalizado"
+IT: "Fatto"
+KO: "완료"
+ZH: "完成"
+BP: "Concluído"
+PL: "Gotowe"
+END
+
+FTP:StatusNone
+US: "None"
+DE: "–"
+FR: "Aucun"
+ES: "Ninguno"
+IT: "N/D"
+KO: "없음"
+ZH: "無"
+BP: "Nada"
+PL: "Brak"
+END

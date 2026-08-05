@@ -1,0 +1,815 @@
+LOAD:TRAINING_1
+US: "- GLA controls a Chemical Weapons Plant"
+DE: "– Die GBA kontrolliert eine Chemiewaffenfabrik"
+FR: "- La GLA contrôle une usine d'armes chimiques"
+ES: "El GLA controla una planta de armas químicas"
+IT: "- L'ELG controlla un impianto di armi chimiche."
+KO: "- GLA가 화학 무기 공장을 점령했습니다."
+ZH: "- 全球解放軍控制了一個化學武器工廠"
+BP: "- O E.L.G. controla uma Fábrica de Armas Químicas"
+PL: "- AŚW posiada fabrykę broni chemicznej"
+END
+
+LOAD:TRAINING_2
+US: "- Destroy the Chemical Weapons Plant"
+DE: "– Zerstören Sie die Chemiewaffenfabrik"
+FR: "- Détruire l'usine d'armes chimiques"
+ES: "Destruye la planta de armas químicas"
+IT: "- Distruggete l'impianto di armi chimiche."
+KO: "- 화학 무기 공장을 파괴하십시오."
+ZH: "- 摧毀敵軍化學武器工廠"
+BP: "- Destrua a Fábrica de Armas Químicas"
+PL: "- Zniszcz fabrykę broni chemicznej"
+END
+
+LOAD:TRAINING_3
+US: "- Eliminate the threat"
+DE: "– Eliminieren Sie diese Bedrohung"
+FR: "- Enrayer la menace"
+ES: "Elimina la amenaza"
+IT: "- Eliminate la minaccia."
+KO: "- 위험요소를 제거하십시오."
+ZH: "- 排除來自敵軍的威脅"
+BP: "- Elimine a ameaça"
+PL: "- Zlikwiduj zagrożenie"
+END
+
+LOAD:USA01_1
+US: "- GLA has SCUD Storm"
+DE: "– Die GBA hat einen SCUD-Sturm"
+FR: "- La GLA possède des Scuds multiples"
+ES: "El GLA tiene una tormenta SCUD"
+IT: "- L'ELG ha degli SCUD Storm."
+KO: "- GLA가 스커드 폭풍을 확보했습니다."
+ZH: "- 全球解放軍擁有生化死雨風暴"
+BP: "- O E.L.G. possui um lançador Tempestade SCUD"
+PL: "- AŚW posiada Deszcz SCUD-ów"
+END
+
+LOAD:USA01_2
+US: "- They are based in Baghdad"
+DE: "– Ihr Stützpunkt ist in Bagdad"
+FR: "- Leur base est à Bagdad"
+ES: "Tienen su base en Bagdad"
+IT: "- Sono stanziati a Baghdad."
+KO: "- 적이 Baghdad에 진지를 구축했습니다."
+ZH: "- 他們的基地在巴格達"
+BP: "- Eles estão baseados em Bagdá"
+PL: "- Ich wojska stacjonują w Bagdadzie"
+END
+
+LOAD:USA01_3
+US: "- Eliminate this threat"
+DE: "– Eliminieren Sie diese Bedrohung"
+FR: "- Enrayer cette menace"
+ES: "Elimina esta amenaza"
+IT: "- Eliminate questa minaccia."
+KO: "- 위험요소를 제거하십시오."
+ZH: "- 排除敵軍威脅"
+BP: "- Elimine a ameaça"
+PL: "- Zlikwiduj to zagrożenie"
+END
+
+LOAD:USA02_1
+US: "- GLA leaders tracked to Yemen"
+DE: "– Wir haben die Führer der GBA im Jemen geortet"
+FR: "- Les chefs de la GLA se trouvent au Yémen"
+ES: "Líderes del GLA seguidos hasta Yemen"
+IT: "- Leader dell'ELG localizzati in Yemen."
+KO: "- GLA 지도자들이 예멘에 있습니다."
+ZH: "- 追蹤全球解放軍首領至葉門"
+BP: "- Líderes do E.L.G. localizados no Iêmen"
+PL: "- Przywódcy AŚW umknęli do Jemenu"
+END
+
+LOAD:USA02_2
+US: "- Comanches are searching for criminals"
+DE: "– Comanches suchen nach Kriminellen"
+FR: "- Les Comanches recherchent les criminels"
+ES: "Los Comanches buscan criminales"
+IT: "- I Comanche sono in cerca di criminali."
+KO: "- 코만치가 범죄자들을 수색하고 있습니다."
+ZH: "- 卡曼契尋找罪犯"
+BP: "- Comanches procurando pelos criminosos"
+PL: "- Comanche szukają przestępców"
+END
+
+LOAD:USA02_3
+US: "- Save the captured pilots"
+DE: "– Retten Sie die gefangenen Piloten"
+FR: "- Sauver les pilotes prisonniers"
+ES: "Salva a los pilotos capturados"
+IT: "- Salvate i piloti catturati."
+KO: "- 포로가 된 파일럿을 구출하십시오."
+ZH: "- 拯救被俘飛行員"
+BP: "- Salve os pilotos capturados"
+PL: "- Uratuj pojmanych pilotów"
+END
+
+LOAD:USA03_1
+US: "- USA forces are in full retreat"
+DE: "– Die US-Truppen ziehen sich zurück"
+FR: "- Les forces américaines battent en retraite"
+ES: "Retirada de las fuerzas de E.E.U.U."
+IT: "- Forze USA in ritirata."
+KO: "- 미군이 위험에 처해있습니다."
+ZH: "- 美國武力撤退中"
+BP: "- Forças dos E.U.A. em retirada total"
+PL: "- Siły amerykańskie w odwrocie"
+END
+
+LOAD:USA03_2
+US: "- GLA is in close pursuit"
+DE: "– Die GBA-Einheiten folgen ihnen"
+FR: "- La GLA est prise en chasse"
+ES: "Acercándose el GLA"
+IT: "- Forze dell'ELG all'inseguimento."
+KO: "- GLA가 가까이 추격하고 있습니다."
+ZH: "- 全球解放軍正密切追擊"
+BP: "- O E.L.G. continua a perseguição"
+PL: "- AŚW siedzi im na karku"
+END
+
+LOAD:USA03_3
+US: "- Provide cover for retreating forces"
+DE: "– Geben Sie unseren Truppen Feuerschutz"
+FR: "- Couvrir les forces en retraite"
+ES: "Cubre a las fuerzas en retirada"
+IT: "- Fornite copertura alle forze in ritirata."
+KO: "- 퇴각하는 군대를 보호하십시오."
+ZH: "- 為撤退軍隊提供掩護"
+BP: "- Proporcione cobertura para as forças em retirada"
+PL: "- Osłoń wycofujące się wojska"
+END
+
+LOAD:USA04_1
+US: "- GLA training camp has been discovered"
+DE: "– Ausbildungslager der GBA geortet"
+FR: "- Camp d'entraînement de la GLA découvert"
+ES: "Descubierto campo de entrenamiento del GLA"
+IT: "- Individuato un campo di addestramento dell'ELG."
+KO: "- GLA의 훈련소가 발견되었습니다."
+ZH: "- 發現全球解放軍訓練營"
+BP: "- Campo de treinamento do E.L.G. descoberto"
+PL: "- Odkryto obóz szkoleniowy AŚW"
+END
+
+LOAD:USA04_2
+US: "- Eliminate this threat"
+DE: "– Eliminieren Sie diese Bedrohung"
+FR: "- Enrayer cette menace"
+ES: "Elimina esta amenaza"
+IT: "- Eliminate questa minaccia."
+KO: "- 해당 위험요소를 제거하십시오."
+ZH: "- 排除這個威脅狀況"
+BP: "- Elimine a ameaça"
+PL: "- Zlikwiduj to zagrożenie"
+END
+
+LOAD:USA06_1
+US: "- Peace conference in Kabara City"
+DE: "– Friedenskonferenz in Kabara"
+FR: "- Conférence de paix à Kabara"
+ES: "Conferencia de paz en la ciudad de Kabara"
+IT: "- Conferenza di pace a Kabara City."
+KO: "- Kabara시에서 평화 회담이 개최됩니다."
+ZH: "- 卡巴拉城和平會議"
+BP: "- Conferência de paz na cidade de Kabara"
+PL: "- Konferencja pokojowa w Kabarze"
+END
+
+LOAD:USA06_2
+US: "- GLA cannot be trusted"
+DE: "– Die GBA ist unberechenbar"
+FR: "- La GLA n'est pas digne de confiance"
+ES: "No se puede confiar en el GLA"
+IT: "- Non ci si può fidare dell'ELG."
+KO: "- GLA는 신뢰할 수 없는 존재입니다."
+ZH: "- 不能信任全球解放軍"
+BP: "- Não podemos confiar no E.L.G."
+PL: "- Nie można ufać AŚW"
+END
+
+LOAD:USA06_3
+US: "- Be on alert"
+DE: "– Seien Sie auf der Hut"
+FR: "- Prudence..."
+ES: "En Alerta Roja"
+IT: "- State all'erta."
+KO: "- 경계를 늦추지 마십시오."
+ZH: "- 注意持續警戒"
+BP: "- Fique alerta"
+PL: "- Zachowaj czujność"
+END
+
+LOAD:USA07_1
+US: "- A rogue Chinese General has joined with the GLA"
+DE: "– Ein chinesischer General hat sich der GBA angeschlossen"
+FR: "- Un Général rebelle chinois a rejoint la GLA"
+ES: "Un General chino se ha unido al GLA"
+IT: "- Un generale cinese ribelle si è unito all'ELG."
+KO: "- 중국 제너럴이 GLA에 합류했습니다."
+ZH: "- 一位中國壞將軍已經加入全球解放軍"
+BP: "- Um General chinês uniu-se ao E.L.G."
+PL: "- Chiński generał dołącza do AŚW"
+END
+
+LOAD:USA07_2
+US: "- Enemy is relying on Tunnel Networks"
+DE: "– Der Feind verlässt sich auf unterirdische Gangsysteme"
+FR: "- L'ennemi compte sur les réseaux de tunnels"
+ES: "El enemigo confía en la Red de túneles"
+IT: "- Il nemico utilizza una rete di tunnel."
+KO: "- 적군이 터널 네트워크에 의존하고 있습니다."
+ZH: "- 敵軍依賴地道連網"
+BP: "- O inimigo está dependendo de sua Rede de Túneis"
+PL: "- Wróg opiera swą siłę na sieci tuneli"
+END
+
+LOAD:USA07_3
+US: "- Attack must be launched immediately"
+DE: "– Wir müssen umgehend angreifen"
+FR: "- Il faut immédiatement lancer l'attaque"
+ES: "El ataque tiene que lanzarse inmediatamente"
+IT: "- Dovete lanciare immediatamente un attacco."
+KO: "- 즉각 공세를 취해야 합니다."
+ZH: "- 必須要立刻開始攻擊"
+BP: "- O ataque dever ser lançado imediatamente"
+PL: "- Atak musi nastąpić natychmiast"
+END
+
+LOAD:USA08_1
+US: "- US forces have surrounded the GLA capital"
+DE: "– US-Truppen haben die Hauptstadt der GBA umstellt"
+FR: "- Les Américains ont encerclé la capitale de la GLA"
+ES: "E.E.U.U. ha rodeado la capital del GLA"
+IT: "- Gli USA hanno circondato la sede centrale dell'ELG."
+KO: "- 미군이 GLA 수도를 포위했습니다."
+ZH: "- 美國已經包圍全球解放軍首府"
+BP: "- Os E.U.A. cercaram a capital do E.L.G."
+PL: "- Amerykanie otoczyli stolicę AŚW"
+END
+
+LOAD:USA08_2
+US: "- GLA has biological weapons"
+DE: "– Die GBA hat biologische Waffen"
+FR: "- La GLA possède des armes bactériologiques"
+ES: "El GLA tiene armas biológicas"
+IT: "- L'ELG dispone di armi biologiche."
+KO: "- GLA가 생물 무기를 확보한 상태입니다."
+ZH: "- 全球解放軍擁有生化武器"
+BP: "- O E.L.G. possui Armas Biológicas"
+PL: "- AŚW dysponuje bronią biologiczną"
+END
+
+LOAD:USA08_3
+US: "- Chinese have pledged their support to US"
+DE: "– China hat den USA Unterstützung zugesagt"
+FR: "- Les Chinois se sont engagés à venir en aide aux Américains"
+ES: "Los chinos han prometido su apoyo a E.E.U.U."
+IT: "- I cinesi hanno concesso il loro appoggio agli USA."
+KO: "- 중국이 미국에 대한 지원을 약속했습니다."
+ZH: "- 中國保證他們支持美國"
+BP: "- Os chineses garantiram ajuda aos E.U.A."
+PL: "- Chińczycy ogłosili poparcie dla USA"
+END
+
+LOAD:USA08_4
+US: "- GLA must be eliminated"
+DE: "– Die GBA muss vernichtet werden"
+FR: "- Il faut éradiquer la GLA"
+ES: "El GLA tiene que ser eliminado"
+IT: "- L'ELG deve essere distrutto."
+KO: "- GLA를 섬멸해야 합니다."
+ZH: "- 全球解放軍必須被消滅"
+BP: "- O E.L.G. deve ser eliminado"
+PL: "- AŚW musi być zlikwidowana"
+END
+
+LOAD:China01_1
+US: "- China's might is on parade"
+DE: "– Chinas Macht wird präsentiert"
+FR: "- Les Chinois font montre de leur puissance"
+ES: "Las fuerzas chinas están desfilando"
+IT: "- La Cina fa sfoggio della propria forza."
+KO: "- 중국이 열병식을 거행하고 있습니다."
+ZH: "- 中國正在閱兵"
+BP: "- Todo o poder da China em parada militar"
+PL: "- Potęga Chin na paradzie"
+END
+
+LOAD:China01_2
+US: "- Protect China's military display"
+DE: "– Schützen Sie die chinesische Militärparade"
+FR: "- Protéger la parade militaire chinoise"
+ES: "Protege el desfile militar de China"
+IT: "- Proteggete la parata militare cinese."
+KO: "- 중국군의 열병식을 보호하십시오."
+ZH: "- 中國的軍事展示"
+BP: "- Proteja a parada militar da China"
+PL: "- Chroń pokaz chińskiej techniki wojskowej"
+END
+
+LOAD:China01_3
+US: "- Eliminate any threat in Beijing area"
+DE: "– Eliminieren Sie alle Feinde im Einzugsgebiet von Peking"
+FR: "- Eliminer toute menace dans la zone de Pékin"
+ES: "Elimina cualquier amenaza en el área de Beijing"
+IT: "- Eliminate ogni minaccia nell'area di Pechino."
+KO: "- Beijing 지역의 위험요소를 제거하십시오."
+ZH: "- 找出任何在北京的威脅"
+BP: "- Elimine a ameaça na área de Beijing"
+PL: "- Zlikwiduj wszelkie zagrożenie w rejonie Pekinu"
+END
+
+LOAD:China02_1
+US: "- GLA cell has been discovered in Hong Kong"
+DE: "– In Hong Kong wurde eine GBA-Zelle enttarnt"
+FR: "- Une cellule de la GLA a été découverte à Hong-Kong"
+ES: "Descubierta en Hong Kong una célula del GLA"
+IT: "- Cellula dell'ELG individuata a Hong Kong."
+KO: "- 홍콩에서 GLA 세포조직이 발견되었습니다."
+ZH: "- 在香港發現全球解放軍基層組織"
+BP: "- Célula do E.L.G. descoberta em Hong Kong"
+PL: "- W Hongkongu odkryto komórkę AŚW"
+END
+
+LOAD:China02_2
+US: "- Terrorists are using convention center as base"
+DE: "– Die Terroristen nutzen das Tagungszentrum als Basis"
+FR: "- Le pavillon des expositions sert de base aux terroristes"
+ES: "Terroristas usando centro de convenciones como base"
+IT: "- I terroristi usano il centro congressi come base."
+KO: "- 테러리스트가 컨벤션 센터를 점령했습니다."
+ZH: "- 恐怖份子以會議中心為基地"
+BP: "- O centro de convenções é a base terrorista"
+PL: "- Terroryści używają centrum wystawowego jako bazy"
+END
+
+LOAD:China02_3
+US: "- Cell must be eradicated"
+DE: "– Die Terroristen müssen vernichtet werden"
+FR: "- Il faut éradiquer la cellule"
+ES: "La célula ha de ser erradicada"
+IT: "- La cellula deve essere distrutta."
+KO: "- 세포조직을 반드시 전멸시키십시오."
+ZH: "- 基層組織必須被連根拔除"
+BP: "- Célula terrorista deve ser erradicada"
+PL: "- Muszą zostać zlikwidowani"
+END
+
+LOAD:China03_1
+US: "- GLA has infested the Three Gorges Dam area"
+DE: "– Die GBA ist am Drei Schluchten-Damm aktiv"
+FR: "- La GLA a infesté la zone du barrage des 3 Gorges"
+ES: "El GLA ha infestado el área de la presa de las Tres Gargantas"
+IT: "- L'ELG si è insediato nella zona della diga delle Tre Gole."
+KO: "- GLA가 Three Gorges 댐 지역을 침투했습니다."
+ZH: "- 大批全球解放軍出現在三峽大壩區域"
+BP: "- O E.L.G. infestou a área da Represa Três Ravinas"
+PL: "- Zauważono siły AŚW w okolicy zapory"
+END
+
+LOAD:China03_2
+US: "- Enemy reinforcements now threaten our forces"
+DE: "– Die feindliche Verstärkung bedroht unsere Truppen"
+FR: "- Les renforts ennemis menacent maintenant notre armée"
+ES: "Refuerzos enemigos amenazan ahora nuestras fuerzas"
+IT: "- Ora i rinforzi nemici minacciano le nostre forze."
+KO: "- 적의 증원군이 위협세력으로 등장했습니다."
+ZH: "- 敵軍的實力增加現已威脅我方軍隊"
+BP: "- Reforços inimigos ameaçam nossas Forças"
+PL: "- Zagrażają one naszym wojskom"
+END
+
+LOAD:China03_3
+US: "- Drown the GLA with Chinese forces"
+DE: "– Vernichten Sie die GBA mit chinesischen Truppen"
+FR: "- Submerger la GLA à l'aide des forces chinoises"
+ES: "Sofocar al GLA con las fuerzas chinas"
+IT: "- Distruggete l'ELG con le forze cinesi."
+KO: "- 중국군으로 GLA를 떠내려 보내십시오."
+ZH: "- 以中國武力消滅全球解放軍"
+BP: "- Afogue o E.L.G. com as forças da China"
+PL: "- Wykąp terrorystów burząc zaporę"
+END
+
+LOAD:China04_1
+US: "- GLA has constructed a Bio-Toxin factory"
+DE: "– Die GBA hat eine Chemiewaffenfabrik gebaut"
+FR: "- La GLA a construit une usine bactériologique"
+ES: "El GLA ha construido una fábrica de Biotoxinas"
+IT: "- L'ELG ha realizzato una fabbrica di bio-tossine."
+KO: "- GLA가 생물-독소 공장을 건설했습니다."
+ZH: "- 全球解放軍已經建造了生化毒氣工廠"
+BP: "- O E.L.G. construiu uma fábrica de Bio-Toxinas"
+PL: "- AŚW zbudowała fabrykę biotoksyn"
+END
+
+LOAD:China04_2
+US: "- Locate factory with help of operative Black Lotus"
+DE: "– Schwarzer Lotus muss die Fabrik finden"
+FR: "- Localiser l'usine avec l'aide de Lotus Noir"
+ES: "Localizada fábrica ayudado por la agente Loto Negro"
+IT: "- Localizzate la fabbrica grazie all'agente Loto Nero."
+KO: "- 흑수선의 도움을 받아 공장 소재를 발견하십시오."
+ZH: "- 利用黑蓮花找出當地的工廠"
+BP: "- Localize a fábrica com a ajuda da agente Black Lotus"
+PL: "- Znajdź fabrykę używając agentki Czarny Lotos"
+END
+
+LOAD:China04_3
+US: "- Air strike will aid in its destruction"
+DE: "– Luftangriff hilft bei der Zerstörung"
+FR: "- Des frappes aériennes aideront à sa destruction"
+ES: "Un ataque aéreo ayudará en su destrucción"
+IT: "- Un raid aereo completerà l'opera."
+KO: "- 이번 섬멸작전에 공중지원이 있을 예정입니다."
+ZH: "- 利用空襲來幫助毀滅敵人"
+BP: "- Um ataque aéreo auxiliará em sua destruição"
+PL: "- Nalot pomoże zniszczyć fabrykę"
+END
+
+LOAD:China05_1
+US: "- GLA has taken over Balykchy"
+DE: "– Die GBA hat Balykchy besetzt"
+FR: "- La GLA a pris Balykchy"
+ES: "El GLA ha tomado Balykchy"
+IT: "- L'ELG ha conquistato Balykchy."
+KO: "- GLA가 Balykchy를 점령했습니다."
+ZH: "- 全球解放軍已經攻下貝利克奇"
+BP: "- O E.L.G. tomou Balykchy"
+PL: "- AŚW zajęła Bałykczi"
+END
+
+LOAD:China05_2
+US: "- US forces will provide air support"
+DE: "– Die USA schicken Luftunterstützung"
+FR: "- Les Américains apporteront leur soutien aérien"
+ES: "E.E.U.U. proporcionará soporte aéreo"
+IT: "- Gli USA forniranno il supporto aereo."
+KO: "- 미군의 공중 지원이 있을 예정입니다."
+ZH: "- 美國將會提供空軍支援"
+BP: "- Os E.U.A. fornecerão apoio aéreo"
+PL: "- Amerykanie wesprą nas z powietrza"
+END
+
+LOAD:China05_3
+US: "- Call in Carpet Bombs and destroy the GLA"
+DE: "– Vernichten Sie die GBA mit einem Flächenbombardement"
+FR: "- Programmer un bombardement intensif et détruire la GLA"
+ES: "Solicita bombardeo a nivel y destruye el GLA"
+IT: "- Richiedete un bombardamento a tappeto e distruggete l'ELG."
+KO: "- 융단 폭격을 요청하여 GLA를 섬멸하십시오."
+ZH: "- 呼叫地毯式轟炸炸彈摧毀全球解放軍"
+BP: "- Ordene um Bombardeio de Saturação para destruir o E.L.G."
+PL: "- Zniszcz AŚW nalotami dywanowymi"
+END
+
+LOAD:China06_1
+US: "- GLA has commandeered one of China's Railroads"
+DE: "– Die GBA kontrolliert eine chinesische Bahnstrecke"
+FR: "- La GLA a réquisitionné l'un des chemins de fer chinois"
+ES: "El GLA se ha apropiado de uno de los ferrocarriles de China"
+IT: "- L'ELG ha assunto il controllo di una linea ferroviaria cinese."
+KO: "- GLA가 중국의 철도를 탈취했습니다."
+ZH: "- 全球解放軍已強行霸佔一條中國的鐵路"
+BP: "- O E.L.G. assumiu o controle de uma das ferrovias chinesas"
+PL: "- AŚW zarekwirowała jedną z chińskich kolei"
+END
+
+LOAD:China06_2
+US: "- GLA is gathering in Bishkek, Aldastan"
+DE: "– Die GBA sammelt sich in Bishkek, Aldastan"
+FR: "- La GLA se rassemble en Aldastan"
+ES: "GLA se concentra en Bishkek, Aldastán"
+IT: "- L'ELG si sta radunando a Bishkek, in Aldastan."
+KO: "- GLA가 Bishkek, Aldastan에서 병력집결 중입니다."
+ZH: "- 全球解放軍正在阿爾丹斯坦的拜西卡克聚集"
+BP: "- O E.L.G. está se reunindo em Bishkek, Aldastan"
+PL: "- AŚW zbiera się w Biszkeku, w Aldastanie"
+END
+
+LOAD:China06_3
+US: "- Use Black Lotus to destroy the train bridge"
+DE: "– Schwarzer Lotus muss die Eisenbahnbrücke zerstören"
+FR: "- Utiliser Lotus Noir pour détruire le pont"
+ES: "Usa a Loto Negro para destruir el puente del tren"
+IT: "- Utilizzate Loto Nero per distruggere il ponte della ferrovia."
+KO: "- 흑수선을 이용해 철도 다리를 파괴하십시오."
+ZH: "- 利用黑蓮花摧毀火車橋樑"
+BP: "- Use a agente Black Lotus para destruir a ponte ferroviária"
+PL: "- Czarny Lotos ma wysadzić most kolejowy"
+END
+
+LOAD:China07_1
+US: "- GLA Asian terrorist cell identified in Tajikistan"
+DE: "– Splittergruppe in Tadschikistan enttarnt"
+FR: "- La cellule asiatique de la GLA a été localisée"
+ES: "Identificada célula terrorista asiática del GLA"
+IT: "- Cellula di terroristi dell'ELG individuata in Tagikistan."
+KO: "- Tajikistan에서 GLA 세포조직을 발견했습니다."
+ZH: "- 在塔吉克共和國發現全球解放軍亞洲基地"
+BP: "- Célula do E.L.G. identificada no Tajiquistão"
+PL: "- Komórka AŚW wykryta w Tadżykistanie"
+END
+
+LOAD:China07_2
+US: "- Authorized to utilize your nuclear arsenal"
+DE: "– Freigabe zum Atomschlag erteilt"
+FR: "- Vous êtes autorisé à utiliser votre arsenal nucléaire"
+ES: "Autorizado para usar su arsenal nuclear"
+IT: "- Siete autorizzato a ricorrere all'arsenale nucleare."
+KO: "- 핵 무기고 이용 권한이 부여되었습니다."
+ZH: "- 獲准利用這裡已有的核子武器"
+BP: "- Uso de arsenal nuclear autorizado"
+PL: "- Użyj broni jądrowej"
+END
+
+LOAD:GLA01_1
+US: "- Many brothers have been lost"
+DE: "– Viele unserer Brüder sind gefallen"
+FR: "- Nous avons perdu de nombreux frères"
+ES: "Se han perdido muchos hermanos"
+IT: "- Molti fratelli sono morti."
+KO: "- 많은 형제들의 목숨을 잃었습니다."
+ZH: "- 已經失去許多弟兄"
+BP: "- Muitos irmãos foram perdidos"
+PL: "- Utraciliśmy wielu braci"
+END
+
+LOAD:GLA01_2
+US: "- China's defenses are spread thin"
+DE: "– Die Stellungen der Chinesen sind geschwächt"
+FR: "- Les défenses chinoises s'amenuisent"
+ES: "Las defensas chinas se han estirado"
+IT: "- Le difese della Cina vacillano."
+KO: "- 중국의 방어선이 얇게 퍼져있습니다."
+ZH: "- 中國的防禦武力薄弱"
+BP: "- As defesas da China estão abaladas"
+PL: "- Chińska obrona jest zbyt rozciągnięta"
+END
+
+LOAD:GLA01_3
+US: "- Destroy Chinese forces"
+DE: "– Zerstören Sie die chinesischen Einheiten"
+FR: "- Détruisez les cibles chinoises"
+ES: "Destruir las fuerzas chinas"
+IT: "- Distruggete le forze cinesi."
+KO: "- 중국군을 파괴하십시오."
+ZH: "- 摧毀中國的軍隊"
+BP: "- Destrua as forças chinesas"
+PL: "- Zniszcz chińskie siły"
+END
+
+LOAD:GLA02_1
+US: "- U.N. supplies en route to Almaty region"
+DE: "– UN-Hilfsgüter sind unterwegs nach Almaty"
+FR: "- Ravitaillement des Nations Unies en route pour la région"
+ES: "Suministro de la ONU en ruta hacia la región Almaty"
+IT: "- Rifornimenti dell'ONU diretti alla regione di Almaty."
+KO: "- U.N. 서플라이가 Almaty 지역을 향하고 있습니다."
+ZH: "- 聯合國的補給已經在前往雅馬提的途中"
+BP: "- Suprimentos da ONU a caminho da região de Almaty"
+PL: "- ONZ-owski konwój w drodze do Ałma-Aty"
+END
+
+LOAD:GLA02_2
+US: "- Intercept these deliveries for our cause"
+DE: "– Fangen Sie diese Hilfsgüter ab"
+FR: "- Intercepter les livraisons pour la cause"
+ES: "Intercepta estas entregas para nuestra causa"
+IT: "- Intercettate questi rifornimenti per la nostra causa."
+KO: "- 정의실현을 위해 이들 서플라이를 저지하십시오."
+ZH: "- 為了我們的理想目標攔截這些補給品"
+BP: "- Intercepte estes recursos para nossa causa"
+PL: "- Przejmij to zaopatrzenie dla naszej sprawy"
+END
+
+LOAD:GLA02_3
+US: "- Collect supplies to infuse the GLA with funds"
+DE: "– Sammeln Sie Rohstoffe, um die GBA zu finanzieren"
+FR: "- Trouver du ravitaillement pour renflouer les fonds de la GLA"
+ES: "Reúne suministros para inyectar fondos al GLA"
+IT: "- Raccogliete i rifornimenti per garantire fondi all'ELG."
+KO: "- GLA 자금확보를 위해 서플라이를 취득하십시오."
+ZH: "- 蒐集補給品用資金來鼓舞全球解放軍"
+BP: "- Colete os suprimentos para aumentar os recursos do E.L.G."
+PL: "- Zbierz zaopatrzenie dla AŚW"
+END
+
+LOAD:GLA03_1
+US: "- Oppressors have corrupted the people of Zhambul"
+DE: "– Tyrannen haben die Bürger Zhambuls manipuliert"
+FR: "- Les oppresseurs ont corrompu la population de Zhambul"
+ES: "Los opresores han corrompido a la gente de Zahmbul"
+IT: "- Gli oppressori hanno corrotto la gente di Zahmbul."
+KO: "- 압제자들이 시민을 타락시키고 있습니다."
+ZH: "- 對手收買了汗布爾的居民"
+BP: "- Os opressores corromperam o povo de Zhambul"
+PL: "- Agresorzy zdemoralizowali mieszkańców"
+END
+
+LOAD:GLA03_2
+US: "- Their only true freedom lies in death"
+DE: "– Für ihren Verrat müssen sie sterben"
+FR: "- La mort est la seule liberté qu'il leur reste"
+ES: "Su única libertad está en la muerte"
+IT: "- Ora la loro unica salvezza sarà la morte."
+KO: "- 죽음만이 자유를 보장할 것입니다."
+ZH: "- 叛徒真正的自由來自死亡"
+BP: "- A única liberdade verdadeira que lhes resta é a morte"
+PL: "- Tylko śmierć może ich wyzwolić"
+END
+
+LOAD:GLA03_3
+US: "- Use Toxin Tractors to eliminate them"
+DE: "– Eliminieren Sie sie mit Toxintraktoren"
+FR: "- Utiliser les tracteurs bactériologiques pour les éliminer"
+ES: "Usa tractores de toxinas para eliminarlos"
+IT: "- Usate i contaminatori per eliminare i civili."
+KO: "- 독소 트랙터를 사용하여 전멸시키십시오."
+ZH: "- 使用毒素車去消滅他們"
+BP: "- Use os Tratores Tóxicos para eliminá-los"
+PL: "- Zlikwiduj zdrajców ciągnikami"
+END
+
+LOAD:GLA04_1
+US: "- We have found new allies in Astana"
+DE: "– Wir haben in Astana neue Verbündete gefunden"
+FR: "- Nous avons découvert de nouveaux alliés à Astana"
+ES: "Hemos encontrado nuevos aliados en Astana"
+IT: "- Abbiamo trovato dei nuovi alleati ad Astana."
+KO: "- Astana에서 새로운 동맹을 발견했습니다."
+ZH: "- 我們在阿絲塔納發現新同盟"
+BP: "- Encontramos novos aliados em Astana"
+PL: "- Znaleźliśmy nowych sprzymierzeńców w Astanie"
+END
+
+LOAD:GLA04_2
+US: "- We can use them to harass the enemy"
+DE: "– Sie können unsere Feinde attackieren"
+FR: "- Nous pouvons les utiliser pour fatiguer l'ennemi"
+ES: "Podemos usarlos para acechar al enemigo"
+IT: "- Possiamo utilizzarli per creare problemi al nemico."
+KO: "- 그들을 사용하여 적을 교란시키십시오."
+ZH: "- 我們可以利用他們騷擾敵軍"
+BP: "- Podemos usá-los para atormentar o inimigo"
+PL: "- Możemy ich wykorzystać do nękania wroga"
+END
+
+LOAD:GLA04_3
+US: "- While Astana burns, loot the city for supplies"
+DE: "– Plündern Sie die brennende Stadt Astana"
+FR: "- Une fois Astana en feu, piller la ville"
+ES: "Saquea la ciudad en busca de suministros"
+IT: "- Devastate la città in cerca di rifornimenti."
+KO: "- Astana에서 서플라이를 확보하십시오."
+ZH: "- 當阿絲塔納燒毀時，洗劫城市掠奪補給品"
+BP: "- Enquanto Astana queima, saqueie a cidade"
+PL: "- Gdy Astana będzie płonąć, splądruj ją"
+END
+
+LOAD:GLA05_1
+US: "- The arrogance of the USA cannot go unanswered"
+DE: "– Wir können die Arroganz der Amerikaner nicht hinnehmen"
+FR: "- L'arrogance des Américains ne peut pas rester impunie"
+ES: "Es necesario responder a la arrogancia de E.E.U.U."
+IT: "- L'arroganza USA non può restare senza risposta."
+KO: "- 미국의 오만함을 더 이상 묵인할 수 없습니다."
+ZH: "- 傲慢的美國是無法忍受不答覆這種狀況的"
+BP: "- A arrogância dos E.U.A. não pode ficar sem resposta"
+PL: "- Arogancja USA nie zostanie bez odpowiedzi"
+END
+
+LOAD:GLA05_2
+US: "- Keep region from their imperialist grasp"
+DE: "– Wir müssen die Region vor diesen Imperialisten schützen"
+FR: "- Nous devons garder la région libre du joug impérialiste"
+ES: "Que la región no caiga en su afán imperialista"
+IT: "- Difendete la regione dalla morsa dell'imperialismo."
+KO: "- 제국주의의 공격으로부터 지역을 사수하십시오."
+ZH: "- 保護此區不受帝國主義侵犯"
+BP: "- Mantenha a região livre de sua política imperialista"
+PL: "- Uchroń rejon przed zapędami jankesów"
+END
+
+LOAD:GLA05_3
+US: "- Destroy their 'superior' air force"
+DE: "– Zerstören Sie ihre 'überlegene' Luftwaffe"
+FR: "- Détruisez leur force aérienne soi-disant \"supérieure\""
+ES: "Destruir su 'fuerza aérea' superior"
+IT: "- Distruggete la loro forza aerea \"superiore\"."
+KO: "- 적의 공군을 섬멸하십시오."
+ZH: "- 消滅他們『優秀的』空軍"
+BP: "- Destrua sua força aérea 'superior'"
+PL: "- Zniszcz ich \"znakomite\" lotnictwo!"
+END
+
+LOAD:GLA06_1
+US: "- Reports from the Aral Sea are not good"
+DE: "– Es gibt schlechte Neuigkeiten"
+FR: "- Les nouvelles venant de la mer d'Aral ne sont pas bonnes"
+ES: "Los informes del Mar de Aral no son buenos"
+IT: "- I rapporti dal Mare di Aral non sono buoni."
+KO: "- Aral 해로부터 나쁜 소식이 전달되었습니다."
+ZH: "- 死海方面傳來不好的消息"
+BP: "- Os relatórios do Mar de Aral não são animadores"
+PL: "- Złe wieści znad Jeziora Aralskiego"
+END
+
+LOAD:GLA06_2
+US: "- US forces have control of our toxin storage facility"
+DE: "– Die Amerikaner haben unser Chemiewaffenlager besetzt"
+FR: "- Les USA ont le contrôle de notre matériel bactériologique"
+ES: "Los E.E.U.U. controlan nuestro almacén de toxinas"
+IT: "- Le forze USA controllano il nostro deposito di tossine."
+KO: "- 미군이 저희 독소 저장 설비를 점령했습니다."
+ZH: "- 美國軍隊已經控制了我們的生化儲藏設施"
+BP: "- Os E.U.A. controlam nossos depósitos de toxinas"
+PL: "- Siły USA kontrolują naszą fabrykę toksyn"
+END
+
+LOAD:GLA06_3
+US: "- Retake the storage bunkers"
+DE: "– Erobern Sie die Lagerbunker zurück"
+FR: "- Reprendre les bunkers de stockage"
+ES: "Retoma los búnkers de almacenamiento"
+IT: "- Riconquistate i bunker di stoccaggio."
+KO: "- 저장 벙커들을 재 점령하십시오."
+ZH: "- 重新奪回儲存設施"
+BP: "- Recapture nossos bunkers de armazenamento"
+PL: "- Odbij bunkry magazynowe"
+END
+
+LOAD:GLA07_1
+US: "- GLA defectors have joined with China"
+DE: "– Einige Verräter sind zu den Chinesen übergelaufen"
+FR: "- Des transfuges de la GLA ont rejoint la Chine"
+ES: "Los desertores del GLA se han unido a China"
+IT: "- I disertori dell'ELG si sono uniti alla Cina."
+KO: "- GLA 망명자가 중국에 합류했습니다."
+ZH: "- 全球解放軍的叛軍已經加入中國"
+BP: "- Desertores do E.L.G. uniram-se à China"
+PL: "- Zdrajcy AŚW dołączyli do Chin"
+END
+
+LOAD:GLA07_2
+US: "- Assault the convoys and sever their supply lines"
+DE: "– Konvois angreifen und Nachschub unterbrechen"
+FR: "- Assaillir les convois et couper les lignes de ravitaillement"
+ES: "Asalta los convoys y corta su suministro"
+IT: "- Assalite i convogli e tagliate le loro linee di rifornimento."
+KO: "- 호위대를 공격하고 보급선을 차단하십시오."
+ZH: "- 攻擊護衛隊並切斷他們的補給線"
+BP: "- Ataque os comboios e corte suas linhas de suprimentos"
+PL: "- Napadaj na konwoje i odetnij im zaopatrzenie"
+END
+
+LOAD:GLA07_3
+US: "- Eliminate the traitors and their Chinese allies"
+DE: "– Eliminieren Sie die Verräter und ihre chinesischen Herren"
+FR: "- Eliminer les traîtres et leurs alliés chinois"
+ES: "Aniquila a los traidores y sus jefes chinos"
+IT: "- Eliminate i traditori e i loro alleati cinesi."
+KO: "- 배신자와 동맹군을 처단하십시오."
+ZH: "- 消滅叛軍以及他們的中國同盟夥伴"
+BP: "- Elimine os traidores e seus aliados chineses"
+PL: "- Zabij zdrajców i ich chińskich sojuszników"
+END
+
+LOAD:GLA08_1
+US: "- Take control of the Cosmodrome"
+DE: "– Erobern Sie das Kosmodrom"
+FR: "- Prendre le contrôle du Cosmodrome"
+ES: "Toma el control del Cosmódromo"
+IT: "- Assumete il controllo del cosmodromo."
+KO: "- 우주선발사기지를 점령하십시오."
+ZH: "- 控制太空機場"
+BP: "- Assuma o controle da Base Espacial"
+PL: "- Zajmij kosmodrom"
+END
+
+LOAD:GLA08_2
+US: "- The missiles there will deliver deadly toxin to our enemies"
+DE: "– Mit den Raketen dort können wir unsere Feinde vernichten"
+FR: "- Leurs missiles deviendront des armes bactériologiques"
+ES: "Los misiles soltarán toxinas letales sobre nuestros enemigos"
+IT: "- Le tossine mortali si riverseranno sui nostri nemici."
+KO: "- 미사일을 이용해 적에게 독소를 선사하십시오."
+ZH: "- 這飛彈將會送給我們的敵軍致命的毒素"
+BP: "- Os mísseis da base levarão as toxinas aos nossos inimigos"
+PL: "- Rakiety spuszczą na wrogów zabójczą toksynę"
+END
+
+LOAD:GLA08_3
+US: "- Our destiny is at hand"
+DE: "– Die Stunde der Entscheidung naht"
+FR: "- Notre destin est entre nos mains"
+ES: "Nuestro destino está al alcance de la mano"
+IT: "- Il nostro destino sta per compiersi."
+KO: "- 운명의 순간이 얼마 남지 않았습니다."
+ZH: "- 我們的時代即將到來"
+BP: "- Nosso destino está ao alcance"
+PL: "- Nasz cel jest w zasięgu ręki"
+END

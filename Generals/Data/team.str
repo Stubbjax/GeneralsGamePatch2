@@ -1,0 +1,71 @@
+Team:0
+US: "None"
+DE: "Kein"
+FR: "N/D"
+ES: "Ning."
+IT: "N/D"
+KO: "없음"
+ZH: "無"
+BP: "N/D"
+PL: "Brak"
+END
+
+Team:1
+US: "1"
+DE: "1"
+FR: "1"
+ES: "1"
+IT: "1"
+KO: "1"
+ZH: "1"
+BP: "1"
+PL: "1"
+END
+
+Team:2
+US: "2"
+DE: "2"
+FR: "2"
+ES: "2"
+IT: "2"
+KO: "2"
+ZH: "2"
+BP: "2"
+PL: "2"
+END
+
+Team:3
+US: "3"
+DE: "3"
+FR: "3"
+ES: "3"
+IT: "3"
+KO: "3"
+ZH: "3"
+BP: "3"
+PL: "3"
+END
+
+Team:4
+US: "4"
+DE: "4"
+FR: "4"
+ES: "4"
+IT: "4"
+KO: "4"
+ZH: "4"
+BP: "4"
+PL: "4"
+END
+
+Team:AI
+US: "CPU"
+DE: "CPU"
+FR: "IA"
+ES: "IA"
+IT: "IA"
+KO: "CPU"
+ZH: "CPU"
+BP: "CPU"
+PL: "SI"
+END

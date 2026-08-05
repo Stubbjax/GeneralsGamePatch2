@@ -1,0 +1,71 @@
+Audio:Speakers0
+US: "2 Speakers"
+DE: "2 Lautsprecher"
+FR: "2 haut-parleurs"
+ES: "2 altavoces"
+IT: "2 casse"
+KO: "스테레오 스피커"
+ZH: "兩隻喇叭"
+BP: "2 Alto-Falantes"
+PL: "2 głośniki"
+END
+
+Audio:Speakers1
+US: "Headphones"
+DE: "Kopfhörer"
+FR: "Ecouteurs"
+ES: "Auriculares"
+IT: "Cuffie"
+KO: "헤드폰"
+ZH: "耳機"
+BP: "Fones de Ouvido"
+PL: "Słuchawki"
+END
+
+Audio:Speakers2
+US: "Surround Sound"
+DE: "Surround Sound"
+FR: "Son surround"
+ES: "Sonido Surround"
+IT: "Audio surround"
+KO: "서라운드 사운드"
+ZH: "環繞音響"
+BP: "Som Surround"
+PL: "Dźwięk Surround"
+END
+
+Audio:Speakers3
+US: "4 Speaker"
+DE: "4 Lautsprecher"
+FR: "4 haut-parleurs"
+ES: "4 altavoces"
+IT: "4 casse"
+KO: "4채널 스피커"
+ZH: "四隻喇叭"
+BP: "4 Alto-Falantes"
+PL: "4 głośniki"
+END
+
+Audio:Speakers4
+US: "5.1 Surround"
+DE: "5.1 Surround"
+FR: "Surround 5.1"
+ES: "5.1 Surround"
+IT: "5.1 surround"
+KO: "5.1 서라운드"
+ZH: "5.1聲道"
+BP: "Surround 5.1"
+PL: "5.1 Surround"
+END
+
+Audio:Speakers5
+US: "7.1 Surround"
+DE: "7.1 Surround"
+FR: "Surround 7.1"
+ES: "7.1 Surround"
+IT: "7.1 surround"
+KO: "7.1 서라운드"
+ZH: "7.1聲道"
+BP: "Surround 7.1"
+PL: "7.1 Surround"
+END

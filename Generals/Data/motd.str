@@ -1,0 +1,11 @@
+MOTD:NumPlayersHeading
+US: "Welcome to Generals Online.\nThere are currently %d players online."
+DE: "Willkommen bei Generals Online.\nDerzeit online: %d Spieler"
+FR: "Bienvenue à Generals en ligne.\nIl y a actuellement %d personne(s) connectée(s)."
+ES: "Bienvenido a Generals Online.\nAhora hay %d jugador(es) online."
+IT: "Benvenuto in Generals Online.\nAttualmente ci sono %d giocatori online."
+KO: "제너럴 온라인에 오신 것을 환영합니다.\n현재 %d명 접속 중입니다."
+ZH: "歡迎至將軍線上。\n現有 %d 位玩家在線上。"
+BP: "Bem-vindo ao Generals Online.\nExistem no momento %d jogadores online."
+PL: "Witaj na Generals Online.\nLiczba grających: %d."
+END

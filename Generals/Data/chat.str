@@ -1,0 +1,35 @@
+Chat:Everyone
+US: "Everyone Views"
+DE: "Alle"
+FR: "A tout le monde"
+ES: "Visible para todos"
+IT: "A tutti"
+KO: "모두에게"
+ZH: "每個人都看的見"
+BP: "Para Todos"
+PL: "Do wszystkich"
+END
+
+Chat:Allies
+US: "Only Allies View"
+DE: "Verbündete"
+FR: "Uniquement aux alliés"
+ES: "Sólo aliados"
+IT: "Agli alleati"
+KO: "동맹에게"
+ZH: "只有盟軍能看見"
+BP: "Apenas Aliados"
+PL: "Tylko dla sprzymierzeńców"
+END
+
+Chat:Observers
+US: "Observers View"
+DE: "Zuschauer-Ansicht"
+FR: "Pour les observateurs"
+ES: "Vista Observadores"
+IT: "Visuale degli osservatori"
+KO: "옵저버 뷰"
+ZH: "觀察員視野"
+BP: "Visão do Observador"
+PL: "Widok obserwatorów"
+END

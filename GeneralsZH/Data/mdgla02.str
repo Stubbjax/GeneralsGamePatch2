@@ -1,0 +1,179 @@
+MDGLA02:TITLE
+US: "Somewhere near Cairo, Egypt\n'Hidden Agenda'"
+DE: "Irgendwo bei Oraki, Gizhastan\n'Geheime Pläne'"
+FR: "Près du Caire, en Egypte\n'Programme secret'"
+ES: "Cercanías de El Cairo, Egipto\n'Objetivo Oculto'"
+IT: "Un luogo vicino a Il Cairo, Egitto\n\"Obiettivo segreto\""
+KO: "카이로 부근, 이집트\n'숨겨진 의도'"
+ZH: "埃及，開羅附近\n「隱藏的議題」"
+BP: "Em algum lugar perto do Cairo, no Egito\n'Segundas Intenções'"
+PL: "Okolice Kairu, Egipt\n'Ukryta Agenda'"
+END
+
+MDGLA02:Hint1
+US: "WARNING:\nPrince Kassad's forces are camouflaged"
+DE: "WARNUNG:\nPrinz Kassads Truppen sind getarnt."
+FR: "ALERTE :\nLes troupes du prince Kassaad se sont camouflées."
+ES: "AVISO:\nLas fuerzas del príncipe Kassad están camufladas"
+IT: "ATTENZIONE:\nLe forze del principe Kassad sono mimetizzate."
+KO: "경고:\n카사드 왕자의 군대가 위장하고 있습니다."
+ZH: "警告：\n科塞德王子的部隊是偽裝且隱形的"
+BP: "ATENÇÃO:\nAs forças do Principe Kassad estão camufladas"
+PL: "OSTRZEŻENIE:\nSiły księcia Kassada są zamaskowane"
+END
+
+MDGLA02:Hint2
+US: "HINT:\nRadar Vans, Tunnel Networks, and\nStinger Sites reveal camouflaged units"
+DE: "TIPP:\nRadarwagen, Tunnelsysteme und\nStinger-Stellungen orten getarnte Einheiten."
+FR: "ASTUCE :\nLes Radars mobiles, les Réseaux de tunnels et\nles Sites Stingers permettent de détecter les unités camouflées."
+ES: "PISTA:\nFurgonetas radar, redes de túneles y\nemplazamientos Stinger revelan unidades camufladas"
+IT: "SUGGERIMENTO:\nFurgoni radar, Reti di tunnel e\nPostazioni Stinger rivelano le unità mimetizzate."
+KO: "힌트:\n레이더 밴, 터널 네트워크, 스팅어 사이트는 위장 유닛을 찾아냅니다."
+ZH: "建議：\n雷達車、地道網路系統\n與針刺飛彈陣地可以揭露偽裝隱形的單位"
+BP: "DICA:\nFurgões Radar, Redes de Túneis e\nBaterias de Stinger mostram unidades camufladas"
+PL: "RADA:\nFurgonetki radarowe, sieci tuneli\ni wyrzutnie stingerów odkrywają zamaskowane jednostki"
+END
+
+MDGLA02:Hint3
+US: "HINT:\nMore Supplies located in the Southwest"
+DE: "TIPP:\nZusätzliche Rohstoffe im Südwesten geortet."
+FR: "ASTUCE :\nVous trouverez du ravitaillement au sud-ouest."
+ES: "PISTA:\nSe han localizado más suministros al suroeste"
+IT: "SUGGERIMENTO:\nAltre scorte si trovano a sud-ovest."
+KO: "힌트:\n서플라이가 남서쪽에 더 있습니다."
+ZH: "建議：\n西南方有更多的補給"
+BP: "DICA:\nMais Suprimentos estão localizados no Sudeste"
+PL: "RADA:\nWięcej zaopatrzenia znajduje się na południowym zachodzie"
+END
+
+MDGLA02:OBJ1
+US: "\nMISSION OBJECTIVE #1:\nCapture the Command Center in the city"
+DE: "\nEINSATZZIEL 1:\nErobern Sie die Kommandozentrale in der Stadt."
+FR: "\nOBJECTIF DE MISSION 1 :\nCapturer le Poste de commandement de la ville."
+ES: "OBJETIVO 1 DE LA MISIÓN:\nCapturar el centro de mando de la ciudad"
+IT: "\nOBIETTIVO MISSIONE 1:\nConquistate il Centro comando in città."
+KO: "\n임무 목표 #1:\n도시 내의 커맨드 센터를 차지하십시오."
+ZH: "\n任務目標 #1:\n佔領城市內的指揮中心"
+BP: "1º OBJETIVO DA MISSÃO:\nCapture o Centro de Comando na cidade"
+PL: "\nCEL #1:\nZająć sztab w mieście"
+END
+
+MDGLA02:OBJ2
+US: "\nMISSION OBJECTIVE #2:\nCapture the Command Center across the river"
+DE: "\nEINSATZZIEL 2:\nErobern Sie die Kommandozentrale am anderen Flussufer."
+FR: "\nOBJECTIF DE MISSION 2 :\nCapturer le Poste de commandement situé sur l'autre rive."
+ES: "OBJETIVO 2 DE LA MISIÓN:\nCapturar el centro de mando del otro lado del río"
+IT: "\nOBIETTIVO MISSIONE 2:\nConquistate il Centro comando oltre il fiume."
+KO: "\n임무 목표 #2:\n강 건너의 커맨드 센터를 차지하십시오."
+ZH: "\n任務目標 #2:\n佔領河對岸的指揮中心"
+BP: "2º OBJETIVO DA MISSÃO:\nCapture o Centro de Comando do outro lado do rio"
+PL: "\nCEL #2:\nZająć sztab za rzeką"
+END
+
+MDGLA02:Expansion_2
+US: "INCOMING TRANSMISSION:\nPotential expansion location discovered"
+DE: "NACHRICHT:\nPotenzielles Expansionsgebiet geortet"
+FR: "DERNIERES NOUVELLES DU FRONT :\nEmplacement potentiel d'expansion découvert."
+ES: "TRANSMISIÓN:\nDescubierta posible zona de expansión"
+IT: "TRASMISSIONE IN ARRIVO:\nLocalizzato potenziale sito per espansione."
+KO: "수신 메시지:\n확장 가능 지역 발견"
+ZH: "訊息：\n發現可能的擴張地點"
+BP: "RECEBENDO TRANSMISSÃO:\nDescoberta uma nova Doca de Suprimentos"
+PL: "ODEBRANA WIADOMOŚĆ:\nOdkryto potencjalne miejsce ekspansji"
+END
+
+MDGLA02:Oil_Well
+US: "HINT:\nCapture oil wells to maintain steady income"
+DE: "TIPP:\nErobern Sie Ölfelder, um Ihre Einnahmen zu erhöhen"
+FR: "ASTUCE :\nCapturez les puits de pétrole pour conserver des revenus réguliers."
+ES: "PISTA:\nCaptura pozos de petróleo para mantener ingresos constantes"
+IT: "SUGGERIMENTO:\nConquistate i pozzi di petrolio per incassi costanti."
+KO: "힌트:\n지속적인 수입을 유지하려면 유정을 점령하십시오."
+ZH: "建議：\n佔領石油以取得穩定的資金收入"
+BP: "DICA:\nCapture poços de petróleo para manter constante o fornecimento"
+PL: "RADA:\nZajmij szyby naftowe, by uzyskać stały dochód"
+END
+
+MDGLA02:Bridge
+US: "HINT:\nGPS Scramble will make it easier to cross this bridge"
+DE: "TIPP:\nGPS-Störsender erleichtern Ihnen die Überquerung dieser Brücke"
+FR: "ASTUCE :\nLe brouilleur GPS vous permettra de traverser plus facilement le pont."
+ES: "PISTA:\nEl codificador GPS hará más fácil cruzar este puente"
+IT: "SUGGERIMENTO:\nL'Interferenza GPS faciliterà l'attraversamento del ponte."
+KO: "힌트:\nGPS 교란장치는 다리를 쉽게 건널 수 있게 합니다."
+ZH: "建議：\nGPS干擾器會讓過橋變得較為容易"
+BP: "DICA:\nO Desorientador de GPS facilitará a sua travessia por esta ponte"
+PL: "RADA:\nZagłuszacz GPS ułatwi przekroczenie mostu"
+END
+
+MDGLA02:Damage_warn
+US: "INCOMING TRANSMISSION:\nProtect the Command Center"
+DE: "NACHRICHT:\nSchützen Sie die Kommandozentrale."
+FR: "DERNIERES NOUVELLES DU FRONT :\nProtégez le Poste de commandement."
+ES: "TRANSMISIÓN:\nProtege el centro de mando"
+IT: "OBIETTIVO MISSIONE:\nProteggete il Centro comando."
+KO: "수신 메시지:\n커맨드 센터를 보호하십시오."
+ZH: "訊息：\n保護指揮中心"
+BP: "RECEBENDO TRANSMISSÃO:\nProteja o Centro de Comando"
+PL: "ODEBRANA WIADOMOŚĆ:\nChroń sztab"
+END
+
+MDGLA02:Capture_CC_scram
+US: "HINT:\nCapture the Command Center to gain GPS scramble ability"
+DE: "TIPP:\nErobern Sie die Kommandozentrale, damit wir GPS-Störsender einsetzen können."
+FR: "ASTUCE :\nCapturez le Poste de commandement pour obtenir l'aptitude Brouilleur GPS."
+ES: "PISTA:\nCaptura el centro de mando para ganar la capacidad de codificar GPS"
+IT: "OBIETTIVO MISSIONE:\nConquistate il Centro comando per ottenere l'abilità Interferenza GPS."
+KO: "힌트:\nGPS 교란 능력을 얻기 위해 커맨드 센터를 점령하십시오."
+ZH: "建議：\n佔領指揮中心以取得 GPS 干擾器能力"
+BP: "DICA:\nCapture o Centro de Comando para adquirir habilidade Desorientador de GPS"
+PL: "RADA:\nZajmij sztab, by zyskać możliwość zakłócania GPS"
+END
+
+MDGLA02:Scram_captured
+US: "INCOMING TRANSMISSION:\nGPS Scramble ability obtained\nUse it on your troops to cloak them"
+DE: "NACHRICHT:\nGPS-Störsender verfügbar.\nSie können Ihre Einheiten jetzt tarnen!"
+FR: "DERNIERES NOUVELLES DU FRONT :\nAptitude Brouilleur GPS obtenue.\nUtilisez-la sur vos troupes pour les camoufler."
+ES: "TRANSMISIÓN:\nCapacidad de codificar GPS obtenida\nÚsala sobre las tropas para ocultarlas"
+IT: "TRASMISSIONE IN ARRIVO:\nAbilità Interferenza GPS ottenuta.\nUsatela sulle vostre truppe per mimetizzarle."
+KO: "수신 메시지:\nGPS 교란 능력 획득\n아군 부대를 은폐시키려면 그 부대에 사용하십시오."
+ZH: "訊息：\n取得GPS干擾器能力\n使用它來隱形您的部隊"
+BP: "RECEBENDO TRANSMISSÃO:\nHabilidade Desorientador de GPS adquirida.\nUse-a em suas tropas para ocultá-las"
+PL: "ODEBRANA WIADOMOŚĆ:\nUzyskano możliwość zakłócania GPS\nUżyj jej na własnych jednostkach, by je zamaskować"
+END
+
+MDGLA02:Capture_CC_sneak
+US: "HINT:\nCapture this Command Center to gain Sneak Attack ability"
+DE: "TIPP:\nErobern Sie diese Kommandozentrale, damit wir mit Schleichangriffen unser Glück versuchen können."
+FR: "ASTUCE :\nCapturez ce Poste de commandement pour obtenir l'aptitude Attaque furtive."
+ES: "PISTA:\nCaptura este centro de mando para ganar la capacidad de ataque furtivo"
+IT: "SUGGERIMENTO:\nConquistate questo Centro comando per ottenere l'abilità Attacco furtivo."
+KO: "힌트:\n잠입 공격 능력을 얻기 위해 이 커맨드 센터를 점령하십시오."
+ZH: "建議：\n佔領指揮中心以取得偷襲能力"
+BP: "DICA:\nCapture este Centro de Comando para adquirir a habilidade Ataque Sorrateiro"
+PL: "RADA:\nZajmij ten sztab, by zyskać możliwość atakowania z zaskoczenia"
+END
+
+MDGLA02:Sneak_captured
+US: "INCOMING TRANSMISSION:\nSneak Attack ability obtained\nUse it to create a Tunnel Network anywhere you can see"
+DE: "NACHRICHT:\nSchleichangriff verfügbar.\nLegen Sie jetzt unauffällig Tunnelsysteme an."
+FR: "DERNIERES NOUVELLES DU FRONT :\nAptitude Attaque furtive obtenue.\nUtilisez-la pour créer un Réseau de tunnels où vous voulez, dans votre champ de vision."
+ES: "TRANSMISIÓN:\nCapacidad de ataque furtivo obtenida\nÚsala para crear una red de túneles allá donde puedas ver"
+IT: "TRASMISSIONE IN ARRIVO:\nAbilità Attacco furtivo ottenuta.\nUsatela per creare una Rete di tunnel in un luogo che potete vedere."
+KO: "수신 메시지:\n잠입 공격 능력 획득\n시야가 확보된 곳 어디에든 즉시 터널 네트워크를 만들 때 사용하십시오."
+ZH: "訊息：\n取得偷襲能力\n使用它來於任何可見的地點創造地道網路系統"
+BP: "RECEBENDO TRANSMISSÃO:\nHabilidade Ataque Sorrateiro adquirida.\nUse-a para criar uma Rede de Túneis em qualquer lugar que você possa ver"
+PL: "ODEBRANA WIADOMOŚĆ:\nUzyskano możliwość atakowania z zaskoczenia\nWykorzystaj ją, by utworzyć siec tuneli w dowolnym widzianym miejscu"
+END
+
+MDGLA02:Final
+US: "MISSION OBJECTIVE #3:\nDestroy or capture Kassad's main Command Center"
+DE: "EINSATZZIEL 3:\nZerstören oder erobern Sie Kassads primäre Kommandozentrale"
+FR: "OBJECTIF DE MISSION 3 :\nDétruire ou capturer le Poste de commandement principal de Kassaad."
+ES: "OBJETIVO 3 DE LA MISIÓN:\nDestruir o capturar el centro de mando principal de Kassad"
+IT: "OBIETTIVO MISSIONE 3:\nDistruggete o conquistate il Centro comando principale di Kassad."
+KO: "임무 목표 #3:\n카사드의 주 커맨드 센터를 파괴하거나 점령하십시오."
+ZH: "任務目標 #3:\n摧毀或是佔領科塞德的主要指揮中心"
+BP: "3º OBJETIVO DA MISSÃO:\nDestrua ou capture o Centro de Comando principal de Kassad"
+PL: "CEL #3:\nZniszczyć lub zająć główny sztab Kassada"
+END

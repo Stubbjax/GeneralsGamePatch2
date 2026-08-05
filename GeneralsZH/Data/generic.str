@@ -1,0 +1,59 @@
+GENERIC:MissionObjectiveCompleted-01
+US: "MISSION OBJECTIVE #1:\nAccomplished"
+DE: "EINSATZZIEL 1:\nErreicht"
+FR: "OBJECTIF DE MISSION 1 :\nRéussi"
+ES: "OBJETIVO 1 DE LA MISIÓN:\nCumplido"
+IT: "OBIETTIVO MISSIONE 1:\nRaggiunto."
+KO: "임무 목표 #1:\n완수"
+ZH: "任務目標#1：\n完成"
+BP: "1º OBJETIVO DA MISSÃO:\nAlcançado"
+PL: "CEL #1:\nOsiągnięty"
+END
+
+GENERIC:MissionObjectiveCompleted-02
+US: "MISSION OBJECTIVE #2:\nAccomplished"
+DE: "EINSATZZIEL 2:\nErreicht"
+FR: "OBJECTIF DE MISSION 2 :\nRéussi"
+ES: "OBJETIVO 2 DE LA MISIÓN:\nCumplido"
+IT: "OBIETTIVO MISSIONE 2:\nRaggiunto."
+KO: "임무 목표 #2:\n완수"
+ZH: "任務目標#2：\n完成"
+BP: "2º OBJETIVO DA MISSÃO:\nAlcançado"
+PL: "CEL #2:\nOsiągnięty"
+END
+
+GENERIC:MissionObjectiveCompleted-03
+US: "MISSION OBJECTIVE #3:\nAccomplished"
+DE: "EINSATZZIEL 3:\nErreicht"
+FR: "OBJECTIF DE MISSION 3 :\nRéussi"
+ES: "OBJETIVO 3 DE LA MISIÓN:\nCumplido"
+IT: "OBIETTIVO MISSIONE 3:\nRaggiunto."
+KO: "임무 목표 #3:\n완수"
+ZH: "任務目標#3：\n完成"
+BP: "3º OBJETIVO DA MISSÃO:\nAlcançado"
+PL: "CEL #3:\nOsiągnięty"
+END
+
+GENERIC:MissionObjectiveCompleted-04
+US: "MISSION OBJECTIVE #4:\nAccomplished"
+DE: "EINSATZZIEL 4:\nErreicht"
+FR: "OBJECTIF DE MISSION 4 :\nRéussi"
+ES: "OBJETIVO 4 DE LA MISIÓN:\nCumplido"
+IT: "OBIETTIVO MISSIONE 4:\nRaggiunto."
+KO: "임무 목표 #4:\n완수"
+ZH: "任務目標#4：\n完成"
+BP: "4º OBJETIVO DA MISSÃO:\nAlcançado"
+PL: "CEL #4:\nOsiągnięty"
+END
+
+GENERIC:MissionObjectiveCompleted-05
+US: "MISSION OBJECTIVE #5:\nAccomplished"
+DE: "EINSATZZIEL 5:\nErreicht"
+FR: "OBJECTIF DE MISSION 5 :\nRéussi"
+ES: "OBJETIVO 5 DE LA MISIÓN:\nCumplido"
+IT: "OBIETTIVO MISSIONE 5:\nRaggiunto."
+KO: "임무 목표 #5:\n완수"
+ZH: "任務目標#5：\n完成"
+BP: "5º OBJETIVO DA MISSÃO:\nAlcançado"
+PL: "CEL #5:\nOsiągnięty"
+END

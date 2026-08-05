@@ -1,0 +1,299 @@
+MDGLA03:Title-01
+US: "USA Mediterranean Fleet, Matala, Crete\n'On the Waterfront'"
+DE: "Flotte der WA, Matala, Insel Kratos\n'Seeschlacht'"
+FR: "Flotte américaine méditerranéenne, Matala, en Crète\n'Front de mer'"
+ES: "Flota mediterránea de EE.UU., Mátala, Creta\n'En los muelles'"
+IT: "Flotta del Mediterraneo USA, Matala, Creta\n\"Sulla cresta dell'onda\""
+KO: "미국 지중해 함대, 마탈라, 크레타 섬\n'해안 지구'"
+ZH: "克里特島，馬特拉，美國地中海艦隊\n「海上碉堡」"
+BP: "Frota do Mediterrâneo dos E.U.A., Matala, Ilha de Creta\n'Na Orla Marítima'"
+PL: "Flota Śródziemnomorska USA, Matala, Kreta\n'Na Fali'"
+END
+
+MDGLA03:InfoMissionObjective01
+US: "MISSION OBJECTIVE #1:\nCapture the USA Particle Cannon to the East"
+DE: "EINSATZZIEL 1:\nErobern Sie die Partikelkanone der WA im Osten."
+FR: "OBJECTIF DE MISSION 1 :\nCapturer le Canon à particules américain à l'est."
+ES: "OBJETIVO 1 DE LA MISIÓN:\nCapturar el cañón de partículas de EE.UU. en el este"
+IT: "OBIETTIVO MISSIONE 1:\nConquistate il Cannone particellare USA a est."
+KO: "임무 목표 #1:\n동쪽의 미국 파티클 캐논을 점령하십시오."
+ZH: "任務目標 #1:\n佔領東方的美國離子炮"
+BP: "1º OBJETIVO DA MISSÃO:\nCapture o Canhão de Partículas dos E.U.A. no Leste"
+PL: "CEL #1:\nZdobyć amerykański Miotacz cząstek, znajdujący się na wschodzie"
+END
+
+MDGLA03:Info-MissionObjectiveAccomplished-01
+US: "MISSION OBJECTIVE #1:\nAccomplished"
+DE: "EINSATZZIEL 1:\nErreicht"
+FR: "OBJECTIF DE MISSION 1 :\nRéussi"
+ES: "OBJETIVO 1 DE LA MISIÓN:\nCumplido"
+IT: "OBIETTIVO MISSIONE 1:\nRaggiunto."
+KO: "임무 목표 #1:\n임무 완수"
+ZH: "任務目標 #1:\n完成"
+BP: "1º OBJETIVO DA MISSÃO:\nAlcançado"
+PL: "CEL #1:\nOsiągnięty"
+END
+
+MDGLA03:Info-MissionObjective-02
+US: "MISSION OBJECTIVE #2:\nCapture the USA Power Plants"
+DE: "EINSATZZIEL 2:\nErobern Sie die Kraftwerke der WA."
+FR: "OBJECTIF DE MISSION 2 :\nCapturer les centrales américaines."
+ES: "OBJETIVO 2 DE LA MISIÓN:\nCapturar las centrales eléctricas de EE.UU."
+IT: "OBIETTIVO MISSIONE 2:\nConquistate le centrali energetiche USA."
+KO: "임무 목표 #2:\n미국 발전소를 점령하십시오."
+ZH: "任務目標 #2:\n佔領美國發電廠"
+BP: "2º OBJETIVO DA MISSÃO:\nCapture as Centrais de Energia dos E.U.A."
+PL: "CEL #2:\nZdobyć amerykańskie elektrownie"
+END
+
+MDGLA03:Info-MissionObjectiveAccomplished-02
+US: "MISSION OBJECTIVE #2:\nAccomplished"
+DE: "EINSATZZIEL 2:\nErreicht"
+FR: "OBJECTIF DE MISSION 2 :\nRéussi"
+ES: "OBJETIVO 2 DE LA MISIÓN:\nCumplido"
+IT: "OBIETTIVO MISSIONE 2:\nRaggiunto."
+KO: "임무 목표 #2:\n임무 완수"
+ZH: "任務目標 #2:\n完成"
+BP: "2º OBJETIVO DA MISSÃO:\nAlcançado"
+PL: "CEL #2:\nOsiągnięty"
+END
+
+MDGLA03:Info-MissionObjective-03
+US: "MISSION OBJECTIVE #3:\nLocate the Aircraft Carrier in the Southeast"
+DE: "EINSATZZIEL 3:\nFinden Sie den Flugzeugträger im Südosten."
+FR: "OBJECTIF DE MISSION 3 :\nLocaliser le Porte-avions au sud-est."
+ES: "OBJETIVO 3 DE LA MISIÓN:\nLocalizar el portaaviones al sureste"
+IT: "OBIETTIVO MISSIONE 3:\nLocalizzate la portaerei a sud-est."
+KO: "임무 목표 #3:\n남동쪽의 항공 모함의 위치를 확인하십시오."
+ZH: "任務目標 #3:\n找到東南方航空母艦的位置"
+BP: "3º OBJETIVO DA MISSÃO:\nLocalize o Porta-Aviões no Sudeste"
+PL: "CEL #3:\nZlokalizować lotniskowiec na południowym wschodzie"
+END
+
+MDGLA03:Info-GotParticleCannon-01
+US: "HINT:\nNow we must secure some Power Plants\nWe can use the Tunnel Network to reach the next island"
+DE: "TIPP:\nSichern Sie einige Kraftwerke.\nÜber das Tunnelsystem kommen wir auf die nächste Insel."
+FR: "ASTUCE :\nNous devons à présent sécuriser des centrales.\nNous pouvons créer un Réseau de tunnels pour gagner l'île suivante."
+ES: "PISTA:\nDebemos asegurar algunas centrales eléctricas\nPodemos usar la red de túneles para alcanzar la siguiente isla"
+IT: "SUGGERIMENTO:\nOra dobbiamo assumere il controllo di alcune centrali energetiche.\nPossiamo usare la Rete di tunnel per raggiungere l'isola."
+KO: "힌트:\n이제 발전소들을 점령해야 합니다.\n다음 섬에 도달하기 위해 터널 네트워크를 사용할 수 있습니다."
+ZH: "建議：\n現在我們必須守護一些發電廠\n我們可以使用地道網路系統前往下一座島嶼"
+BP: "DICA:\nAgora precisamos proteger algumas Centrais de Energia.\nPodemos usar a Rede de Túneis para alcançar a próxima ilha"
+PL: "RADA:\nTeraz musimy zabezpieczyć kilka elektrowni\nW celu dotarcia na sąsiednią wyspę możemy wykorzystać sieć tuneli"
+END
+
+MDGLA03:Info-SneakAttack-01
+US: "INCOMING TRANSMISSION:\nUse Sneak Attack to create Tunnel Networks on nearby islands"
+DE: "NACHRICHT:\nLegen Sie mit Schleichangriffen auf den nahe gelegenen Inseln Tunnelsysteme an."
+FR: "DERNIERES NOUVELLES DU FRONT :\nUtilisez l'aptitude Attaque furtive pour créer un Réseau de tunnels sur les îles voisines."
+ES: "TRANSMISIÓN:\nUsa el ataque furtivo para crear redes de túneles en las islas próximas"
+IT: "TRASMISSIONE IN ARRIVO:\nUsate l'Attacco furtivo per creare delle Reti di tunnel sull'isola vicina."
+KO: "수신 메시지:\n근처의 섬에 터널 네트워크를 만들려면 잠입 공격을 사용하십시오."
+ZH: "訊息：\n使用偷襲能力在鄰近的島嶼上創造地道網路系統"
+BP: "RECEBENDO TRANSMISSÃO:\nUse o Ataque Sorrateiro para criar Redes de Túneis nas ilhas vizinhas"
+PL: "ODEBRANA WIADOMOŚĆ:\nUżyj ataku z zaskoczenia, by zbudować sieć tuneli na sąsiednich wyspach"
+END
+
+MDGLA03:Info-GotPowerPlants-01
+US: "INCOMING TRANSMISSION:\nThe Particle Cannon is now online\nWe must defend it and our Power Plants"
+DE: "NACHRICHT:\nDie Partikelkanone ist jetzt online.\nWir müssen die Kanone und unsere Kraftwerke verteidigen."
+FR: "DERNIERES NOUVELLES DU FRONT :\nLe Canon à particules est désormais opérationnel.\nNous devons défendre ce canon ainsi que nos centrales."
+ES: "TRANSMISIÓN:\nEl cañón de partículas ya está conectado\nDebemos defenderlo junto a las centrales eléctricas"
+IT: "TRASMISSIONE IN ARRIVO:\nIl Cannone particellare è operativo.\nDobbiamo difenderlo, insieme alle nostre centrali energetiche."
+KO: "수신 메시지:\n파티클 캐논이 이제 작동을 시작합니다.\n파티클 캐논과 발전소를 방어해야 합니다."
+ZH: "訊息：\n離子砲上線了\n我們必須保護它與我們的發電廠"
+BP: "RECEBENDO TRANSMISSÃO:\nO Canhão de Partículas está on-line.\nPrecisamos defendê-lo e as nossas Centrais de Energia"
+PL: "ODEBRANA WIADOMOŚĆ:\nMiotacz cząstek został włączony\nMusimy bronić jego i naszych elektrowni"
+END
+
+MDGLA03:Info-Goodies-01
+US: "HINT:\nExplore islands to find salvage crates and vehicles"
+DE: "TIPP:\nErforschen Sie die Inseln und suchen Sie Versorgungskisten und Fahrzeuge."
+FR: "ASTUCE :\nExplorez les îles pour trouver des caisses et des véhicules."
+ES: "PISTA:\nExplora islas para buscar vehículos y cajas aprovechables"
+IT: "SUGGERIMENTO:\nEsplorate le isole per trovare materiale di recupero e veicoli da saccheggiare."
+KO: "힌트:\n해상 구조 크레이트와 차량을 찾기 위해 섬들을 탐사하십시오."
+ZH: "建議：\n探索島嶼搜尋棄置的殘骸或載具"
+BP: "DICA:\nExplore as ilhas à procura de destroços e veículos"
+PL: "RADA:\nZbadaj wyspy, by odszukać skrzynie z wyposażeniem i pojazdy"
+END
+
+MDGLA03:Lose-NoUnitsOrStructures-01
+US: "INCOMING TRANSMISSION:\nAll of your units and buildings have been destroyed\nYou have been defeated, General. This time"
+DE: "NACHRICHT:\nAlle Ihre Einheiten und Gebäude wurden zerstört!\nSie haben versagt, General. Dieses Mal ..."
+FR: "DERNIERES NOUVELLES DU FRONT :\nLa totalité de vos unités et de vos bâtiments a été détruite.\nVous prendrez votre revanche une autre fois, général."
+ES: "TRANSMISIÓN:\nHan destruido todas nuestras unidades y edificios\nNos han vencido, general. Por esta vez."
+IT: "TRASMISSIONE IN ARRIVO:\nTutte le vostre unità e strutture sono state distrutte.\nSiete stato sconfitto, generale."
+KO: "수신 메시지:\n모든 유닛과 건물들이 파괴되었습니다.\n장군님은 패배했습니다."
+ZH: "訊息：\n您的所有單位與建築都被摧毀了\n您這次失敗了，將軍"
+BP: "RECEBENDO TRANSMISSÃO:\nTodas as suas unidades e estruturas foram destruídas.\nGeneral, desta vez você foi derrotado."
+PL: "ODEBRANA WIADOMOŚĆ:\nWszystkie nasze jednostki i budynki zostały zniszczone\nZostaliśmy pokonani, generale. Tym razem."
+END
+
+MDGLA03:Lose-ParticleCannonDestroyed-01
+US: "INCOMING TRANSMISSION:\nWithout the Particle Cannon, you cannot destroy the Carrier\nYou have been defeated, General. This time"
+DE: "NACHRICHT:\nOhne die Partikelkanone können Sie den Flugzeugträger nicht versenken.\nSie haben versagt, General. Dieses Mal ..."
+FR: "DERNIERES NOUVELLES DU FRONT :\nSans le Canon à particules, vous ne pourrez plus détruire le Porte-avions.\nVous prendrez votre revanche une autre fois, général."
+ES: "TRANSMISIÓN:\nNo puedes destruir el objetivo sin el cañón de partículas\nNos han derrotado, general. Por esta vez."
+IT: "TRASMISSIONE IN ARRIVO:\nSenza il Cannone particellare, non potete distruggere la portaerei.\nSiete stato sconfitto, generale."
+KO: "수신 메시지:\n파티클 캐논 없이는 항공 모함을 파괴할 수 없습니다.\n장군님은 패배했습니다."
+ZH: "訊息：\n沒有了離子砲，您便無法摧毀航空母艦\n您這次失敗了，將軍"
+BP: "RECEBENDO TRANSMISSÃO:\nSem o Canhão de Partículas, você não pode destruir o Porta-Aviões.\nGeneral, desta vez você foi derrotado."
+PL: "ODEBRANA WIADOMOŚĆ:\nBez Miotacza cząstek nie zniszczysz lotniskowca\nPonosisz porażkę, generale. Tym razem"
+END
+
+MDGLA03:Lose-PowerPlantsDestroyed-01
+US: "INCOMING TRANSMISSION:\nAll of the power plants have been destroyed\nYou have been defeated, General. This time"
+DE: "NACHRICHT:\nAlle Kraftwerke wurden zerstört.\nSie haben verloren, General. Dieses Mal ..."
+FR: "DERNIERES NOUVELLES DU FRONT :\nToutes les centrales ont été détruites.\nVous prendrez votre revanche une autre fois, général."
+ES: "TRANSMISIÓN:\nHan destruido todas nuestras centrales eléctricas\nNos han vencido, general. Por esta vez."
+IT: "TRASMISSIONE IN ARRIVO:\nTutte le centrali energetiche sono state distrutte.\nSiete stato sconfitto, generale."
+KO: "수신 메시지:\n모든 발전소가 파괴되었습니다.\n장군님은 패배했습니다."
+ZH: "訊息：\n所有的發電廠都被摧毀了\n您這次失敗了，將軍"
+BP: "RECEBENDO TRANSMISSÃO:\nTodas as centrais de energia foram destruídas.\nGeneral, você foi derrotado, desta vez."
+PL: "ODEBRANA WIADOMOŚĆ:\nWszystkie elektrownie zostały zniszczone\nPonosisz porażkę, generale. Tym razem"
+END
+
+MDGLA03:Help-UseParticleCannon-01
+US: "WARNING:\nThis area looks well defended\nThe Particle Cannon might help us penetrate"
+DE: "WARNUNG:\nDieser Sektor ist gut gesichert.\nDas ist ein Fall für unsere Partikelkanone."
+FR: "ALERTE :\nCette zone semble bien défendue.\nLe Canon à particules nous aidera peut-être à entrer."
+ES: "AVISO:\nEsta zona parece bien defendida\nEl cañón de partículas podría ayudarnos a entrar"
+IT: "ATTENZIONE:\nQuesta zona sembra ben difesa.\nIl Cannone particellare potrebbe esserci utile."
+KO: "경고:\n이 지역은 방어가 잘되는 것 같습니다. 파티클 캐논이\n이 곳에 침투하는 것을 도와줄 것입니다."
+ZH: "警告：\n這個地區看來被防守的很好\n離子砲可以幫助我們穿透防禦"
+BP: "ATENÇÃO:\nEsta área está bem protegida.\nO Canhão de Partículas pode nos ajudar na invasão"
+PL: "OSTRZEŻENIE:\nTen rejon wygląda na dobrze broniony\nMiotacz cząstek może pomóc nam się przedrzeć"
+END
+
+MDGLA03:Help-A10Warning-01
+US: "WARNING:\nA10s are en route against us"
+DE: "WARNUNG:\nDer Feind hat einen E10-Luftangriff angeordnet."
+FR: "ALERTE :\nIls ont envoyé des A10 nous bombarder !"
+ES: "AVISO:\nA-10 en ruta hacia nosotros"
+IT: "ATTENZIONE:\nA10 in rotta di avvicinamento alla nostra posizione!"
+KO: "경고:\nA-10 편대가 다가오고 있습니다!"
+ZH: "警告：\nA-10正在前來攻擊我們的途中！"
+BP: "ATENÇÃO:\nOs A-10 estão vindo em nossa direção!"
+PL: "OSTRZEŻENIE:\nNadlatują A10!"
+END
+
+MDGLA03:Help-LeaveISLAND-01
+US: "HINT:\nWe can use Sneak Attack or our Tunnel Networks\nto reach a nearby island"
+DE: "TIPP:\nMit Schleichangriffen kommen wir über unsere Tunnelsysteme auf benachbarte Inseln."
+FR: "ASTUCE :\nNous pouvons utiliser une attaque furtive ou un Réseau de tunnels pour gagner une île voisine."
+ES: "PISTA:\nCon el ataque furtivo o nuestras redes de túneles\npodemos llegar a una isla cercana"
+IT: "SUGGERIMENTO:\nPotremmo usare l'Attacco furtivo o la nostra Rete di tunnel\nper raggiungere un'isola nelle vicinanze."
+KO: "힌트:\n근처의 섬에 도달하기 위해 잠입 공격이나 터널 네트워크를 사용할 수 있습니다."
+ZH: "建議：\n我們可以使用偷襲或是地道網路系統\n來前往鄰近的島嶼"
+BP: "DICA:\nPodemos usar o Ataque Sorrateiro ou nossa Rede de Túneis\npara alcançar a próxima ilha"
+PL: "RADA:\nMożemy wykorzystać atak z zaskoczenia lub naszą sieć tuneli,\nby dotrzeć na sąsiednią wyspę"
+END
+
+MDGLA03:Help-LeaveISLAND-02
+US: "HINT:\nIf we can scout out an area on a nearby island,\nwe can use our Sneak Attack there"
+DE: "TIPP:\nWenn wir ein Gebiet auf einer Nachbarinsel\nerforscht haben, können wir mit Schleichangriffen unser\nGlück versuchen."
+FR: "ASTUCE :\nSi nous parvenons à explorer une zone sur une île voisine,\nnous pourrons utiliser notre attaque furtive là-bas."
+ES: "PISTA:\nSi logramos explorar una zona de una isla cercana,\npodremos usar allí el ataque furtivo"
+IT: "SUGGERIMENTO:\nSe potessimo esplorare una zona su un'isola vicina,\npotremmo usare lì il nostro Attacco furtivo."
+KO: "힌트:\n근처의 지역이나 섬이 보이면, 그 곳에 잠입 공격을 사용 할 수 있습니다."
+ZH: "建議：\n若我們可以偵察鄰近的島嶼，\n我們便可以在該處使用偷襲能力"
+BP: "DICA:\nSe pudermos fazer o reconhecimento de uma área em uma ilha próxima,\npoderemos usar o nosso Ataque Sorrateiro nela"
+PL: "RADA:\nJeśli zbadamy fragment sąsiedniej wyspy,\nbędziemy tam mogli użyć ataku z zaskoczenia"
+END
+
+MDGLA03:Info-DisabledSupplyDropZones-01
+US: "INCOMING TRANSMISSION:\nWe have disabled the enemy's Supply Drop Zones\nThey will soon be unable to build new units"
+DE: "NACHRICHT:\nWir haben die Abwurfzonen des Feindes zerstört.\nBald kann er keine neuen Einheiten mehr produzieren."
+FR: "DERNIERES NOUVELLES DU FRONT :\nNous avons neutralisé le Pont aérien ennemi !\nIls ne pourront plus construire d'unités sous peu."
+ES: "TRANSMISIÓN:\nHemos desmantelado las zonas de lanzamiento de suministro enemigas\nPronto serán incapaces de crear nuevas unidades"
+IT: "TRASMISSIONE IN ARRIVO:\nAbbiamo disattivato le Zone di lancio dei rifornimenti nemiche!\nPresto il nemico non potrà più realizzare nuove unità."
+KO: "수신 메시지:\n적의 투하 지역을 무력화시켰습니다!\n적은 곧 새 유닛을 만들지 못하게 될 것입니다."
+ZH: "訊息：\n我們癱瘓了敵人的補給空投區！\n他們很快的就無法繼續建造新的單位"
+BP: "RECEBENDO TRANSMISSÃO:\nNeutralizamos as Zonas de Abastecimento Aéreo do inimigo\nEm breve, eles não conseguirão construir novas unidades"
+PL: "ODEBRANA WIADOMOŚĆ:\nZlikwidowaliśmy nieprzyjacielskie strefy zrzutu zaopatrzenia!\nWkrótce nieprzyjaciel utraci możliwość budowy nowych jednostek"
+END
+
+MDGLA03:Help-FoundSupplyPlanes-01
+US: "INCOMING TRANSMISSION:\nDestroy the USA Supply Drop Zones to cripple their production"
+DE: "NACHRICHT:\nZerstören Sie die Abwurfzonen der WA, um ihre Produktion zu stören."
+FR: "DERNIERES NOUVELLES DU FRONT :\nDétruisez le Pont aérien américain pour paralyser leur production."
+ES: "TRANSMISIÓN:\nDestruye las zonas de lanzamiento de suministro de EE.UU. para dañar su producción"
+IT: "TRASMISSIONE IN ARRIVO:\nDistruggete le Zone di lancio dei rifornimenti USA per bloccare la\nproduzione nemica."
+KO: "수신 메시지:\n적의 유닛 생산을 중지시키기 위해 미국의 투하 지역을 파괴하십시오."
+ZH: "訊息：\n摧毀美國的補給空投區以減緩他們的生產速度"
+BP: "RECEBENDO TRANSMISSÃO:\nDestrua as Zonas de Abastecimento Aéreo dos E.U.A. para incapacitar a produção deles"
+PL: "ODEBRANA WIADOMOŚĆ:\nZniszcz amerykańskie strefy zrzutu zaopatrzenia, by zastopować ich produkcję"
+END
+
+MDGLA03:Help-FewPowerPlants-02
+US: "WARNING:\nAlmost all of the Power Plants have been destroyed\nBe careful to secure one to fire the Particle Cannon"
+DE: "WARNUNG:\nEs wurden fast alle Kraftwerke zerstört.\nWir brauchen für die Partikelkanone mindestens ein Kraftwerk!"
+FR: "ALERTE :\nPresque toutes les centrales ont été détruites !\nVous devez en sécuriser au moins une pour utiliser le Canon à particules !"
+ES: "AVISO:\nHan destruido casi todas las centrales eléctricas\nAsegura una para disparar el cañón de partículas"
+IT: "ATTENZIONE:\nQuasi tutte le centrali energetiche sono state distrutte!\nFate attenzione, ne serve una per aprire il fuoco con il\nCannone particellare!"
+KO: "경고:\n거의 모든 발전소가 파괴되었습니다.\n파티클 캐논을 발사하려면 최소한 하나는 반드시 지켜야 합니다."
+ZH: "警告：\n幾乎所有的發電廠都被摧毀了！\n切記守護一座發電廠來發射離子炮！"
+BP: "ATENÇÃO:\nQuase todas as Centrais de Energia foram destruídas\nTome cuidado para proteger as que sobraram disparando o Canhão de Partículas"
+PL: "OSTRZEŻENIE:\nPrawie wszystkie elektrownie zostały zniszczone!\nMusi nam zostać przynajmniej jedna, by można było odpalić Miotacz cząstek!"
+END
+
+MDGLA03:Help-AttackingParticleCannon-01
+US: "INCOMING TRANSMISSION:\nWe need this Particle Cannon to destroy the carrier\nDo not let it be destroyed"
+DE: "NACHRICHT:\nOhne die Partikelkanone können wir den Träger nicht versenken!\nSie darf nicht zerstört werden!"
+FR: "DERNIERES NOUVELLES DU FRONT :\nNous ne pourrons détruire le Porte-avions qu'avec le Canon à particules !\nEmpêchez sa destruction."
+ES: "TRANSMISIÓN:\nNecesitamos este cañón de partículas para destruir el objetivo\nNo dejes que lo destruyan"
+IT: "TRASMISSIONE IN ARRIVO:\nPer distruggere la Portaerei ci serve questo Cannone particellare!\nNon lasciate che lo distruggano."
+KO: "수신 메시지:\n항공모함을 파괴하기 위해서는 이 파티클 캐논이 필요합니다\n파괴되지 않도록 하십시오."
+ZH: "訊息：\n我們需要這個離子炮來摧毀航空母艦！\n不要讓它被摧毀了"
+BP: "RECEBENDO TRANSMISSÃO:\nPrecisamos deste Canhão de Partículas para destruir o Porta-Aviões\nNão deixe que ele seja destruído"
+PL: "ODEBRANA WIADOMOŚĆ:\nPotrzebujemy tego Miotacza cząstek do zniszczenia lotniskowca!\nNie pozwól, by miotacz został zniszczony"
+END
+
+MDGLA03:Help-FindParticleCannon-01
+US: "HINT:\nCapture the Particle Cannon"
+DE: "TIPP:\nErobern Sie die Partikelkanone."
+FR: "ASTUCE :\nCapturez le Canon à particules !"
+ES: "PISTA:\nCaptura el cañón de partículas"
+IT: "SUGGERIMENTO:\nConquistate il Cannone particellare!"
+KO: "힌트:\n파티클 캐논을 점령하십시오!"
+ZH: "建議：\n佔領離子炮！"
+BP: "DICA:\nCapture o Canhão de Partículas"
+PL: "RADA:\nZdobądź miotacz cząstek!"
+END
+
+MDGLA03:Help-LostIsland-01
+US: "HINT:\nThey destroyed our Tunnel Network\nUse the Sneak Attack to return to that island"
+DE: "TIPP:\nSie haben unser Tunnelsystem zerstört!\nKehren Sie mit Schleichangriffen auf die Insel zurück."
+FR: "ASTUCE :\nIls ont détruit notre Réseau de tunnels !\nUtilisez l'Attaque furtive pour retourner sur cette île."
+ES: "PISTA:\nHan destruido nuestra red de túneles\nUsa el ataque furtivo para volver a esa isla"
+IT: "SUGGERIMENTO:\nHanno distrutto la nostra Rete di tunnel!\nUsate l'Attacco furtivo per tornare su quell'isola."
+KO: "힌트:\n적이 아군의 터널 네트워크를 파괴했습니다!\n저 섬으로 다시 돌아가려면 잠입 공격을 이용하십시오."
+ZH: "建議：\n他們摧毀了我們的地道網路系統！\n使用偷襲能力重返該島"
+BP: "DICA:\nEles destruíram a nossa Rede de Túneis!\nUse o Ataque Sorrateiro para voltar para essa ilha"
+PL: "RADA:\nWróg zniszczył naszą sieć tuneli!\nWykorzystaj atak z zaskoczenia, by wrócić na tę wyspę"
+END
+
+MDGLA03:Help-ArmsDealer-01
+US: "INCOMING TRANSMISSION:\nLiberate the Arms Dealer on the West side of this island"
+DE: "NACHRICHT:\nBefreien Sie den Waffenhändler im Westen dieser Insel."
+FR: "DERNIERES NOUVELLES DU FRONT :\nLibérez le Trafiquant d'armes sur la partie ouest de l'île."
+ES: "TRANSMISIÓN:\nLibera al traficante de armas en la parte oeste de esta isla"
+IT: "TRASMISSIONE IN ARRIVO:\nLiberate il Trafficante d'armi sul lato ovest dell'isola."
+KO: "수신 메시지: 이 섬 서쪽 지역의 무기상을 구출하십시오."
+ZH: "訊息：\n解放這個島西方的軍火商"
+BP: "RECEBENDO TRANSMISSÃO:\nLiberte o Negociante de Armas no lado Oeste desta ilha"
+PL: "ODEBRANA WIADOMOŚĆ:\nUwolnij handlarza bronią po zachodniej stronie tej wyspy"
+END
+
+MDGLA03:Help-JarmenKell-01
+US: "HINT:\nJarmen Kell's snipe ability can neutralize enemy\nvehicles, allowing our infantry to capture them"
+DE: "TIPP:\nUnser Infiltrator kann feindliche Fahrzeuge neutralisieren.\nAnschließend können unsere Cyborgs sie kapern."
+FR: "ASTUCE :\nJarmen Kell peut neutraliser les véhicules ennemis avec son\nfusil à lunette et permettre à notre infanterie de les capturer."
+ES: "PISTA:\nContamos con Jarmen Kell.\nSu capacidad de francotirador permite neutralizar vehículos enemigos,\npermitiendo a la infantería capturarlos"
+IT: "SUGGERIMENTO:\nJarmen Kell può neutralizzare i veicoli nemici agendo come\ncecchino, permettendo alla fanteria di catturarli."
+KO: "힌트:\n쟈멘 켈은 적의 차량을 무력화시켜 우리 보병들이 탈취하도록 하는\n저격 능력을 지녔습니다."
+ZH: "建議：\n賈曼卡爾的狙擊能力可以清除敵軍\n載具，讓我方的步兵可以擄獲它"
+BP: "DICA:\nA habilidade de atirar de tocaia de Jarmen Kell pode neutralizar veículos\ninimigos, permitindo que a nossa infantaria os capture"
+PL: "RADA:\nUmiejętności snajperskie Jarmena Kella pozwalają mu unieruchamiać\nnieprzyjacielskie pojazdy, dzięki czemu nasza piechota może je zdobywać"
+END

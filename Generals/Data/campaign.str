@@ -1,0 +1,47 @@
+CAMPAIGN:USA
+US: "USA"
+DE: "USA"
+FR: "USA"
+ES: "E.E.U.U."
+IT: "USA"
+KO: "미국"
+ZH: "美國"
+BP: "E.U.A."
+PL: "USA"
+END
+
+CAMPAIGN:GLA
+US: "GLA"
+DE: "GBA"
+FR: "GLA"
+ES: "GLA"
+IT: "ELG"
+KO: "GLA"
+ZH: "全球解放軍"
+BP: "E.L.G."
+PL: "AŚW"
+END
+
+CAMPAIGN:China
+US: "China"
+DE: "China"
+FR: "Chine"
+ES: "China"
+IT: "Cina"
+KO: "중국"
+ZH: "中國"
+BP: "China"
+PL: "Chiny"
+END
+
+CAMPAIGN:TRAINING
+US: "Training"
+DE: "Training"
+FR: "Entraînement"
+ES: "Entrenamiento"
+IT: "Addestramento"
+KO: "훈련 임무"
+ZH: "訓練"
+BP: "Treinamento"
+PL: "Szkolenie"
+END

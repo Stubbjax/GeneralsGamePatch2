@@ -1,0 +1,59 @@
+RADAR:UnitUnderAttack
+US: "Unit under attack"
+DE: "Einheit wird angegriffen!"
+FR: "Unité attaquée."
+ES: "Unidad atacada."
+IT: "Unità sotto attacco."
+KO: "유닛이 공격 받고 있습니다."
+ZH: "部隊遭受攻擊。"
+BP: "Unidade sob ataque."
+PL: "Wróg atakuje naszą jednostkę."
+END
+
+RADAR:StructureUnderAttack
+US: "Structure under attack"
+DE: "Gebäude wird angegriffen!"
+FR: "Bâtiment attaqué."
+ES: "Estructura atacada."
+IT: "Struttura sotto attacco."
+KO: "건물이 공격 받고 있습니다."
+ZH: "建築遭受攻擊。"
+BP: "Estrutura sob ataque."
+PL: "Wróg atakuje nasz budynek."
+END
+
+RADAR:UnderAttack
+US: "Under attack"
+DE: "Wir werden angegriffen!"
+FR: "Sous feu ennemi."
+ES: "Bajo ataque."
+IT: "Sotto attacco."
+KO: "공격 받고 있습니다."
+ZH: "遭受攻擊。"
+BP: "Sob ataque."
+PL: "Wróg atakuje."
+END
+
+RADAR:Infiltration
+US: "Enemy infiltration detected"
+DE: "Feindlicher Eindringling geortet!"
+FR: "Infiltration ennemie détectée."
+ES: "Se ha detectado una infiltración enemiga"
+IT: "Rilevata infiltrazione nemica."
+KO: "적군 침입을 발견했습니다."
+ZH: "發現敵人滲透。"
+BP: "Infiltração inimiga detectada."
+PL: "Wykryto nieprzyjacielską infiltrację."
+END
+
+RADAR:HarvesterUnderAttack
+US: "Resource gatherer under attack"
+DE: "Sammler wird angegriffen."
+FR: "Collecteur de ressources attaqué."
+ES: "Recolector de Suministros bajo ataque."
+IT: "Unità di rifornimento sotto attacco."
+KO: "서플라이 수집 유닛이 공격 받고 있습니다."
+ZH: "資源收集者正遭受攻擊。"
+BP: "Coletor de recursos sob ataque."
+PL: "Zaatakowano zbieracza zasobów."
+END

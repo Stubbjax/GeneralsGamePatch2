@@ -1,0 +1,59 @@
+MESSAGE:BattlePlanBombardmentInitiated
+US: "Bombardment strategy has been initiated"
+DE: "Strategie \"Bombardement\" wurde eingeleitet."
+FR: "Le plan de bataille Bombardement vient de débuter."
+ES: "Se ha iniciado la estrategia de bombardeo."
+IT: "Piano di bombardamento attuato."
+KO: "폭격 계획이 개시되었습니다."
+ZH: "轟炸作戰戰術已經開始。"
+BP: "A estratégia de Bombardeio foi iniciada."
+PL: "Wdrażanie strategii bombardowania."
+END
+
+MESSAGE:BattlePlanHoldTheLineInitiated
+US: "Hold the Line strategy has been initiated"
+DE: "Strategie \"Stellung halten\" wurde eingeleitet."
+FR: "Le plan de bataille Tenir la position vient de débuter."
+ES: "Se ha iniciado la estrategia de resistencia."
+IT: "Piano di presidio attuato."
+KO: "전선 유지 계획이 개시되었습니다."
+ZH: "防禦作戰戰術已經開始。"
+BP: "A estratégia de Resistir ao Inimigo foi iniciada."
+PL: "Wdrażanie strategii utrzymania linii."
+END
+
+MESSAGE:BattlePlanSearchAndDestroyInitiated
+US: "Search and Destroy strategy has been initiated"
+DE: "Strategie \"Zerstörung\" wurde eingeleitet."
+FR: "Le plan de bataille Recherche et destruction vient de débuter."
+ES: "Se ha iniciado la estrategia de Búsqueda y destrucción."
+IT: "Piano di ricerca e distruzione attuato."
+KO: "수색 섬멸 계획이 개시되었습니다."
+ZH: "偵搜消滅戰術已經開始。"
+BP: "A estratégia de Procurar e Destruir foi iniciada."
+PL: "Wdrażanie strategii wyszukania i zniszczenia."
+END
+
+MESSAGE:StealthDiscovered
+US: "Enemy stealth unit discovered"
+DE: "Feindliche Tarneinheit entdeckt."
+FR: "Unité furtive ennemie découverte."
+ES: "Descubierta unidad encubierta enemiga"
+IT: "Unità nemica mimetizzata individuata."
+KO: "적 스텔스 유닛이 발견되었습니다."
+ZH: "發現敵軍單位秘密行動"
+BP: "Unidade invisível inimiga descoberta."
+PL: "Wykryto zamaskowaną jednostkę wroga."
+END
+
+MESSAGE:StealthNeutralized
+US: "Stealth ability neutralized"
+DE: "Tarnfähigkeit neutralisiert."
+FR: "Furtivité neutralisée."
+ES: "Neutralizada capacidad encubierta."
+IT: "Capacità di mimetizzazione neutralizzata."
+KO: "스텔스 능력이 무력화되었습니다."
+ZH: "抵銷秘密行動能力"
+BP: "Invisibilidade neutralizada."
+PL: "Możliwość maskowania się zneutralizowana."
+END

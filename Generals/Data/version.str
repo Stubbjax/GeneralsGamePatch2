@@ -1,0 +1,71 @@
+Version:Format4
+US: "%d.%d.%d Build %d %c%c"
+DE: "%d.%d.%d Build %d %c%c"
+FR: "%d.%d.%d Version %d %c%c"
+ES: "%d.%d.%d. Compilación %d%c%c"
+IT: "%d.%d.%d versione %d %c%c"
+KO: "%d.%d.%d 빌드 %d %c%c"
+ZH: "%d.%d.%d 版本 %d %c%c"
+BP: "%d.%d.%d Versão %d %c%c"
+PL: "%d.%d.%d wariant %d %c%c"
+END
+
+Version:Format3
+US: "Version %d.%d.%d"
+DE: "Version %d.%d.%d"
+FR: "Version %d.%d.%d"
+ES: "Versión %d.%d.%d"
+IT: "Versione %d.%d.%d"
+KO: "버전 %d.%d.%d"
+ZH: "版本 %d.%d.%d"
+BP: "Versão %d.%d.%d"
+PL: "Wersja %d.%d.%d"
+END
+
+Version:Format2
+US: "Version %d.%d"
+DE: "Version %d.%d"
+FR: "Version %d.%d"
+ES: "Versión %d.%d"
+IT: "Versione %d.%d"
+KO: "버전 %d.%d"
+ZH: "版本 %d.%d"
+BP: "Versão %d.%d"
+PL: "Wersja %d.%d"
+END
+
+Version:BuildTime
+US: "%ls %ls"
+DE: "%ls %ls"
+FR: "%ls %ls"
+ES: "%ls %ls"
+IT: "%ls %ls"
+KO: "%ls %ls"
+ZH: "%ls %ls"
+BP: "%ls %ls"
+PL: "%ls %ls"
+END
+
+Version:BuildMachine
+US: "Build machine: %ls"
+DE: "Build machine: %ls"
+FR: "Build machine: %ls"
+ES: "Build machine: %ls"
+IT: "Build machine: %ls"
+KO: "Build machine: %ls"
+ZH: "Build machine: %ls"
+BP: "Build machine: %ls"
+PL: "Build machine: %ls"
+END
+
+Version:BuildUser
+US: "By %ls"
+DE: "By %ls"
+FR: "By %ls"
+ES: "By %ls"
+IT: "By %ls"
+KO: "By %ls"
+ZH: "By %ls"
+BP: "By %ls"
+PL: "By %ls"
+END

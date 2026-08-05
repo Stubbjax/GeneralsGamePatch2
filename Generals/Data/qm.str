@@ -1,0 +1,287 @@
+QM:JOININGQMCHANNEL
+US: "Joining QuickMatch..."
+DE: "QuickMatch-Verbindung wird hergestellt ..."
+FR: "Connexion à QuickMatch…"
+ES: "Entrando en QuickMatch...."
+IT: "Ingresso in QuickMatch..."
+KO: "퀵매치 참가중…"
+ZH: "加入快速配對…"
+BP: "Conectando-se ao QuickMatch..."
+PL: "Dołączanie do QuickMatch..."
+END
+
+QM:WORKING
+US: "There are %d players currently attempting to match..."
+DE: "Derzeit sind %d Spieler anwesend ..."
+FR: "%d joueurs tentent d'effectuer une recherche rapide..."
+ES: "Hay %d jugadores esperando para jugar..."
+IT: "Attualmente ci sono %d giocatori che vogliono disputare una partita rapida…"
+KO: "현재 매치를 시도하는 플레이어들이 %d 명 있습니다…"
+ZH: "有 %d 位的玩家試圖加入配對…"
+BP: "No momento, existem %d jogadores tentando jogar..."
+PL: "Liczba graczy próbujących dobrać przeciwników: %d"
+END
+
+QM:POOLSIZE
+US: "There are %d players currently attempting to match..."
+DE: "Derzeit sind %d Spieler anwesend ..."
+FR: "%d joueurs tentent d'effectuer une recherche rapide..."
+ES: "Hay %d jugadores esperando para jugar..."
+IT: "Attualmente ci sono %d giocatori che vogliono disputare una partita rapida…"
+KO: "현재 매치를 시도하는 플레이어들이 %d 명 있습니다…"
+ZH: "有 %d 位的玩家試圖加入配對…"
+BP: "No momento, existem %d jogadores tentando jogar..."
+PL: "Liczba graczy próbujących dobrać przeciwników: %d"
+END
+
+QM:LOOKINGFORBOT
+US: "Looking for the Generals Online MatchMaker..."
+DE: "Verbindung zum MatchMaker wird hergestellt ..."
+FR: "Connexion à l'outil de recherche rapide de Generals en ligne..."
+ES: "Buscando el MatchMaker de Generals Online..."
+IT: "Ricerca del generatore di partite di Generals Online…"
+KO: "제너럴 온라인 매치메이커를 탐색하고 있습니다…"
+ZH: "尋找將軍線上遊戲配對器…"
+BP: "Procurando MatchMaker do Generals Online..."
+PL: "Wyszukiwanie Generals Online"
+END
+
+QM:SENTINFO
+US: "Game info has been sent..."
+DE: "Spielinformationen gesendet ..."
+FR: "Les infos ont été envoyées..."
+ES: "Información de la partida enviada..."
+IT: "Informazioni sulla partita inviate…"
+KO: "게임 정보를 보냈습니다…"
+ZH: "遊戲資料已送出…"
+BP: "As informações foram enviadas..."
+PL: "Dane gry zostały przesłane..."
+END
+
+QM:WIDENINGSEARCH
+US: "Widening search for opponents closest to your preferences..."
+DE: "Weitet Suche nach möglichen Gegnern aus ..."
+FR: "Recherche élargie des adversaires pour des résultats plus précis..."
+ES: "Ampliando búsqueda de rivales que más se acerquen a tus preferencias...."
+IT: "Ampliamento della ricerca agli avversari più vicini alle tue preferenze…"
+KO: "귀하의 설정에 가장 근접한 상대를 찾기 위해 탐색 범위를 확대중입니다…"
+ZH: "廣泛搜尋與您表現相近的對手…"
+BP: "Ampliando busca por oponentes mais próximos de suas preferências..."
+PL: "Poszerzanie wyszukiwania do przeciwników zbliżonych do Twoich kryteriów doboru..."
+END
+
+QM:MATCHED
+US: "Excellent, a match has been found..."
+DE: "Ausgezeichnet, Spiel gefunden!"
+FR: "Ca y est ! Une partie a été trouvée..."
+ES: "Genial, se ha encontrado una coincidencia..."
+IT: "Ottimo, è stata individuata una partita…"
+KO: "상대를 찾았습니다…"
+ZH: "太好了，發現一個配對了…"
+BP: "Excelente, uma partida foi encontrada..."
+PL: "Znakomicie - znaleziono przeciwnika..."
+END
+
+QM:INCHANNEL
+US: "In channel..."
+DE: "Verbindung hergestellt ..."
+FR: "En discussion…"
+ES: "En canal..."
+IT: "Nel canale…"
+KO: "채널에 있습니다…"
+ZH: "頻道…"
+BP: "No canal..."
+PL: "W kanale..."
+END
+
+QM:NEGOTIATINGFIREWALLS
+US: "Negotiating firewalls..."
+DE: "Bearbeitet Firewalls ..."
+FR: "Négociation des firewalls..."
+ES: "Negociando cortafuegos..."
+IT: "Analisi firewall…"
+KO: "방화벽을 통과하고 있습니다…"
+ZH: "防火牆協調中…"
+BP: "Negociando com firewalls..."
+PL: "Uzgadnianie firewalli..."
+END
+
+QM:STARTINGGAME
+US: "Starting the game..."
+DE: "Spiel wird gestartet ..."
+FR: "Lancement de la partie..."
+ES: "Empezando la partida..."
+IT: "Avvio partita…"
+KO: "게임을 시작합니다…"
+ZH: "開始遊戲…"
+BP: "Iniciando partida..."
+PL: "Rozpoczynanie gry..."
+END
+
+QM:COULDNOTFINDBOT
+US: "Could not find the MatchMaker"
+DE: "MatchMaker nicht gefunden"
+FR: "Outil de recherche rapide introuvable"
+ES: "No se puede encontrar el MatchMaker"
+IT: "Impossibile localizzare il generatore di partite"
+KO: "매치메이커를 찾을 수 없습니다."
+ZH: "無法發現遊戲配對器"
+BP: "Não foi possível encontrar o MatchMaker"
+PL: "Znalezienie usługi doboru niemożliwe"
+END
+
+QM:COULDNOTFINDCHANNEL
+US: "Could not find QuickMatch channel"
+DE: "QuickMatch-Channel nicht gefunden"
+FR: "Canal de QuickMatch introuvable"
+ES: "No se puede encontrar el canal de QuickMatch"
+IT: "Impossibile localizzare il canale di QuickMatch"
+KO: "퀵매치 채널을 찾을 수 없습니다."
+ZH: "無法發現快速配對頻道"
+BP: "Não foi possível encontrar o canal de QuickMatch."
+PL: "Znalezienie kanału QuickMatch niemożliwe"
+END
+
+QM:COULDNOTNEGOTIATEFIREWALLS
+US: "Could not negotiate firewalls"
+DE: "Firewall-Protokoll nicht erkannt"
+FR: "Echec de la négociation des firewalls"
+ES: "No se pudieron negociar los cortafuegos"
+IT: "Impossibile analizzare i firewall"
+KO: "방화벽을 통과할 수 없습니다."
+ZH: "無法與防火牆協調"
+BP: "Não foi possível negociar com os firewalls."
+PL: "Uzgodnienie firewalli niemożliwe"
+END
+
+QM:STOPPED
+US: "Quickmatch aborted"
+DE: "QuickMatch abgebrochen"
+FR: "QuickMatch abandonné"
+ES: "QuickMatch abortado"
+IT: "QuickMatch annullato"
+KO: "퀵매치를 취소합니다."
+ZH: "放棄快速配對"
+BP: "QuickMatch abortado."
+PL: "QuickMatch przerwany"
+END
+
+QM:WaitingForPlayerToJoin
+US: "Waiting for opponent to join"
+DE: "Wartet auf Gegner"
+FR: "En attente de l'adversaire..."
+ES: "Esperando a que entre el rival"
+IT: "In attesa dell'ingresso dell'avversario"
+KO: "상대편이 참가할 때까지 기다리는 중입니다."
+ZH: "等待對手加入中"
+BP: "Aguardando oponente"
+PL: "Oczekiwanie na dołączenie przeciwnika"
+END
+
+QM:FindingGameChannel
+US: "Finding opponent's game"
+DE: "Sucht Spiel des Gegners"
+FR: "Recherche de la partie de l'adversaire..."
+ES: "Encontrando partida del rival"
+IT: "Ricerca partita dell'avversario"
+KO: "상대편의 게임을 찾는 중입니다."
+ZH: "尋找對手遊戲中"
+BP: "Procurando jogo do oponente"
+PL: "Wyszukiwanie gry przeciwnika"
+END
+
+QM:JoinedGameChannel
+US: "Joined opponent's game"
+DE: "Verbindung zum Spiel des Gegners hergestellt"
+FR: "Connecté à la partie de l'adversaire"
+ES: "Se ha entrado en la partida del rival"
+IT: "Ingresso nella partita dell'avversario"
+KO: "상대편의 게임에 참가했습니다."
+ZH: "加入對手遊戲"
+BP: "Conectando-se ao jogo do oponente"
+PL: "Dołączono do gry przeciwnika"
+END
+
+QM:PlayerJoined
+US: "Opponent joined"
+DE: "Gegner hat sich angeschlossen"
+FR: "Connecté à l'adversaire"
+ES: "El rival ha entrado"
+IT: "L'avversario si è collegato"
+KO: "상대편이 참가했습니다."
+ZH: "對手已加入"
+BP: "Oponente conectado"
+PL: "Przeciwnik dołączył"
+END
+
+QM:LookingForMatchChannel
+US: "Looking for QuickMatch channel"
+DE: "Sucht QuickMatch-Channel"
+FR: "Recherche du canal de QuickMatch"
+ES: "Buscando el canal de QuickMatch"
+IT: "Ricerca del canale di QuickMatch"
+KO: "퀵매치 채널을 찾는 중입니다."
+ZH: "尋找快速配對頻道中"
+BP: "Procurando por canal de QuickMatch"
+PL: "Wyszukiwanie kanału QuickMatch"
+END
+
+QM:NoMatchChannel
+US: "No match QuickMatch channel found"
+DE: "Kein passender QuickMatch-Channel gefunden"
+FR: "Aucun canal de QuickMatch trouvé"
+ES: "No se ha encontrado canal de QuickMatch"
+IT: "Canale di QuickMatch non trovato"
+KO: "퀵매치 채널에서 매치를 찾을 수 없습니다."
+ZH: "未發現符合的快速配對頻道"
+BP: "Nenhum canal de QuickMatch encontrado."
+PL: "Nie znaleziono kanału QuickMatch"
+END
+
+QM:JoinedMatchChannel
+US: "QuickMatch channel joined"
+DE: "Verbindung zum QuickMatch-Channel hergestellt"
+FR: "Canal de QuickMatch rejoint"
+ES: "Se ha entrado al canal de QuickMatch"
+IT: "Entrato nel canale di QuickMatch"
+KO: "퀵매치 채널에 참가했습니다."
+ZH: "已加入快速配對頻道"
+BP: "Conectado ao canal QuickMatch."
+PL: "Dołączono do kanału QuickMatch"
+END
+
+QM:NoMatchingBot
+US: "MatchMaker not found"
+DE: "MatchMaker nicht gefunden"
+FR: "Outil de QuickMatch introuvable"
+ES: "No se ha encontrado el MatchMaker"
+IT: "Generatore di partite non localizzato"
+KO: "매치메이커를 찾을 수 없습니다."
+ZH: "未發現遊戲配對器"
+BP: "MatchMaker não encontrado."
+PL: "Nie znaleziono usługi doboru"
+END
+
+QM:GameNotFound
+US: "QuickMatch could not find your opponent's game not found"
+DE: "Spiel des Gegners nicht gefunden"
+FR: "QuickMatch n'a pu trouver la partie de votre adversaire."
+ES: "QuickMatch no ha encontrado la partida de tu rival"
+IT: "QuickMatch non ha localizzato la partita dell'avversario"
+KO: "퀵매치가 상대편의 게임을 찾을 수 없습니다."
+ZH: "快速配對無法發現您對手的遊戲"
+BP: "O QuickMatch não conseguiu encontrar um oponente."
+PL: "QuickMatch nie zdołał znaleźć gry Twojego przeciwnika"
+END
+
+QM:TimeoutOtherPlayer
+US: "QuickMatch timed out waiting for opponent to join the game"
+DE: "QuickMatch-Timeout. Wartezeit überschritten"
+FR: "Délai de QuickMatch écoulé en attendant que l'adversaire rejoigne votre partie."
+ES: "QuickMatch agotó el tiempo de espera para que el rival entrase en la partida"
+IT: "QuickMatch ha esaurito il tempo di attesa dell'avversario"
+KO: "퀵매치가 상대편의 게임참가를 기다리는 과정에서 시간초과되었습니다."
+ZH: "快速配對再等待對手加入遊戲時已愈時"
+BP: "O QuickMatch excedeu o tempo limite da operação aguardando a conexão do oponente."
+PL: "Przekroczenie limitu czasowego oczekiwania na przeciwnika w QuickMatch"
+END

@@ -1,0 +1,2411 @@
+MAP:AlpineAssault
+US: "Alpine Assault"
+DE: "Alpine Assault"
+FR: "A l'assaut des Alpes"
+ES: "Asalto alpino"
+IT: "Assalto alpino"
+KO: "Alpine Assault"
+ZH: "高山突擊"
+BP: "Alpine Assault"
+PL: "Alpejski szturm"
+END
+
+MAP:AustrianAmbush
+US: "Market Garden"
+DE: "Market Garden"
+FR: "Embuscade en Autriche"
+ES: "Jardín del Mercado"
+IT: "Il mercato"
+KO: "Market Garden"
+ZH: "市場花園"
+BP: "Market Garden"
+PL: "Austriacka zasadzka"
+END
+
+MAP:Badlands
+US: "Desert Fury"
+DE: "Desert Fury"
+FR: "Badlands"
+ES: "Furia del Desierto"
+IT: "Furia nel deserto"
+KO: "Desert Fury"
+ZH: "沙漠之怒"
+BP: "Desert Fury"
+PL: "Pustkowie"
+END
+
+MAP:BridgeBusters
+US: "Iron Dragon"
+DE: "Iron Dragon"
+FR: "Pontonniers dévastateurs"
+ES: "Dragón de Hierro"
+IT: "Il drago di ferro"
+KO: "Iron Dragon"
+ZH: "鐵血飛龍"
+BP: "Iron Dragon"
+PL: "Niszczyciele mostów"
+END
+
+MAP:KashmarKlash
+US: "Wasteland Warlords"
+DE: "Wasteland Warlords"
+FR: "Clash à Kashmar"
+ES: "Señor del Páramo"
+IT: "Terre selvagge"
+KO: "Wasteland Warlords"
+ZH: "荒原之君"
+BP: "Wasteland Warlords"
+PL: "Starcie w Kaszmirze"
+END
+
+MAP:Oasis
+US: "Golden Oasis"
+DE: "Golden Oasis"
+FR: "Oasis"
+ES: "Oasis Dorado"
+IT: "L'oasi d'oro"
+KO: "Golden Oasis"
+ZH: "金色綠洲"
+BP: "Golden Oasis"
+PL: "Oaza"
+END
+
+MAP:ScorchedEarth
+US: "Scorched Earth"
+DE: "Scorched Earth"
+FR: "Terre brûlée"
+ES: "Tierra quemada"
+IT: "Terra bruciata"
+KO: "Scorched Earth"
+ZH: "焦土作戰"
+BP: "Scorched Earth"
+PL: "Spalona ziemia"
+END
+
+MAP:SleepyHollow
+US: "Heartland Shield"
+DE: "Heartland Shield"
+FR: "Méfiez-vous de l'eau qui dort..."
+ES: "Corazón del Escudo"
+IT: "Terra natale"
+KO: "Heartland Shield"
+ZH: "心之盾"
+BP: "Heartland Shield"
+PL: "Pipidówka"
+END
+
+MAP:SmalltownUSA
+US: "Homeland Alliance"
+DE: "Homeland Alliance"
+FR: "Alliance patriote"
+ES: "Alianza de la Madre Patria"
+IT: "L'alleanza"
+KO: "Homeland Alliance"
+ZH: "祖國盟軍"
+BP: "Homeland Alliance"
+PL: "Amerykańska prowincja"
+END
+
+MAP:TampicoTrauma
+US: "Silent River"
+DE: "Silent River"
+FR: "Tampico Trauma"
+ES: "Río Tranquilo"
+IT: "Il fiume silenzioso"
+KO: "Silent River"
+ZH: "寂靜之河"
+BP: "Silent River"
+PL: "Strach w Tampico"
+END
+
+MAP:WoodcrestCircle
+US: "Final Crusader"
+DE: "Final Crusader"
+FR: "Cercle de feu"
+ES: "Cruzada Final"
+IT: "L'ultima crociata"
+KO: "Final Crusader"
+ZH: "最終聖戰"
+BP: "Final Crusader"
+PL: "Leśny krąg"
+END
+
+MAP:XinjiangBang
+US: "Winter Wolf"
+DE: "Winter Wolf"
+FR: "Bing bang au Xinjiang"
+ES: "Lobo Invernal"
+IT: "Il lupo invernale"
+KO: "Winter Wolf"
+ZH: "寒冬之狼"
+BP: "Winter Wolf"
+PL: "Eksplozja w Xinjang"
+END
+
+MAP:CHI01ObjectiveText
+US: "MISSION OBJECTIVE\nDestroy the Nuclear Warhead Storage Facility."
+DE: "EINSATZZIEL:\nZerstören Sie das Atomwaffenlager."
+FR: "OBJECTIF DE MISSION\nDétruire le dépôt nucléaire."
+ES: "OBJETIVO DE LA MISIÓN\nDestruir la planta de almacenamiento de cabezas nucleares"
+IT: "OBIETTIVO MISSIONE:\nDistruggete la struttura di stoccaggio della testata nucleare."
+KO: "임무 목표\n핵탄두 수용 시설을 파괴하십시오."
+ZH: "任務目標\n摧毀核子彈頭儲存設施。"
+BP: "OBJETIVO DA MISSÃO\nDestrua as Instalações de Armazenagem das Ogivas Nucleares."
+PL: "Cel misji\nZniszczyć składnicę głowic jądrowych."
+END
+
+MAP:CHI02Open
+US: "Hong Kong, China\nHong Kong Crisis"
+DE: "Hong Kong, China\n'Die Hong Kong-Krise'"
+FR: "Ile de Hong-Kong, Chine\nCrise à Hong-Kong"
+ES: "Isla de Hong Kong, China\nCrisis en Hong Kong"
+IT: "Isola di Hong Kong, Cina\n\"Crisi a Hong Kong\""
+KO: "Hong Kong, China\n홍콩 재앙"
+ZH: "香港，中國\n香港危機"
+BP: "Hong Kong, China\nCrise em Hong Kong"
+PL: "Hongkong, Chiny\nKryzys w Hongkongu"
+END
+
+MAP:CHI02Obj01
+US: "Mission Objective:\nDestroy the Convention Center\nand its attached parking structures\nto stop the Terrorist threat."
+DE: "EINSATZZIEL:\nZerstören Sie das Tagungszentrum und die umliegenden Parkplätze,\num die Terroristen aufzuhalten."
+FR: "Objectif :\ndétruire le pavillon des expositions\net ses parkings attenants\nafin d'endiguer la menace terroriste."
+ES: "Objetivo:\nDestruir el Centro de Convenciones\ny sus estructuras de aparcamiento\npara detener la amenaza terrorista."
+IT: "OBIETTIVO MISSIONE:\nDistruggete il centro congressi di Hong Kong\ne i parcheggi a esso collegati per annientare\nla minaccia dei terroristi."
+KO: "임무 목표:\n홍콩 집회/전람회 센터와\n센터의 주차장을 파괴하여\n테러리스트의 위협을 저지하십시오."
+ZH: "任務目標：\n摧毀香港展覽會議中心\n及它附屬的停車場建築。\n以阻止恐怖份子威脅。"
+BP: "OBJETIVO DA MISSÃO\nDestrua o Centro de Convenções e seus estacionamentos.\nAcabe com a base terrorista para eliminar a ameaça."
+PL: "Cel:\nZniszczyć centrum wystawowe\ni przylegający do niego parking,\naby zlikwidować terrorystów."
+END
+
+MAP:CHI02Obj02
+US: "Mission Objective:\nDestroy the GLA base."
+DE: "EINSATZZIEL:\nZerstören Sie die Basis der GBA."
+FR: "Objectif :\ndétruire la base de la GLA."
+ES: "Objetivo:\nDestruir la base del GLA"
+IT: "OBIETTIVO MISSIONE:\nDistruggete la base dell'ELG."
+KO: "임무 목표:\nGLA 기지를 파괴하십시오."
+ZH: "任務目標：\n毀滅全球解放軍的基地。"
+BP: "OBJETIVO DA MISSÃO\nDestrua a base do E.L.G."
+PL: "Cel:\nZniszczyć bazę AŚW."
+END
+
+MAP:CHI02SecondaryObj01
+US: "Secondary Objective:\nStop GLA Terrorists from destroying\ntargeted buildings in downtown Hong Kong."
+DE: "Sekundärziel:\nVerhindern Sie die Zerstörung von Gebäuden in der\nInnenstadt Hong Kongs durch Terroristen."
+FR: "Objectif secondaire :\nempêcher les terroristes de la GLA de détruire\nles bâtiments cibles du centre de Hong-Kong."
+ES: "Objetivo secundario:\nEvitar que los terroristas del GLA destruyan\nlos edificios marcados en Hong Kong."
+IT: "Obiettivo secondario:\nImpedite ai terroristi dell'ELG di distruggere\ngli edifici bersaglio nel centro di Hong Kong."
+KO: "2차 목표:\nGLA 테러리스트의 홍콩 상업 지구\n빌딩 파괴작전을 저지하십시오."
+ZH: "次要目標：\n阻止全球解放軍恐佈份子毀滅\n香港商業區的建築物。"
+BP: "OBJETIVO SECUNDÁRIO\n\nNão permita que os terroristas do E.L.G. destruam os edifícios\nno centro de Hong Kong."
+PL: "Cel dodatkowy:\nUniemożliwić terrorystom AŚW zniszczenie\nwybranych przez nich budynków na przedmieściach Hongkongu."
+END
+
+MAP:CHI02SecondaryObj02
+US: "Secondary Objective:\nDestroy the Toxin Tractor production facility."
+DE: "Sekundärziel:\nZerstören Sie die Toxintraktoren-Fabrik."
+FR: "Objectif secondaire :\ndétruire l'usine de tracteurs bactériologiques."
+ES: "Objetivo secundario:\nDestruir la planta de producción de Tractores de Toxinas"
+IT: "Obiettivo secondario:\nDistruggete il centro di produzione dei Contaminatori."
+KO: "2차 목표:\n독소 트랙터 생산 시설을 파괴하십시오."
+ZH: "次要目標：\n毀滅毒素車生產設備。"
+BP: "OBJETIVO SECUNDÁRIO\nDestrua a instalação de produção dos Tratores Tóxicos."
+PL: "Cel dodatkowy:\nZniszczyć fabryką ciągników z toksyną."
+END
+
+MAP:CHI03Open
+US: "Three Gorges Dam...Hubei Province, China\nA Flood of Violence"
+DE: "Drei Schluchten Damm ... Provinz Hubei, China\n'Flut der Gewalt'"
+FR: "Barrage des 3 Gorges, province du Hubei, Chine\nInondations"
+ES: "Presa de las Tres Gargantas... Provincia de Hubei, China\nInundación Violenta"
+IT: "Diga delle Tre Gole, provincia di Hubei, Cina\n\"Un fiume di violenza\""
+KO: "Three Gorges Dam...Hubei Province, China\n분노의 홍수"
+ZH: "三峽大壩…湖北省，中國\n暴力充斥"
+BP: "Represa Três Ravinas... Província de Hubei, China\nUma Onda de Violência"
+PL: "Zapora Trzech Gardzieli, prowincja Hubei, Chiny\nZalew przemocy"
+END
+
+MAP:CHI03Obj1
+US: "Mission Objective:\nDestroy the Dam"
+DE: "EINSATZZIEL:\nZerstören Sie den Damm."
+FR: "Premier objectif :\ndétruire le barrage."
+ES: "Objetivo 1:\nDestruir la Presa"
+IT: "OBIETTIVO MISSIONE:\nDistruggete la diga."
+KO: "임무 목표:\n댐을 폭파하십시오."
+ZH: "任務目標：\n毀滅水壩"
+BP: "OBJETIVO DA MISSÃO\nDestrua a Represa."
+PL: "Cel 1:\nZniszczyć zaporę"
+END
+
+MAP:CHI03Obj2
+US: "Mission Objective:\nDestroy the GLA base"
+DE: "EINSATZZIEL:\nZerstören Sie die GBA-Basis."
+FR: "Second objectif :\ndétruire la base de la GLA."
+ES: "Objetivo 2:\nDestruir la base del GLA"
+IT: "OBIETTIVO MISSIONE:\nDistruggete la base dell'ELG."
+KO: "임무 목표:\nGLA 기지를 파괴하십시오."
+ZH: "任務目標：\n毀滅全球解放軍基地"
+BP: "OBJETIVO DA MISSÃO\nDestrua a base do E.L.G."
+PL: "Cel 2:\nZniszczyć bazę AŚW"
+END
+
+MAP:CHI03Obj3
+US: "Mission Objective:\nDefeat all remaining GLA forces"
+DE: "EINSATZZIEL:\nVernichten Sie alle Einheiten der GBA."
+FR: "Objectif ultime :\nvaincre toutes les forces de la GLA."
+ES: "Objetivo 3:\nDerrotar a las fuerzas del GLA que queden"
+IT: "OBIETTIVO MISSIONE:\nDistruggete le forze residue dell'ELG."
+KO: "임무 목표:\nGLA 잔존 세력을 퇴치하십시오."
+ZH: "任務目標：\n打敗所有剩下的全球解放軍的軍隊"
+BP: "OBJETIVO DA MISSÃO\nElimine as forças restantes do E.L.G."
+PL: "Cel 3:\nPokonać wszystkie pozostałe siły AŚW"
+END
+
+MAP:CHI03AudioHolder01
+US: "<Red Guard speaking> 'General, the water level has dropped! GLA forces are crossing the river!'"
+DE: "<Red Guard speaking> 'General, the water level has dropped! GLA forces are crossing the river!'"
+FR: "<Red Guard speaking> 'General, the water level has dropped! GLA forces are crossing the river!'"
+ES: "<Red Guard speaking> 'General, the water level has dropped! GLA forces are crossing the river!'"
+IT: "<Red Guard speaking> 'General, the water level has dropped! GLA forces are crossing the river!'"
+KO: "<Red Guard speaking> 'General, the water level has dropped! GLA forces are crossing the river!'"
+ZH: "<Red Guard speaking> 'General, the water level has dropped! GLA forces are crossing the river!'"
+BP: "<Red Guard speaking> 'General, the water level has dropped! GLA forces are crossing the river!'"
+PL: "<Red Guard speaking> 'General, the water level has dropped! GLA forces are crossing the river!'"
+END
+
+MAP:CHI06Open
+US: "Bishkek, Aldastan Subcapital\nDead in their Tracks"
+DE: "Bishkek, Aldastan\n'Tödliche Fracht'"
+FR: "Bichkek, deuxième ville du Kirghizstan\nMort au tournant"
+ES: "Bishkek, subcapital de Aldastan\nMuerte en las Vías"
+IT: "Bishkek, sub-capitale dell'Aldastan\n\"Morte lungo la via\""
+KO: "Bishkek, Aldastan Subcapital\n죽음의 궤도"
+ZH: "畢斯凱、阿爾丹斯坦次都\n死亡之路"
+BP: "Bishkek, Subcapital de Aldastan\nSeguindo o Rastro"
+PL: "Biszkek, jedno z głównych miast Aldastanu\nKoleje śmierci"
+END
+
+MAP:CHI06Obj1
+US: "Mission Objective:\nGet Black Lotus to the middle of the train bridge"
+DE: "EINSATZZIEL:\nBringen Sie Agentin Schwarzer Lotus\nzur Mitte der Eisenbahnbrücke."
+FR: "Objectif :\ndéposer Lotus Noir à mi-chemin sur le pont ferroviaire."
+ES: "Objetivo:\nLlevar a Loto Negro al medio del puente del tren."
+IT: "OBIETTIVO MISSIONE:\nConducete Loto Nero al centro del ponte della ferrovia."
+KO: "임무 목표:\n흑수선을 기차 다리의 중간 부분으로 이동시키십시오."
+ZH: "任務目標：\n讓黑蓮花到達鐵路橋樑的中央"
+BP: "OBJETIVO DA MISSÃO\nLeve a agente Black Lotus até o meio da ponte ferroviária."
+PL: "Cel:\nDoprowadzić Czarny Lotos do środka wiaduktu kolejowego."
+END
+
+MAP:CHI07Open
+US: "Dushanbe, Aldastan Capital City\nNuclear Winter"
+DE: "Dushanbe, Hauptstadt von Aldastan\n'Nuklearer Winter'"
+FR: "Dushanbe, capitale du Kirghizstan\nHiver nucléaire"
+ES: "Dushanbe, capital de Aldastan\nInvierno Nuclear"
+IT: "Dushanbe, capitale dell'Aldastan\n\"Inverno nucleare\""
+KO: "Dushanbe, Aldastan Capital City\n핵겨울"
+ZH: "杜尚別、阿爾丹斯坦首都\n核子冬天"
+BP: "Dushanbe, Capital de Aldastan\nInverno Nuclear"
+PL: "Duszanbe, stolica Aldastanu\nZima nuklearna"
+END
+
+MAP:Demo58Open
+US: "Kazakhstan DMZ\nOperation: Blue Eagle"
+DE: "Kasachstan DMZ\nOperation: Blue Eagle"
+FR: "Kazakhstan DMZ\nOperation : Aigle Bleu"
+ES: "Zona Desmilitarizada de Kazakstán\nOperación: Águila Azul"
+IT: "Zona demilitarizzata del Kazakhistan\nOperazione: Aquila blu"
+KO: "Kazakhstan DMZ\n작전: 푸른 독수리"
+ZH: "哈薩克DMZ\n行動：藍鷹"
+BP: "ZDM do Cazaquistão\nOperação: Águia Azul"
+PL: "Kazachstan, strefa zdemilitaryzowana\nOperacja Błękitny orzeł"
+END
+
+MAP:Demo58End1
+US: "Battle Control Off-Line..."
+DE: "Battle Control Off-Line..."
+FR: "Battle Control Off-Line..."
+ES: "Battle Control Off-Line..."
+IT: "Battle Control Off-Line..."
+KO: "Battle Control Off-Line..."
+ZH: "Battle Control Off-Line..."
+BP: "Battle Control Off-Line..."
+PL: "Battle Control Off-Line..."
+END
+
+MAP:Demo58End2
+US: "COMMAND AND CONQUER GENERALS\nCOMING: CHRISTMAS 2002"
+DE: "COMMAND AND CONQUER GENERALS\nCOMING: CHRISTMAS 2002"
+FR: "COMMAND AND CONQUER GENERALS\nCOMING: CHRISTMAS 2002"
+ES: "COMMAND AND CONQUER GENERALS\nCOMING: CHRISTMAS 2002"
+IT: "COMMAND AND CONQUER GENERALS\nCOMING: CHRISTMAS 2002"
+KO: "COMMAND AND CONQUER: GENERALS\nCOMING: CHRISTMAS 2002"
+ZH: "COMMAND AND CONQUER: GENERALS\nCOMING: CHRISTMAS 2002"
+BP: "COMMAND AND CONQUER GENERALS\nCOMING: CHRISTMAS 2002"
+PL: "COMMAND AND CONQUER GENERALS\nCOMING: CHRISTMAS 2002"
+END
+
+MAP:Demo48Open
+US: "Mazar Free Fire Zone\nOperation: White Knight"
+DE: "Mazar Free Fire Zone\nOperation: White Knight"
+FR: "Mazar Free Fire Zone\nOperation: White Knight"
+ES: "Zona de combate en Mazar\nOperación: Caballero Blanco"
+IT: "Mazar Free Fire Zone\nOperation: White Knight"
+KO: "Mazar Free Fire Zone\n작전: 백기사"
+ZH: "Mazar Free Fire Zone\nOperation: White Knight"
+BP: "Zona de Fogo Livre de Mazar\nOperação: Cavaleiro Branco"
+PL: "Mazar Free Fire Zone\nOperation: White Knight"
+END
+
+MAP:GLA02MapName
+US: "Pillage the Village"
+DE: "Plünderung"
+FR: "Pillage du village"
+ES: "Saquear el pueblo"
+IT: "Saccheggiate il villaggio"
+KO: "마을 획득"
+ZH: "掠奪村莊"
+BP: "Saqueando a Vila"
+PL: "Splądrować wioski"
+END
+
+MAP:GLA02Open
+US: "Villages Outside Almaty, Kazakhstan\nAid Supplies Drop Zone"
+DE: "Dörfer bei Almaty, Kasachstan\nAbwurfzone der Hilfsgüter"
+FR: "Villages des environs d'Almaty, Kazakhstan\nZone de largage"
+ES: "Pueblos a las afueras de Almaty, Kazajstán\nZona de lanzamiento de suministros de ayuda"
+IT: "Villaggi nei dintorni di Almaty, Kazakhistan\nZona di lancio degli aiuti umanitari"
+KO: "Villages Outside Almaty, Kazakhstan\n지원 서플라이 투하지역"
+ZH: "雅馬提外圍村莊，哈薩克\n支援補給品空投區域"
+BP: "Vilas Fora de Almaty, Cazaquistão\nZona de Abastecimento Aéreo"
+PL: "Wioski w okolicach Ałma-Aty, Kazachstan\nStrefa zrzutu"
+END
+
+MAP:GLA02ObjectiveText01
+US: "MISSION OBJECTIVE\nCollect $40,000 in stolen supplies"
+DE: "EINSATZZIEL:\nSammeln Sie gestohlene Hilfsgüter im Wert von $40.000."
+FR: "OBJECTIF DE MISSION :\nvoler 40 000 dollars de ravitaillement."
+ES: "OBJETIVO DE LA MISIÓN\nReunir 40.000$ de suministros robados"
+IT: "OBIETTIVO MISSIONE:\nRaccogliete $40.000 in aiuti rubati."
+KO: "임무 목표\n훔친 서플라이로 $40,000를 수집하십시오."
+ZH: "任務目標\n搜刮補給品積聚至＄40,000"
+BP: "OBJETIVO DA MISSÃO\nConsiga $40.000 em suprimentos roubados."
+PL: "Cel misji\nZebrać 40.000$ w postaci skradzionego zaopatrzenia."
+END
+
+MAP:GLA021stThirdObjective
+US: "First Goal:\nCollect $20,000 by taking the UN Convoys' crates"
+DE: "1. Ziel:\nSammeln Sie die Kisten des UN-Konvois ein. /n Sie haben einen Wert von $20.000."
+FR: "Premier objectif  :\nrécupérer 20 000 dollars en vous emparant des caisses des N-U."
+ES: "Primer objetivo:\nReune 20.000$ cogiendo las cajas de los convoys de la ONU"
+IT: "Primo obiettivo:\nRaccogliete $20.000 recuperando le casse dei convogli dell'ONU."
+KO: "1차 목표:\nUN 호송 크레이트에서 $20.000를 수집하십시오."
+ZH: "第一目標：\n收集聯合國護航部隊的箱子來積聚至＄20,000"
+BP: "OBJETIVO PRIMÁRIO\nConsiga $20.000 apoderando-se da carga do Comboio da ONU."
+PL: "Pierwszy cel:\nZebrać 20.000$, zdobywając skrzynie konwojów ONZ."
+END
+
+MAP:GLA022ndThirdObjective
+US: "Second Goal:\nCollect $30,000 by taking the crates dropped by the US planes"
+DE: "2. Ziel:\nSammeln Sie die von den Versorgungsflugzeugen abgeworfenen Hilfsgüter.\nSie sind $30.000 wert."
+FR: "Second objectif :\nrécupérer 30 000 $ en vous emparant des caisses larguées par les avions US."
+ES: "Segundo objetivo:\nReune 30.000$ cogiendo las cajas lanzadas por los aviones de E.E.U.U."
+IT: "Secondo obiettivo:\nRaccogliete $30.000 recuperando le casse lasciate cadere\ndagli aerei statunitensi."
+KO: "2차 목표:\n미국 비행기가 투하한 크레이트를 획보하여 $30,000를 수집하십시오."
+ZH: "第二目標：\n收集聯合國飛機空投下來的箱子聚集至＄30,000"
+BP: "OBJETIVO SECUNDÁRIO\nConsiga $30.000 apoderando-se dos suprimentos atirados pelos aviões."
+PL: "Drugi cel:\nZebrać 30.000$, zdobywając skrzynie zrzucone przez amerykańskie samoloty."
+END
+
+MAP:GLA023rdThirdObjective
+US: "Final Goal: Collect $40,000 in supplies by raiding the US base"
+DE: "Letztes Ziel: Plündern Sie den US-Stützpunkt und stellen Sie\nRohstoffe im Wert von $40.000 sicher."
+FR: "Objectif ultime :\nrécupérer 40 000 dollars en attaquant la base US."
+ES: "Último objetivo:\nReune $40 000 en suministros, bombardea la base de E.E.U.U."
+IT: "Obiettivo finale:\nRaccogliete $40.000 in rifornimenti razziando la base USA."
+KO: "최후 목표: 미국 기지를 강탈하여 $40,000를 수집하십시오."
+ZH: "最後目標：\n突擊的美國基地的補給品裡聚集至＄40,000"
+BP: "OBJETIVO FINAL\nConsiga $40.000 em suprimentos atacando a base americana."
+PL: "Końcowy cel:\nZebrać 40.000$ w postaci zaopatrzenia, napadając na amerykańską bazę."
+END
+
+MAP:GLA02CivBuildingHint
+US: "Villagers have supplies stored in their homes.\nDestroy their homes and steal the supplies hidden there"
+DE: "Die Dorfbewohner verstecken die Rohstoffe in ihren Häusern.\nZerstören Sie die Häuser und holen Sie sich Rohstoffe."
+FR: "Les villageois entreposent du ravitaillement chez eux.\nDétruisez leurs habitations et volez le ravitaillement qui s'y trouve."
+ES: "Los habitantes del pueblo tienen provisiones en sus casas.\nDestrúyelas y roba los suministros ocultos"
+IT: "Gli abitanti hanno nascosto i rifornimenti nelle loro case.\nDistruggete le abitazioni e rubate ciò che contengono."
+KO: "마을주민들의 가정에 서플라이가 있습니다.\n집을 파괴하고 숨어있는 서플라이를 확보하십시오."
+ZH: "村民在家中也有已貯存的補給品。\n毀滅他們的家並奪取被隱藏在家中的補給品"
+BP: "Os moradores das vilas possuem suprimentos em suas casas.\nDestrua suas casas e apodere-se dos suprimentos escondidos."
+PL: "Wieśniacy mają w swoich domach ukryte zapasy.\nZniszcz domy i ukradnij te zapasy."
+END
+
+MAP:GLA02CivKillHint
+US: "The villagers are taking our supplies. STOP THEM!"
+DE: "Die Dorfbewohner stehlen unsere Hilfsgüter! HALTEN SIE SIE AUF!"
+FR: "Les villageois s'emparent de nos réserves. ARRETEZ-LES !"
+ES: "Los habitantes del pueblo están robando nuestros suministros. ¡DETENLOS!"
+IT: "Gli abitanti stanno prendendo i nostri rifornimenti. FERMATELI!"
+KO: "마을주민들이 저희 서플라이를 가져가고 있습니다. 저지하십시오!"
+ZH: "村民正在拿取我們的補給品。阻止他們！"
+BP: "Os moradores estão pegando nossos suprimentos. DETENHA-OS!"
+PL: "Wieśniacy zabierają nasze zaopatrzenie. POWSTRZYMAJ ICH!"
+END
+
+MAP:GLA02QuadsArrival
+US: "Reinforcments have arrived:\nUse Quad Cannons to bring down enemy aircraft"
+DE: "Die Einsatztruppen sind eingetroffen:\nSchießen Sie die feindlichen Flugzeuge mit Vierlingsgeschützen ab!"
+FR: "Les renforts sont là :\nutilisez des Quads pour abattre l'avion ennemi."
+ES: "Han llegado refuerzos:\nUsa los Cañones Quad para parar los aviones enemigos"
+IT: "I rinforzi sono arrivati:\nUsate i cannoni quadrupli per abbattere gli aerei nemici."
+KO: "지원 병력이 도착했습니다:\n쿼드 케논을 이용하여 적 비행기를 격추하십시오."
+ZH: "援軍已經到達：\n利用四管加農砲擊落敵方航空器"
+BP: "Reforços recebidos:\nUse os Canhões Quádruplos para derrubar as aeronaves inimigas."
+PL: "Przybyły posiłki:\nWykorzystaj działka czterolufowe do zestrzelenia nieprzyjacielskich samolotów."
+END
+
+MAP:GLA02CrateReminder
+US: "Collect the crates to reach your goal."
+DE: "Sammeln Sie die Kisten ein, um den Auftrag zu erfüllen."
+FR: "Récupérez les caisses pour atteindre votre objectif."
+ES: "Reúne cajas para alcanzar tu meta."
+IT: "Raccogliete le casse per raggiungere l'obiettivo."
+KO: "크레이트를 수집하여 목표를 완수하십시오."
+ZH: "收集箱子以達到您的目的地。"
+BP: "Recolha os suprimentos para alcançar seu objetivo."
+PL: "Aby osiągnąć cel, zbierz skrzynie."
+END
+
+MAP:GLA02MonkeyReminder
+US: "You will not reach our goal if you spend all your money."
+DE: "Wenn Sie das ganze Geld ausgeben, erreichen Sie ihr Einsatzziel nie!"
+FR: "Vous n'atteindrez pas notre objectif si vous dépensez tout votre argent."
+ES: "No alcanzarás tu meta si te gastas todo el dinero."
+IT: "Non raggiungerai l'obiettivo spendendo tutto il denaro."
+KO: "자금을 모두 사용하면 목표 달성이 힘들게 됩니다."
+ZH: "假如您花光您的錢您將不會達到您的目標。"
+BP: "Você não alcançará seu objetivo se gastar todo o seu dinheiro."
+PL: "Nie wykonasz zadania, jeśli wydasz wszystkie pieniądze."
+END
+
+MAP:GLA06MapName
+US: "Appropriate Poisons"
+DE: "Giftgas"
+FR: "Poisons appropriés"
+ES: "Hazte con venenos"
+IT: "Veleni appropriati"
+KO: "독소 탈취"
+ZH: "佔用的毒物"
+BP: "Veneno Apropriado"
+PL: "Stosowna trucizna"
+END
+
+MAP:GLA06Open
+US: "Western Shore of the Aral Sea, Kazakhstan\nToxic Waste Containment and Disposal Facilities"
+DE: "Westufer des Aralsees, Kasachstan\nChemiewaffenlager"
+FR: "Côte ouest de la Mer d'Aral, Kazakhstan\nDépôt bactériologique"
+ES: "Orilla Oeste del Mar de Aral, Kazajstan\nContención de residuos tóxicos y planta de residuos"
+IT: "Costa occidentale del Mare di Aral, Kazakhistan\nImpianti di trattamento delle scorie tossiche."
+KO: "Western Shore of the Aral Sea, Kazakhstan\n독소 폐기물 안전 격납 처리 시설"
+ZH: "鹹海的西濱，哈薩克\n有毒廢棄物防制處理設備"
+BP: "Costa Ocidental do Mar de Aral, Cazaquistão\nInstalações de Tratamento e Contenção de Lixo Tóxico"
+PL: "Zachodni brzeg Jeziora Aralskiego, Kazachstan\nSkładowisko i przetwórnia odpadów toksycznych"
+END
+
+MAP:GLA06MissionObjective
+US: "MISSION OBJECTIVE:\nCapture 4 Bunkers and Wipe out all American defenders"
+DE: "EINSATZZIEL:\nBesetzen Sie 4 Bunker und vernichten Sie alle\namerikanischen Verteidiger."
+FR: "OBJECTIF DE MISSION :\nprendre 4 bunkers et détruire les défenses américaines."
+ES: "OBJETIVO DE LA MISIÓN:\nTomar 4 Búnkers y exterminar a todos los defensores americanos"
+IT: "OBIETTIVO MISSIONE:\nCatturate 4 bunker e annientate le forze di difesa americane."
+KO: "임무 목표:\n벙커 4개 점령 후 모든 미국 옹호자들을 섬멸하십시오."
+ZH: "任務目標：\n佔領四個碉堡及徹底摧毀所有美國防禦兵力"
+BP: "OBJETIVO DA MISSÃO\nCapture 4 Bunkers e elimine todas as forças americanas."
+PL: "Cel misji\nZajmij cztery bunkry i zlikwiduj wszystkich Amerykanów, którzy ich bronią."
+END
+
+MAP:GLA06BunkerWarning
+US: "WARNING:\nThe Bunkers are fragile and will explode violently when destroyed"
+DE: "WARNUNG:\nDie Bunker sind baufällig. Es besteht höchste Explosionsgefahr."
+FR: "ALERTE :\nles bunkers sont fragiles et font d'énormes dégâts en explosant."
+ES: "AVISO:\nLos bunkers son frágiles y explotarán violentamente al destruirlos"
+IT: "ATTENZIONE:\nI bunker sono fragili ed esploderanno con violenza se distrutti."
+KO: "경고:\n벙커는 파괴되기 쉽고 파괴 시 대폭발을 유발할 것입니다."
+ZH: "警告：\n當被猛烈攻擊時，碉堡是很容易損壞的"
+BP: "ATENÇÃO:\nOs Bunkers explodirão violentamente se forem destruídos."
+PL: "Uwaga:\nBunkry mają delikatną konstrukcję i wybuchną potężnie w chwili zniszczenia"
+END
+
+MAP:GLA06BunkerDestroyed
+US: "WARNING:\nThe fool Americans are trying to stop us by destroying the bunkers!"
+DE: "WARNUNG:\nDie Amerikaner wollen uns aufhalten! Diese Narren zerstören die Bunker!"
+FR: "ALERTE :\nles Américains essaient de nous arrêter en détruisant les bunkers !"
+ES: "AVISO:\n¡Los chalados de los yanquis están tratando de pararnos destruyendo los bunkers!"
+IT: "ATTENZIONE:\nQuei maledetti americani stanno cercando\ndi fermarci distruggendo i bunker!"
+KO: "경고:\n벙커는 파괴되기 쉽고 파괴 시 대폭발을 유발할 것입니다."
+ZH: "警告：\n愚蠢的美軍想試著毀滅碉堡來阻止我們！"
+BP: "ATENÇÃO:\nOs americanos estão tentando nos deter destruindo os Bunkers!"
+PL: "Uwaga:\nAmerykańscy durnie próbują nas powstrzymać, niszcząc bunkry!"
+END
+
+MAP:GLA06BunkerRetaken
+US: "The Americans have retaken our bunker. Take it back now!"
+DE: "Die Amerikaner haben unseren Bunker eingenommen. Holen Sie ihn sich zurück."
+FR: "Les Américains ont pris notre bunker. Reprenez-le maintenant !"
+ES: "Los americanos han vuelto a tomar nuestro bunker. ¡Recupéralo ya!"
+IT: "Gli americani hanno riconquistato il nostro bunker.\nRiprendetene il controllo!"
+KO: "미군이 벙커를 다시 점령했습니다. 다시 점령하십시오!"
+ZH: "美國人已經取走我們的碉堡。將他奪回來！"
+BP: "Os americanos recapturaram nosso Bunker. Recupere-o agora!"
+PL: "Amerykanie odebrali nam bunkier. Trzeba go natychmiast odbić!"
+END
+
+MAP:GLA06BunkerObjective
+US: "You must own 4 bunkers to complete your mission"
+DE: "Sie müssen 4 Bunker erobern, um den Auftrag zu erfüllen!"
+FR: "Vous devez prendre 4 bunkers pour accomplir la mission."
+ES: "Debes tener 4 bunkers para completar tu misión"
+IT: "Dovete controllare 4 bunker per completare la missione."
+KO: "임무 완수를 위해서는 벙커 4개를 점령해야합니다."
+ZH: "您必需擁有四個碉堡，來完成您的任務。"
+BP: "Você deve capturar 4 Bunkers para completar sua missão."
+PL: "Musisz zająć cztery bunkry, by wykonać misję."
+END
+
+MAP:GLA06KillEnemies
+US: "You own the required number of bunkers.\nNow wipe out the Americans to secure your victory!"
+DE: "Sie haben die erforderlichen Bunker erobert.\nLöschen Sie jetzt die Amerikaner aus, um unseren Sieg zu sichern!"
+FR: "Vous contrôlez suffisamment de bunkers.\nEliminez les Américains pour vous assurer la victoire !"
+ES: "Tienes el número requerido de bunkers.\n¡Ahora neutraliza a los americanos para alzarte con la victoria!"
+IT: "Possedete il numero richiesto di bunker.\nOra annientate gli americani per conquistare la vittoria!"
+KO: "벙커 수가 충분해졌습니다.\n미군을 섬멸하여 승리를 쟁취하십시오!"
+ZH: "您已擁有必需的碉堡數。\n現在徹底摧毀美軍以確保您的勝利！"
+BP: "Você possui o número necessário de Bunkers.\nAgora, elimine os americanos e assegure sua vitória!"
+PL: "Zajmujesz wymaganą liczbę bunkrów.\nTeraz zlikwiduj Amerykanów, by przypieczętować zwycięstwo!"
+END
+
+MAP:GLA06ScoutsInBase
+US: "American scouts have found us!\nBe prepared to fight the Americans"
+DE: "Die Amerikaner haben uns entdeckt!\nBereiten Sie sich auf den Kampf vor!"
+FR: "Les éclaireurs américains nous ont repérés !\nPréparez-vous à affronter les Américains."
+ES: "¡Las patrullas americanas nos han encontrado!\nListo para la lucha."
+IT: "I ricognitori americani ci hanno individuato!\nPreparatevi a combattere."
+KO: "미국 정찰대가 저희를 발견했습니다!\n곧 있을 미국과의 전투에 대비하십시오."
+ZH: "美國的偵察兵已經發現我們！\n準備與美軍作戰"
+BP: "Batedores americanos nos descobriram!\nPrepare-se para enfrentar os americanos!"
+PL: "Znaleźli nas amerykańscy zwiadowcy!\nPrzygotuj się do walki z jankesami"
+END
+
+MAP:GLA06Only8Bunkers
+US: "You must be more careful with the bunkers!\nYou must own 4 to complete your mission"
+DE: "Passen Sie auf die Bunker auf!\nSie müssen 4 Bunker erobern, um den Auftrag zu erfüllen!"
+FR: "Vous devez être plus prudent avec les bunkers !\nPrenez-en 4 pour accomplir la mission."
+ES: "¡Has de tener más cuidado con los bunkers!\nDebes estar en posesión de 4 para completar tu misión"
+IT: "Dovete fare più attenzione con i bunker!\nVe ne servono 4 per completare la missione."
+KO: "벙커에 주의를 기울이십시오!\n임무 완수를 위해서는 벙커 4개를 확보해야 합니다."
+ZH: "您要當心碉堡！\n您必需擁有4 個碉堡去完成您的任務。"
+BP: "Você deve ser mais cuidadoso com os Bunkers!\nVocê deve controlar 4 Bunkers para completar sua missão."
+PL: "Musisz bardziej uważać na te bunkry!\nZajęcie czterech jest niezbędne do wykonania zadania"
+END
+
+MAP:GLA06Only6Bunkers
+US: "Only 6 Bunkers remain!\nIf 3 more are destroyed your mission will fail!"
+DE: "Nur noch 6 Bunker sind intakt!\nSollten noch 3 Bunker zerstört werden, haben Sie versagt!"
+FR: "Il ne reste que 6 bunkers !\nLa mission sera un échec si encore 3 d'entre eux sont détruits !"
+ES: "¡Sólo quedan 6 bunkers!\nSi se destruyen 3 más, tu misión fracasará"
+IT: "Restano solo 6 bunker!\nSe ne vengono distrutti ancora 3, la missione fallirà!"
+KO: "벙커 6개만 남았습니다!\n3개 더 파괴되면 임무 완수에 실패하게 됩니다."
+ZH: "只有六個碉堡會剩下來！\n如果被毀滅超過三個的碉堡，您的任務將失敗。"
+BP: "Restam apenas 6 Bunkers!\nSe 3 deles forem destruídos, sua missão terá falhado!"
+PL: "Pozostało już tylko sześć bunkrów!\nJeśli jeszcze trzy zostaną zniszczone, misja skończy się niepowodzeniem!"
+END
+
+MAP:GLA06Only4Bunkers
+US: "WARNING:\nIf another bunker is destroyed your mission will fail."
+DE: "WARNUNG:\nWenn noch ein Bunker zerstört wird, haben Sie versagt!"
+FR: "ALERTE :\nla mission sera un échec si un bunker de plus est détruit."
+ES: "AVISO:\nSi se destruye otro bunker, tu misión fracasará."
+IT: "ATTENZIONE:\nDistruggendo un altro bunker la vostra missione fallirà."
+KO: "경고:\n벙커가 1개 더 파괴되면 임무 완수에 실패하게 됩니다."
+ZH: "警告：\n假如其它的碉堡被毀滅您將會失敗。"
+BP: "ATENÇÃO:\nSe outro Bunker for destruído, você falhará em sua missão."
+PL: "Uwaga:\nJeśli wybuchnie jeszcze jeden bunkier, misja zakończy się porażką."
+END
+
+MAP:GLA07MapName
+US: "Trojan Horse"
+DE: "Trojanisches Pferd"
+FR: "Cheval de Troie"
+ES: "Caballo de Troya"
+IT: "Cavallo di Troia"
+KO: "트로이 목마"
+ZH: "木馬屠城計"
+BP: "Cavalo de Tróia"
+PL: "Koń trojański"
+END
+
+MAP:GLA07Open
+US: "Somewhere Near Lenger, Kazakhstan\nSplinter Cell-Controlled Region"
+DE: "Bei Lenger, Kasachstan\nVon Rebellen kontrolliertes Gebiet"
+FR: "Quelque part près de Lenger\nRégion contrôlée par les dissidents."
+ES: "En algún lugar cerca de Lenger, Kazajstán\nRegión controlada por células escindidas"
+IT: "Nei pressi di Lenger, Kazakhistan\nRegione controllata dalla cellula di disertori"
+KO: "Somewhere Near Lenger, Kazakhstan\n분열된 세포 조직의 점령 지역"
+ZH: "哈薩克，接近蘭格的某處\n分裂組織控制的區域"
+BP: "Em Algum Lugar nas Proximidades de Lenger, Cazaquistão\nRegião Controlada Por Célula Dissidente"
+PL: "Okolice Lengeru, Kazachstan\nRegion kontrolowany przez opozycję"
+END
+
+MAP:GLA07ChineseArrival
+US: "WARNING: Chinese forces have entered the area."
+DE: "WARNUNG:\nChinesische Einheiten nähern sich!"
+FR: "ALERTE : les forces chinoises sont entrées dans la région."
+ES: "AVISO: Las fuerzas chinas han entrado en el área."
+IT: "ATTENZIONE: Le forze cinesi sono arrivate in zona."
+KO: "경고: 중국군이 지역 내로 들어왔습니다."
+ZH: "警告：中國軍隊已進入此區域。"
+BP: "ATENÇÃO: Forças chinesas entraram na área."
+PL: "Uwaga: W pobliżu pojawiły się chińskie wojska."
+END
+
+MAP:GLA07MissionObjective
+US: "MISSION OBJECTIVE\nEliminate all traitors"
+DE: "EINSATZZIEL:\nAlle Verräter müssen sterben."
+FR: "OBJECTIF DE MISSION :\néliminer tous les traîtres."
+ES: "OBJETIVO DE LA MISIÓN:\nEliminar a los traidores."
+IT: "OBIETTIVO MISSIONE:\nEliminate tutti i traditori."
+KO: "임무 목표:\n모든 배신자를 처단하십시오."
+ZH: "任務目標\n消滅所有的叛軍"
+BP: "OBJETIVO DA MISSÃO\nElimine todos os traidores."
+PL: "Cel misji\nZlikwidować wszystkich zdrajców"
+END
+
+MAP:GLA07ConvoyHint01
+US: "Sneak the stolen trucks into the traitors' base\nOnce inside detonate the trucks to destroy the traitors"
+DE: "Dringen Sie mit den gestohlenen LKWs in den Stützpunkt der Verräter ein.\nSprengen Sie die LKWs anschließend in die Luft!"
+FR: "Faites entrer les camions volés dans la base des traîtres.\nUne fois à l'intérieur, faites-les exploser pour anéantir les traîtres."
+ES: "Cuela los camiones robados en la base de los traidores\nUna vez dentro, hazlos detonar para destruir a los traidores."
+IT: "Fate penetrare i camion rubati nella base dei traditori.\nUna volta lì, fate saltare i camion per annientarli."
+KO: "배신자의 기지 내로 도난 차량을 침투시키십시오.\n일단 침투가 성공하면 트럭을 폭파시켜 배신자를 처단하십시오."
+ZH: "偷偷將偷來的卡車進入叛軍的基地\n當裡面一爆炸就能毀滅叛軍"
+BP: "Leve os caminhões roubados até a base dos traidores.\nDetone-os dentro da base para eliminar os traidores."
+PL: "Przeszmugluj kradzione ciężarówki do bazy zdrajców.\nGdy się tam znajdą, zdetonuj je."
+END
+
+MAP:GLA07ConvoyHint02
+US: "WARNING:\nIf your forces are seen with the stolen trucks the traitors\nwill know they are yours"
+DE: "WARNUNG:\nWenn die Verräter ihre Männer mit den gestohlenen LKWs sehen,\nfliegt ihre Tarnung auf."
+FR: "ALERTE :\nsi les traîtres voient vos hommes à bord des camions volés,\nils sauront que vous vous en êtes emparé."
+ES: "AVISO:\nSi te ven con los camiones robados, los traidores\nsabrán que son tuyos."
+IT: "ATTENZIONE:\nSe le vostre forze sono individuate insieme ai camion rubati,\ni traditori capiranno tutto."
+KO: "경고:\n장군님의 군대가 도난 차량과 함께 발각되면\n도난 차량의 의도가 파악될 것입니다."
+ZH: "警告：\n如果您的軍隊被看見和偷來的卡車在一起\n叛軍就會知道他們是你的了"
+BP: "ATENÇÃO:\nSuas forças não podem ser vistas com os caminhões roubados!\nSe isto acontecer, os traidores descobrirão nosso plano!"
+PL: "Uwaga:\nJeśli Twoje siły zostaną zauważone przy skradzionych ciężarówkach,\nzdrajcy zorientują się, że wozy należą do Ciebie."
+END
+
+MAP:GLA07ConvoyHint03
+US: "WARNING: This area is off limits to the stolen trucks\nIf the traitors discover them here they will be attacked"
+DE: "WARNUNG:\nDieses Gebiet ist für LKWs gesperrt.\nWenn sie die Verräter hier finden, greifen sie an!"
+FR: "ALERTE : cette zone est hors limite.\nSi les traîtres repèrent les camions volés à cet endroit, ils les attaqueront."
+ES: "AVISO: Esta área está fuera de los limites para los camiones robados\nSi los traidores lo descubren, atacarán."
+IT: "ATTENZIONE: Questa zona è off limits per i camion rubati.\nSe i traditori li scoprono qui, li attaccheranno."
+KO: "경고: 해당 지역은 도난 차량 제한 지역입니다.\n이 지역에서 배신자에게 발각되면 공격을 당할 것입니다."
+ZH: "警告：這區域是偷來卡車的禁區\n如果叛軍發現他們在這裡他們將會被攻擊"
+BP: "ATENÇÃO:\nEsta área está fora dos limites dos caminhões roubados.\nSe os traidores os descobrirem, eles serão atacados."
+PL: "Uwaga:\nSkradzione ciężarówki nie mają wstępu na ten obszar.\nJeśli zdrajcy je tam zauważą, zaatakują."
+END
+
+MAP:GLA07ConvoyHint04
+US: "Order the trucks to detonate near the traitors' buildings\nfor maximum effectiveness."
+DE: "Sprengen Sie die LKWs vor den Häusern der Verräter in die Luft.\nVerderben allen Verrätern!"
+FR: "Ordonnez aux camions d'exploser près des bâtiments des traîtres\npour une efficacité optimale."
+ES: "Ordena que los camiones sean detonados cerca de\nlos edificios de los traidores para más efectividad"
+IT: "Ordinate ai camion di esplodere vicino alle strutture dei traditori\nper ottenere l'effetto massimo."
+KO: "폭탄을 효율적으로 이용하기 위해서는\n트럭을 배신자 건물 옆에서 폭파시키십시오."
+ZH: "為得到最大的效果\n指揮卡車在叛軍建築物的附近爆炸。"
+BP: "Detone os caminhões o mais próximo possível das estruturas.\nDesta forma, você causará maiores danos."
+PL: "Dla zapewnienia maksymalnej skuteczności\nrozkaż, by ciężarówki wybuchły w pobliżu budynków należących do zdrajców."
+END
+
+MAP:GLA07BaseKIACleanUp
+US: "The traitor base is destroyed!\nWipe out their remaining forces to complete your victory"
+DE: "Der Stützpunkt ist zerstört.\nLöschen Sie jetzt alle überlebenden Verräter aus!"
+FR: "La base des traîtres est détruite !\nEliminez leurs dernières forces pour vous assurer la victoire."
+ES: "¡La base traidora está destruida!\nExtermina a los soldados que queden para completar tu victoria"
+IT: "La base dei traditori è stata distrutta!\nAnnientate le loro forze residue per conquistare la vittoria."
+KO: "배신자의 기지가 파괴되었습니다!\n잔존 병력을 소탕하여 승리를 굳히십시오."
+ZH: "叛軍的基地被毀滅！\n徹底摧毀剩餘的叛軍以完成您的勝利"
+BP: "A base dos traidores foi destruída!\nAcabe com as forças restantes para assegurar sua vitória."
+PL: "Baza zdrajców zniszczona!\nZlikwiduj resztę ich sił, by zapewnić sobie całkowite zwycięstwo."
+END
+
+MAP:GLA07ConvoyDetected
+US: "ALERT!\nThe traitors know we control the convoy!\nThe convoy will now be attacked by the traitors!"
+DE: "ALARM!\nUnsere Tarnung ist aufgeflogen! Die Verräter greifen den Konvoi an!"
+FR: "ALERTE !\nLes traîtres savent que nous contrôlons le convoi !\nIls vont l'attaquer !"
+ES: "¡ALERTA!\n¡Los traidores saben que controlamos el convoy!\n¡Ahora lo atacarán!"
+IT: "ALLARME!\nI traditori sanno che controllate il convoglio!\nOra i camion saranno attaccati dal nemico!"
+KO: "경보!\n장군님께서 호위대를 지휘한다는 사실을 배신자를 알아냈습니다!\n배신자들이 호위대를 공격할 것입니다!"
+ZH: "叛軍知道我們控制護航部隊！\n護航部隊將會受到叛軍的攻擊！"
+BP: "ALERTA!\nOs traidores descobriram que controlamos o comboio!\nO comboio será atacado!"
+PL: "ALARM!\nZdrajcy wiedzą, że kontrolujemy konwój!\nBędą go teraz atakować!"
+END
+
+MAP:GLA03Open
+US: "Zhambul, Kazakhstan\nChinese-Controlled Civilian Population Center"
+DE: "Zhambul, Kasachstan\nDicht besiedeltes chinesisches Protektorat"
+FR: "Zhambul, Kazakhstan\nCentre de population contrôlé par les Chinois..."
+ES: "Zhambul, Kazajstán\nLos chinos controlan el centro de población civil..."
+IT: "Zhambul, Kazakhistan\nCentro civile sotto il controllo cinese"
+KO: "Zhambul, Kazakhstan\n민간 시민 센터 중국 점령 지역"
+ZH: "汗布爾，哈薩克\n中國控制平民中心"
+BP: "Zhambul, Cazaquistão\nCentro Populacional Sob Domínio Chinês"
+PL: "Szambul, Kazachstan\nMiasto pod kontrolą Chin..."
+END
+
+MAP:USA01Open
+US: "Mazar Free Fire Zone\nOperation: Silent Dawn"
+DE: "Entmilitarisierte Zone von Mazar\nOperation: Silent Dawn"
+FR: "Zone libre de Mazar\nOpération : aube silencieuse"
+ES: "Zona de combate en Mazar\nOperación: Amanecer Silencioso"
+IT: "Zona smilitarizzata di Mazar\nOperazione: Alba silenziosa"
+KO: "Mazar Free Fire Zone\n작전: 황혼의 침묵"
+ZH: "馬薩爾自由射擊區\n行動：寂靜曙光"
+BP: "Zona de Fogo Livre de Mazar\nOperação: Aurora Silenciosa"
+PL: "Strefa Otwartego Ognia Mazar\nOperacja Cichy świt"
+END
+
+MAP:USA01Opening
+US: "Iraqi War Zone\nOperation: Final Justice"
+DE: "Irak\nOperation: Final Justice"
+FR: "Zone de guerre irakienne\nOpération : justice finale"
+ES: "Zona de Guerra Iraquí\nOperación: Justicia Final"
+IT: "Zona di guerra irachena\nOperazione: Armageddon"
+KO: "Iraqi War Zone\n작전: 최후의 정의"
+ZH: "伊拉克戰區\n行動：最後審判"
+BP: "Zona de Guerra do Iraque\nOperação: Justiça Final"
+PL: "Iracka strefa wojny\nOperacja Ostateczna sprawiedliwość"
+END
+
+MAP:USA01BahdadText
+US: "Siege of Baghdad\nDay 3"
+DE: "Die Belagerung Bagdads\nTag 3"
+FR: "Siège de Bagdad\n3ème jour"
+ES: "Sitio de Bagdad\nDía 3"
+IT: "Assedio di Baghdad\nTerzo giorno"
+KO: "Siege of Baghdad\nDay 3"
+ZH: "圍攻巴格達\n第三天"
+BP: "Cerco à Bagdá\nTerceiro Dia"
+PL: "Oblężenie Bagdadu\nDzień trzeci"
+END
+
+MAP:USA01ObjectiveText
+US: "MISSION OBJECTIVE\nDestroy the SCUD Storm"
+DE: "EINSATZZIEL:\nZerstören Sie den SCUD-Sturm."
+FR: "OBJECTIF DE MISSION :\ndétruire les Scuds multiples."
+ES: "OBJETIVO DE LA MISIÓN\nDestruir la Tormenta SCUD"
+IT: "OBIETTIVO MISSIONE:\nDistruggete lo SCUD Storm."
+KO: "임무 목표\n스커드 폭풍을 파괴하십시오."
+ZH: "任務目標\n毀滅生化死雨風暴"
+BP: "OBJETIVO DA MISSÃO\nDestrua o Lançador Tempestade SCUD."
+PL: "Cel misji\nZniszczyć Deszcz SCUD-ów"
+END
+
+MAP:USA02Open
+US: "Al Hanad, Yemen\nOperation: Treasure Hunt"
+DE: "Al'hanad, Jemen\nOperation: Treasure Hunt"
+FR: "Al Hanad, Yémen\nOpération : chasse au trésor"
+ES: "Al Hanad, Yemen\nOperación: Caza del Tesoro"
+IT: "Al'hanad, Yemen\nOperazione: Caccia al Tesoro"
+KO: "Al Hanad, Yemen\n작전: 보물 찾기"
+ZH: "阿爾汗德、葉門\n行動：尋寶遊戲"
+BP: "Al Hanad, Iêmen\nOperação: Caça ao Tesouro"
+PL: "Al Hanad, Jemen\nOperacja Łowcy skarbów"
+END
+
+MAP:USA02Objective1Text
+US: "MISSION OBJECTIVE\nRescue Captured Pilots"
+DE: "EINSATZZIEL:\nRetten Sie die gefangenen Piloten."
+FR: "OBJECTIF DE MISSION :\nsecourir les pilotes prisonniers."
+ES: "OBJETIVO DE LA MISIÓN\nRescatar a los pilotos capturados"
+IT: "OBIETTIVO MISSIONE:\nSalvate i piloti catturati."
+KO: "임무 목표\n포로가 된 파일럿을 구출하십시오."
+ZH: "任務目標\n營救被俘虜的駕駛員"
+BP: "OBJETIVO DA MISSÃO\nResgate os pilotos capturados."
+PL: "Cel misji\nUratować pojmanych pilotów"
+END
+
+MAP:USA02Objective2Text
+US: "MISSION OBJECTIVE\nReturn the final Pilot to Base for debriefing."
+DE: "EINSATZZIEL:\nBringen Sie den letzten Piloten zum Stützpunkt."
+FR: "OBJECTIF DE MISSION :\nramener les pilotes survivants à la base."
+ES: "OBJETIVO DE LA MISIÓN\nDevolver los pilotos supervivientes a la base"
+IT: "OBIETTIVO MISSIONE:\nRiportate l'ultimo pilota alla base per il rapporto post-missione."
+KO: "임무 목표\n생존한 파일럿과 기지로 귀환하십시오."
+ZH: "任務目標\n送回倖存的駕駛員"
+BP: "OBJETIVO DA MISSÃO\nLeve o último piloto de volta a base."
+PL: "Cel misji\nDoprowadzić uwolnionych pilotów do bazy"
+END
+
+MAP:USA03Objective1Text
+US: "MISSION OBJECTIVE\nEnsure the escape of 100 U.S. forces"
+DE: "EINSATZZIEL:\nRetten Sie mindestens 100 US-Einheiten."
+FR: "OBJECTIF DE MISSION :\ns'assurer que 100 unités américaines prennent la fuite et les protéger."
+ES: "OBJETIVO DE LA MISIÓN\nAsegurar la huida de 100 fuerzas de E.E.U.U."
+IT: "OBIETTIVO MISSIONE:\nAssicurate la fuga di 100 membri delle forze USA."
+KO: "임무 목표\n미군 100명을 구출하십시오."
+ZH: "任務目標\n確認一百位美軍的逃脫"
+BP: "OBJETIVO DA MISSÃO\nAssegure a fuga de 100 membros das forças dos E.U.A."
+PL: "Cel misji\nZapewnić ucieczkę 100 amerykańskim jednostkom"
+END
+
+MAP:USA04Open
+US: "Kazakhstan Coast, 1400 Hours\nOperation: Stormbringer"
+DE: "Küste von Kasachstan, 14 Uhr\nOperation: Stormbringer"
+FR: "Côtes du Kazakhstan, 14 heures\nOpération : tempête"
+ES: "Costa de Kazajstán, 14:00 horas\nOperación: Mensajero de la Tormenta"
+IT: "Costa del Kazakhistan, ore 14:00\nOperazione: Vortice"
+KO: "Kazakhstan Coast, 1400 Hours\n작전: 폭풍의 도래"
+ZH: "哈薩克沿海地區，時間 1400\n行動：暴風雨前夕"
+BP: "Costa do Cazaquistão, 14:00 Horas\nOperação: Mensageiro da Tempestade"
+PL: "Wybrzeże Kazachstanu, godzina 14.00\nOperacja Nadciągajaca burza"
+END
+
+MAP:USA06Objective1Text
+US: "MISSION OBJECTIVE:\nPrevent the GLA from constructing their river base"
+DE: "EINSATZZIEL:\nZerstören Sie die GBA-Basis am Flussufer."
+FR: "OBJECTIF DE MISSION :\nempêcher la GLA de construire sa base près de la rivière."
+ES: "OBJETIVO DE LA MISIÓN:\nEvitar que el GLA construya su base en el río"
+IT: "OBIETTIVO MISSIONE:\nImpedite all'ELG di costruire la base lungo il fiume."
+KO: "임무 목표:\nGLA의 강 기지 건설을 저지하십시오."
+ZH: "任務目標：\n防止全球解放軍建造河川基地"
+BP: "OBJETIVO DA MISSÃO\nImpeça o E.L.G. de construir sua base."
+PL: "Cel misji\nZapobiec budowie nadrzecznej bazy AŚW"
+END
+
+MAP:USA06Objective2Text
+US: "MISSION OBJECTIVE:\nDestroy the GLA's Main Base"
+DE: "EINSATZZIEL:\nZerstören Sie den Hauptstützpunkt der GBA."
+FR: "OBJECTIF DE MISSION :\ndétruire la base principale de la GLA."
+ES: "OBJETIVO DE LA MISIÓN:\nDestruir la base principal de GLA"
+IT: "OBIETTIVO MISSIONE:\nDistruggete la base principale dell'ELG."
+KO: "임무 목표:\nGLA 주 기지를 파괴하십시오."
+ZH: "任務目標 ：\n毀滅全球解放軍的主要基地"
+BP: "OBJETIVO DA MISSÃO\nDestrua a base principal do E.L.G."
+PL: "Cel misji\nZniszczyć główną bazę AŚW"
+END
+
+MAP:GLA03Objective04
+US: "Free the prisoners!"
+DE: "Befreien Sie die Gefangenen."
+FR: "Libérer les prisonniers."
+ES: "¡Libera a los prisioneros!"
+IT: "Liberate i prigionieri!"
+KO: "포로들을 구출하십시오!"
+ZH: "釋放囚犯!"
+BP: "Liberte os prisioneiros!"
+PL: "Uwolnij więźniów!"
+END
+
+MAP:GLA03Objective05
+US: "Kill 300 traitors."
+DE: "Eliminieren Sie 300 Verräter."
+FR: "Tuer 300 civils."
+ES: "Matar 300 traidores"
+IT: "Uccidete 300 traditori."
+KO: "반역자 300명을 처단하십시오."
+ZH: "殺死三百個叛徒。"
+BP: "Elimine 300 traidores."
+PL: "Zabij 300 cywili"
+END
+
+MAP:GLA03Objective06
+US: "Destroy the pharmaceutical factory."
+DE: "Zerstören Sie die Chemiefabrik."
+FR: "Détruire l'usine pharmaceutique."
+ES: "Destruir la fábrica farmacéutica"
+IT: "Distruggete la fabbrica farmaceutica."
+KO: "제약 공장을 파괴하십시오."
+ZH: "毀滅製藥廠"
+BP: "Destrua a instalação farmacêutica."
+PL: "Zniszcz zakłady farmaceutyczne."
+END
+
+MAP:GLA01Open
+US: "Shymkent DMZ\nOperation: Black Rain"
+DE: "Entmilitarisierte Zone von Shymkent\nOperation: Todesregen"
+FR: "Chymkent, DMZ\nOpération : pluie noire"
+ES: "Zona Desmilitarizada de Shymkent\nOperación: Lluvia Negra"
+IT: "Shymkent, zona demilitarizzata\nOperazione: Pioggia nera"
+KO: "Shymkent DMZ\n작전: 검은 비"
+ZH: "希肯特 DMZ\n行動：黑雨"
+BP: "ZDM de Shymkent\nOperação: Chuva Negra"
+PL: "Szymkient, Strefa zdemilitaryzowana\nOperacja Czarny deszcz"
+END
+
+MAP:GLA01ObjectiveText
+US: "MISSION OBJECTIVE: Destroy the Dam"
+DE: "EINSATZZIEL:\nZerstören Sie den Damm."
+FR: "OBJECTIF DE MISSION :\ndétruire le barrage."
+ES: "OBJETIVO DE LA MISIÓN: Destruir la presa"
+IT: "OBIETTIVO MISSIONE:\nDistruggete la diga."
+KO: "임무 목표: 댐을 파괴하십시오."
+ZH: "任務目標：毀滅水壩"
+BP: "OBJETIVO DA MISSÃO\nDestrua a Represa."
+PL: "Cel Misji\nZniszczyć zaporę."
+END
+
+MAP:USA07Open
+US: "Southeastern Kazakhstan\nOperation: Desperate Union"
+DE: "Südöstliches Kasachstan\nOperation: Desperate Union"
+FR: "Sud-est du Kazakhstan\nOpération : union désespérée"
+ES: "Sudeste de Kazajstán\nOperación: Unión Desesperada"
+IT: "Kazakhistan sud-orientale\nOperazione: Unione disperata"
+KO: "Southeastern Kazakhstan\n작전: 연합의 배수진"
+ZH: "哈薩克東南方\n行動：危急的聯邦"
+BP: "Região Sudoeste do Cazaquistão\nOperação: União Desesperada"
+PL: "Południowo-wschodni Kazachstan\nOperacja Rozpaczliwe zjednoczenie"
+END
+
+MAP:USA07Objective1
+US: "MISSION OBJECTIVE:\nDestroy the GLA to the northeast."
+DE: "EINSATZZIEL:\nZerstören Sie die GBA-Einheiten im Nordosten."
+FR: "OBJECTIF DE MISSION :\ndétruire la GLA au nord-est."
+ES: "OBJETIVO DE LA MISIÓN:\nDestruir el GLA al noreste"
+IT: "OBIETTIVO MISSIONE:\nDistruggete le forze ELG a nord-est."
+KO: "임무 목표:\n북동쪽 GLA를 섬멸하십시오."
+ZH: "任務目標：\n行動：毀滅東北方的全球防衛軍。"
+BP: "OBJETIVO DA MISSÃO\nDestrua as posições do E.L.G. ao Nordeste."
+PL: "Cel misji\nZniszczyć AŚW na północnym wschodzie."
+END
+
+MAP:USA07General
+US: "General's Arrival"
+DE: "Ankunft des Generals"
+FR: "Arrivée du Général"
+ES: "Llegada del General"
+IT: "L'arrivo del Generale"
+KO: "제너럴의 출현"
+ZH: "將軍的到達"
+BP: "Chegada do General"
+PL: "Przybycie generała"
+END
+
+MAP:USA07Objective2
+US: "MISSION OBJECTIVE:\nDestroy the Chinese Command Center\nand the Nuclear Missile Silo."
+DE: "EINSATZZIEL:\nZerstören Sie die chinesische Kommandozentrale\nund das Atomraketen-Silo."
+FR: "OBJECTIF DE MISSION :\ndétruire le poste de commandement chinois\net le silo nucléaire."
+ES: "OBJETIVO DE LA MISIÓN:\nDestruir el centro de mando chino\ny el silo de misiles nucleares"
+IT: "OBIETTIVO MISSIONE:\nDistruggete il centro comando cinese\ne il silo del missile nucleare."
+KO: "임무 목표:\n중국 커맨드 센터와 핵 미사일 사일로를\n파괴하십시오."
+ZH: "任務目標：\n毀滅中國指揮中心\n和核子彈發射井。"
+BP: "OBJETIVO DA MISSÃO\nDestrua o Centro de Comando Chinês e o Míssil Nuclear."
+PL: "Cel misji\nZniszczyć chiński sztab\ni silos rakiety atomowej."
+END
+
+MAP:GLA08Temp
+US: "GLA Mission 8 - Southern Kazakhstan\nBaikonur Cosmodrome"
+DE: "GBA Mission 8 Südliches Kasachstan\nKosmodrom Baikonur"
+FR: "GLA, mission 8 : sud du Kazakhstan\nCosmodrome de Baikonur"
+ES: "GLA Misión 8 - Sur de Kazajstán\nCosmódromo de Baikonur"
+IT: "Missione ELG 8 - Kazakhistan meridionale\nCosmodromo di Baikonur"
+KO: "GLA 임무 8 - Kazakhstan 남부\n바이코누르 우주선 기지"
+ZH: "全球防衛軍任務 8 - 南方的哈薩克\n巴以庫爾太空發射站"
+BP: "Missão 8 E.L.G. - Sul do Cazaquistão\nBase Espacial de Baikonur"
+PL: "AŚW, misja 8 - Południowy Kazachstan\nKosmodrom Bajkonur"
+END
+
+MAP:CHI08Temp
+US: "China Mission 8 - Last China Mission\nStatus: Incomplete"
+DE: "China Mission 8 - Letzte Mission\nStatus: Unvollständig"
+FR: "Chine, mission 8 : dernière mission chinoise\nEtat : incomplète"
+ES: "China Misión 8 - Última misión china\nEstado: Incompleta"
+IT: "Missione cinese 8 - Ultima missione cinese\nCondizione: incompleta"
+KO: "중국 임무 8 - 중국 최후의 임무\n상태: 미달성"
+ZH: "中國任務 8 - 最後的中國任務\n狀態：未完成"
+BP: "Missão 8 China - Última Missão da China\nCondição: Incompleta"
+PL: "Chiny, misja 8 - Ostatnia misja Chin\nStan: nieukończona"
+END
+
+MAP:CHI07Temp
+US: "China Mission 7 - Nuke-O-Rama\nStatus: Incomplete"
+DE: "China Mission 7: Atomschlag\nStatus: Unvollständig"
+FR: "Chine, mission 7 : nuclé-o-rama\nEtat : incomplète"
+ES: "China Misión 7 - Nuke-O-Rama\nEstado: incompleta"
+IT: "Missione cinese 7 - Nucleo-rama\nStato: incompleta"
+KO: "중국 임무 7 - 라마의 분노\n상태: 미달성"
+ZH: "中國任務 7 - 用核武攻擊喇嘛\n狀態：未完成"
+BP: "Missão 7 China - Quebra-Cabeças Nuclear\nCondição: Incompleta"
+PL: "Chiny, misja 7 - Atomorama\nStan: nieukończona"
+END
+
+MAP:CHI05Temp
+US: "China Mission 5 - Firebomb GLA\nStatus: Incomplete"
+DE: "China Mission 5: Napalmschlag\nStatus: Unvollständig"
+FR: "Chine, mission 5 : bombe incendiaire GLA\nEtat : incomplète"
+ES: "China Misión 5 - Bomba incendiaria del GLA\nEstado: Incompleta"
+IT: "Missione cinese 5 - Bomba infiammabile ELG\nStato: incompleta"
+KO: "중국 임무 5 - 화염폭탄 투하 GLA\n상태: 미달성"
+ZH: "中國任務 5 - 燃燒彈 全球防衛軍\n狀態：未完成"
+BP: "Missão 5 China - Bombardeie o E.L.G.\nCondição: Incompleta"
+PL: "Chiny, misja 5 - Deszcz ognia dla AŚW\nStan: nieukończona"
+END
+
+MAP:USA08Temp
+US: "USA Mission 8 - Devastate GLA\nStatus: Incomplete"
+DE: "USA Mission 8 - Tod der GBA\nStatus: Unvollständig"
+FR: "USA, mission 8 : anéantissement de la GLA\nEtat : incomplète"
+ES: "E.E.U.U. Misión 8 - Devastar al GLA\nEstado: Incompleta"
+IT: "Missione USA 8 - Devastare l'ELG\nStato: incompleta"
+KO: "미국 임무 8 - GLA 압도\n상태: 미달성"
+ZH: "美國任務 8 - 破壞 全球防衛軍\n狀態：未完成"
+BP: "Missão 8 E.U.A. - Devaste o E.L.G.\nCondição: Incompleta"
+PL: "USA, misja 8 - Likwidacja AŚW\nStan: nieukończona"
+END
+
+MAP:USA06Temp
+US: "USA Mission 6 - E3 Revamp\nStatus: Incomplete"
+DE: "USA Mission 6 - E3-Verbesserung\nStatus: Unvollständig"
+FR: "USA Mission 6 - E3 Revamp\nStatus: Incomplete"
+ES: "E.E.U.U. Misión 6 - Reforma E3\nEstado: Incompleta"
+IT: "Missione USA 6 - Riorganizzare l'E3\nStato: incompleta"
+KO: "미국 임무 6 - E3 개조\n상태: 미달성"
+ZH: "美國任務 6 - E3 改造\n狀態：未完成"
+BP: "Missão 6 E.U.A. - E3 Renovada\nCondição: Incompleta"
+PL: "USA, misja 6 - Rekonstrukcja E3\nStan: nieukończona"
+END
+
+MAP:USA05Temp
+US: "USA Mission 5 - River Raid\nStatus: Incomplete"
+DE: "USA Mission 5 Fluss der Verdammnis\nStatus: Unvollständig"
+FR: "USA, mission 5 : raid fluvial\nEtat : incomplète"
+ES: "E.E.U.U. Misión 5 - Asalto fluvial\nEstado: Incompleta"
+IT: "Missione USA 5 - Raid sul fiume\nStato: incompleta"
+KO: "미국 임무 5 - 수로 급습\n상태: 미달성"
+ZH: "美國任務 5 - 河川突擊\n狀態：未完成"
+BP: "Missão 5 E.U.A. - Ataque no Rio\nCondição: Incompleta"
+PL: "USA, misja 5 - Nalot nad rzekę\nStan: nieukończona"
+END
+
+MAP:USA03Open
+US: "Northern Kazakhstan. U.S. Forces in Full Retreat\nOperation: Guardian Angel"
+DE: "Nördliches Kasachstan. Rückzug der US-Einheiten.\nOperation: Guardian Angel"
+FR: "Nord du Kazakhstan. Les armées américaines battent en retraite.\nOpération : ange gardien"
+ES: "Norte de Kazajstán. Retirada Completa de las Fuerzas de E.E.U.U.\nOperación: Ángel Guardián"
+IT: "Kazakhistan settentrionale. Forze USA in ritirata.\nOperazione: Angelo custode"
+KO: "Northern Kazakhstan. U.S. Forces in Full Retreat\n작전: 수호 천사"
+ZH: "哈薩克北方，美軍完全撤退。\n行動：守護天使"
+BP: "Norte do Cazaquistão, Forças dos E.U.A. em Retirada Total\nOperação: Anjo de Guarda"
+PL: "Północny Kazachstan. Armia amerykańska w pełnym odwrocie.\nOperacja Anioł stróż"
+END
+
+MAP:USA04Objective1Text
+US: "MISSION OBJECTIVE:\nClear the beach of GLA forces"
+DE: "EINSATZZIEL:\nVernichten Sie alle GBA-Einheiten am Strand."
+FR: "OBJECTIF DE MISSION :\néliminer les forces de la GLA se trouvant sur la plage."
+ES: "OBJETIVO DE LA MISIÓN:\nLimpiar la playa de fuerzas del GLA"
+IT: "OBIETTIVO MISSIONE:\nEliminate le forze dell'ELG dalla spiaggia."
+KO: "임무 목표:\nGLA 대군을 소탕하십시오."
+ZH: "任務目標：\n清除全球解放軍沿海武力"
+BP: "OBJETIVO DA MISSÃO\nElimine as forças do E.L.G. da praia."
+PL: "Cel misji\nOczyścić plażę z sił AŚW"
+END
+
+MAP:USA04Objective2Text
+US: "MISSION OBJECTIVE:\nDestroy the Stinger Sites"
+DE: "EINSATZZIEL:\nZerstören Sie die Stinger-Stellungen."
+FR: "OBJECTIF DE MISSION :\ndétruire les sites Stingers"
+ES: "OBJETIVO DE LA MISIÓN:\nDestruir los emplazamientos de Stinger"
+IT: "OBIETTIVO MISSIONE:\nDistruggete le postazioni Stinger."
+KO: "임무 목표:\n스팅어 사이트를 파괴하십시오."
+ZH: "任務目標：\n摧毀針刺飛彈陣地"
+BP: "OBJETIVO DA MISSÃO\nDestrua as Baterias Stinger."
+PL: "Cel misji\nZniszczyć wyrzutnie Stingerów"
+END
+
+MAP:USA04Objective3Text
+US: "MISSION OBJECTIVE:\nDestroy the GLA Base"
+DE: "EINSATZZIEL:\nZerstören Sie den GBA-Stützpunkt."
+FR: "OBJECTIF DE MISSION :\ndétruire la base de la GLA"
+ES: "OBJETIVO DE LA MISIÓN: Destruir la base del GLA"
+IT: "OBIETTIVO MISSIONE:\nDistruggete la base dell'ELG."
+KO: "임무 목표:\nGLA 기지를 파괴하십시오."
+ZH: "任務目標：\n摧毀全球解放軍基地"
+BP: "OBJETIVO DA MISSÃO\nDestrua a base do E.L.G."
+PL: "Cel misji\nZniszczyć bazę AŚW"
+END
+
+MAP:CHI05Open
+US: "Balykchy, Kyrgyzstan\nScorched Earth"
+DE: "Balykchy, Kirgistan\n'Scorched Earth'"
+FR: "Balykchy, au Kirghizstan\nTerre écorchée"
+ES: "Balykchy, Kyrgyzstán\nTierra calcinada"
+IT: "Balykchy, Kirghizistan\n\"Terra bruciata\""
+KO: "Balykchy, Kyrgyzstan\n초토 전술"
+ZH: "凱吉斯坦，貝利克奇\n焦土作戰"
+BP: "Balykchy, Kirziquistão\nTerra Devastada"
+PL: "Bałykczi, Kirgistan\nJałowa ziemia"
+END
+
+MAP:CHI04Open
+US: "Tanggula Mountains, China\nBroken Alliances"
+DE: "Tangula-Gebirge, China\nOperation: Vertrauensbruch"
+FR: "Le mont Tangula, Chine\nAlliances brisées"
+ES: "Montañas Tangula, China.\nAlianzas Rotas"
+IT: "Monti Tangula, Cina\n\"Alleanze spezzate\""
+KO: "Tanggula Mountains, China\n동맹의 파기"
+ZH: "坦谷拉山，中國\n破碎同盟"
+BP: "Montanhas Tangula, China\nAlianças Rompidas"
+PL: "Góry Tangla, Chiny.\nOperacja Zerwane sojusze"
+END
+
+MAP:GLA04Open
+US: "Astana City\nChinese-Occupied Capital of Kazakhstan"
+DE: "Astana\nVon China besetzte Hauptstadt Kasachstans"
+FR: "Astana\nLa capitale occupée par les Chinois"
+ES: "Ciudad Astana\nChina ocupó la capital de Kazajstán"
+IT: "Città di Astana\nCapitale del Kazakhistan occupata dalla Cina"
+KO: "Astana City\nKazakhstan 수도 중국 점령 지역"
+ZH: "阿絲塔納城\n中國佔領哈薩克首府"
+BP: "Cidade de Astana\nCapital Ocupada do Cazaquistão"
+PL: "Astana\nOkupowana przez Chiny stolica Kazachstanu"
+END
+
+MAP:USA07NewObjective2
+US: "NEW MISSION OBJECTIVE:\nDestroy the Chinese Command Center\nand the Nuclear Missile Silo."
+DE: "NEUES EINSATZZIEL:\nZerstören Sie die chinesische Kommandozentrale\nund das Atomraketen-Silo."
+FR: "NOUVEL OBJECTIF DE MISSION :\ndétruire le poste de commandement chinois\net le silo de missiles nucléaires."
+ES: "NUEVO OBJETIVO DE LA MISIÓN:\nDestruir el centro de mando chino\ny el silo de misiles nucleares."
+IT: "NUOVO OBIETTIVO MISSIONE:\nDistruggete il centro comando cinese\ne il silo del missile nucleare."
+KO: "새로운 임무 목표:\n중국 커맨드 센터와\n핵 미사일 사일로를 파괴하십시오."
+ZH: "新任務目標：\n消滅中國的指揮中心\n以及核彈發射井"
+BP: "NOVO OBJETIVO DA MISSÃO\nDestrua o Centro de Comando Chinês e o Míssil Nuclear."
+PL: "Nowy cel misji\nZniszczyć chiński sztab\ni silos rakiety atomowej."
+END
+
+MAP:USA07GotObjective1
+US: "OBJECTIVE COMPLETED:\nDestroy the GLA to the northeast."
+DE: "EINSATZZIEL ERREICHT:\nZerstören Sie die GBA-Einheiten im Nordosten."
+FR: "OBJECTIF REMPLI :\ndétruire les troupes de la GLA au nord-est."
+ES: "OBJETIVO CUMPLIDO:\nDestruir el GLA al noreste"
+IT: "OBIETTIVO RAGGIUNTO:\nDistruggete le forze ELG a nord-est."
+KO: "목표 완수:\n북동쪽 GLA를 섬멸하십시오."
+ZH: "目標達成：\n使全球解放軍往東北方的計劃失敗"
+BP: "OBJETIVO ALCANÇADO\nDestrua as posições do E.L.G. ao Nordeste."
+PL: "Zadanie wykonane\nZniszczyć AŚW na północnym wschodzie."
+END
+
+MAP:USA07GotObjective2
+US: "OBJECTIVE COMPLETED:\nDestroy the Chinese Command Center\nand the Nuclear Missile Silo."
+DE: "EINSATZZIEL ERREICHT:\nZerstören Sie die chinesische Kommandozentrale\nund das Atomraketen-Silo."
+FR: "OBJECTIF REMPLI :\ndétruire le poste de commandement chinois\net le silo de missiles nucléaires."
+ES: "OBJETIVO CUMPLIDO:\nDestruir el centro de mando chino y el silo de misiles nucleares"
+IT: "OBIETTIVO RAGGIUNTO:\nDistruggete il centro comando cinese\ne il silo del missile nucleare."
+KO: "목표 완수:\n중국 커맨드 센터와\n핵 미사일 사일로를 파괴하십시오."
+ZH: "目標達成：\n消滅中國的指揮中心\n以及核彈發射井"
+BP: "OBJETIVO ALCANÇADO\nDestrua o Centro de Comando Chinês o Míssil Nuclear."
+PL: "Zadanie wykonane\nZniszczyć chiński sztab\ni silos rakiety atomowej."
+END
+
+MAP:TourneyArena
+US: "Tournament Desert"
+DE: "Tournament Desert"
+FR: "Arène"
+ES: "Torneo del Desierto"
+IT: "Torneo nel deserto"
+KO: "Tournament Arena"
+ZH: "聯賽競技場"
+BP: "Torneio do Deserto"
+PL: "Arena turniejowa"
+END
+
+MAP:BigRivers
+US: "Mountain Fox"
+DE: "Mountain Fox"
+FR: "Mont Fox"
+ES: "Montaña Zorro"
+IT: "Volpe di montagna"
+KO: "여우산"
+ZH: "狐山"
+BP: "Mountain Fox"
+PL: "Wielkie rzeki"
+END
+
+MAP:CHI01Open
+US: "Chinese Military Parade, Beijing\nThe Dragon Awakes"
+DE: "Chinesische Militärparade, Peking\n'Der Drache erwacht'"
+FR: "Défilé militaire chinois dans la province de Yunnan\nLe réveil du dragon"
+ES: "Desfile Militar Chino, Pekín\nEl Dragón Despierta"
+IT: "Parata militare cinese, provincia di Hu-Nan\n\"Il risveglio del drago\""
+KO: "Chinese Military Parade, Beijing\n용의 자각"
+ZH: "中國閱軍，北京\n醒龍"
+BP: "Parada Militar Chinesa, Beijing\nO Dragão Acorda"
+PL: "Chińska parada wojskowa, Pekin\nPrzebudzenie smoka"
+END
+
+MAP:CHI03Obj1Done
+US: "Mission Objective Complete"
+DE: "Einsatzziel erreicht"
+FR: "Premier objectif réussi"
+ES: "Objetivo de la Misión Completado"
+IT: "Obiettivo missione completato."
+KO: "임무 목표 완수"
+ZH: "任務目標完成"
+BP: "Objetivo da Missão Alcançado"
+PL: "Cele misji osiągnięte"
+END
+
+MAP:CHI07Obj1
+US: "Mission Objective:\nEstablish a base and locate resources"
+DE: "EINSATZZIEL:\nErrichten Sie eine Basis und suchen Sie Rohstoffe."
+FR: "Premier objectif :\nétablir une base et trouver des ressources"
+ES: "Objetivo de la Misión:\nEstablecer una base y localizar recursos"
+IT: "OBIETTIVO MISSIONE:\nCreate una base e localizzate le risorse."
+KO: "임무 목표:\n기지 건설 뒤 자원의 위치를 파악하십시오."
+ZH: "任務目標：\n建立基地並找出資源"
+BP: "OBJETIVO DA MISSÃO\nEstabeleça uma base e colete recursos."
+PL: "Cel:\nZałożyć bazę i zlokalizować surowce"
+END
+
+MAP:CHI07Obj2
+US: "Mission Objective:\nDefeat the GLA"
+DE: "EINSATZZIEL:\nBesiegen Sie die GBA."
+FR: "Second objectif :\nvaincre la GLA"
+ES: "Objetivo de la Misión:\nDerrotar al GLA"
+IT: "OBIETTIVO MISSIONE:\nSconfiggete l'ELG."
+KO: "임무 목표:\nGLA를 타파하십시오."
+ZH: "任務目標：\n擊敗全球解放軍"
+BP: "OBJETIVO DA MISSÃO\nDerrote o E.L.G."
+PL: "Cel:\nPokonać AŚW"
+END
+
+MAP:GLA02OpenAlt2
+US: "Villages Outside Almaty, Kazakhstan\nSeize the foreign supplies for our cause!"
+DE: "Dörfer bei Almaty, Kasachstan\nSichern Sie die Hilfsgüter für unsere Sache!"
+FR: "Villages à l'extérieur d'Almaty, au Kazakhstan\nSaisir les ravitaillements étrangers pour la cause !"
+ES: "Pueblos a las afueras de Almaty, Kazajstán\n¡Hazte con los suministros externos para nuestra causa!"
+IT: "Villaggi nei dintorni di Almaty, Kazakhistan\nRaccogliete i rifornimenti per la causa."
+KO: "Villages Outside Almaty, Kazakhstan\n정의실현을 위해 외국 서플라이를 확보하십시오!"
+ZH: "哈薩克，雅馬提外的村莊\n為了我們的理想目標奪取這些外國的補給！"
+BP: "Vilas Fora de Almaty, Cazaquistão\nCapture os suprimentos estrangeiros para nossa causa!"
+PL: "Wioski w okolicach Ałma-Aty, Kazachstan\nZdobądź obce zaopatrzenie, by zasilić naszą sprawę!"
+END
+
+MAP:GLA02OpenAlt1
+US: "Villages Outside Almaty, Kazakhstan\nOperation: Pillage the Village"
+DE: "Dörfer bei Almaty, Kasachstan\nOperation: Plünderung"
+FR: "Villages à l'extérieur d'Almaty, au Kazakhstan\nOpération : pillage du village !"
+ES: "Pueblos a las afueras de Almaty, Kazajstán\nOperación: Saquear el Pueblo"
+IT: "Villaggi nei dintorni di Almaty, Kazakhistan\nOperazione: Saccheggia il villaggio"
+KO: "Villages Outside Almaty, Kazakhstan\n작전: 마을 서플라이 확보"
+ZH: "哈薩克，雅馬提外的村莊\n行動：掠奪村莊"
+BP: "Vilas Fora de Almaty, Cazaquistão\nOperação: Saque à Vila"
+PL: "Wioski w okolicach Ałma-Aty, Kazachstan\nOperacja Plądrowanie wiosek"
+END
+
+MAP:GLA06OpenAlt2
+US: "Western Shore of the Aral Sea, Kazakhstan\nSteal the poisons of the West to use against them!"
+DE: "Westufer des Aralsees, Kasachstan\nVernichten Sie den Westen mit seinen eigenen Chemiewaffen!"
+FR: "Rivage ouest de la mer d'Aral, au Kazakhstan\nS'emparer des poisons des Occidentaux pour les utilisez contre eux !"
+ES: "Orilla Oeste del Mar de Aral, Kazajstan\n¡Roba los venenos del Oeste para usarlos contra ellos!"
+IT: "Costa occidentale del Mare di Aral, Kazakhistan\nImpossessatevi dei veleni dell'ovest e usateli contro il nemico!"
+KO: "Western Shore of the Aral Sea, Kazakhstan\n서방측의 독소를 획득하여 그들에게 발사하십시오!"
+ZH: "哈薩克，死海西岸\n竊取西方國家的毒物以用來反抗他們！"
+BP: "Costa Ocidental do Mar de Aral, Cazaquistão\nRoube os venenos do Ocidente e use-os contra eles!"
+PL: "Zachodni brzeg Jeziora Aralskiego, Kazachstan\nWykradnij trucizny Zachodu, by użyć ich przeciw niemu!"
+END
+
+MAP:GLA06OpenAlt1
+US: "Western Shore of the Aral Sea, Kazakhstan\nOperation: Appropriate Poisons"
+DE: "Westufer des Aralsees, Kasachstan\nOperation: Giftgas"
+FR: "Rivage ouest de la mer d'Aral, au Kazakhstan\nOpération : pêche aux poisons"
+ES: "Orilla Oeste del Mar de Aral, Kazajstán\nOperación: Recoger los Venenos"
+IT: "Costa occidentale del Mare di Aral, Kazakhistan\nOperazione: Veleno in pericolo"
+KO: "Western Shore of the Aral Sea, Kazakhstan\n작전: 독소 접수"
+ZH: "哈薩克，死海西岸\n行動：竊取毒物"
+BP: "Costa Ocidental do Mar de Aral, Cazaquistão\nOperação: Veneno Apropriado"
+PL: "Zachodni brzeg Jeziora Aralskiego, Kazachstan\nOperacja Stosowna trucizna"
+END
+
+MAP:GLA07OpenAlt2
+US: "Somewhere Near Lenger, Kazakhstan\nShow the world what happens to traitors!"
+DE: "Bei Lenger, Kasachstan\nZeigen Sie der Welt, was mit Verrätern passiert."
+FR: "Quelque part près de Lenger au Kazakhstan\nMontrer à tous le sort réservé aux traîtres !"
+ES: "En algún lugar cerca de Lenger, Kazajstán\n¡Enséñale al mundo lo que le pasa a los traidores!"
+IT: "Nei pressi di Lenger, Kazakhistan\nMostrate al mondo qual è la punizione per i traditori!"
+KO: "Somewhere Near Lenger, Kazakhstan\n배신자의 말로가 어떻게 되는지 똑똑히 보여주십시오!"
+ZH: "哈薩克，接近蘭格的某處\n讓世人看看恐怖份子的表現！"
+BP: "Em Agum Lugar nas Proximidades de Lenger, Cazaquistão\nMostre ao mundo o que acontece aos traidores!"
+PL: "Okolice Lengeru, Kazachstan\nPokaż światu, jaki jest los zdrajców!"
+END
+
+MAP:GLA07OpenAlt
+US: "Somewhere Near Lenger, Kazakhstan\nOperation: Trojan Horse"
+DE: "Bei Lenger, Kasachstan\nOperation: Trojanisches Pferd"
+FR: "Quelque part près de Lenger au Kazakhstan\nOpération : cheval de Troie"
+ES: "En algún lugar cerca de Lenger, Kazajstán\nOperación: Caballo de Troya"
+IT: "Nei pressi di Lenger, Kazakhistan\nOperazione: Cavallo di Troia"
+KO: "Somewhere Near Lenger, Kazakhstan\n작전: 트로이의 목마"
+ZH: "哈薩克，接近蘭格的某處\n行動：特洛伊木馬"
+BP: "Em Agum Lugar nas Proximidades de Lenger, Cazaquistão\nOperação: Cavalo de Tróia"
+PL: "Okolice Lengeru, Kazachstan\nOperacja Koń trojański"
+END
+
+MAP:GLA03Open02
+US: "Chinese-Occupied Zhambul, Kazakhstan\nOperation: Righteous Fire"
+DE: "Zhambul, Kasachstan\nOperation: Feuer der Gerechtigkeit"
+FR: "Quelque part près de Lenger au Kazakhstan\nOpération : bras vengeur"
+ES: "Zhambul, territorio ocupado por China, Kazajstán\nOperación: Fuego Justificado"
+IT: "Zhambul, Kazakhistan, zona occupata dai cinesi\nOperazione: Fuoco divino"
+KO: "Chinese-Occupied Zhambul, Kazakhstan\n작전: 정의의 불꽃"
+ZH: "中國所佔據哈薩克的汗布爾\n行動：正義之火"
+BP: "Zhambul Ocupada pela China, Cazaquistão\nOperação: Fogo Purificador"
+PL: "Szambul, Kazachstan\nOperacja Słuszny ogień"
+END
+
+MAP:GLA03Directive
+US: "Informant Report:\nDestroy the pharmeceutical factory to obtain an Anthrax Bomb."
+DE: "Spionagebericht:\nZerstören Sie die pharmazeutische Fabrik, um die Anthrax-Bombe sicherzustellen."
+FR: "Rapport :\ndétruire l'usine pharmaceutique pour obtenir une bombe Anthrax."
+ES: "Informe:\nDestruir la fábrica farmacéutica para obtener una bomba de antrax"
+IT: "Rapporto informatore:\nDistruggete la fabbrica farmaceutica\nper ottenere una bomba all'antrace."
+KO: "밀고자의 보고:\n탄저병 폭탄의 확보를 위해 약품 제조소를 파괴하라."
+ZH: "情報報告：\n摧毀製藥工廠以獲得炭疽菌炸彈。"
+BP: "Relatório do Informante:\nDestrua a fábrica farmacêutica para conseguir uma Bomba de Antraz."
+PL: "Raport informatora:\nZniszcz zakłady farmaceutyczne, aby zdobyć bombę wąglikową, ."
+END
+
+MAP:USA02Hint1Text
+US: "Use pilots to grant added veterancy to your vehicles."
+DE: "Erhöhen Sie mit den Piloten den Rang ihrer Fahrzeuge."
+FR: "Les pilotes font bénéficier vos véhicules d'un bonus d'expérience."
+ES: "Usa a los pilotos para que los vehículos ganen veteranía."
+IT: "Usa i piloti per garantire lo stato di veterani ai tuoi veicoli."
+KO: "차량의 베테랑 업그레이드를 하려면 파일럿을 이용하십시오."
+ZH: "將駕駛員進入您的載具裡增加您載具的經驗。"
+BP: "Use os pilotos para tornar suas unidades veteranas."
+PL: "Wykorzystaj pilotów, by zapewnić pojazdom status weteranów."
+END
+
+MAP:USA02Hint2Text
+US: "Use the Ranger's Flash-Bang upgrade to clear out garrisoned structures."
+DE: "Säubern Sie die besetzten Gebäude mit den Blendgranaten der Ranger."
+FR: "Les améliorations flash des rangers permettent de nettoyer les bâtiments de garnison."
+ES: "Usa las granadas cegadoras de los Rangers para despejar las estructuras guarnecidas."
+IT: "Usa l'aggiornamento Granate flash dei Ranger per eliminare i presidi nelle strutture nemiche."
+KO: "점거된 건물을 소탕하기 위해서는 레인저의 섬광폭음탄 업그레이드를 사용하십시오."
+ZH: "使用遊騎兵的閃光彈以清除駐防建築物。"
+BP: "Use as Granadas Flash Bang para eliminar os inimigos em estruturas ocupadas."
+PL: "Wykorzystaj granaty oślepiające rangerów, by oczyścić budynki obsadzone przez wroga."
+END
+
+MAP:USA03Hint1Text
+US: "Build Patriot Missile Systems to defend your base."
+DE: "Bauen Sie eine Patriot-Batterie, um den Stützpunkt zu verteidigen."
+FR: "Un système défensif Patriot permettrait de défendre la base."
+ES: "Construye misiles Patriot para defender tu base."
+IT: "Costruite dei missili Patriot per difendere la base."
+KO: "기지를 방어를 하려면 패트리엇 미사일을 건설하십시오."
+ZH: "建立愛國者飛彈系統以防禦您的基地。"
+BP: "Construa Baterias de Mísseis Patriot para defender sua base."
+PL: "Wybuduj system rakietowy Patriot, by bronić swą bazę."
+END
+
+MAP:USA04Hint1Text
+US: "Use Tomahawk Missile Launchers to clear out GLA strongpoints."
+DE: "Zerstören Sie die Stellungen der GBA mit Tomahawk-Raketen."
+FR: "Les lance-missiles Tomahawk permettent de nettoyer les points clés de la GLA."
+ES: "Usa los lanzamisiles Tomahawk para arrasar con los puntos estratégicos del GLA"
+IT: "Usate dei lanciatori Tomahawk per eliminare le roccaforti dell'ELG."
+KO: "GLA의 거점을 소탕하기 위해서는 토마호크를 사용하십시오."
+ZH: "使用戰斧飛彈發射器去消滅全球解放軍要塞。"
+BP: "Use os Mísseis Tomahawk para eliminar as defesas do E.L.G."
+PL: "Wykorzystaj wyrzutnie rakiet Tomahawk, by oczyścić punkty oporu AŚW."
+END
+
+MAP:NVIDIATEXT
+US: "Command & Conquer Generals\nComing February 2003"
+DE: "Command & Conquer Generals\nComing February 2003"
+FR: "Command & Conquer Generals\nComing February 2003"
+ES: "Command & Conquer Generals\nComing February 2003"
+IT: "Command & Conquer Generals\nIn uscita a febbraio 2003"
+KO: "Command & Conquer: Generals\nComing February 2003"
+ZH: "Command & Conquer: Generals\nComing February 2003"
+BP: "Command & Conquer Generals\nComing February 2003"
+PL: "Command & Conquer Generals\nComing February 2003"
+END
+
+MAP:USA06ObjHint2
+US: "HINT:\nCapture this facility"
+DE: "TIPP:\nErobern Sie dieses Gebäude."
+FR: "ASTUCE :\nemparez-vous de cette installation"
+ES: "PISTA:\nHazte con esta instalación"
+IT: "CONSIGLIO:\nConquistate questa struttura."
+KO: "힌트:\n해당 시설을 점령하십시오."
+ZH: "建議：\n佔領這個設備"
+BP: "DICA:\nCapture esta instalação."
+PL: "Rada:\nZajmij ten obiekt"
+END
+
+MAP:USA06ObjHint1
+US: "HINT:\nThere are important civilian buildings here"
+DE: "TIPP:\nIn der Gegend gibt es wichtige Zivilgebäude."
+FR: "ASTUCE :\nIl y a d'importants bâtiments civils ici."
+ES: "PISTA:\nHay edificios civiles importantes aquí"
+IT: "CONSIGLIO:\nQui ci sono degli importanti edifici civili."
+KO: "힌트:\n중요 민간 건물이 여기 있습니다."
+ZH: "建議：\n這裡有重要建築物"
+BP: "DICA:\nExistem estruturas civis importantes aqui."
+PL: "Rada:\nSą tu ważne budynki cywilne"
+END
+
+MAP:GLA03Objective07
+US: "Objective Complete:\n300 traitors eliminated."
+DE: "EINSATZZIEL ERREICHT:\n300 Verräter eliminiert."
+FR: "Objectif réussi :\n300 civils éliminés."
+ES: "Objetivo cumplido:\nAniquilados 300 traidores"
+IT: "OBIETTIVO RAGGIUNTO:\n300 traditori eliminati."
+KO: "목표 완수:\n300명의 민간인을 제거했습니다."
+ZH: "目標達成：\n消滅三百個叛徒。"
+BP: "Objetivo Alcançado:\n300 traidores eliminados."
+PL: "Zadanie wykonane:\nZlikwidowano 300 cywili."
+END
+
+MAP:GLA03Objective08
+US: "Objective Complete:\nPharmaceutical factory destroyed."
+DE: "EINSATZZIEL ERREICHT:\nPharmazeutische Fabrik zerstört."
+FR: "Objectif réussi :\nusine pharmaceutique détruite."
+ES: "Objetivo cumplido:\nDestruida fábrica farmacéutica"
+IT: "OBIETTIVO RAGGIUNTO:\nFabbrica farmaceutica distrutta."
+KO: "목표 완수:\n약품 제조소가 파괴되었습니다."
+ZH: "目標達成：\n摧毀藥品工廠。"
+BP: "Objetivo Alcançado:\nFábrica farmacêutica destruída."
+PL: "Zadanie wykonane:\nZakłady farmaceutyczne zniszczone."
+END
+
+MAP:GLA05Open
+US: "Adana, Turkey\nIncirlik Air Base"
+DE: "Adana, Türkei\nLuftwaffenstützpunkt Incilik"
+FR: "Adana, en Turquie\nBase aérienne d'Incirlik"
+ES: "Adana, Turquía\nBase aérea de Incirlik"
+IT: "Adana, Turchia\nBase aerea di Incirlik"
+KO: "Adana Turkey\nIncirlik 공군 기지"
+ZH: "土耳其，雅達納\n英基里克空軍基地"
+BP: "Adana, Turquia\nBase Aérea de Incirlik"
+PL: "Adana, Turcja\nBaza lotnicza Incirlik"
+END
+
+MAP:GLA08Open
+US: "Baikonur Cosmodrome, Southern Kazakhstan\nSoviet-Era Rocket Launch Facility"
+DE: "Baikonur, südliches Kasachstan\nRussischer Weltraumbahnhof"
+FR: "Cosmodrome de Baïkonour, au sud du Kazakhstan\nMatériel lance-missiles de l'ère soviétique"
+ES: "Cosmódromo de Baikonur, Sur de Kazajstán.\nPlanta de lanzacohetes de la era soviética"
+IT: "Cosmodromo di Baikonur, Kazakhistan meridionale\nCentro di lancio missilistico dell'era sovietica"
+KO: "Baikonur Cosmodrome, Southern Kazakhstan\n소련 로켓 발사 시설"
+ZH: "哈薩克南方，貝可努太空機場，前蘇聯火箭發射設備"
+BP: "Base Espacial de Baikonur, Sul do Cazaquistão\nInstalação de Lançamento de Foguetes da Ex-União Soviética"
+PL: "Kosmodrom Bajkonur, południowy Kazachstan\nOśrodek rakietowy z czasów ZSRR"
+END
+
+MAP:GLA08Open02
+US: "Southern Kazakhstan\nBaikonur Cosmodrome"
+DE: "Südliches Kasachstan\nKosmodrom von Baikonur"
+FR: "Sud du Kazakhstan\nCosmodrome de Baïkonour"
+ES: "Sur de Kazajstán\nCosmódromo de Baikonur"
+IT: "Kazakhistan meridionale\nCosmodromo di Baikonur"
+KO: "Southern Kazakhstan\n바이코누르 우주선 기지"
+ZH: "哈薩克南方\n貝可努太空機場"
+BP: "Sul do Cazaquistão\nBase Espacial de Baikonur"
+PL: "Południowy Kazachstan\nKosmodrom Bajkonur"
+END
+
+MAP:USA07hint1
+US: "HINT:\nUtilize this Supply Dock"
+DE: "TIPP:\nNutzen Sie das Nachschublager."
+FR: "ASTUCE :\nutilisez ce dépôt de ravitaillement"
+ES: "PISTA:\nUtiliza este muelle de suministros"
+IT: "CONSIGLIO:\nUtilizzate questa zona di rifornimento."
+KO: "힌트:\n해당 서플라이 적재소를 이용하십시오."
+ZH: "建議：\n利用這個補給站"
+BP: "DICA:\nUse esta Doca de Suprimentos."
+PL: "Rada\nWykorzystaj ten magazyn zaopatrzeniowy"
+END
+
+MAP:CHI05ObjInit
+US: "MISSION OBJECTIVE:\nDestroy the 3 GLA camps\nand the main GLA base"
+DE: "EINSATZZIEL:\nZerstören Sie die 3 GBA-Camps\nund den Stützpunkt der GBA."
+FR: "OBJECTIF DE MISSION :\ndétruire les 3 camps de la GLA\net sa base principale."
+ES: "OBJETIVO DE LA MISIÓN:\nDestruye los 3 campamentos del GLA\ny la base principal de GLA"
+IT: "OBIETTIVO MISSIONE:\nDistruggete i 3 accampamenti dell'ELG\ne la loro base primaria."
+KO: "임무 목표:\nGLA 캠프 3 곳과\n주 기지를 파괴하십시오."
+ZH: "任務目標：\n消滅這三個全球解放軍兵營\n以及主要全球解放軍基地"
+BP: "OBJETIVO DA MISSÃO\nDestrua os 3 campos do E.L.G. e sua base principal."
+PL: "Cel misji\nZniszczyć trzy obozy AŚW\ni główną bazę AŚW"
+END
+
+MAP:CHI05Obj4
+US: "There are 4 targets remaining"
+DE: "Noch 4 Ziele"
+FR: "4 cibles restantes"
+ES: "Aún quedan 4 objetivos"
+IT: "Restano 4 bersagli."
+KO: "목표 대상 4 곳 남았습니다."
+ZH: "還有四個攻擊目標"
+BP: "Restam 4 alvos."
+PL: "Pozostały cztery cele"
+END
+
+MAP:CHI05Obj3
+US: "There are 3 targets remaining"
+DE: "Noch 3 Ziele"
+FR: "3 cibles restantes"
+ES: "Aún quedan 3 objetivos"
+IT: "Restano 3 bersagli."
+KO: "목표 대상 3 곳 남았습니다."
+ZH: "還有三個攻擊目標"
+BP: "Restam 3 alvos."
+PL: "Pozostały trzy cele"
+END
+
+MAP:CHI05Obj2
+US: "There are 2 targets remaining"
+DE: "Noch 2 Ziele"
+FR: "2 cibles restantes"
+ES: "Aún quedan 2 objetivos"
+IT: "Restano 2 bersagli."
+KO: "목표 대상 2 곳 남았습니다."
+ZH: "還有二個攻擊目標"
+BP: "Restam 2 alvos."
+PL: "Pozostały dwa cele"
+END
+
+MAP:CHI05Obj1
+US: "There is only 1 target remaining"
+DE: "Nur noch 1 Ziel"
+FR: "1 cible restante"
+ES: "Sólo queda 1 objetivo"
+IT: "Resta 1 solo bersaglio."
+KO: "목표 대상 1 곳 남았습니다."
+ZH: "只剩一個攻擊目標"
+BP: "Resta 1 alvo."
+PL: "Pozostał już tylko jeden cel"
+END
+
+MAP:CHI05Objhint1
+US: "HINT:\nUtilize this Supply Dock"
+DE: "TIPP:\nNutzen Sie das Nachschublager."
+FR: "ASTUCE :\nutilisez ce dépôt de ravitaillement"
+ES: "PISTA:\nUsa este muelle de suministros"
+IT: "CONSIGLIO:\nUtilizzate questa zona di rifornimento."
+KO: "힌트:\n해당 서플라이 적재소를 이용하십시오."
+ZH: "建議：\n利用這個補給站"
+BP: "DICA:\nUse esta Doca de Suprimentos."
+PL: "Rada:\nWykorzystaj ten magazyn zaopatrzeniowy"
+END
+
+MAP:CHI05Objhint2
+US: "HINT:\nCapture these facilities"
+DE: "TIPP:\nErobern Sie diese Gebäude."
+FR: "ASTUCE :\nemparez-vous de ces installations"
+ES: "PISTA:\nToma estas instalaciones"
+IT: "CONSIGLIO:\nConquistate queste strutture."
+KO: "힌트:\n시설물들을 점령하십시오."
+ZH: "建議：\n佔領這些設備"
+BP: "DICA:\nCapture estas instalações."
+PL: "Rada:\nZajmij te obiekty"
+END
+
+MAP:CHI05ObjCBReady
+US: "HINT:\nCarpet Bombers are now available"
+DE: "TIPP:\nBombenteppich verfügbar."
+FR: "ASTUCE :\nbombardements intensifs disponibles"
+ES: "PISTA:\nBombarderos a nivel disponibles"
+IT: "CONSIGLIO:\nOra sono disponibili i bombardamenti a tappeto."
+KO: "힌트:\n융단 폭격을 사용할 수 있게 되었습니다."
+ZH: "建議：\n現在可以執行地毯式轟炸炸彈"
+BP: "DICA:\nBombardeio de Saturação disponível."
+PL: "Rada:\nDostępne są naloty dywanowe"
+END
+
+MAP:USA08MapName
+US: "Last Call"
+DE: "Letzter Aufruf"
+FR: "Dernier appel"
+ES: "Último aviso"
+IT: "Ultima chiamata"
+KO: "마지막 사명"
+ZH: "終極呼叫"
+BP: "Última Chamada"
+PL: "Ostatni etap"
+END
+
+MAP:USA08Open
+US: "GLA Capital City, Aldastan\nOperation: Last Call"
+DE: "Hauptstadt der GBA, Aldastan\nOperation: Letzter Aufruf"
+FR: "Capitale de la GLA, Aldastan\nOpération : dernier appel"
+ES: "Capital del GLA, Aldastan\nOperación: Último Aviso"
+IT: "Capitale dell'ELG, Aldastan\nOperazione: Ultima chiamata"
+KO: "GLA Capital City, Aldastan\n작전: 마지막 사명"
+ZH: "全球解放軍首府城市，阿爾丹斯坦\n軍事行動：最後呼叫"
+BP: "Capital do E.L.G., Aldastan\nOperação: Última Chamada"
+PL: "Stolica AŚW, Aldastan\nOperacja Ostatni etap"
+END
+
+MAP:USA08OpenAlt
+US: "Akmola, Kazakhstan\nOperation: Last Call"
+DE: "Akmola, Kasachstan\nOperation: Letzter Aufruf"
+FR: "Akmola, au Kazakhstan\nOpération : dernier appel"
+ES: "Akmola, Kazajstán\nOperación: Último Aviso"
+IT: "Akmola, Kazakhistan\nOperazione: Ultima chiamata"
+KO: "Akmola, Kazakhstan\n작전: 마지막 사명"
+ZH: "雅克墨拉，哈薩克\n行動：終極呼叫"
+BP: "Akmola, Cazaquistão\nOperação: Última Chamada"
+PL: "Akmoła, Kazachstan\nOperacja Ostatni etap"
+END
+
+MAP:USA08Objective01
+US: "MISSION OBJECTIVE:\nDestroy all GLA forces and structures."
+DE: "EINSATZZIEL:\nZerstören Sie alle Einheiten und Gebäude der GBA."
+FR: "OBJECTIF DE MISSION :\ndétruire les forces et les bâtiments de la GLA."
+ES: "OBJETIVO DE LA MISIÓN:\nDestruir todas las fuerzas y estructuras de GLA"
+IT: "OBIETTIVO MISSIONE:\nDistruggete tutte le forze e le strutture dell'ELG."
+KO: "임무 목표:\n모든 GLA 병력과 건물을 파괴하십시오."
+ZH: "任務目標：\n消滅全球解放軍軍隊與建築物。"
+BP: "OBJETIVO DA MISSÃO\nDestrua todas as forças e estruturas do E.L.G."
+PL: "Cel misji\nZniszczyć wszystkie wojska i obiekty AŚW"
+END
+
+MAP:USA08WallGarWarning
+US: "WARNING:\nThe GLA has garrisoned the wall.\nRangers must use Flash-bangs to kill garrisoned GLA troops."
+DE: "WARNUNG:\nDie GBA hat die Mauer besetzt.\nNeutralisieren Sie alle verschanzten GBA-Einheiten mit Blendgranaten."
+FR: "ALERTE :\nles troupes de la GLA peuvent s'abriter derrière les murs.\nLes rangers doivent utiliser des flashs pour tuer les unités en garnison."
+ES: "AVISO:\nEl GLA protege el muro.\nLos Rangers han de usar las granadas cegadoras para acabar con las tropas del GLA"
+IT: "ATTENZIONE:\nL'ELG presidia la muraglia.\nI Ranger devono usare le Granate flash\nper eliminare le truppe ELG barricate."
+KO: "경고:\nGLA가 방벽을 수비하고 있습니다.\n수비 병력을 소탕하기 위해서는 레인저가 섬광폭음탄을 사용해야 합니다."
+ZH: "警告：\n全球解放軍以派軍駐守此圍牆。\n遊騎兵必須使用閃光彈去消滅全球解放軍的駐守軍隊。"
+BP: "ATENÇÃO:\nO E.L.G. ocupou a muralha com soldados.\n\nUse granadas Flash Bang para eliminar os inimigos na muralha."
+PL: "Uwaga\nAŚW obsadziła mur.\nRangerzy muszą użyć granatów oślepiających, by zabić żołnierzy AŚW stacjonujących na murze."
+END
+
+MAP:USA08ChinaHint
+US: "Capture the Chinese buildings.\nBuild combined US and China forces to wipe out the GLA."
+DE: "Besetzen Sie die chinesischen Gebäude.\nLöschen Sie die GBA mit chinesischen und amerikanischen Truppen aus."
+FR: "Prendre les bâtiments chinois.\nCombiner les forces chinoises et américaines pour annihiler la GLA."
+ES: "Toma los edificios chinos.\nConstruye fuerzas de E.E.U.U. y China para exterminar al GLA."
+IT: "Catturate le strutture cinesi.\nAssemblate una forza congiunta Cina-USA per annientare l'ELG."
+KO: "중국 건물을 점령하십시오.\nGLA를 소탕하기 위해서 미군과 중국군의 조합을 사용하십시오."
+ZH: "佔領中國的建築物。\n建立聯合美國與中國的武力軍隊以徹底摧毀全球解放軍。"
+BP: "Capture as estruturas chinesas.\nCombine as forças dos E.U.A. e China para eliminar o E.L.G."
+PL: "Zajmij chińskie budynki.\nStwórz połączoną armię amerykańsko-chińską, która zlikwiduje AŚW."
+END
+
+MAP:USA08SCUDStormWarn
+US: "WARNING:\nThe GLA has constructed a SCUD Storm."
+DE: "WARNUNG:\nDie GBA hat einen SCUD-Sturm gebaut."
+FR: "ALERTE :\nla GLA a construit des Scuds multiples."
+ES: "AVISO:\nEl GLA ha montado una tormenta SCUD"
+IT: "ATTENZIONE:\nL'ELG ha realizzato uno SCUD Storm."
+KO: "경고:\nGLA가 스커트 폭풍을 건설했습니다."
+ZH: "警告：\n全球解放軍已建立起一個生化死雨風暴。"
+BP: "ATENÇÃO:\nO E.L.G. construiu um lançador Tempestade SCUD."
+PL: "Uwaga:\nAŚW skonstruowała Deszcz SCUD-ów."
+END
+
+MAP:USA08MineWarn
+US: "WARNING:\nGLA demo traps detected."
+DE: "WARNUNG:\nGBA-Sprengfallen geortet."
+FR: "ALERTE :\npièges explosifs de la GLA détectés."
+ES: "AVISO:\nDetectadas trampas de demolición del GLA"
+IT: "ATTENZIONE:\nRilevate trappole demolitrici dell'ELG."
+KO: "경고:\nGLA의 폭약 함정을 발견했습니다."
+ZH: "警告：\n發現全球解放軍的示威軍隊。"
+BP: "ATENÇÃO:\nArmadilha do E.L.G. detectada."
+PL: "Uwaga:\nWykryto pułapki wybuchowe AŚW."
+END
+
+MAP:USA08GLABaseKIA
+US: "The GLA bases are destroyed!\nEliminate the remaining GLA forces to win the war."
+DE: "Der GBA-Stützpunkt ist zerstört.\nEliminieren Sie die überlebenden Terroristen, um den Krieg zu gewinnen!"
+FR: "Les bases de la GLA ont été détruites !\nEliminer le reste des forces pour gagner la guerre."
+ES: "¡Las bases del GLA están destruidas!\nExtermina a las fuerzas que quedan del GLA para ganar la guerra."
+IT: "Le basi dell'ELG sono state distrutte!\nEliminate le loro forze residue per vincere la guerra."
+KO: "GLA 기지가 파괴되었습니다!\n전쟁을 승리로 이끌기 위해서는 나머지 병력도 소탕하십시오."
+ZH: "已摧毀全球解放軍基地！\n消滅剩餘全球解放軍軍隊以贏得這場戰役"
+BP: "As bases do E.L.G. foram destruídas!\nElimine as forças restantes do E.L.G. para vencer a guerra."
+PL: "Bazy AŚW zostały zniszczone!\nBy wygrać tę wojnę, zlikwiduj pozostałe siły AŚW."
+END
+
+MAP:GLA01Objective
+US: "MISSION OBJECTIVE\nDestroy the Dam"
+DE: "EINSATZZIEL:\nZerstören Sie den Damm."
+FR: "OBJECTIF DE MISSION :\ndétruire le barrage"
+ES: "OBJETIVO DE LA MISIÓN\nDestruir la presa"
+IT: "OBIETTIVO MISSIONE:\nDistruggete la diga."
+KO: "임무 목표\n댐을 폭파하십시오."
+ZH: "任務目標\n摧毀水壩"
+BP: "OBJETIVO DA MISSÃO\nDestrua a Represa."
+PL: "Cel misji\nZniszczyć zaporę"
+END
+
+MAP:GLA01Objective2
+US: "MISSION OBJECTIVE\nDestroy the Chinese base"
+DE: "EINSATZZIEL:\nZerstören Sie den chinesischen Stützpunkt."
+FR: "OBJECTIF DE MISSION :\ndétruire la base chinoise"
+ES: "OBJETIVO DE LA MISIÓN\nDestruir la base china"
+IT: "OBIETTIVO MISSIONE:\nDistruggete la base cinese."
+KO: "임무 목표\n중국 기지를 파괴하십시오."
+ZH: "任務目標\n摧毀中國的基地"
+BP: "OBJETIVO DA MISSÃO\nDestrua a base chinesa."
+PL: "Cel misji\nZniszczyć chińską bazę"
+END
+
+MAP:TrainingGenerals
+US: "Left click on the generals button in the lower right corner of your screen to choose a new ability for your General. As you are promoted your General will gain access to new abilities. Some abilities will allow you to create new special units, while others will give you special powers that are used from your Command Center."
+DE: "Linksklicke auf die General-Schaltfläche in der rechten unteren Bildschirmecke, um eine neue Fähigkeit für deinen General auszuwählen. Nach jeder Beförderung stehen deinem General neue Fähigkeiten zur Verfügung. Diese ermöglichen beispielsweise die Ausbildung neuer Einheiten oder den Einsatz von Spezialfähigkeiten."
+FR: "Cliquez sur l'étoile scintillante dans le coin inférieur droit pour choisir une nouvelle capacité pour votre Général. Chaque fois que vous êtes promu, votre Général accède à de nouvelles capacités. Certaines peuvent lui permettre de créer des unités spéciales tandis que d'autres lui confèrent des pouvoirs spéciaux, utilisables depuis le poste de commandement."
+ES: "Clic izquierdo en el botón generales en la esquina inferior derecha de la pantalla para escoger una capacidad nueva para tu General. Conforme asciendas, el General accede a nuevas capacidades. Algunas te permitirán crear unidades especiales nuevas, mientras que otras te darán poderes especiales que podrás usar desde el Centro de mando."
+IT: "Clicca col pulsante sinistro sul pulsante dei generali, in basso a destra sullo schermo, per scegliere una nuova abilità per il Generale. Quando viene promosso, il Generale accede a nuove abilità. Alcune permettono di creare unità speciali, mentre altre garantiscono capacità particolari che potranno essere usate dal Centro comando."
+KO: "제너럴의 새로운 특수능력을 선택하기 위해서는 우하단의 반짝이는 별을 왼쪽 클릭하십시오. 당신의 제너럴이 진급하게 되면 새로운 특수능력을 선택할 수 있게 됩니다. 어떤 특수능력은 커맨드 센터에서 무기를 사용할 수 있게 하며 또 어떤 특수능력은 특수 유닛을 생산할 수 있게 합니다."
+ZH: "在右下角將軍鍵上按左鍵，為您的將軍選擇新的技能。當您升級後您的將軍將會獲得新能力的使用。某些技能將允許您去創造新的特殊單位，有些則會給您的指揮中心某些特殊的能力。"
+BP: "Clique com o botão esquerdo do mouse sobre a estrela em destaque no canto direito de sua tela para escolher uma nova habilidade para seu General. À medida que você é promovido, seu General terá acesso a novas habilidades. Algumas destas habilidades permitirão que você crie novas unidades especiais, enquanto outras darão a você poderes especiais que podem ser usados a partir de seu Centro de Comando."
+PL: "Kliknij LPM na pulsującej gwiazdce w prawym dolnym narożniku ekranu, by wybrać nową umiejętność. Wraz z kolenymi awansami zyskasz dostęp do kolejnych umiejętności. Niektóre z nich umożliwiają tworzenie specjalnych jednostek, podczas gdy inne zapewniają specjalne możliwości, dostępne w sztabie."
+END
+
+MAP:TrainingSalvage
+US: "You have created a pile of salvage. Whenever GLA vehicles destroy enemy vehicles salvage is left behind. GLA vehicles can pick up salvage by moving over it. Salvage may be worth money or experience. Technicals, Quad Cannons and Marauders can upgrade their weapons with salvage."
+DE: "Zerstört ein Fahrzeug der GBA ein feindliches Fahrzeug, bleibt ein Wrack zurück. Fahre über die Wrackteile, um sie einzusammeln. Für Wrackteile bekommst du Geld oder Erfahrung. Kampfjeeps, Vierlingsgeschütze und Marodeurpanzer verbessern mit Wrackteilen ihre Waffensysteme."
+FR: "Vous avez créé une casse. Chaque fois que des véhicules de la GLA détruisent des véhicules ennemis, les débris viennent s'ajouter à ce tas. La casse peut vous faire gagner de l'argent ou de l'expérience. Grâce à elle, les jeeps, Quads et Maraudeur peuvent améliorer leurs armes."
+ES: "Has creado una pila de objetos salvados. Siempre que los vehículos de GLA destruyan vehículos enemigos, los dejarán atrás. Los vehículos de GLA pueden cogerlos, pasando por encima. Los podrás cambiar por dinero o experiencia. Las Camionetas, Cañones Quad y Marauders pueden mejorar sus armas con objetos salvados."
+IT: "Del materiale di ricupero è apparsoi. Quando i veicoli dell'ELG distruggono dei nemici, a terra restano dei detriti: i veicoli ELG possono recuperarli passandoci sopra per ottenere denaro o esperienza. Utilizzandoli, Tecniche, Cannoni quadrupli e Marauder possono potenziare le loro armi."
+KO: "많은 양의 잔해가 생성되었습니다. GLA 차량이 적 차량을 파괴할 시에는 잔해가 남게 됩니다. GLA 차량이 잔해 위를 지나가게 되면 잔해를 습득하게 됩니다. 잔해는 자금이나 경험치처럼 소중한 자원입니다. 테크니컬, 쿼드 케논 그리고 머로더는 잔해로 무기 업그레이드를 할 수 있습니다."
+ZH: "您已經創造出一堆可利用的廢物。當全球解放軍的載具摧毀敵方載具時都會留下可利用的物資。可利用的物資可能具有價值或經驗值。衝鋒車、四管加農砲和掠奪者，都可以用這些物資來升級他們的裝備。"
+BP: "Você criou de destroços. Toda vez que um veículo do E.L.G. destrói um veículo inimigo, uma pilha de destroços é criada. Os veículos do E.L.G. podem recolher estes destroços movendo-se sobre eles. Os destroços podem render dinheiro ou experiência. Técnicos, Canhões Quádruplos e Marauders podem melhorar suas armas principais com estes destroços."
+PL: "Powstał stos łupów. Takie pozostałości powstają zawsze, gdy pojazd AŚW niszczy nieprzyjacielskie jednostki mechaniczne. Pojazdy AŚW mogą zbierać łupy, wjeżdżając na nie. Łupy mają wartość pieniężną lub wyrażoną doświadczeniem bojowym. Technicy, działka czterolufowe i czołgi Grabieżca mogą ulepszać swą broń dzięki łupom."
+END
+
+MAP:TrainingUpgrade
+US: "Upgrades are bought at different structures in your base. They improve your units. Left click on the Barracks and then left click on Capture Building icon to upgrade your Rangers to be able to capture enemy buildings."
+DE: "Kaufe in verschiedenen Gebäuden Upgrades, um deine Einheiten zu verbessern. Linksklicke zuerst auf die Kaserne und anschließend auf die Schaltfläche 'Gebäude besetzen'. Nun können deine Ranger feindliche Gebäude besetzen."
+FR: "Vous pouvez acquérir des améliorations dans différents bâtiments de votre base. Grâce à elles, vos unités peuvent progresser. Cliquez sur la caserne puis sur l'icône Prendre bâtiment pour améliorer vos rangers et leur permettre ainsi de s'emparer des bâtiments ennemis."
+ES: "Las mejoras se compran en diferentes estructuras de la base. Mejoran tus unidades. Haz clic sobre los Barracones y después en el icono Tomar edificio para hacer que tus Rangers puedan hacerse con edificios enemigos."
+IT: "Gli aggiornamenti si acquistano in diverse strutture della tua base: essi migliorano le tue unità. Clicca col pulsante sinistro sulla caserma e, quindi, su Conquista struttura per aggiornare i Ranger in modo che possano conquistare le strutture nemiche."
+KO: "각각의 업그레이드는 각각 다른 건물에서 구입할 수 있습니다. 업그레이드를 하게 되면 유닛의 성능이 좋아집니다. 막사를 왼쪽 클릭한 뒤 건물 점령 아이콘을 왼쪽 클릭하면 레인저가 건물을 점령할 수 있게 됩니다."
+ZH: "升級會為您的基地帶來一些不同的建築物。它們可以提昇您的單位。在兵營上按左鍵然後在佔領建築物圖示上按左鍵， 讓您的遊騎兵可以升級的能力去佔領敵軍建築物。"
+BP: "Atualizações podem ser pesquisadas em diferentes estruturas de sua base. Elas servem para melhorar suas unidades. Clique com o botão esquerdo sobre o Quartel e então clique com o botão esquerdo sobre o ícone Capturar Estruturas para fazer com que seus Rangers sejam capazes de capturar estruturas inimigas."
+PL: "Modernizacje finansuje się w różnych budynkach Twojej bazy. Modernizacje ulepszają jednostki. Kliknij LPM na koszarach, a następnie na ikonie zajęcia budynku. W ten sposób nauczysz rangerów zajmować budynki wroga."
+END
+
+MAP:USA01OBJOpen
+US: "MISSION OBJECTIVE\nDestroy all enemy forces"
+DE: "EINSATZZIEL:\nZerstören Sie alle feindlichen Stellungen."
+FR: "OBJECTIF DE MISSION :\ndétruire toutes les forces ennemies."
+ES: "OBJETIVO DE LA MISIÓN\nDestruir todas las fuerzas enemigas"
+IT: "OBIETTIVO MISSIONE:\nDistruggete tutte le forze nemiche."
+KO: "임무 목표\n모든 적군을 섬멸하십시오."
+ZH: "任務目標\n摧毀所有敵軍"
+BP: "OBJETIVO DA MISSÃO:\nDestrua todas as forças inimigas."
+PL: "Cel misji\nZniszczyć siły wroga"
+END
+
+MAP:TrainingWarFactory
+US: "MISSION OBJECTIVE\nUse your DOZER to build a WAR FACTORY"
+DE: "EINSATZZIEL:\nBauen Sie mit dem BULLDOZER eine WAFFENFABRIK."
+FR: "OBJECTIF DE MISSION :\nconstruire un complexe militaro-industriel avec un engin de chantier."
+ES: "OBJETIVO DE LA MISIÓN\nUsa la EXCAVADORA para construir una FÁBRICA DE GUERRA"
+IT: "OBIETTIVO MISSIONE:\nUsa il BULLDOZER per costruire una FABBRICA MILITARE."
+KO: "임무 목표\n불도저를 이용하여 군수공장을 건설하십시오."
+ZH: "任務目標\n使用您的推土機建造戰車工廠"
+BP: "OBJETIVO DA MISSÃO\nUse o Construtor para construir uma FÁBRICA DE ARMAMENTOS."
+PL: "Cel misji\nUżyj buldożera, by zbudować fabrykę wojenną"
+END
+
+MAP:Bavarian
+US: "Final Crusade"
+DE: "Final Crusade"
+FR: "Croisade finale"
+ES: "Campaña Final"
+IT: "L'ultima crociata"
+KO: "Final Crusade"
+ZH: "最終聖戰"
+BP: "Final Crusade"
+PL: "Ostatnia krucjata"
+END
+
+MAP:CLake
+US: "Tournament Lake"
+DE: "Tournament Lake"
+FR: "Lac du tournoi"
+ES: "Lago Torneo"
+IT: "Torneo al lago"
+KO: "Tournament Lake"
+ZH: "競賽之湖"
+BP: "Tournament Lake"
+PL: "Turniej na jeziorze"
+END
+
+MAP:SBlast
+US: "Sand Serpent"
+DE: "Sand Serpent"
+FR: "Serpent de sable"
+ES: "Serpiente de Arena"
+IT: "Serpente di sabbia"
+KO: "Sand Serpent"
+ZH: "砂蛇"
+BP: "Sand Serpent"
+PL: "Piaskowy wąż"
+END
+
+MAP:SleepingGiant
+US: "Dark Mountain"
+DE: "Dark Mountain"
+FR: "Montagne noire"
+ES: "Montaña Oscura"
+IT: "Montagna oscura"
+KO: "Dark Mountain"
+ZH: "黑暗之山"
+BP: "Dark Mountain"
+PL: "Mroczna góra"
+END
+
+MAP:SwissMP
+US: "Lone Eagle"
+DE: "Lone Eagle"
+FR: "Aigle solitaire"
+ES: "Águila Solitaria"
+IT: "Aquila solitaria"
+KO: "Lone Eagle"
+ZH: "長鷹"
+BP: "Lone Eagle"
+PL: "Samotny orzeł"
+END
+
+MAP:KandaharHighlands
+US: "Twilight Flame"
+DE: "Twilight Flame"
+FR: "Flamme du crépuscule"
+ES: "Crepúsculo Resplandeciente"
+IT: "Fiamma al tramonto"
+KO: "Twilight Flame"
+ZH: "薄暮之火"
+BP: "Twilight Flame"
+PL: "Migające płomienie"
+END
+
+MAP:BoraBora
+US: "Tournament Island"
+DE: "Tournament Island"
+FR: "Ile du tournoi"
+ES: "Torneo Isla"
+IT: "Torneo sull'isola"
+KO: "Tournament Island"
+ZH: "競賽之島"
+BP: "Tournament Island"
+PL: "Turniej na wyspie"
+END
+
+MAP:PrecipicePass
+US: "Fortress Avalanche"
+DE: "Fortress Avalanche"
+FR: "Forteresse de l'avalanche"
+ES: "Fortaleza Avalancha"
+IT: "Fortezza di ghiaccio"
+KO: "Fortress Avalanche"
+ZH: "崩塌之堡"
+BP: "Fortress Avalanche"
+PL: "Szturm na fortecę"
+END
+
+MAP:TTourney
+US: "Tournament Tundra"
+DE: "Tournament Tundra"
+FR: "Toundra"
+ES: "Torneo Tundra"
+IT: "Torneo nella tundra"
+KO: "Tournament Tundra"
+ZH: "競賽凍原"
+BP: "Tournament Tundra"
+PL: "Turniej w tundrze"
+END
+
+MAP:Gwall
+US: "Fallen Empire"
+DE: "Fallen Empire"
+FR: "Empire déchu"
+ES: "Imperio Arruinado"
+IT: "L'impero caduto"
+KO: "Fallen Empire"
+ZH: "墜敗王國"
+BP: "Fallen Empire"
+PL: "Upadłe imperium"
+END
+
+MAP:CHI04Objective1Text
+US: "MISSION OBJECTIVE\nDestroy the GLA's Stinger Sites"
+DE: "EINSATZZIEL:\nZerstören Sie die Stinger-Stellungen der GBA."
+FR: "OBJECTIF DE MISSION :\ndétruire les sites Stingers de la GLA."
+ES: "OBJETIVO DE LA MISIÓN\nDestruir emplazamientos de Stinger del GLA"
+IT: "OBIETTIVO MISSIONE:\n\nDistruggete le postazioni Stinger dell'ELG."
+KO: "임무 목표\nGLA의 스팅어 사이트를 파괴하십시오."
+ZH: "任務目標\n催毀全球解放軍針刺飛彈陣地"
+BP: "OBJETIVO DA MISSÃO\nDestrua as Baterias Stinger do E.L.G."
+PL: "Cel misji\nZniszcz wyrzutnie Stingerów należące do AŚW"
+END
+
+MAP:CHI04Objective2Text
+US: "MISSION OBJECTIVE\nUse Black Lotus to capture the Chinese War Factory"
+DE: "EINSATZZIEL:\nSchwarzer Lotus muss die chinesische Waffenfabrik einnehmen."
+FR: "OBJECTIF DE MISSION :\nprendre possession de l'usine de guerre chinoise grâce à Lotus Noir."
+ES: "OBJETIVO DE LA MISIÓN\nUsa a Loto Negro para capturar la Fábrica de Guerra China"
+IT: "OBIETTIVO MISSIONE:\nUsate Loto Nero per catturare la Fabbrica militare cinese."
+KO: "임무 목표\n흑수선을 이용하여 중국 군수공장을 점령하십시오."
+ZH: "任務目標\n使用黑蓮花佔領中國戰車工廠"
+BP: "OBJETIVO DA MISSÃO\n\nUse a agente Black Lotus para capturar a Fábrica de Armamentos."
+PL: "Cel misji\nZa pomocą Czarnego Lotosu przejmij chińską fabrykę wojenną."
+END
+
+MAP:CHI04Objective3Text
+US: "MISSION OBJECTIVE\nDestroy Stinger Sites around the Chemical Factory"
+DE: "EINSATZZIEL:\nZerstören Sie die Stinger-Stellungen an der Chemiefabrik."
+FR: "OBJECTIF DE MISSION :\ndétruire les sites Stingers entourant l'usine chimique."
+ES: "OBJETIVO DE LA MISIÓN\nDestruir los emplazamientos de los Stinger alrededor de la Factoría Química"
+IT: "OBIETTIVO MISSIONE:\nDistruggete le postazioni di Stinger intorno all'impianto chimico."
+KO: "임무 목표\n화학 공장 주위에 있는 스팅어 사이트를 파괴하십시오."
+ZH: "任務目標\n催毀在化學工廠四週的針刺飛彈陣地"
+BP: "OBJETIVO DA MISSÃO\nDestrua as Baterias Stinger ao redor da Indústria Química."
+PL: "Cel misji\nZniszcz wyrzutnie Stingerów wokół fabryki chemicznej"
+END
+
+MAP:CHI04Hint1Text
+US: "HINT: Use Black Lotus to disable enemy vehicles"
+DE: "TIPP:\nSchwarzer Lotus kann feindliche Fahrzeuge deaktivieren."
+FR: "ASTUCE :\nfaites appel à Lotus Noir pour rendre les véhicules ennemis inopérants"
+ES: "Truco: Usa a Loto Negro para desabilitar vehículos enemigos"
+IT: "CONSIGLIO: Usate Loto Nero per neutralizzare i veicoli nemici."
+KO: "힌트: 흑수선을 이용하여 적 차량을 무력화 시키십시오."
+ZH: "技巧：使用黑蓮花讓敵軍載具失效"
+BP: "DICA:\nUse a agente Black Lotus para desativar os veículos inimigos."
+PL: "Rada: Za pomocą Czarnego Lotosu unieruchom pojazdy wroga."
+END
+
+MAP:CHI04Hint2Text
+US: "HINT: Use Hackers to generate additional income"
+DE: "TIPP:\nVerbessern Sie ihr Einkommen mit Hackern."
+FR: "ASTUCE :\nfaites appel aux technopirates pour générer des revenus supplémentaires"
+ES: "Truco: Usa los Hackers para generar ganancias adicionales"
+IT: "CONSIGLIO: Usate gli Hacker per generare degli introiti aggiuntivi."
+KO: "힌트: 해커를 이용하여 추가적 자금을 모으십시오."
+ZH: "技巧：使用駭客產生額外收入"
+BP: "DICA:\nUse os Hackers para conseguir recursos adicionais."
+PL: "Rada: Użyj hakerów, aby wygenerować dodatkowy dochód."
+END
+
+MAP:CHI04Hint3Text
+US: "HINT: Use Black Lotus to hack into the enemy's supply center to siphon off additional resources"
+DE: "TIPP:\nSchwarzer Lotus kann sich in den Computer des feindlichen Nachschublagers hacken."
+FR: "ASTUCE :\nfaites appel à Lotus Noir pour pirater le dépôt de ravitaillement ennemi et siphonner ses ressources supplémentaires"
+ES: "Truco: Usa a Loto Negro para cortar el centro de suministros del enemigo y extraer recursos adicionales"
+IT: "CONSIGLIO: Usate Loto Nero per penetrare nel Centro rifornimenti nemico e recuperare risorse aggiuntive."
+KO: "힌트: 흑수선을 이용하여 적 서플라이 센터에서 자금을 끌어오십시오."
+ZH: "技巧：使用黑蓮花駭客敵軍的補給中心來抽取額外的資源"
+BP: "DICA:\n\nUse a agente Black Lotus para invadir as centrais de suprimentos\ninimigas e conseguir recursos adicionais."
+PL: "Rada: Użyj Czarnego Lotosu, aby włamać się do centrum zaopatrzenia wroga i wykraść nieco zasobów."
+END
+
+MAP:BarrenBadlands
+US: "Barren Badlands"
+DE: "Barren Badlands"
+FR: "Désolation terrestre"
+ES: "Tierras Áridas"
+IT: "Terre desolate"
+KO: "Barren Badlands"
+ZH: "不毛之地"
+BP: "Barren Badlands"
+PL: "Jałowe pustkowia"
+END
+
+MAP:CraterCanyon
+US: "Crater Canyon"
+DE: "Crater Canyon"
+FR: "Cratère et canyon"
+ES: "Cañón Crater"
+IT: "Canyon del cratere"
+KO: "Crater Canyon"
+ZH: "火山峽谷"
+BP: "Crater Canyon"
+PL: "Kanion i krater"
+END
+
+MAP:DustDevil
+US: "Dust Devil"
+DE: "Dust Devil"
+FR: "Démons de poussière"
+ES: "Remolino de Polvo"
+IT: "Polvere d'inferno"
+KO: "Dust Devil"
+ZH: "小旋風"
+BP: "Dust Devil"
+PL: "Diabelski pył"
+END
+
+MAP:EasternEverglades
+US: "Eastern Everglades"
+DE: "Eastern Everglades"
+FR: "Marécages"
+ES: "Terreno Pantanoso del Este"
+IT: "Paludi orientali"
+KO: "Eastern Everglades"
+ZH: "東部濕地"
+BP: "Eastern Everglades"
+PL: "Wschodnie bagna"
+END
+
+MAP:ForgottenForest
+US: "Forgotten Forest"
+DE: "Forgotten Forest"
+FR: "Forêt perdue"
+ES: "Bosque Olvidado"
+IT: "Foresta dimenticata"
+KO: "Forgotten Forest"
+ZH: "遺忘森林"
+BP: "Forgotten Forest"
+PL: "Zapomniany las"
+END
+
+MAP:InterstateInferno
+US: "Interstate Inferno"
+DE: "Interstate Inferno"
+FR: "Bitume d'enfer"
+ES: "Infierno Interestatal"
+IT: "Inferno interstatale"
+KO: "Interstate Inferno"
+ZH: "洲際地獄"
+BP: "Interstate Inferno"
+PL: "Nieziemskie piekło"
+END
+
+MAP:MountainMayhem
+US: "Mountain Mayhem"
+DE: "Mountain Mayhem"
+FR: "Grabuge en montagne"
+ES: "Montaña Mayhem"
+IT: "Caos in montagna"
+KO: "Mountain Mayhem"
+ZH: "暴行山脈"
+BP: "Mountain Mayhem"
+PL: "Górski pogrom"
+END
+
+MAP:NoMansLand
+US: "No Man's Land"
+DE: "No Man's Land"
+FR: "No Man's Land"
+ES: "Tierra de Nadie"
+IT: "Terra di nessuno"
+KO: "No Man's Land"
+ZH: "無人之地"
+BP: "No Man's Land"
+PL: "Ziemia niczyja"
+END
+
+MAP:OverlandOffensive
+US: "Overland Offensive"
+DE: "Overland Offensive"
+FR: "Offensive terrestre"
+ES: "Ofensiva Terrestre"
+IT: "Offensiva terrestre"
+KO: "Overland Offensive"
+ZH: "突擊大陸"
+BP: "Overland Offensive"
+PL: "Ofensywa lądowa"
+END
+
+MAP:RockyRampage
+US: "Rocky Rampage"
+DE: "Rocky Rampage"
+FR: "Saccage et rocaille"
+ES: "Alboroto Escabroso"
+IT: "Disastro fra le rocce"
+KO: "Rocky Rampage"
+ZH: "暴石之丘"
+BP: "Rocky Rampage"
+PL: "Brutalna napaść"
+END
+
+MAP:SnowblindStrike
+US: "Snowblind Strike"
+DE: "Snowblind Strike"
+FR: "A perte de vue"
+ES: "Snowblind Strike"
+IT: "Conflitto innevato"
+KO: "Snowblind Strike"
+ZH: "雪盲突擊"
+BP: "Snowblind Strike"
+PL: "Uderzenie w zamieci"
+END
+
+MAP:UrbanUnderground
+US: "Urban Underground"
+DE: "Urban Underground"
+FR: "Réseau urbain"
+ES: "Metro Urbano"
+IT: "Sottosuolo urbano"
+KO: "Urban Underground"
+ZH: "地城"
+BP: "Urban Underground"
+PL: "Metro"
+END
+
+MAP:VictoryValley
+US: "Victory Valley"
+DE: "Victory Valley"
+FR: "Vallée victorieuse"
+ES: "Valle de la Victoria"
+IT: "Valle della vittoria"
+KO: "Victory Valley"
+ZH: "勝利村莊"
+BP: "Victory Valley"
+PL: "Dolina Zwycięstwa"
+END
+
+MAP:WastelandWarfare
+US: "Wasteland Warfare"
+DE: "Wasteland Warfare"
+FR: "Désert guerrier"
+ES: "Páramo de Armas"
+IT: "Terre selvagge"
+KO: "Wasteland Warfare"
+ZH: "荒原戰爭"
+BP: "Wasteland Warfare"
+PL: "Wojna na pustkowiu"
+END
+
+MAP:RogueAgent
+US: "Rogue Agent"
+DE: "Rogue Agent"
+FR: "Agent dangereux"
+ES: "Agente Rufián"
+IT: "Agente disertore"
+KO: "Rogue Agent"
+ZH: "特工遊俠"
+BP: "Rogue Agent"
+PL: "Podstępny agent"
+END
+
+MAP:DesertEagle
+US: "Desert Eagle"
+DE: "Desert Eagle"
+FR: "Aigle du désert"
+ES: "Águila del Desierto"
+IT: "Aquila del deserto"
+KO: "Desert Eagle"
+ZH: "沙漠之鷹"
+BP: "Desert Eagle"
+PL: "Pustynny orzeł"
+END
+
+MAP:FlashFire
+US: "Flash Fire"
+DE: "Flash Fire"
+FR: "Tout feu, tout flash"
+ES: "Destello de Fuego"
+IT: "Fuoco improvviso"
+KO: "Flash Fire"
+ZH: "突火"
+BP: "Flash Fire"
+PL: "Płomienie"
+END
+
+MAP:MountainGuns
+US: "Mountain Guns"
+DE: "Mountain Guns"
+FR: "Armes tout terrain"
+ES: "Montañas de Armas"
+IT: "Cannoni montuosi"
+KO: "Mountain Guns"
+ZH: "火砲山岳"
+BP: "Mountain Guns"
+PL: "Górskie strzelby"
+END
+
+MAP:FlashEffect
+US: "Flash Effect"
+DE: "Flash Effect"
+FR: "Flash"
+ES: "Efecto Flash"
+IT: "Effetto flash"
+KO: "Flash Effect"
+ZH: "閃電效率"
+BP: "Flash Effect"
+PL: "Natychmiastowy efekt"
+END
+
+MAP:LightsOut
+US: "Lights Out"
+DE: "Lights Out"
+FR: "Lumière"
+ES: "Fuera Luces"
+IT: "Luci spente"
+KO: "Lights Out"
+ZH: "粉身碎骨"
+BP: "Lights Out"
+PL: "Zaciemnienie"
+END
+
+MAP:SteelTrap
+US: "Steel Trap"
+DE: "Steel Trap"
+FR: "Piège d'acier"
+ES: "Trampas de Acero"
+IT: "Trappola d'acciaio"
+KO: "Steel Trap"
+ZH: "鋼鐵陷阱"
+BP: "Steel Trap"
+PL: "Stalowa pułapka"
+END
+
+MAP:ArmoredFury
+US: "Armored Fury"
+DE: "Armored Fury"
+FR: "Furie blindée"
+ES: "Furia Armada"
+IT: "Furia corazzata"
+KO: "Armored Fury"
+ZH: "狂怒裝甲"
+BP: "Armored Fury"
+PL: "Uzbrojona furia"
+END
+
+MAP:InfiniteJustice
+US: "Infinite Justice"
+DE: "Infinite Justice"
+FR: "Justice infinie"
+ES: "Justicia Infinita"
+IT: "Giustizia infinita"
+KO: "Infinite Justice"
+ZH: "正義無限"
+BP: "Infinite Justice"
+PL: "Ręka sprawiedliwości"
+END
+
+MAP:Whiteout
+US: "Whiteout"
+DE: "Whiteout"
+FR: "Manteau neigeux"
+ES: "Poca Visibilidad"
+IT: "Nuvole in cielo"
+KO: "Whiteout"
+ZH: "白化"
+BP: "Whiteout"
+PL: "Szarówka"
+END
+
+MAP:FalloutEffect
+US: "Fallout Effect"
+DE: "Fallout Effect"
+FR: "Retombées"
+ES: "Efecto Lluvia"
+IT: "Effetto fallout"
+KO: "Fallout Effect"
+ZH: "輻射塵效應"
+BP: "Fallout Effect"
+PL: "Opad radioaktywny"
+END
+
+MAP:FloodedPlains
+US: "Flooded Plains"
+DE: "Flooded Plains"
+FR: "Inondations en plaine"
+ES: "Campaña Empantanada"
+IT: "Pianure allagate"
+KO: "Flooded Plains"
+ZH: "洪水平原"
+BP: "Flooded Plains"
+PL: "Zalane równiny"
+END
+
+MAP:TournamentContinent
+US: "Tournament Continent"
+DE: "Tournament Continent"
+FR: "Continent du tournoi"
+ES: "Torneo Continente"
+IT: "Torneo sul continente"
+KO: "Tournament Continent"
+ZH: "錦標賽 大陸"
+BP: "Continente de Torneio"
+PL: "Kontynent turniejowy"
+END
+
+MAP:TournamentCity
+US: "Tournament City"
+DE: "Tournament City"
+FR: "Ville du tournoi"
+ES: "Torneo Ciudad"
+IT: "Torneo in città"
+KO: "Tournament City"
+ZH: "錦標賽 城市"
+BP: "Cidade de Torneio"
+PL: "Miasto turniejowe"
+END
+
+MAP:TournamentLadder01
+US: "Tournament Ladder 01"
+DE: "Tournament Ladder 01"
+FR: "Classement tournoi 01"
+ES: "Torneo Escala 1"
+IT: "Classifica torneo 01"
+KO: "Tournament Ladder 01"
+ZH: "錦標賽 排名賽 01"
+BP: "Competição do Torneio 01"
+PL: "Drabinka turniejowa 01"
+END
+
+MAP:TournamentLadder02
+US: "Tournament Ladder 02"
+DE: "Tournament Ladder 02"
+FR: "Classement tournoi 02"
+ES: "Torneo Escala 2"
+IT: "Classifica torneo 02"
+KO: "Tournament Ladder 02"
+ZH: "錦標賽 排名賽 02"
+BP: "Competição do Torneio 02"
+PL: "Drabinka turniejowa 02"
+END
+
+MAP:TournamentLadder03
+US: "Tournament Ladder 03"
+DE: "Tournament Ladder 03"
+FR: "Classement tournoi 03"
+ES: "Torneo Escala 3"
+IT: "Classifica torneo 03"
+KO: "Tournament Ladder 03"
+ZH: "錦標賽 排名賽 03"
+BP: "Competição do Torneio 03"
+PL: "Drabinka turniejowa 03"
+END
+
+MAP:TournamentLadder04
+US: "Tournament Ladder 04"
+DE: "Tournament Ladder 04"
+FR: "Classement tournoi 04"
+ES: "Torneo Escala 4"
+IT: "Classifica torneo 04"
+KO: "Tournament Ladder 04"
+ZH: "錦標賽 排名賽 04"
+BP: "Competição do Torneio 04"
+PL: "Drabinka turniejowa 04"
+END
+
+MAP:TrainingGLAHole
+US: "GLA buildings have deep underground areas that allow their workers to remain protected. After destroying a GLA building a hole will be left behind. Workers hidden in this hole will eventually rebuild the structure. Attack the hole to remove the GLA threat."
+DE: "GBA-Gebäude verfügen über unterirdische Bunker zum Schutz der Arbeiter. Nach der Zerstörung eines GBA-Gebäudes bleibt ein tiefes Loch zurück. Die dort versteckten Arbeiter bauen das Gebäude später wieder auf. Greife das Loch an, um dies zu verhindern!"
+FR: "Les bâtiments de la GLA possèdent de grandes zones souterraines qui permettent à ses travailleurs d'être protégés. Après la destruction d'un de ces bâtiments, il restera un trou. Les travailleurs cachés dans ce trou seront à même de reconstruire la structure. Attaquez le trou pour faire disparaître la menace de la GLA."
+ES: "Los edificios del GLA tienen profundos subterráneos que permiten a sus trabajadores permanecer protegidos. Después de destruir un edificio del GLA se quedará un hueco en la parte trasera. Los trabajadores que se ocultan en estos huecos reconstruirán la estrucutra. Ataca los huecos para acabar con la amenaza del GLA."
+IT: "Le strutture dell'ELG dispongono di zone sotterranee che proteggono chi si trova al loro interno. Dopo aver distrutto una struttura dell'ELG, rimarrà un buco nel terreno: è possibile che i terroristi nascosti al suo interno ricostruiscano la struttura. Attaccate anche il rifugio per eliminare la minaccia dell'ELG."
+KO: "GLA 건물에는 지하 깊은 곳에 일꾼을 보호할 수 있는 장소가 있습니다. GLA 건물을 파괴하게 되면 땅굴이 남게 되는데, 이후에 여기에 숨어있던 일꾼들이 건물을 다시 건설할 수 있게 됩니다. GLA의 위협에서 완전히 벗어나기 위해서는 땅굴을 반드시 제거하십시오."
+ZH: "全球解放軍挖通地下區域，並允許他們的工人藏於其中受到保護。在摧毀全球解放軍之後的洞常被人忽略遺忘。工人就藏於這些洞中並會重建這些建築。攻擊那些洞口以消除全球解放軍的威脅。"
+BP: "Estruturas do E.L.G. possuem grandes áreas subterrâneas que permitem que seus trabalhadores permaneçam protegidos durante ataques. Após destruir uma estrutura do E.L.G., uma entrada de túnel ficará em seu lugar. Trabalhadores escondidos neste túnel eventualmente reconstruirão a estrutura. Ataque a entrada do túnel para eliminar a ameaça do E.L.G."
+PL: "Budynki GLA mają duże kondygnacje podziemne, które skutecznie chronią robotników. Po zniszczeniu takiego budynku pozostaje głęboka dziura, a ukryci w niej robotnicy mogą odbudować budynek. Aby wyeliminować zagrożenie, oczyść miejsce po budynku."
+END

@@ -1,0 +1,155 @@
+SIDE:America
+US: "USA"
+DE: "WA"
+FR: "USA"
+ES: "E.E.U.U."
+IT: "USA"
+KO: "미국"
+ZH: "美國"
+BP: "E.U.A."
+PL: "USA"
+END
+
+SIDE:China
+US: "China"
+DE: "AP"
+FR: "Général Chine"
+ES: "China"
+IT: "Cina"
+KO: "중국"
+ZH: "中國"
+BP: "China"
+PL: "Chiny"
+END
+
+SIDE:GLA
+US: "GLA"
+DE: "IBG"
+FR: "GLA"
+ES: "GLA"
+IT: "ELG"
+KO: "GLA"
+ZH: "全球解放軍"
+BP: "E.L.G."
+PL: "AŚW"
+END
+
+SIDE:AmericaSuperWeaponGeneral
+US: "USA Super Weapon General"
+DE: "WA – Superwaffen-General"
+FR: "Général superarme USA"
+ES: "Gen. superarma EE.UU."
+IT: "Generale armi speciali USA"
+KO: "미국 슈퍼 무기 제너럴"
+ZH: "美國超級武器將軍"
+BP: "General Superarma EUA"
+PL: "Generał superbroni USA"
+END
+
+SIDE:AmericaLaserGeneral
+US: "USA Laser General"
+DE: "WA – Laser-General"
+FR: "Général laser USA"
+ES: "Gen. láser EE.UU."
+IT: "Generale laser USA"
+KO: "미국 레이저 제너럴"
+ZH: "美國雷射將軍"
+BP: "General Laser EUA"
+PL: "Generał laserów USA"
+END
+
+SIDE:AmericaAirForceGeneral
+US: "USA Air Force General"
+DE: "WA – Luftwaffen-General"
+FR: "Général armée de l'air USA"
+ES: "Gen. Fuerza Aérea EE.UU."
+IT: "Generale forze aeree USA"
+KO: "미국 에어포스 제너럴"
+ZH: "美國空軍將軍"
+BP: "General Força Aérea EUA"
+PL: "Generał lotnictwa USA"
+END
+
+SIDE:ChinaTankGeneral
+US: "China Tank General"
+DE: "AP – Panzer-General"
+FR: "Général blindés Chine"
+ES: "Gen. tanques chino"
+IT: "Generale carri armati cinese"
+KO: "중국 탱크 제너럴"
+ZH: "中國坦克將軍"
+BP: "General Tanque - China"
+PL: "Generał pancerny Chin"
+END
+
+SIDE:ChinaInfantryGeneral
+US: "China Infantry General"
+DE: "AP – Cyborg-General"
+FR: "Général infanterie Chine"
+ES: "Gen. infantería chino"
+IT: "Generale fanteria cinese"
+KO: "중국 보병 제너럴"
+ZH: "中國步兵將軍"
+BP: "General Infantaria - China"
+PL: "Generał piechoty Chin"
+END
+
+SIDE:ChinaNukeGeneral
+US: "China Nuke General"
+DE: "AP – Nuklear-General"
+FR: "Général atomique Chine"
+ES: "Gen. nuclear chino"
+IT: "Generale nucleare cinese"
+KO: "중국 핵 제너럴"
+ZH: "中國核武將軍"
+BP: "General Nuclear China"
+PL: "Generał sił jądrowych Chin"
+END
+
+SIDE:GLAToxinGeneral
+US: "GLA Toxin General"
+DE: "IBG – Säure-General"
+FR: "Général Toxine GLA"
+ES: "Gen. toxinas GLA"
+IT: "Generale tossine ELG"
+KO: "GLA 독소 제너럴"
+ZH: "全球解放軍毒素將軍"
+BP: "General Tóxico - E.L.G."
+PL: "Generał sił chemicznych AŚW"
+END
+
+SIDE:GLADemolitionGeneral
+US: "GLA Demolition General"
+DE: "IBG – TNT-General"
+FR: "Général explosifs GLA"
+ES: "Gen. demolición GLA"
+IT: "Generale demolizione ELG"
+KO: "GLA 폭파 제너럴"
+ZH: "全球解放軍炸藥將軍"
+BP: "General Demolição - E.L.G."
+PL: "Generał zamachów AŚW"
+END
+
+SIDE:GLAStealthGeneral
+US: "GLA Stealth General"
+DE: "IBG – Undercover-General"
+FR: "Général furtif GLA"
+ES: "Gen. infiltración GLA"
+IT: "Generale stealth ELG"
+KO: "GLA 스텔스 제너럴"
+ZH: "全球解放軍匿蹤將軍"
+BP: "General Camuflagem - E.L.G."
+PL: "Generał sił niewykrywalnych AŚW"
+END
+
+SIDE:Boss
+US: "Boss General"
+DE: "Oberster General"
+FR: "Général (chef)"
+ES: "General en jefe"
+IT: "Generale boss"
+KO: "보스 제너럴"
+ZH: "老闆將軍"
+BP: "General Chefe"
+PL: "Generał - Boss"
+END

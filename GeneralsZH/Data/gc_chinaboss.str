@@ -1,0 +1,59 @@
+GC_CHINABOSS:Loc
+US: "Somewhere near the China / Tibet border\n'The Tiger's Lair'"
+DE: "Irgendwo in Asien / An der Grenze zu Dalaibat\n'Der Hort des Tigers'"
+FR: "Près de la Chine / Frontière du Tibet\n'Le repaire du Tigre'"
+ES: "Algún lugar cerca de China. /Frontera con Tíbet\n'La Guarida del Tigre'"
+IT: "Nelle vicinanze del confine Cina/Tibet\n\"La tana della tigre\""
+KO: "중국과 티벳의 국경 근교\n'호랑이굴'"
+ZH: "中國附近的某處 / 西藏邊境\n「虎之巢」"
+BP: "Em algum lugar perto da China / Fronteira do Tibete\n'A Toca do Tigre'"
+PL: "Okolice granicy chińsko-tybetańskiej\n'Tygrysie Leże'"
+END
+
+GC_CHINABOSS:Hint
+US: "INCOMING TRANSMISSION:\nDestroying enemy weapon bunkers will reset the timers on all superweapons"
+DE: "NACHRICHT:\nZerstören Sie die feindlichen Waffenbunker,\num die Timer ihrer Superwaffen zurückzusetzen."
+FR: "DERNIERES NOUVELLES DU FRONT :\nDétruisez les bunkers d'armes ennemis pour réinitialiser les compteurs de\ntoutes les superarmes."
+ES: "TRANSMISIÓN:\nDestruir los búnkeres de armamento reiniciará\nla cuenta atrás de todas las superarmas"
+IT: "TRASMISSIONE IN ARRIVO:\nDistruggendo i bunker delle armi nemiche farete ripartire\nil conto alla rovescia delle sue armi speciali."
+KO: "수신 메시지:\n각 벙커를 파괴하면 슈퍼 무기의 타이머를 원점으로 돌려 놓을 것입니다."
+ZH: "訊息：\n摧毀敵人的武器碉堡將可以讓所有超級武器的倒數計時重設"
+BP: "RECEBENDO TRANSMISSÃO:\nDestruindo os bunkers com armas do inimigo todos os contadores das Superarmas serão zerados."
+PL: "ODEBRANA WIADOMOŚĆ:\nZniszczenie choćby jednego z uzbrojonych bunkrów wroga wyzeruje licznik aktywacji wszystkich superbroni"
+END
+
+GC_CHINABOSS:Reset
+US: "\nSuperweapon timers reset"
+DE: "\nSuperwaffen-Timer zurückgesetzt."
+FR: "\nCompteurs superarmes réinitialisés !"
+ES: "\nTemporizadores de superarmas reiniciados"
+IT: "\nContatori delle armi speciali ripristinati!"
+KO: "\n슈퍼 무기 타이머 리셋!"
+ZH: "\n超級武器倒數計時重設！"
+BP: "\nContadores das Superarmas zerados"
+PL: "\nZerowanie aktywacji superbroni!"
+END
+
+GC_CHINABOSS:Strike
+US: "\nSuperweapon Strike Imminent"
+DE: "\nSuperwaffen-Angriff steht kurz bevor."
+FR: "\nFrappe superarmes imminente !"
+ES: "\nAtaque de superarma inminente"
+IT: "\nAttacco con le armi speciali imminente!"
+KO: "\n슈퍼 무기 공격 임박!"
+ZH: "\n超級武器攻擊無法避免！"
+BP: "\nAtaque de Superarmas Iminente"
+PL: "\nNadchodzi uderzenie superbroni!"
+END
+
+GC_CHINABOSS:Resources
+US: "HINT:\nResources here are limited. You will have to find more supplies quickly"
+DE: "TIPP:\nHier gibt es kaum Rohstoffe. Finden Sie mehr Vorräte. Aber beeilen Sie sich!"
+FR: "ASTUCE :\nLes ressources sont limitées ici. Vous allez devoir rapidement trouver du ravitaillement."
+ES: "PISTA:\nAquí los suministros son limitados. Tendrás que encontrar más rápidamente"
+IT: "SUGGERIMENTO:\nLe risorse sono limitate, dovrete trovare rapidamente altri rifornimenti."
+KO: "힌트:\n이곳의 자원은 한계가 있습니다. 더 많은 자원을 빨리\n찾아야 합니다."
+ZH: "\n此處的資源有限，您必須盡快找到其他更多的補給"
+BP: "\nOs recursos aqui são limitados. Você terá de encontrar mais suprimentos rapidamente"
+PL: "RADA:\nW okolicy znajduje się mało zasobów. Musisz szybko znaleźć więcej surowców"
+END

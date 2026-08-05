@@ -1,0 +1,155 @@
+CAMPAIGN:USA
+US: "USA"
+DE: "WA"
+FR: "USA"
+ES: "E.E.U.U."
+IT: "USA"
+KO: "미국"
+ZH: "美國"
+BP: "E.U.A."
+PL: "USA"
+END
+
+CAMPAIGN:GLA
+US: "GLA"
+DE: "IBG"
+FR: "GLA"
+ES: "GLA"
+IT: "ELG"
+KO: "GLA"
+ZH: "全球解放軍"
+BP: "E.L.G."
+PL: "AŚW"
+END
+
+CAMPAIGN:China
+US: "China"
+DE: "AP"
+FR: "Chine"
+ES: "China"
+IT: "Cina"
+KO: "중국"
+ZH: "中國"
+BP: "China"
+PL: "Chiny"
+END
+
+CAMPAIGN:TRAINING
+US: "Training"
+DE: "Training"
+FR: "Entraînement"
+ES: "Entrenamiento"
+IT: "Addestramento"
+KO: "훈련 임무"
+ZH: "訓練"
+BP: "Treinamento"
+PL: "Szkolenie"
+END
+
+CAMPAIGN:CHALLENGE_0
+US: "Air Force General Challenge"
+DE: "Generalsherausforderung \"Luftwaffe\""
+FR: "Défi général armée de l'air"
+ES: "Reto del general de la fuerza aérea"
+IT: "Sfida Generale forze aeree"
+KO: "에어포스 제너럴 챌린지"
+ZH: "空軍將軍挑戰"
+BP: "Desafio do General da Força Aérea"
+PL: "Wyzwanie generała lotnictwa"
+END
+
+CAMPAIGN:CHALLENGE_1
+US: "Toxin General Challenge"
+DE: "Generalsherausforderung \"Säure\""
+FR: "Défi général Toxine"
+ES: "Reto del general de las toxinas"
+IT: "Sfida Generale tossine"
+KO: "독소 제너럴 챌린지"
+ZH: "毒素將軍挑戰"
+BP: "Desafio do General da Toxina"
+PL: "Wyzwanie generała wojsk biochemicznych"
+END
+
+CAMPAIGN:CHALLENGE_2
+US: "Nuke General Challenge"
+DE: "Generalsherausforderung \"Nuklearwaffen\""
+FR: "Défi général atomique"
+ES: "Reto del general nuclear"
+IT: "Sfida Generale nucleare"
+KO: "핵 제너럴 챌린지"
+ZH: "核武將軍挑戰"
+BP: "Desafio do General Nuclear"
+PL: "Wyzwanie generała wojsk jądrowych"
+END
+
+CAMPAIGN:CHALLENGE_3
+US: "Superweapon General Challenge"
+DE: "Generalsherausforderung \"Superwaffen\""
+FR: "Défi général superarmes"
+ES: "Reto del general de las superarmas"
+IT: "Sfida Generale armi speciali"
+KO: "슈퍼 무기 제너럴 챌린지"
+ZH: "超級武器將軍挑戰"
+BP: "Desafio do General da Superarma"
+PL: "Wyzwanie generała superbroni"
+END
+
+CAMPAIGN:CHALLENGE_4
+US: "Tank General Challenge"
+DE: "Generalsherausforderung \"Panzer\""
+FR: "Défi général blindés"
+ES: "Reto del general de los tanques"
+IT: "Sfida Generale carri armati"
+KO: "탱크 제너럴 챌린지"
+ZH: "坦克將軍挑戰"
+BP: "Desafio do General Tanque"
+PL: "Wyzwanie generała wojsk pancernych"
+END
+
+CAMPAIGN:CHALLENGE_5
+US: "Laser General Challenge"
+DE: "Generalsherausforderung \"Laser\""
+FR: "Défi général lasers"
+ES: "Reto del general del láser"
+IT: "Sfida Generale laser"
+KO: "레이저 제너럴 챌린지"
+ZH: "雷射將軍挑戰"
+BP: "Desafio do General Laser"
+PL: "Wyzwanie generała wojsk laserowych"
+END
+
+CAMPAIGN:CHALLENGE_6
+US: "Stealth General Challenge"
+DE: "Generalsherausforderung \"Undercover\""
+FR: "Défi général furtif"
+ES: "Reto del general de la infiltración"
+IT: "Sfida Generale stealth"
+KO: "스텔스 제너럴 챌린지"
+ZH: "匿蹤將軍挑戰"
+BP: "Desafio do General Camuflagem"
+PL: "Wyzwanie generała wojsk niewykrywalnych"
+END
+
+CAMPAIGN:CHALLENGE_7
+US: "Infantry General Challenge"
+DE: "Generalsherausforderung \"Cyborgs\""
+FR: "Défi général infanterie"
+ES: "Reto del general de infantería"
+IT: "Sfida Generale fanteria"
+KO: "보병 제너럴 챌린지"
+ZH: "步兵將軍挑戰"
+BP: "Desafio do General da Infantaria"
+PL: "Wyzwanie generała piechoty"
+END
+
+CAMPAIGN:CHALLENGE_8
+US: "Demolitions General Challenge"
+DE: "Generalsherausforderung \"TNT\""
+FR: "Défi général explosifs"
+ES: "Reto del general de demolición"
+IT: "Sfida Generale demolizione"
+KO: "폭파 제너럴 챌린지"
+ZH: "炸藥將軍挑戰"
+BP: "Desafio do General das Demolições"
+PL: "Wyzwanie generała materiałów wybuchowych"
+END

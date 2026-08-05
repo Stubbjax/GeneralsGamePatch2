@@ -1,0 +1,347 @@
+INI:MissingDisplayName
+US: "MISSING DisplayName for Object '%S'"
+DE: "Fehlender Anzeigename für Objekt '%S'"
+FR: "Il manque le nom d'affichage de l'objet \"%S\""
+ES: "FALTA DisplayName para objeto '%S'"
+IT: "MISSING DisplayName for Object '%S'"
+KO: "%S' 대상에 대한 표시 이름이 없음"
+ZH: "遺失物件 '%S' 的顯示名稱"
+BP: "DisplayName NÃO ENCONTRADO para o Objeto '%S'"
+PL: "BRAK zmiennej DisplayName dla obiektu '%S'"
+END
+
+INI:FactionDefault
+US: "Default Army"
+DE: "Standardarmee"
+FR: "Camp par défaut"
+ES: "Ejército predeterminado"
+IT: "Esercito predefinito"
+KO: "초기 진영"
+ZH: "預設軍種"
+BP: "Exército Padrão"
+PL: "Domyślna armia"
+END
+
+INI:FactionObserver
+US: "Observer"
+DE: "Zuschauer"
+FR: "Observateur"
+ES: "Observador"
+IT: "Osservat."
+KO: "옵저버"
+ZH: "觀察者"
+BP: "Observador"
+PL: "Obserwator"
+END
+
+INI:FactionCivilian
+US: "Civilian"
+DE: "Zivilist"
+FR: "Civil"
+ES: "Civil"
+IT: "Civili"
+KO: "민간인"
+ZH: "平民"
+BP: "Civil"
+PL: "Cywile"
+END
+
+INI:FactionAmerica
+US: "USA"
+DE: "WA"
+FR: "USA"
+ES: "E.E.U.U."
+IT: "USA"
+KO: "미국"
+ZH: "美國"
+BP: "E.U.A."
+PL: "USA"
+END
+
+INI:FactionChina
+US: "China"
+DE: "AP"
+FR: "Général Chine"
+ES: "China"
+IT: "Cina"
+KO: "중국"
+ZH: "中國"
+BP: "China"
+PL: "Chiny"
+END
+
+INI:FactionGLA
+US: "GLA"
+DE: "IBG"
+FR: "GLA"
+ES: "GLA"
+IT: "ELG"
+KO: "GLA"
+ZH: "全球解放軍"
+BP: "E.L.G."
+PL: "AŚW"
+END
+
+INI:FactionChinaHacker
+US: "Chinese Hacker"
+DE: "Cyborg-Hacker"
+FR: "Technopirate chinois"
+ES: "Hacker chino"
+IT: "Hacker cinese"
+KO: "중국 해커"
+ZH: "中國駭客"
+BP: "Hacker Chinês"
+PL: "Chiński haker"
+END
+
+INI:RankLevel1
+US: "1 Star General"
+DE: "1 Stern-General"
+FR: "Général 1 étoile"
+ES: "Gen.1 Estrella"
+IT: "Generale a 1 stella"
+KO: "대위"
+ZH: "一星上將"
+BP: "General de 1 Estrela"
+PL: "Generał 1-gwiazdkowy"
+END
+
+INI:RankLevel2
+US: "2 Star General"
+DE: "2 Sterne-General"
+FR: "Général 2 étoiles"
+ES: "Gen.2 Estrellas"
+IT: "Generale a 2 stelle"
+KO: "소령"
+ZH: "二星上將"
+BP: "General de 2 Estrelas"
+PL: "Generał 2-gwiazdkowy"
+END
+
+INI:RankLevel3
+US: "3 Star General"
+DE: "3 Sterne-General"
+FR: "Général 3 étoiles"
+ES: "Gen.3 Estrellas"
+IT: "Generale a 3 stelle"
+KO: "중령"
+ZH: "三星上將"
+BP: "General de 3 Estrelas"
+PL: "Generał 3-gwiazdkowy"
+END
+
+INI:RankLevel4
+US: "4 Star General"
+DE: "4 Sterne-General"
+FR: "Général 4 étoiles"
+ES: "Gen.4 Estrellas"
+IT: "Generale a 4 stelle"
+KO: "4성 장군"
+ZH: "四星上將"
+BP: "General de 4 Estrelas"
+PL: "Generał 4-gwiazdkowy"
+END
+
+INI:RankLevel5
+US: "5 Star General"
+DE: "5 Sterne-General"
+FR: "Général 5 étoiles"
+ES: "Gen.5 Estrellas"
+IT: "Generale a 5 stelle"
+KO: "준장"
+ZH: "五星上將"
+BP: "General de 5 Estrelas"
+PL: "Generał 5-gwiazdkowy"
+END
+
+INI:RankLevel6
+US: "Mr. Bad Dude (Rank 6)"
+DE: "Mr. Bösewicht (Rang 6)"
+FR: "M. Vilain (6e rang)"
+ES: "Tipo Duro (Rango 6)"
+IT: "Mr. Cattiveria (grado 6)"
+KO: "나쁜 남자 (등급 6)"
+ZH: "毀滅將軍（等級六）"
+BP: "Sr. Cara Mal (Patente 6)"
+PL: "Generalissimus (ranga 6)"
+END
+
+INI:RankLevel7
+US: "Dr. Death (Rank 7)"
+DE: "Dr. Tod (Rang 7)"
+FR: "Dr Mort (7e rang)"
+ES: "Dr. Muerte (Rango 7)"
+IT: "Dott. Morte (grado 7)"
+KO: "죽음의 박사 (등급 7)"
+ZH: "死亡博士（等級七）"
+BP: "Dr. Morte (Patente 7)"
+PL: "Dr Śmierć (ranga 7)"
+END
+
+INI:RankLevel8
+US: "Ultimate Deadly Dude (Rank 8)"
+DE: "Todesengel (Rang 8)"
+FR: "Assassin suprême (8e rang)"
+ES: "Aniquilador Total (Rango 8)"
+IT: "Guerriero letale (grado 8)"
+KO: "최후의 인간 병기(등급 8)"
+ZH: "終極將軍（等級八）"
+BP: "Cara Realmente Mal (Patente 8)"
+PL: "Jeździec apokalipsy (ranga 8)"
+END
+
+INI:FactionAmericaSuperWeaponGeneral
+US: "USA Super Weapon General"
+DE: "WA – Superwaffen-General"
+FR: "Général superarme USA"
+ES: "Gen. superarma EE.UU."
+IT: "Generale armi speciali USA"
+KO: "미국 슈퍼 무기 제너럴"
+ZH: "美國超級武器將軍"
+BP: "General Superarma EUA"
+PL: "Generał superbroni USA"
+END
+
+INI:FactionAmericaLaserGeneral
+US: "USA Laser General"
+DE: "WA – Laser-General"
+FR: "Général lasers USA"
+ES: "Gen. láser EE.UU."
+IT: "Generale laser USA"
+KO: "미국 레이저 제너럴"
+ZH: "美國雷射將軍"
+BP: "General Laser EUA"
+PL: "Generał laserów USA"
+END
+
+INI:FactionAmericaAirForceGeneral
+US: "USA Air Force General"
+DE: "WA – Luftwaffen-General"
+FR: "Général armée de l'air USA"
+ES: "Gen. Fuerza Aérea EE.UU."
+IT: "Generale forze aeree USA"
+KO: "미국 에어포스 제너럴"
+ZH: "美國空軍將軍"
+BP: "General Força Aérea EUA"
+PL: "Generał lotnictwa USA"
+END
+
+INI:FactionAmericaCommanderInChief
+US: "USA Commander In Chief"
+DE: "WA – Befehlshabender Kommandeur"
+FR: "Commandant en chef USA"
+ES: "Comand. en jefe EE.UU."
+IT: "Comandante in capo USA"
+KO: "미국 총사령관"
+ZH: "美國參謀聯席會議主席"
+BP: "Comandante dos E.U.A."
+PL: "Głównodowodzący USA"
+END
+
+INI:FactionChinaTankGeneral
+US: "China Tank General"
+DE: "AP – Panzer-General"
+FR: "Général blindés Chine"
+ES: "Gen. tanques China"
+IT: "Generale carri armati cinese"
+KO: "중국 탱크 제너럴"
+ZH: "中國坦克將軍"
+BP: "General Tanque - China"
+PL: "Generał pancerny Chin"
+END
+
+INI:FactionChinaInfantryGeneral
+US: "China Infantry General"
+DE: "AP – Cyborg-General"
+FR: "Général infanterie Chine"
+ES: "Gen. infantería China"
+IT: "Generale fanteria cinese"
+KO: "중국 보병 제너럴"
+ZH: "中國步兵將軍"
+BP: "General Infantaria - China"
+PL: "Generał piechoty Chin"
+END
+
+INI:FactionChinaNukeGeneral
+US: "China Nuke General"
+DE: "AP – Nuklear-General"
+FR: "Général atomique Chine"
+ES: "Gen. nuclear China"
+IT: "Generale nucleare cinese"
+KO: "중국 핵 제너럴"
+ZH: "中國核武將軍"
+BP: "General Nuclear China"
+PL: "Generał sił jądrowych Chin"
+END
+
+INI:FactionChinaCommanderInChief
+US: "China Commander In Chief"
+DE: "AP – Befehlshabender Kommandeur"
+FR: "Commandant en chef Chine"
+ES: "Comand. en jefe China"
+IT: "Comandante in capo cinese"
+KO: "중국 총사령관"
+ZH: "中國參謀總長"
+BP: "Comandante da China"
+PL: "Głównodowodzący Chin"
+END
+
+INI:FactionGLAToxinGeneral
+US: "GLA Toxin General"
+DE: "IBG – Säure-General"
+FR: "Général Toxine GLA"
+ES: "Gen. toxinas GLA"
+IT: "Generale tossine ELG"
+KO: "GLA 독소 제너럴"
+ZH: "全球解放軍毒素將軍"
+BP: "General Tóxico - E.L.G."
+PL: "Generał sił chemicznych AŚW"
+END
+
+INI:FactionGLADemolitionGeneral
+US: "GLA Demolition General"
+DE: "IBG – TNT-General"
+FR: "Général explosifs GLA"
+ES: "Gen. demolición GLA"
+IT: "Generale demolizione ELG"
+KO: "GLA 폭파 제너럴"
+ZH: "全球解放軍炸藥將軍"
+BP: "General Demolição - E.L.G."
+PL: "Generał zamachów AŚW"
+END
+
+INI:FactionGLAStealthGeneral
+US: "GLA Stealth General"
+DE: "IBG – Undercover-General"
+FR: "Général furtif GLA"
+ES: "Gen. infiltración GLA"
+IT: "Generale stealth ELG"
+KO: "GLA 스텔스 제너럴"
+ZH: "全球解放軍匿蹤將軍"
+BP: "General Camuflagem - E.L.G."
+PL: "Generał sił niewykrywalnych AŚW"
+END
+
+INI:FactionGLACommanderInChief
+US: "GLA Commander In Chief"
+DE: "IBG – Befehlshabender Kommandeur"
+FR: "Commandant en chef GLA"
+ES: "Comand. en jefe GLA"
+IT: "Comandante in capo ELG"
+KO: "GLA 총사령관"
+ZH: "全球解放軍參謀總長"
+BP: "Comandante do E.L.G."
+PL: "Głównodowodzący AŚW"
+END
+
+INI:FactionBossGeneral
+US: "Boss General"
+DE: "Oberster General"
+FR: "Général (chef)"
+ES: "General en jefe"
+IT: "Generale boss"
+KO: "보스 제너럴"
+ZH: "老闆將軍"
+BP: "General-Chefe"
+PL: "Generał - Boss"
+END

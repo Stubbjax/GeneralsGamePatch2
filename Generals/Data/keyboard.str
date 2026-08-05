@@ -1,0 +1,35 @@
+KEYBOARD:Shift+
+US: "Shift+"
+DE: "Shift +"
+FR: "Maj +"
+ES: "Mayús+"
+IT: "Maiusc +"
+KO: "Shift+"
+ZH: "Shift+"
+BP: "Shift+"
+PL: "Shift+"
+END
+
+KEYBOARD:Alt+
+US: "Alt+"
+DE: "Alt +"
+FR: "Alt +"
+ES: "Alt+"
+IT: "Alt +"
+KO: "Alt+"
+ZH: "Alt+"
+BP: "Alt+"
+PL: "Alt+"
+END
+
+KEYBOARD:Ctrl+
+US: "Ctrl+"
+DE: "Strg +"
+FR: "Ctrl +"
+ES: "Ctrl+"
+IT: "Ctrl +"
+KO: "Ctrl+"
+ZH: "Ctrl+"
+BP: "Ctrl+"
+PL: "Ctrl+"
+END

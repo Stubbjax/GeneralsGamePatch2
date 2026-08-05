@@ -1,0 +1,71 @@
+Network:PlayerLeft
+US: "%ls left the game."
+DE: "%ls hat das Spiel verlassen."
+FR: "%ls a quitté la partie"
+ES: "%ls abandonó la partida"
+IT: "%ls ha lasciato la partita"
+KO: "%ls이(가) 게임을 나갔습니다."
+ZH: "%ls 離開遊戲"
+BP: "%ls deixou o jogo."
+PL: "%ls opuszcza grę"
+END
+
+Network:PlayerDisconnected
+US: "%s has been disconnected."
+DE: "Verbindung zu %s wurde unterbrochen."
+FR: "%s a été déconnecté."
+ES: "%s ha sido desconectado"
+IT: "%s è stato scollegato."
+KO: "%s 플레이어는 접속이 끊겼습니다."
+ZH: "%s 已經斷線。"
+BP: "%s foi desconectado."
+PL: "%s został/a rozłączony/a."
+END
+
+Network:PlayerLeftGame
+US: "%s has left the game."
+DE: "%s hat das Spiel verlassen."
+FR: "%s a quitté la partie."
+ES: "%s ha dejado la partida"
+IT: "%s ha lasciato la partita."
+KO: "%s 플레이어는 게임에서 나갔습니다."
+ZH: "%s 已經離開遊戲。"
+BP: "%s deixou o jogo."
+PL: "%s opuszcza grę."
+END
+
+Network:Vote
+US: "Vote"
+DE: "Abst."
+FR: "Voter"
+ES: "Votar"
+IT: "Vota"
+KO: "투표"
+ZH: "投票"
+BP: "Votar"
+PL: "Głosuj"
+END
+
+Network:QuitGame
+US: "QUIT GAME"
+DE: "Spiel beenden"
+FR: "QUITTER"
+ES: "SALIR"
+IT: "ESCI DALLA PARTITA"
+KO: "게임 포기"
+ZH: "離開遊戲"
+BP: "SAIR DO JOGO"
+PL: "Wyjście z gry"
+END
+
+Network:PacketRouterTimeout
+US: "Packet Router Timeout"
+DE: "Packet Router Timeout"
+FR: "Temps du routeur de paquet écoulé"
+ES: "Tiempo de espera para Packet Router"
+IT: "Timeout del router scaduto"
+KO: "패킷 라우터 타임아웃"
+ZH: "路由封包愈時"
+BP: "Tempo Limite do Pacote do Roteador Excedido"
+PL: "Błąd limitu czasowego routera pakietów."
+END

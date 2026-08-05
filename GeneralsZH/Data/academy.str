@@ -1,0 +1,431 @@
+ACADEMY:Eva
+US: "Tactical Analysis"
+DE: "Taktische Analyse"
+FR: "Analyse tactique"
+ES: "Análisis táctico"
+IT: "Analisi tattica"
+KO: "전술 분석"
+ZH: "戰術分析"
+BP: "Análise Tática"
+PL: "Analiza taktyczna"
+END
+
+ACADEMY:BuildAllStructures
+US: "When you're on the battlefield it's important to utilize all the tools available to you, General. Make sure you build all the structures. You must maintain a strong military force"
+DE: "Ein General muss auf dem Schlachtfeld alle verfügbaren Mittel einsetzen. Baue also alle Gebäude, die du für den Aufbau einer schlagkräftigen Armee brauchst."
+FR: "Sur le champ de bataille, il est essentiel d'utiliser les outils disponibles, général. Pensez à construire tous les bâtiments dont vous disposez pour assurer la supériorité de vos troupes."
+ES: "General, cuando estés en el campo de batalla es importante usar todas las herramientas disponibles. Construye todos los edificios que tengas para mantener una potente fuerza militar"
+IT: "Quando sei sul campo di battaglia, è importante che utilizzi tutto ciò che hai a disposizione. Costruisci tutte le strutture necessarie per mantenere una forza militare di livello adeguato."
+KO: "장군님, 전장에 있을 때, 모든 사용가능한 기능들을 사용하는 것이 중요합니다. 강력한 군대를 유지할 수 있도록 모든 건물들을 지어야 합니다."
+ZH: "將軍，當您身陷戰場時，一定要善用所有可用的資源，記得建造所有維持兵力所需要的建築"
+BP: "Quando estiver no campo de batalha, é importante usar todas as ferramentas disponíveis, General. Certifique-se de construir todas as suas estruturas para preservar uma força militar poderosa"
+PL: "Generale, będąc na polu bitwy, warto wykorzystywać dostępne możliwości. Pamiętaj o budowaniu wszystkich budynków, tylko dzięki temu stworzysz wielką siłę militarną."
+END
+
+ACADEMY:BuildSupplyCenterEarlier
+US: "General, one of the most important functions of a strong leader is making sure that the soldiers have plenty of supplies. We suggest that you make sure to build a Supply Center or Stash whenever you begin a mission. Supplies bring you cash and cash brings you victory"
+DE: "Ein kluger General sorgt dafür, dass seine Truppen stets über genug Rohstoffe verfügen. Aus diesem Grund solltest du am Anfang einer Mission ein Nachschub- oder ein Geheimlager bauen. Schließlich sind Rohstoffe dein ganzes Kapital. Hast du keine Rohstoffe, kannst du diesen Krieg nicht gewinnen!"
+FR: "Général, l'une des principales choses dont doit s'assurer un grand chef, c'est que ses soldats ont suffisamment de ravitaillement. Je vous suggère de bien vous assurer que vous avez un Dépôt ou une Cache de ravitaillement lorsque vous partez en mission. Sans ravitaillement, pas d'argent. Et sans argent, pas de victoire."
+ES: "Una de las funciones más importantes de un líder fuerte es hacer que los soldados tengan suficientes suministros. Te sugerimos que construyas un centro o reserva de suministros donde comiences una misión. Los suministros te reportan dinero y el dinero trae la victoria"
+IT: "Una delle doti più importanti di un vero leader è fare in modo che i rifornimenti non manchino mai. Ti suggeriamo di costruire un Centro rifornimenti o un Nucleo rifornimenti, all'inizio di ogni missione. I rifornimenti significano denaro e il denaro significa vittoria."
+KO: "장군님, 강력한 지도자의 가장 중요한 기능 중 하나는 병사들에게 충분한 서플라이를 제공하는 것입니다. 임무를 시작할 때 서플라이 센터와 은닉처를 지을 것을 강력히 권장합니다. 서플라이는 자금을 가져다 주고, 자금은 승리를 가져다 줄 것입니다."
+ZH: "將軍，一個強力的領導者最重要的一件事是確保大量的支援。我們建議開始任務時，建立一個補給中心或儲存處。補給帶給你金錢，金錢帶給你勝利。"
+BP: "General, uma das funções mais importantes de um líder eficiente é certificar-se de que não faltem suprimentos para os seus soldados. Sugerimos que você construa uma Central ou Armazém de Suprimentos toda vez que iniciar uma missão. Os suprimentos trazem dinheiro e o dinheiro proporciona a sua vitória"
+PL: "Generale, jedną z najważniejszych cech silnego przywódcy jest umiejętność zapewnienia armii środków do rozwoju. Sugerujemy zwrócenie szczególnej uwagi na na wybudowanie już na początku misji ośrodka lub składu zaopatrzeniowego. Zaopatrzenie przynosi dochód, a pieniądze oznaczają zwycięstwo"
+END
+
+ACADEMY:TryBuildingRadar
+US: "The Fog of War surrounds us all. One helpful way to see through the pea soup is via radar. Each faction is unique in how it obtains the eye in the sky. The USA Command Center automatically comes with radar, the Chinese Command Center must be upgraded and the GLA must build a Radar Van from its Arms Dealer"
+DE: "Wir sind vom Nebel des Krieges umgeben. Du brauchst also Radaranlagen. Während in die Kommandozentralen der WA bereits Radarsysteme integriert sind, muss der Asiatische Pakt seine Kommandozentralen zuerst aufrüsten. Die IBG kauft bei Waffenhändlern Radarwagen."
+FR: "Le brouillard de guerre nous entoure. Le radar est le moyen le plus efficace de percer cette purée de pois. Chaque faction a une manière particulière de l'obtenir. Le Poste de commandement US en est toujours pourvu, alors que celui des Chinois doit être amélioré pour l'obtenir. La GLA doit quant à elle construire un Radar mobile par l'intermédiaire de son Trafiquant d'armes."
+ES: "La niebla de la guerra nos rodea a todos. Un modo práctico de ver a través del puré de guisantes es el radar. Cada facción tiene sus propios sistemas de detección. El centro de mando de EE.UU. incluye el radar, el chino hay que mejorarlo y el GLA debe construir una furgoneta radar en su tienda de armas"
+IT: "La foschia avvolge ogni cosa: il radar rappresenta un ottimo metodo per superare questo ostacolo. Ogni fazione ha il proprio metodo per osservare la situazione dall'alto: il Centro comando USA è già dotato di un radar, quello cinese lo ottiene come aggiornamento e l'ELG deve costruire un Furgone radar dal Trafficante d'armi."
+KO: "지도 상에서는 시야가 제한됩니다. 이를 꿰뚫어 볼 수 있는 좋은 방법은 레이더입니다. 각 진영마다 다른 방식으로 레이더를 가지게 됩니다. 미국 커맨드 센터는 자동적으로 레이더를 가지고 있으며, 중국 커맨드 센터는 업그레이드가 필요하고, GLA는 무기상을 통해 레이더 밴을 만들어야 합니다."
+ZH: "不論何時戰爭迷霧總是籠罩著我們，雷達可以幫助我們看穿這片迷霧。每一個陣營都擁有各自獨特的觀察方式，美國的指揮中心內建雷達、中國的指揮中心則必須升級後才會擁有雷達、而全球解放軍則必須從軍火商處獲得雷達車才會擁有雷達"
+BP: "A área escura circunda a todos. Uma maneira útil de visualizar as coisas é através de um radar. Cada facção tem as suas técnicas exclusivas de observação. O Centro de Comando dos E.U.A. já vem com radar, o Centro de Comando Chinês precisa ser atualizado e o E.L.G. precisa construir um Furgão-Radar a partir de seu Negociante de Armas"
+PL: "Mgła wojny otacza nas wszystkich. Jedną z możliwości przebicia się wzrokiem przez tę zupę daje radar. Każda strona konfliktu ma inny sposób na umieszczenie na niebie własnego oka. Amerykański sztab jest od razu wyposażony w radar, do chińskiego sztabu radar trzeba dobudować, zaś AŚW musi zakupić furgonetkę radarową u handlarza bronią"
+END
+
+ACADEMY:BuildMorePeons
+US: "If you ask any other Generals they'll confirm a simple rule: The grunts make the army. In order to build your base you'll need to put your Dozers or Workers to work. These guys are key to your future success so don't forget them!"
+DE: "Alle Generäle sollten eine einfache Regel beherzigen: Die unteren Ränge sind das Rückgrat einer Armee. Ohne Bulldozer und Arbeitsbots kannst du keinen Stützpunkt errichten. Diese Einheiten legen den Grundstein für deine zukünftigen Triumphe. Vergiss das nie!"
+FR: "N'importe quel général vous le confirmera : sans troufions, une armée n'est rien. Pour construire votre base, vous devez faire travailler vos Ouvriers ou vos Engins de chantier. Ils sont la clé du succès, alors ne les oubliez pas !"
+ES: "Si preguntas a otro general, te confirmará una sencilla regla: Los soldados son la base del ejército. Para construir tu base necesitas poner a trabajar a tus excavadoras o trabajadores. Estos chicos son la clave de tu futuro éxito... ¡así que no los olvides!"
+IT: "Chiedi a un qualsiasi generale, ti confermerà una regola basilare: sono i soldati semplici a fare l'esercito. Per creare la tua base, devi utilizzare Bulldozer e Operai: sono loro la chiave del tuo successo, non dimenticarlo mai!"
+KO: "다른 장군 누구에게나 물어봐도 인정하는 한 가지 법칙이 있습니다: 큰 부대 역시 작은 유닛 하나에서 출발한다는 것입니다. 기지를 건설하려면 건설 불도저나 일꾼들을 생산하여 건설을 하도록 시켜야 합니다. 이들 유닛에 앞으로의 성공이 달려 있음을 잊지 마십시오."
+ZH: "如果您像其他的將軍請意，他們會告訴您一個鐵則：勞力創造軍力，您必須讓您的推土機或工人保持忙碌，他們是您獲取未來勝利的關鍵，不要忘了！"
+BP: "Se perguntar a qualquer outro General, ele confirmará uma regra simples: as armas fazem o exército. Para construir a sua base, você precisará colocar os seus Construtores ou Trabalhadores para trabalhar. Esses caras são a chave do seu sucesso no futuro, por isso, não se esqueça deles!"
+PL: "Każdy generał potwierdzi słuszność pewnej prostej zasady: podstawą armii są podstawowe jednostki. Do budowy bazy będziesz potrzebować buldożerów lub robotników. Jednostki te stanowią klucz do sukcesu, więc nie zapominaj o nich!"
+END
+
+ACADEMY:TryCapturingStructures
+US: "General, sometimes it's easier to take what you want rather than work for it. If you build the \"Capture\" upgrade from your Barracks you'll be able to steal enemy structures. There are also Tech Buildings littered around the battlefield that can enhance your army even further"
+DE: "Manchmal ist es sinnvoller, sich Dinge einfach zu nehmen, anstatt dafür zu arbeiten. Mit dem \"Erobern\"-Upgrade deiner Kasernen kannst du feindliche Gebäude einnehmen. Darüber hinaus kannst du deine Armee mit Hilfe verschiedener Hightech-Gebäude optimieren."
+FR: "Général, il est plus simple de prendre ce que vous désirez que de travailler pour le construire. Si votre Caserne construit l'amélioration \"Prendre bâtiment\", vous pourrez capturer des bâtiments ennemis. Les bâtiments de recherches disséminés autour du champ de bataille peuvent également profiter à votre armée."
+ES: "General, a veces es más fácil coger lo que quieres en lugar de trabajar por ello. Si creas la mejora de \"Tomar\" desde tus barracones, podrás robar los edificios del enemigo. Por el campo de batalla hay dispersos edificios de tecnología que pueden mejorar aún más tu ejército"
+IT: "A volte è più facile prendere ciò che ti serve, piuttosto che realizzarlo. Realizzando l'aggiornamento \"Conquista\", presso la caserma, puoi assumere il controllo delle strutture nemiche. Sul campo di battaglia ci saranno anche altri edifici che potranno essere utili al tuo esercito."
+KO: "장군님, 필요한 건물을 건설하는 것보다 점령하는 것이 더 나을 때가 있습니다. 막사에서 '건물 점령' 업그레이드를 하면 적 건물을 점령할 수 있게 됩니다. 전장 여기 저기에 있는 테크 빌딩들을 사용해서도 병력을 증강시킬 수 있습니다."
+ZH: "將軍，有時奪取比建造更加的容易，如果您從兵營建造 \"佔領\" 升級配備，就可以偷襲敵軍的建築。它們也是戰場四周的科技建築 ，可以提升您的軍隊"
+BP: "General, às vezes é fácil tomar o que se quer, em vez de se criar. Se você construir a atualização \"Capturar\" em seus Quartéis, você poderá roubar estruturas inimigas. Também existem Instalações Técnicas espalhadas pelo campo de batalha que podem melhorar até mais o seu exército"
+PL: "Czasem łatwiej jest wziąć to, czego potrzebujesz, niż solidnie na to pracować, generale. Jeśli wybudujesz w koszarach modernizację zdobywania budynków, twoi żołnierze będą mogli zajmować obiekty wroga. Na polu bitwy znajduje się też wiele budynków technicznych, które jeszcze bardziej ulepszą twoją armię"
+END
+
+ACADEMY:SpendGeneralsPoints
+US: "With war come the spoils. Every time you destroy an enemy you'll earn your way toward more Generals Points. These can be spent by pressing the \"star\" button on the right side of the Command Bar. Simply open the Generals Points menu and spend your hard earned points on some new war toys"
+DE: "Dem Sieger gehört die Beute. Wenn du einen Gegner besiegst, bekommst du Generalspunkte. Klicke auf die Stern-Schaltfläche am rechten Rand der Befehlsleiste, wenn du deine sauer verdienten Punkte in einige neue Waffensysteme investieren möchtest."
+FR: "Toute guerre rapporte un butin. A chaque fois que vous détruisez un ennemi, vous remportez des points de général. Pour les dépenser, cliquez sur l'étoile à droite, dans la barre de commandes. Une fois le menu des points de général affiché, échangez vos points contre de nouveaux joujoux de guerre."
+ES: "Con la guerra viene el botín. Cada vez que destruyas a un enemigo conseguirás más puntos de general. Puedes gastarlos con el botón de \"estrella\" de la parte inferior derecha de la barra de mando. Abre el menú de Puntos de general y cómprate nuevos juguetes con tus merecidos puntos"
+IT: "Guerra significa denaro: ogni volta che distruggerai un nemico, otterrai dei nuovi punti Generale, che potrai quindi utilizzare tramite il pulsante della \"stella\", sul lato destro della barra di comando. Apri il menu dei punti Generale e impiega quelli accumulati per acquistare delle nuove armi."
+KO: "전쟁에는 전리품이 따릅니다. 적을 섬멸할 때마다 제너럴 포인트를 쌓아나갈 것입니다. 커맨드 바 오른쪽의 '별'표 버튼을 누르면 이 포인트를 사용할 수 있습니다. 제너럴 포인트를 열고 획득한 포인트를 새 무기들을 위해 사용하십시오."
+ZH: "當戰爭發生時，每當您摧毀敵人單位，您都會離下一級的將軍點數更加接近，您可以按下命令欄右邊的 \"星星\" 按鈕來使用這些點數。只要開啟將軍點數選單，就可以將您辛苦贏得的點數使用在一些新的戰爭武器上"
+BP: "Com a guerra vêm os saques. Toda vez que destruir um inimigo, você estará no caminho para obter mais Pontos dos Generais. Eles podem ser gastos pressionando o botão \"Estrela\" no lado direito da Barra de Comando. Simplesmente abra o menu Pontos dos Generais e gaste os seus pontos suados em alguns novos brinquedos de guerra"
+PL: "Walka opłaca się - i to bardzo. Każdy zniszczony nieprzyjaciel oznacza zdobycie nowych punktów generalskich. Można je wydawać po kliknięciu na przycisku gwiazdek z prawej strony paska rozkazów. Otwórz menu punktów generalskich i zakup kilka nowych zabawek bojowych"
+END
+
+ACADEMY:TryUsingSuperweapons
+US: "What's the use of collecting Generals points if you don't use them? If you've purchased Generals Powers by using your points an icon will pop up on the right side of the screen. Simply press it and watch the fireworks begin. The more points you spend, the more powerful the power"
+DE: "Was nützen Generalspunkte, wenn du sie nicht verwendest? Hast du deine Punkte in Generalsfähigkeiten investiert, erscheint am rechten Bildschirmrand ein Symbol. Nach einem Klick auf dieses Symbol beginnt das Feuerwerk. Je mehr Punkte du einsetzt, desto effektiver ist die Fähigkeit."
+FR: "A quoi bon collectionner des points de général si vous ne les utilisez pas ? Si vous achetez des pouvoirs de général en utilisant vos points, un icone apparaîtra sur la droite de votre écran. Vous n'avez qu'à cliquer dessus pour profiter d'un beau feu d'artifice. Plus vous dépenserez de points, plus les effets du pouvoir fraîchement acquis seront dévastateurs."
+ES: "¿De qué sirve reunir puntos de general si no los usas? Si has comprado poderes de general usando tus puntos, aparecerá un icono en la parte derecha de la pantalla. Púlsalo y mira cómo empiezan los fuegos artificiales. Cuantos más puntos gastes más fuerte será el poder"
+IT: "A cosa serve raccogliere punti Generale se non li utilizzi? Se hai ottenuto dei poteri del Generale impiegando i punti, sul lato destro dello schermo compare un'icona: selezionala e goditi lo spettacolo! Più punti spendi, più elevato è il potere acquisito."
+KO: "모아놓은 제너럴 포인트를 사용하지 않으면 무슨 소용이 있습니까? 모아놓은 포인트로 제너럴 특수기술을 구입하면 스크린의 오른쪽에 아이콘이 나타날 것입니다. 이것을 누르르면 신나는 일들이 벌어질 것입니다. 더 많은 포인트를 쓸수록 무기는 더욱 강력해질 것입니다."
+ZH: "如果您不使用將軍點數，您何必蒐集它們呢？如果您將將軍點數來購買將軍能力，將軍能力的圖示將會出現在畫面的右側，您只要按下圖示便可以看到美麗的火力表演。您所花費購買的將軍點數越多，將軍能力也就越強"
+BP: "Para que servem os pontos de Generais se você não os utiliza? Se você adquirir Poderes dos Generais usando os seus pontos, um ícone pop-up aparecerá no lado direito da tela. Simplesmente pressione-o e aguarde as explosões começarem. Quanto mais pontos você gasta, mais forte é o poder"
+PL: "Po co zbierać skrzętnie punkty generalskie, jeśli nie miałoby się ich używać? Jeśli zakupisz za punkty pewne umiejętności generalskie, po prawej stronie ekranu pojawi się odpowiednia ikona. Wystarczy na niej kliknąć i obserwować fajerwerki. Im więcej punktów wydasz, tym potężniejszy będzie efekt"
+END
+
+ACADEMY:TryGarrisoningAStructure
+US: "Soldiers can be effective in the open, but are deadlier when garrisoned inside civilian buildings. Select your soldiers and send them into an empty structure. They'll be protected by the walls - unless a Flash Bang, Toxin Tractor or Dragon Tank comes their way"
+DE: "Cyborgs sind auf offenem Feld sehr effektiv, sie können sich aber auch in Zivilgebäuden verschanzen. Wähle die gewünschten Cyborgs dazu aus und schicke sie in ein leeres Gebäude. Dort sind sie in Sicherheit, bis deine Gegner mit Blendgranaten, Säuretraktoren oder Drachenpanzern anrücken."
+FR: "Les soldats peuvent être efficaces en extérieur, mais mortels s'ils sont en garnison dans des bâtiments civils. Sélectionnez vos soldats et envoyez-les dans un bâtiment vide. Les murs les protégeront, à moins qu'une Grenade flash, un Tracteur bactériologique ou un Char Dragon ne les attaque."
+ES: "Los soldados pueden ser eficaces en campo abierto, pero guarnecidos en edificios civiles pueden resultar mortales. Selecciona tus soldados y envíalos a un edificio vacío. Estarán protegidos por los muros - a no ser que aparezca una granada cegadora, un tractor de toxinas o un tanque Dragon"
+IT: "I soldati sono efficaci in campo aperto, ma possono essere ancor più letali posti di presidio in un edificio civile. Seleziona le truppe e falle entrare in una struttura vuota: lì saranno protette dalle pareti, a meno che il nemico non usi una Granata flash, un Contaminatore o un Carro Dragon."
+KO: "병사들은 초기에 유용합니다. 병사들은 민간 건물에 배치될 경우 특히 강력합니다. 병사들을 선택하고 그들을 빈 건물 안으로 보내십시오. 섬광 폭음탄이나 독소 트랙터, 드래곤 탱크를 제외한 다른 공격으로부터 건물이 그들을 보호해줄 것입니다."
+ZH: "部隊在開闊地時可以發揮最大的戰鬥效能，部隊駐守於平民建築內時則是致命的，指派您的部隊進入空建築內，建築將會保護他們 - 除非敵人使用閃光彈、毒素車、或是火龍坦克進行攻擊"
+BP: "Os soldados podem ser eficientes no início. Eles podem ser mortais quando estão dentro de estruturas civis. Selecione os seus soldados e envie-os para uma estrutura vazia. Eles serão protegidos pelas paredes – a menos que um Flash Bang, um Trator Tóxico ou um Tanque Dragon atravessem o seu caminho."
+PL: "Żołnierze są skuteczni na otwartym terenie, ale będą bardziej, gdy obsadzą budynki cywilne. Uaktywnij piechotę i wyślij ją do pustego budynku, a mury będą ich chronić przed wszystkim oprócz granatów ogłuszających, toksyny i ognia"
+END
+
+ACADEMY:IdleBuildingUnits
+US: "General, fielding and leading a great army should be your highest goal. Make sure you're building your fighting units by clicking on a Barracks, War Factory, Airfield, etc. and then clicking a respective picture in the bottom Command Bar. It will be money well spent and will help you achieve victory"
+DE: "Der Aufbau und die militärische Führung einer Armee ist die wichtigste Aufgabe eines Generals. Klicke also auf deine Kasernen, Waffenfabriken, Flugfelder usw. und wähle in der Befehlsleiste die gewünschte Einheit aus. Nur wenn du ein schlagkräftiges Heer aufbaust, kannst du deine Gegner bezwingen."
+FR: "Général, votre priorité doit être d'aligner et de diriger une grande armée. Construisez des unités de combat en cliquant sur une Caserne, un Complexe militaro-industriel, un Aérodrome, etc., puis sur l'un des icones dans la barre de commandes. Vous dépenserez votre argent utilement et cela vous permettra de remporter la victoire."
+ES: "General, organizar y liderar un gran ejército debería ser tu objetivo principal. Asegúrate de construir tus unidades de combate haciendo clic en barracones, fábrica de guerra, aeródromo, etc., y luego el consiguiente dibujo del botón de la barra de mando. Será dinero bien gastado y te ayudará a lograr la victoria"
+IT: "Guidare un grande esercito in battaglia dovrebbe essere il tuo obiettivo primario: ricorda di creare unità da combattimento nella Caserma, nella Fabbrica militare, all'Aeroporto, eccetera, tramite le apposite icone nella barra di comando inferiore. Sarà denaro ben speso e ti aiuterà a conquistare la vittoria."
+KO: "장군님, 대군을 편성하고 지휘하는 것은 가장 중요한 목표입니다. 막사, 군수 공장, 비행장 등을 클릭하고 커맨드 바 아래에 있는 각각의 그림을 클릭하여 전투 유닛을 꼭 생산하십시오. 자금은 이렇게 효율적으로 쓰여야 하고, 이런 식의 전투 유닛 생산은 당신이 승리를 쟁취할 수 있도록 도와줄 것입니다."
+ZH: "將軍，統馭偉大的軍隊是您的最高榮耀，記得選擇兵營、戰車工廠、機場等建築，並以命令欄上的圖示來建造您的戰爭機器，這些以資金購買的戰爭機器將幫助您通往勝利"
+BP: "General, posicionar e conduzir um grande exército deveria ser seu grande objetivo. Certifique-se de construir as suas unidades de combate clicando em um Quartel, uma Fábrica de Armamentos, uma Base Aérea etc. e, depois, de clicar na figura correspondente na Barra de Comando inferior. Será um dinheiro bem aplicado e o ajudará a alcançar a vitória"
+PL: "Generale, twoim głównym celem powinno być stanięcie na czele wielkiej armii. Pamiętaj o werbowaniu i budowie jednostek bojowych - kliknij na koszarach, fabryce wojennej, czy lotnisku, a następnie na ikonie odpowiedniej jednostki u dołu paska rozkazów. Pieniądze wydawane na te jednostki nie zostaną zmarnowane - pomogą ci osiągnąć zwycięstwo"
+END
+
+ACADEMY:TryDragSelectingUnits
+US: "Manipulating your army is one of the trickiest things a General must learn. While you can click on each individual unit, it's usually faster to \"lasso\" a group of units. Simply click and drag the box around the units. They will now be in your control. If you click on another area the units will move to this spot"
+DE: "Die Befehligung einer Armee ist nicht ganz einfach. Du kannst alle Einheiten per Mausklick einzeln auswählen. Allerdings ist dies relativ mühsam. Klicke daher mit der linken Maustaste und ziehe einen Auswahlrahmen um die gewünschten Einheiten. Diese warten nun auf deine Befehle. Klicke jetzt auf einen beliebigen Punkt der Karte, um deine Truppen in Bewegung zu setzen."
+FR: "Diriger une armée est la tâche la plus complexe dont doit s'acquitter un général. Il est possible de sélectionner les unités une par une, mais bien plus rapide de les sélectionner par groupe. Pour cela, cliquez et faites glisser le curseur de votre souris pour dessiner un rectangle de sélection autour des unités. Relâchez le bouton et ces unités attendront vos ordres. Cliquez ensuite à un autre endroit pour les y envoyer."
+ES: "Una de las cosas más delicadas que debe aprender un general es a manipular su ejército. Aunque puedes hacer clic en cada unidad, normalmente es más rápido \"echar el lazo\" a un grupo. Haz clic y arrastra un recuadro en torno a las unidades, que pasarán a estar bajo tu control. Si haces clic en otra zona, las unidades irán allí"
+IT: "La gestione del proprio esercito è il compito più difficile per ogni generale. Anche se puoi selezionare ogni singola unità, è di solito più comodo \"circondare\" un gruppo di unità, tenendo premuto il pulsante e disegnando un riquadro di selezione. Così tutte le unità saranno pronte all'azione. Un clic su un punto qualsiasi lo imposterà come destinazione."
+KO: "군대를 조종하는 것은 장군님이 배워야 할 가장 까다로운 기술 중의 하나입니다. 개개의 유닛을 클릭하기보다 마우스를 드래그하여 다수의 유닛들은 선택하는 것이 더 빠릅니다. 그리고 나서 한 지점을 클릭하면 유닛들은 그 곳으로 이동할 것입니다."
+ZH: "熟練的指揮部隊是一位將軍必學的重要項目之一，雖然您可以點選個別的單位，但是比較容易的方法是\"套住\" 一群單位。只要在單位周圍點選並拖曳出一個方框即可，他們將會受您操控。假如您點選另一個區域，這些單位將移動到該地點"
+BP: "Manipular o seu exército é uma das manhas que um General deve aprender. Enquanto você pode clicar em cada unidade individualmente, normalmente será mais rápido usar o \"laço\" em um grupo de unidades. Simplesmente clique e arraste uma caixa em volta das unidades. Agora elas irão estar sob o seu controle. Se você clicar em outra área, as unidades vão se mover para esse ponto"
+PL: "Kierowanie armią należy do najbardziej skomplikowanych rzeczy, jakie generał musi umieć. Choć można uaktywniać jednostki klikając na każdej z nich z osobna, szybciej jest otoczyć grupę jednostek. Kliknij i przeciągnij myszą nad grupą jednostek, by otoczyć je prostokątem. Jednostki te będą gotowe na otrzymanie rozkazów. Np. jeśli klikniesz w innym miejscu, udadzą się do wskazanego celu"
+END
+
+ACADEMY:ResearchUpgrades
+US: "A great General can make a lot of tanks, but a greater General can make a lot of better tanks. Almost every unit has some form of upgrade. It's often best to spend your money on improving what you already have"
+DE: "Panzer sind hervorragende Waffen. Noch besser sind allerdings modernisierte Panzer! Da es für fast alle Einheiten Upgrades gibt, ist es durchaus sinnvoll, Geld in die Optimierung vorhandener Einheiten zu investieren!"
+FR: "Un grand général peut construire de nombreux chars, mais un général encore plus grand peut construire de meilleurs chars. Il est possible d'améliorer quasiment chaque unité. Dans la plupart des cas, n'hésitez pas à dépenser votre argent pour améliorer ce que vous avez déjà."
+ES: "Un buen general puede hacer muchos tanques, pero uno mejor los hará de mayor calidad. Casi todas las unidades tienen alguna mejora. A menudo es mejor gastar el dinero en mejorar lo que ya tienes"
+IT: "Un grande generale sa produrre carri armati, ma un generale geniale sa come produrre carri migliori. Quasi ogni unità dispone di aggiornamenti: a volte è meglio spendere per potenziare ciò che è già in tuo possesso."
+KO: "많은 수의 탱크를 만들면 훌륭한 장군이지만, 많은 수의 '더 강한' 탱크를 만들면 더 훌륭한 장군이 되는 것입니다. 거의 모든 유닛이 몇 가지 형태의 업그레이드가 가능합니다. 이미 가지고 있는 것을 향상시키는 데 자금을 사용하는 것은 종종 최상의 방책입니다."
+ZH: "偉大的將軍會建造數量龐大的坦克…更偉大的將軍則會建造數量龐大的先進坦克。每一種單位多少都有升級的能力，最佳的方式是將資金花費在已經生產好的單位升級上"
+BP: "Um grande General pode criar muitos tanques, mas um excelente General pode criar muitos tanques melhorados. Quase toda unidade tem alguma forma de atualização. Em muitos casos, é melhor gastar o seu dinheiro aprimorando o que você já possui"
+PL: "Wielki generał produkuje dużo czołgów - ale większy generał produkuje dużo najlepszych czołgów. Prawie każdą jednostkę można ulepszyć. Często lepiej jest wydać pieniądze na udoskonalenie tego, co masz, niż kupowanie nowego złomu"
+END
+
+ACADEMY:RanOutOfPower
+US: "While the GLA has no need for power, China and the USA eat it up like popcorn. To keep a base running strong a General needs to spend money on plenty of power to supply the war machine. Make sure to build a Cold Fusion Reactor or a Nuclear Reactor for maximum output. Low power can mean a low success rate"
+DE: "Der Asiatische Pakt und die WA sind - im Gegensatz zur IBG - auf eine lückenlose Energieversorgung angewiesen. Investiere beim Bau deines Stützpunktes also in Kraftwerke, um deine Kriegsmaschinerie am Laufen zu halten. Baue Atom- oder Fusionsreaktoren, um deine Stromversorgung zu optimieren. Ohne Energie hast du in diesem Krieg keine Chance!"
+FR: "Alors que la GLA n'en a pas besoin, les USA et la Chine consomment le courant comme du pop-corn. Pour que ces bases restent opérationnelles, un général doit dépenser beaucoup d'argent pour alimenter sa machine de guerre en courant. Pensez à construire un Réacteur à fusion froide ou un Réacteur nucléaire pour obtenir une puissance maximale. Le succès est plus difficile à atteindre avec un faible approvisionnement en énergie."
+ES: "Aunque el GLA no necesita energía, China y los EE.UU. la devoran como palomitas. Para mantener fuerte una base, hay que gastar dinero en mucha energía para alimentar la maquinaria de guerra. Construye un reactor de fusión fría o un reactor nuclear para un rendimiento máximo. Poca energía puede suponer unas escasas victorias"
+IT: "Mentre l'ELG non ha alcun bisogno di energia, Cina e USA ne dipendono interamente: per mantenere operativa la propria base, il generale saggio investe nella produzione dell'energia necessaria. Ricorda di costruire un Reattore a fusione fredda o un Reattore nucleare per ottenere la massima resa: poca energia è spesso sinonimo di sconfitta."
+KO: "GLA는 전력을 필요로 하지 않는 반면, 중국과 미국은 전력을 팝콘처럼 먹어치웁니다. 기지가 강력하게 운영되게 하기 위해서 장군은 기지에 공급할 전력에 자금을 소비해야 합니다. 최대 전력 생산을 위해 상온 핵융합 발전소와 핵 발전소를 반드시 건설하십시오. 낮은 전력 상태는 낮은 임무 완수율을 의미합니다."
+ZH: "雖然全球解放軍不需使用能源，中國與美國卻需大量消耗能源，若要讓基地持續的運作，將軍需要花費大量的資金在建造發電廠上來補給戰爭機器。記得建造冷融合反應爐或是核能反應爐來產生最多的能量。能量不足、勝利的機會就隨之降低"
+BP: "Enquanto o E.L.G. não precisa de energia, a China e os E.U.A. a consomem como pipoca. Para manter a sua base fortalecida, um General precisa gastar dinheiro com uma grande quantidade de energia para suprir a máquina de guerra. Certifique-se de construir um Reator de Fusão a Frio ou Nuclear para obter o máximo de energia. Pouca energia significa poucas chances de sucesso"
+PL: "O ile AŚW nie potrzebuje energii, Chinom i USA jest ona niezbędna niczym powietrze. Każdy generał musi wydawać sporo pieniędzy na stałą rozbudowywę bazy i zasilanie machiny wojennej. Pamiętaj więc o budowie tylu reaktorów zimnej fuzji lub atomowych, ilu tylko się da. Brak prądu może oznaczać brak sukcesów"
+END
+
+ACADEMY:BuildMoreGatherers
+US: "General, make sure you're building plenty of Workers, Supply Trucks or Chinooks to keep your income flowing. You can make extra gatherers by clicking on rescource gatherer's picture in the Supply Center or Stash. Don't be shy about maximizing your resource potential"
+DE: "Baue reichlich Arbeitsbots, Versorgungs-LKWs oder Chinooks, um die Rohstoffversorgung deiner Armee zu sichern. Klicke einfach auf ein Nachschub- oder Geheimlager, um zusätzliche Einheiten zu bauen. Auf diese Weise kannst du deine Rohstoffreserven aufstocken."
+FR: "Général, pensez à construire beaucoup d'Ouvriers, de Camions de ravitaillement ou de Chinook pour assurer des rentrées d'argent constantes. Pour construire plus d'unités de collecte, cliquez sur le Dépôt ou la Cache de ravitaillement. N'ayez pas peur de maximiser votre potentiel de ressources."
+ES: "General, asegúrate de construir cantidad de trabajadores, camiones de suministros o Chinook para que tus ingresos fluyan. Puedes crear recolectores extra haciendo clic en el centro o reserva de suministros. No te cortes a la hora de maximizar tu potencial de recursos"
+IT: "Ricorda di addestrare Operai, Camion dei rifornimenti e Chinook a sufficienza, per mantenere costanti gli incassi. Puoi realizzarne di nuovi cliccando sul Centro rifornimenti o sul Nucleo rifornimenti. Non esitare a sfruttare a fondo le risorse in tuo possesso."
+KO: "장군님, 자금 유입을 원활하게 유지하기 위해서는 반드시 많은 수의 일꾼과 서플라이 트럭, 치누크를 만드십시오. 서플라이 센터나 은닉처를 클릭하여 보다 많은 이들 유닛을 만들 수 있습니다. 자원 수집력을 극대화하는 것을 주저하지 마십시오."
+ZH: "將軍，確定您建立大量的工人、補給卡車或運輸直昇機，能讓您擁有不斷的收入。您能收集資源到補給中心或儲存處。別對您收集的大量資源感到害羞。"
+BP: "General, certifique-se de construir muitos Trabalhadores, Caminhões de Suprimentos ou Chinooks para manter seu rendimento fluindo. Você pode fazer coletores a mais clicando na Central de Suprimento ou no Armazém. Não seja tímido para maximizar o seu potencial de recursos"
+PL: "Generale, pamiętaj o zaopatrzeniu się w dużą liczbę robotników, ciężarówek lub Chinooków, które będą stale transportować zaopatrzenie. Dodatkowych zbieraczy pieniędzy można wytworzyć po kliknięciu na ośrodku lub składzie zaopatrzeniowym. Nie bój się mocno eksploatować złóż."
+END
+
+ACADEMY:BuildAHero
+US: "Jarmen Kell, Col. Burton and Black Lotus can be invaluable to your strategy. These heroes can turn the tide of a battle and are invisible to the enemy. To locate your hero on the radar, look for the cross hair icon. Though you can only build one at a time don't underestimate their importance"
+DE: "Infiltratoren, Kommandobots und Black Bots können eine Schlacht entscheiden, da sie perfekt getarnt und für deine Gegner nicht zu sehen sind. Auf dem Radar ist die Position dieser Einheiten mit einem Fadenkreuz markiert. Da du immer nur eine Helden-Einheit bauen darfst, solltest du ihre Bedeutung nicht unterschätzen!"
+FR: "Jarmen Kell, le colonel Burton et Lotus Noir peuvent être des atouts irremplaçables de votre stratégie. Ces héros peuvent influer sur l'issue d'une bataille et ne peuvent pas être repérés par l'ennemi. Sur votre radar, votre héros est indiqué par un réticule. Vous ne pouvez en construire qu'un à la fois, mais ne sous-estimez pas pour autant sa puissance."
+ES: "Jarmen Kell, el coronel Burton y Loto Negro pueden ser valiosísimos para tu estrategia. Estos héroes pueden darle la vuelta a una batalla y son invisibles para el enemigo. Para localizar a tu héroe en el radar, busca el icono del punto de mira. Aunque sólo puedes crear uno a la vez, no subestimes su importancia"
+IT: "Jarmen Kell, il Colonnello Burton e Loto Nero possono essere elementi preziosi della tua strategia. Questi eroi sono in grado di mutare le sorti di una battaglia e sono completamente invisibili al nemico. Per localizzare il tuo guerriero sul radar, cerca l'icona del mirino. Anche se si tratta di un'unità singola, non sottovalutarne mai l'importanza."
+KO: "쟈멘 켈, 버튼 대령, 흑수선은 당신의 전략에 매우 귀중한 존재일 수 있습니다. 이 영웅들은 전쟁의 흐름을 바꿀 수 있으며, 적에게 완벽하게 보이지 않는 존재들입니다. 이 영웅들을 레이더에 위치시키려면, 십자가 모양의 아이콘을 찾으십시오. 비록 한 명의 유닛만 만들 수 있지만, 그들의 중요성을 과소평가하지 마십시오."
+ZH: "賈曼卡爾、貝頓上校、黑蓮花都能隱形，這些英雄單位可以扭轉戰場的局勢，且對敵軍完全隱形。您可以在雷達上十字記號處找到您的英雄。雖然您一次只能夠建造一位英雄，但不要低估了他們的重要性"
+BP: "Jarmen Kell, o Coronel Burton e a Black Lotus podem ser inestimáveis para a sua estratégia. Esses heróis podem inverter a maré da batalha e são completamente invisíveis ao inimigo. Para localizar o seu herói no radar, procure pelo ícone em forma de mira. Apesar de você apenas poder construir um de cada vez, não subestime a importância deles"
+PL: "Jarmen Kell, płk Burton i Czarny Lotos mogą być nieocenieni dla realizacji twojej strategii. Bohaterowie ci są w stanie odmienić przebieg bitwy, są przy tym niewidoczni dla wroga. Położenie bohatera na ekranie radaru jest wyobrażone celownikiem. Choć możesz w danej chwili mieć tylko jednego bohatera, nie wolno ich nie doceniać"
+END
+
+ACADEMY:PickStrategyCenterPlan
+US: "The US Strategy Center is a very helpful structure. You should remember to choose the strategy that best fits your gameplan. Search & Destroy, Bombardment and Hold the Line are all excellent ways to give you the edge you need. Along with these overall strategies you can purchase many upgrades from this building"
+DE: "Das Strategiezentrum der WA ist sehr nützlich. Wähle eine Strategie, die deinem Schlachtplan (Zerstörung, Bombardement oder Stellung halten) entspricht. Die Wahl des richtigen Schlachtplanes hat schon so manchen Krieg entschieden. Darüber hinaus stehen für das Strategiezentrum zahlreiche Upgrades zur Verfügung."
+FR: "Le Commandement tactique américain est un bâtiment très utile. Pensez à choisir la stratégie qui convient le mieux à votre plan de bataille. Recherche et destruction, Bombardement et Tenir la position permettent bien souvent de prendre l'avantage. Outre ces stratégies générales, ce bâtiment vend de nombreuses améliorations."
+ES: "El centro de estrategia de EE.UU. es un edificio muy útil. Elige la estrategia que mejor se adapte a tu plan de juego. Búsqueda y destrucción, Bombardeo y Resistencia son formas excelentes de darte la ventaja que necesitas. Junto a las estrategias generales, puedes comprar muchas mejoras en este edificio"
+IT: "Il Centro strategico USA è una struttura molto utile: scegli sempre la strategia che meglio si adatta al tuo piano d'azione. Ricerca e distruzione, Bombardamento e Presidio possono concederti il vantaggio necessario per vincere. Insieme a queste strategie globali, questo edificio consente di realizzare molti aggiornamenti."
+KO: "미국 진영의 전략 센터는 매우 유용한 구조물입니다. 당신의 게임 운영 전략에 가장 잘 맞는 전략을 선택해야 합니다. 수색 섬멸 작전, 폭격 작전과 전선 유지 작전은 원하는 분야의 우위를 점하게 해주는 탁월한 방법들입니다. 이 건물로부터 이러한 모든 전략들과 함께 많은 종류의 업그레이드를 구입할 수 있습니다."
+ZH: "美國的戰略中心是一種非常有幫助的建築，您應該選擇最適合作戰計劃的戰術。偵搜消滅、防禦作戰、轟炸作戰這三種戰術都可以讓您獲得絕佳的先機。除了這些整體的戰術選擇外，您也可以從此建築購買許多的升級選項"
+BP: "A Central de Estratégia dos E.U.A. é uma estrutura muito útil. Você deve lembrar-se de escolher a estratégia que melhor se adequar ao seu plano de combate. Busca e Destruição, Bombardeio e Resistir ao inimigo são excelentes maneiras de dar a você a vantagem de que precisa. Juntamente com essas estratégias gerais você pode adquirir muitas atualizações dessa estrutura"
+PL: "Amerykański ośrodek badań strategicznych to bardzo przydatny budynek. Musisz pamiętać o wybraniu takiej strategii, która będzie najlepiej pasować do twych planów. Strategie 'wyszukania i zniszczenia', 'bombardowania' i 'utrzymania pozycji' mogą zapewnić ci tę odrobinę przewagi. Poza ogólnymi strategiami możesz kupować w tym budynku wiele ulepszeń"
+END
+
+ACADEMY:UseTunnelNetwork
+US: "When it comes to the GLA sneaking around the battlefield is their calling card. Tunnel Networks offer defense capabilities but they also allow the player to move around quickly. Simply build a few Tunnel Networks and send your units inside. Click on the structure and you can expel them from any other Tunnel Network anywhere on the map. They are key to the overall GLA strategy"
+DE: "Die IBG vertraut auf dem Schlachtfeld auf Geheimhaltung und verdeckte Einsätze. Tunnelsysteme bieten gute Defensivmöglichkeiten, ermöglichen aber gleichzeitig schnelle Vorstöße. Baue einfach einige Tunnelsysteme und schicke deine Einheiten hinein. Klicke auf die Struktur, damit deine Truppen die unterirdischen Gänge durch ein beliebiges Tunnelsystem auf der Karte verlassen. Dies ist die wichtigste Strategie der IBG!"
+FR: "La furtivité est la carte de visite de la GLA sur le champ de bataille. Les Réseaux de tunnels leur permettent non seulement de se défendre, mais aussi de se déplacer rapidement. Creusez tout simplement quelques Réseaux de tunnels, puis envoyez vos unités dedans. Cliquez sur le bâtiment pour les faire sortir de n'importe quel autre Réseau de tunnels de la carte. La stratégie globale de la GLA repose sur ces tunnels."
+ES: "En cuanto al GLA, acechar por el campo de batalla es su tarjeta de visita. Las redes de túneles ofrecen capacidades defensivas, pero también permiten moverse rápidamente. Construye algunas redes de túneles y envía a tus unidades. Haz clic en el edificio y podrás expulsarlas desde cualquier otra red de túneles del mapa. Son clave para la estrategia global del GLA"
+IT: "Quando si parla dell'ELG, il punto chiave è muoversi non visti sul campo di battaglia. Le Reti di tunnel offrono buone capacità difensive, permettendo inoltre dei movimenti rapidi: costruitene alcune e inviate al loro interno le vostre unità. Clicca sulla struttura per farle uscire da qualsiasi Rete di tunnel presente sulla mappa. Questo elemento è il cardine della strategia globale dell'ELG."
+KO: "GLA에게는 전장을 잠입 공격하는 것이 그들의 주요 전투 방식입니다. 터널 네트워크는 수비 능력을 제공하지만, 또한 플레이어가 빨리 이동할 수 있게 해 줍니다. 몇 개의 터널 네트워크를 짓고, 당신의 유닛들을 그 안에 보내십시오. 그것들을 클릭하면, 다른 터널 네트워크에 있는 적들을 지도상의 어디로든 내보낼 수 있습니다. 이것은 모든 GLA 전략의 핵심입니다."
+ZH: "全球解放軍的重要關鍵就是在戰場上四處滲透穿梭，地道網路系統不只提供防禦能力，它們也讓單位可以快速的在地底移動，只要建造幾個地道網路，並將單位指派進入地道內，您就可以從地圖上任何地點的地道網路來取得這些單位，這項能力是全球解放軍最重要的戰略之一"
+BP: "O cartão de visita do E.L.G. é espreitar o campo de batalha. As Redes de Túneis oferecem habilidades defensivas, mas elas também permitem que o jogador se mova rapidamente. Simplesmente construa algumas Redes de Túneis e envie as suas unidades por dentro delas. Clique na estrutura e ela sairá por outra Rede de Túneis em qualquer outro lugar do mapa. Elas são a chave para a estratégia geral do E.L.G."
+PL: "Najmocniejszą stroną AŚW jest zdolność błyskawicznego przenoszenia sił w różne rejony pola walki. Sieci tuneli nie tylko mają wartość obronną, ale umożliwiają też żołnierzom szybkie przemieszczanie się. Wybuduj kilka wyjść z sieci tuneli i wyślij do nich swoje jednostki. Potem kliknij na dowolnym z wyjść - możesz wyprowadzić z niego wszystkich żołnierzy! Sieć tuneli ma kluczowe znaczenie dla strategii AŚW"
+END
+
+ACADEMY:UseControlGroups
+US: "Managing a large army can be a bit unruly sometimes. One way to manage lots of units easily is by creating a \"control group\". Simply select the group of units in question and press \"Ctrl\" & a number at the same time. Now anytime you press this number, the group of units will be selected. Tap the number twice quickly and the camera view will center over the group"
+DE: "Die Verwaltung einer großen Armee ist nicht ganz einfach. Aus diesem Grund empfiehlt sich die Bildung von Gruppen. Wähle die gewünschten Einheiten dazu aus und drücke STRG und eine beliebige Zahl. Drückst du in Zukunft diese Zahl, wird die entsprechende Gruppe ausgewählt. Möchtest du die Kamera über der Gruppe zentrieren, drücke die Taste zweimal hintereinander."
+FR: "Pour gérer un grand nombre d'unités, le plus simple est encore de créer des groupes de sélection. Pour cela, sélectionnez les unités de votre choix et appuyez simultanément sur \"Ctrl\" et une touche numérotée. A chaque fois que vous appuierez sur ce chiffre, le groupe d'unités correspondant sera sélectionné. Appuyez à deux reprises sur cette touche pour centrer la vue sur le groupe en question."
+ES: "A veces, administrar un gran ejército puede ser un poco difícil. Un modo de administrar muchas unidades fácilmente es crear un \"grupo de control\". Selecciona un grupo de unidades y pulsa a la vez \"Ctrl\" + un número. Ahora, cuando pulses ese número, dicho grupo de unidades será seleccionado. Pulsa el número dos veces rápidamente y la cámara se centrará en el grupo"
+IT: "A volte non è semplice gestire un esercito di grandi dimensioni: un metodo per dare ordini a molte unità è quello di creare un \"gruppo di controllo\". Seleziona le truppe in questione e premi \"Ctrl\" insieme a un tasto numerico: ora, ogni volta che premerai questo tasto selezionerai il gruppo di unità. Premi rapidamente due volte il numero per centrare la visuale sulle unità."
+KO: "대규모 군대를 관리하는 것은 때로 매우 제어하기 어려운 것일 수 있습니다. 많은 유닛을 쉽게 관리하는 한 가지 방법은 컨트롤 그룹을 설정하는 것입니다. 한 무리의 유닛들을 선택하고 '컨트롤' 키와 숫자 키 하나를 동시에 누르십시오. 이제 그 숫자 키를 누를 때마다 지정된 유닛들이 선택될 것입니다. 그 숫자 키를 두 번 빠르게 누르면 그 유닛 그룹은 화면 중앙에 표시될 것입니다."
+ZH: "指揮大量的部隊有時是很困難的，有一種方法可以讓您較容易指揮大量部隊，就是建立\"控制群組\"。只要選擇一群有著問號圖示的單位，接著同時按 \"Ctrl\" 和某個數字鍵。現在，無論何時您都可以按下這個數字鍵，這群單位行列就會被選取。快速按這個數字鍵兩次，攝影機視角就會聚焦在這個群組上"
+BP: "Administrar um grande exército às vezes pode ser um pouco difícil. Uma maneira fácil de administrar muitas unidades é criando um \"grupo de controle\". Simplesmente selecione o grupo de unidades e aperte \"Ctrl\" e um número ao mesmo tempo. Agora, quando você pressionar esse número, o grupo de unidades será selecionado. Aperte o número duas vezes rapidamente e a visão será centralizada sobre o grupo"
+PL: "Zarządzanie wielką armią może być czasem niewygodne. Jednym z ułatwień jest grupowanie jednostek w oddziały. Uaktywnij odpowiednią grupę jednostek, przytrzymaj 'Ctrl' i naciśnij jeden z klawiszy cyfr. Później wystarczy nacisnąć samą cyfrę, by uaktywnić utworzony oddział. Szybkie dwukrotne naciśnięcie klawisza z cyfrą spowoduje wyśrodkowanie widoku na uaktywnionym oddziale"
+END
+
+ACADEMY:UseSecondaryIncomeMethods
+US: "General, acquiring supplies later in a mission can be difficult. Each faction has a unique way to gain funds during long battles. China can build Hackers and an Internet Center. You can direct the Hackers to hack the internet for funds anywhere or just send them inside Internet Center to gain money even quicker. The GLA depends on the Black Market and the USA relies on the Supply Drop. If you don't plan ahead you may have shortages"
+DE: "General, die Rohstoffbeschaffung kann im Verlauf einer Mission schwierig werden. Alle Kriegsparteien finanzieren ihre Armee anders. Der asiatische Pakt vertraut beispielsweise auf Hacker und Web-Zentren. Hacker können über das Internet Geld auf die Konten des Paktes umleiten. Tun sie dies in einem Web-Zentrum, sind sie deutlich effektiver. Während die WA auf ihre Abwurfzonen vertraut, verlässt sich die IBG auf den Schwarzmarkt. Wenn du nicht vorausplanst, bekommst du irgendwann Probleme!"
+FR: "Général, sachez que chaque faction peut se procurer du ravitaillement à sa manière durant les longues batailles. La Chine peut construire un Technopirate et un Centre Internet. Demandez alors au Technopirate de pirater l'Internet pour détourner des fonds ou envoyez-le dans le Centre Internet pour gagner de l'argent encore plus vite. La GLA se finance grâce au Marché noir tandis que les USA comptent sur leur Pont aérien. Soyez toujours prévoyant et vous éviterez les pénuries."
+ES: "General, adquirir suministros con la misión avanzada puede ser difícil. Cada facción tiene un modo propio de obtener fondos durante las batallas largas. China puede crear un hacker y un centro de Internet. Puedes dirigir a los hackers para que pirateen Internet en busca de fondos, o meterlos en el centro de Internet para ganar dinero aún más deprisa. El GLA depende del mercado negro y los EE.UU., del lanzamiento de suministros. Si no haces planes por adelantado, podría haber escasez"
+IT: "Ottenere scorte nelle fasi avanzate di una missione può non essere facile: ogni fazione utilizza i propri metodi per riuscirci. La Cina può realizzare un Hacker e un Centro Internet, da dove l'unità può recuperare fondi via Internet, oppure ottenere semplicemente del denaro senza troppa fatica. L'ELG dipende dal Mercato nero, mentre gli USA fanno affidamento sui lanci di rifornimenti. Fai attenzione: pianifica con cura o ti ritroverai a corto di scorte."
+KO: "장군님, 서플라이를 얻는 것은 임무의 후반부에서는 점점 어려워질 수 있습니다. 각 진영은 긴 전투 동안에 자금을 얻는 독특한 방법들을 가지고 있습니다. 중국은 해커와 인터넷 센터를 만들 수 있습니다. 자금을 구하기 위해 해커에게 인터넷 해킹을 지시하거나 보다 빨리 돈을 가져올 수 있도록 그들을 인터넷 센터 안으로 보내십시오. GLA는 암시장에 의존하고, 미국은 투하지역에 의존합니다. 미리 계획을 세우지 않으면 부족량이 발생하게 될 것입니다."
+ZH: "將軍，在任務後期才開始擴張蒐集資源是很困難的，在漫長的戰鬥中，每一個陣營都擁有獨特的增加資金方法。中國可以生產駭客與建造網際網路中心，指派到網際網路中心裡去竊取資金；全球解放軍則依賴黑市來獲取資金；美國則使用補給空投區來取得空頭的資金。如果您不事先計劃，您遲早會遭遇資金不足的窘境"
+BP: "General, conseguir suprimentos mais tarde durante uma missão pode ser difícil. Cada facção tem uma maneira exclusiva de adquirir fundos durante longas batalhas. A China pode produzir um Hacker e uma Central da Internet. Você pode orientar os Hackers para invadir a Internet e obter dinheiro rapidamente. O E.L.G. depende do Mercado Negro e os E.U.A. dependem do Abastecimento Aéreo. Se você não fizer um planejamento antecipado, poderá vir a ter um déficit"
+PL: "Generale, zdobywanie zaopatrzenia w późniejszych etapach walki może być trudne. Każda strona konfliktu ma jednak na to swoje sposoby. Chiny mogą zwerbować hakerów i zbudować ośrodek internetowy. Hakerzy potrafią wykradać pieniądze z Internetu wszędzie, ale najszybciej idzie im to, gdy są w ośrodku. AŚW korzysta z czarnego rynku, a Stany Zjednoczone - ze zrzutów zaopatrzenia. Zaplanuj te inwestycje z wyprzedzeniem"
+END
+
+ACADEMY:ClearBuildings
+US: "Garrisoned buildings can be tough to handle - unless you know some tricks. Upgrade your USA Rangers with Flash Bangs, build GLA Toxin Tractors or Chinese Dragon Tanks to quickly clear out these strong points. The USA also can upgrade to the Bunker Buster to even clear out Tunnel Networks!"
+DE: "Befestigte Gebäude sind schwer zu knacken ... es sei denn, du kennst ein paar Tricks. Rüste deine Ranger mit Blendgranaten aus, baue Säuretraktoren oder säubere die Gebäude mit Drachenpanzern. Mit ihren Bunker Buster-Bomben kann die WA übrigens sogar Tunnelsysteme räumen."
+FR: "Les bâtiments de garnison peuvent parfois opposer une farouche résistance. Améliorez vos Rangers américains avec des Grenades flash, construisez des Tracteurs bactériologiques pour la GLA ou des Chars Dragon pour la Chine afin de nettoyer en moins de deux ces poches de résistance. Les USA peuvent même améliorer le Tueur de bunker pour nettoyer les Réseaux de tunnels !"
+ES: "Los edificios guarnecidos pueden ser duros de pelar - si no sabes algunos trucos. Mejora tus rangers de EE.UU. con granadas cegadoras, construye tractores de toxinas del GLA o tanques Dragon chinos para despejar esas plazas fuertes. ¡Los EE.UU. también pueden mejorar al antibúnker para despejar las redes de túneles!"
+IT: "Gli edifici presidiati non sono un bersaglio facile, a meno di non utilizzare la tattica giusta. Aggiorna i Ranger USA con le Granate flash, costruisci un Contaminatore dell'ELG o un carro Dragon cinese per togliere rapidamente di mezzo queste roccaforti. Gli USA possono potenziare i loro Distruttori di bunker, rendendoli capaci di ripulire anche le Reti di tunnel!"
+KO: "병력이 배치된 건물들은 다루기가 매우 어렵지만, 대처 방법은 있습니다. 이러한 거점들을 신속하게 제거하기 위해서는 미국 레인저의 섬광폭음탄 업그레이드를 하거나, GLA 독소 트랙터나 중국 드래곤 탱크를 만드십시오. 미국은 터널 네트워크를 소탕하기 위해 벙커 버스터 업그레이드를 할 수도 있습니다."
+ZH: "除非您知道技巧，否則被敵軍駐守的建築是很難攻下的。美國的遊騎兵升級閃光彈、建造全球解放軍的毒素車、或中國的火龍坦克，都可以快速的清除這些據點內的防禦。美國甚至可以升級碉堡殺手來清除全球解放軍的地道網路系統！"
+BP: "As estruturas ocupadas podem ser difíceis de manipular – a menos que você conheça alguns truques. Atualize os seus Rangers dos E.U.A. com Flash Bangs, construa Tratores Tóxicos do E.L.G. ou Tanques-Dragão Chineses para eliminar rapidamente esses pontos fortes. As unidades dos E.U.A. também podem se atualizar para o Destruidor de Bunkers e, com isso, eliminar as Redes de Túneis."
+PL: "Obsadzone budynki trudno zdobyć - chyba że znasz odpowiednie sztuczki. Uzbrój rangerów USA w granaty oślepiające, buduj ciągniki z toksyną AŚW lub chińskie czołgi typu 'Smok'. Amerykanie mogą też zyskać dostęp do niszczycieli bunkrów, umożliwiających nawet czyszczenie sieci tuneli!"
+END
+
+ACADEMY:PickUpSalvage
+US: "The GLA is a sneaky bunch but they're also resourceful. Whenever the GLA units destroy another vehicle a salvage bonus is left behind. Roll over the salvaged parts to upgrade your units, gain veterancy or get some extra cash. Salvage can make a big difference in a long fight so don't leave it just lying around"
+DE: "Die Einheiten der IBG sind verschlagen und einfallsreich. Zerstört ein Fahrzeug der IBG ein feindliches Fahrzeug, bleibt ein Wrack zurück. Fahre über die Wrackteile, um sie einzusammeln. Für Wrackteile bekommst du Geld oder Erfahrung. Da Wrackteile in langen Feldzügen entscheidend sein können, solltest du sie nicht herumliegen lassen."
+FR: "Les troupes de la GLA sont sournoises, mais pleines de ressources. Chaque fois qu'une unité de la GLA détruit un véhicule ennemi, un bonus est laissé dans les décombres. Roulez dessus pour améliorer vos unités, gagner de l'expérience ou de l'argent supplémentaire. Ces bonus peuvent faire toute la différence au cours d'un long combat, alors ne les laissez pas s'envoler."
+ES: "El GLA es un grupo taimado, pero también ingenioso. Cuando las unidades del GLA destruyen otro vehículo, detrás queda un bonus de rescate. Pasa sobre las partes aprovechables para mejorar tus unidades, ganar veteranía o conseguir dinero extra. El material aprovechable puede marcar la diferencia en un combate largo, así que no lo dejes por ahí"
+IT: "L'ELG non ha armi all'avanguardia, ma è pieno di risorse: ogni volta che un'unità dell'ELG distrugge un altro veicolo, a terra restano dei materiali recuperabili. Passa sopra questi materiali per potenziare le tue unità, renderle veterane oppure ottenere dei fondi extra. Questa tattica può fare la differenza nelle battaglie più estenuanti: non lasciare mai nulla di inutilizzato."
+KO: "GLA는 잠입이 특기이지만 또한 주변의 자원을 훌륭하게 활용하기도 합니다. GLA 유닛들이 다른 차량들을 파괴할 때 마다 그 차량의 잔해가 남게 됩니다. 이것들을 유닛들을 업그레이드 하는데 사용하십시오. 잔해를 재활용하는 것은 장기전에서는 승부의 향방을 결정할 수도 있으니 잔해를 내버려두지 마십시오."
+ZH: "全球解放軍不僅狡猾，而且還擁有許多的資源，不論何時，當全球解放軍的單位搓毀其他載具後，都會在殘骸上留下可回收的物品，回收這些物品可以用來升級單位、換取額外的資金。在長時間的作戰中，回收能力將扮演重要的關鍵，不要讓殘骸就這樣躺在戰場之上了"
+BP: "O E.L.G. é um grupo sorrateiro, mas também é engenhoso. Toda vez que as unidades do E.L.G. destruírem outro veículo inimigo, um bônus de destroços é deixado para trás. Passe por cima dos destroços para atualizar as suas unidades, ganhar experiência ou pegar algum dinheiro extra. Os destroços podem fazer uma grande diferença em um combate longo, por isso, não os deixe jogados por aí"
+PL: "AŚW umie wykorzystać wszystko. Po każdym pojeździe zniszczonym przez jednostkę AŚW pozostają na ziemi resztki wyposażenia. Gdy przez nie przejedziesz, twój pojazd może zostać udoskonalony, zyskać status weterana lub zdobyć premię pieniężną. Łupy mogą decydować o wynikach długich bitew, więc nie pozostawiaj ich na ziemi"
+END
+
+ACADEMY:UseGuardAbility
+US: "Sometimes it's important that units stay put and guard a particular area. Simply select the unit and press the \"shield\" button or \"G\" key and then select the area to be guarded. The unit will attack any enemies that enter its guard radius"
+DE: "Gelegentlich müssen deine Einheiten ein bestimmtes Gebiet überwachen. Wähle die gewünschte Einheit dazu aus und drücke die Taste 'G' (oder klicke auf das Schild-Symbol). Die Einheit attackiert nun alle Gegner, die in das überwachte Gebiet eindringen."
+FR: "Il est parfois important que vos unités gardent un secteur en particulier. Pour cela, sélectionnez l'unité, puis appuyez sur le bouton \"Bouclier\" ou sur la touche \"G\" et indiquez le secteur à protéger. L'unité attaquera alors tout ennemi pénétrant dans son champ d'action."
+ES: "A veces es importante que las unidades se queden y vigilen una zona concreta. Selecciona una, pulsa el botón del \"escudo\" o la tecla \"G\" y elige la zona a proteger. La unidad atacará a todo enemigo que penetre en el radio protegido"
+IT: "A volte è importante che le unità restino a difesa di una determinata posizione. Seleziona l'unità e clicca sul pulsante dello \"scudo\", o premi \"G\", per poi indicare l'area da sorvegliare. L'unità assalirà tutti i nemici che penetreranno nel suo raggio di sorveglianza."
+KO: "가끔은 유닛들이 멈춰서 머무르며 특정 지역을 수비하는 것이 중요합니다. 유닛을 선택하고 '방어' 버튼이나 'G' 키를 누르고 수비할 지역을 선택하십시오. 그러면 그 유닛은 방어하는 지역의 시야에 들어오는 모든 적을 공격할 것입니다."
+ZH: "有時將部隊指派到特定的地點進行警戒是很重要的，您只要選擇單位並按下\"防禦\" 按鈕或 \"G\"按鍵，然後選取想要防守的區域。單位將會攻擊任何入侵它防守半徑內的敵人"
+BP: "Às vezes, é importante que as unidades fiquem em seus lugares e protejam uma área em particular. Simplesmente selecione a unidade e aperte o botão \"escudo\" ou a tecla \"G\" e selecione a área a ser protegida. A unidade irá atacar quaisquer inimigos que entrem no raio de proteção"
+PL: "Czasami jednostki powinny stać w miejscu i pilnować określonego miejsca. Wystarczy uaktywnić jednostkę i kliknąć na przycisku tarczy lub nacisnąć klawisz 'T', a następnie wskazać miejsce, które ma być strzeżone. Jednostka będzie atakować wszystkich wrogów, którzy wejdą w jej zasięg straży"
+END
+
+ACADEMY:MultipleSupplyCenters
+US: "Supplies are the name on the game, General. They can be gathered at Supply Docks littered around the battlefield. While one dock may be enough early on it's usually best to branch out and find a few more during a mission. You'll need to build a Supply Center or Stash close to the Supply Dock to ensure efficient collection"
+DE: "Ohne Rohstoffe geht gar nichts. Halte also die Augen nach Versorgungslagern offen! Am Anfang einer Kampagne kommst du vermutlich mit einem Lager aus. Allerdings solltest du im Laufe der Mission weitere Versorgungslager suchen. Baue in der Nähe des Lagers ein Nachschub- oder ein Geheimlager, um die Rohstoffe dort zwischenzulagern."
+FR: "Le succès repose sur le ravitaillement, général. Vous pouvez le stocker dans les entrepôts de ravitaillement éparpillés sur le champ de bataille. Même si un entrepôt peut suffire en début de mission, il est généralement plus sage d'en trouver d'autres par la suite. Vous devrez construire un Dépôt ou une Cache de ravitaillement près de l'entrepôt pour garantir une collecte efficace."
+ES: "Lo fundamental son los suministros, general. Pueden reunirse en los puertos de suministros dispersos por el campo de batalla. Aunque al principio puede bastar con un muelle, es mejor extenderse y buscar más durante una misión. Necesitarás construir un centro o reserva de suministros cerca del puerto de suministros para asegurar una recaudación eficaz"
+IT: "I rifornimenti sono la chiave del successo: puoi riceverli presso le zone di rifornimento sparse per il campo di battaglia. Anche se una singola zona può essere sufficiente all'inizio della partita, è sempre meglio utilizzarne delle altre con il procedere della missione. Per assicurare un flusso ottimale dei rifornimenti, costruisci un Centro o un Nucleo rifornimenti nelle vicinanze della zona di rifornimento."
+KO: "서플라이는 이 게임에 없어서는 안될 요소입니다, 장군님. 서플라이는 전장 여기저기 흩어져 있는 서플라이 도크에서 수집되어집니다. 게임 초반에는 도크 하나면 충부하지만, 보통은 임무가 진행되는 동안 계속 늘려 나가는 것이 좋습니다. 서플라이를 수집할 도크마다 그 옆에 서플라이 센터나 서플라이 은닉처를 건설하는 것이 효율적인 수집을 가능하게 합니다."
+ZH: "將軍，資源就是這場遊戲的一切，您可以從戰場上的補給站取得資源。一座補給站也許夠您的使用，不過最好在任務中提早擴張領地、找尋其他補給站。您需要在補給站旁建造補給中心或補給品來確保有效的資源採集速度"
+BP: "Suprimentos é o nome do jogo, General. Eles podem ser recolhidos nas Docas de Suprimento espalhadas pelo campo de batalha. Enquanto uma doca pode ser suficiente de início, usualmente é melhor estender-se e encontrar umas poucas a mais durante a missão. Você precisará construir uma Central de Suprimentos ou Armazém perto das Docas de Suprimentos para garantir uma coleta eficiente"
+PL: "Gra toczy się o zasoby, generale. Można je pozyskiwać w rozsianych po mapie dokach zaopatrzeniowych. O ile jeden dok wystarczy na początek, najlepiej wyszukać ich więcej, na zapas. W celu zapewnienia efektywnego gromadzenia zasobów musisz wybudować w pobliżu doku ośrodek lub skład zaopatrzeniowy"
+END
+
+ACADEMY:GarrionVehicle
+US: "Some units may enter or steal other vehicles. Stealing vehicles with Hijackers or Terrorists can allow you to sneak into enemy territory"
+DE: "Bestimmte Einheiten können Fahrzeuge entführen. Wenn du ein feindliches Fahrzeug mit einem Entführer oder einer fahrenden Bombe kaperst, kannst du unerkannt in feindliche Gebiete vorstoßen."
+FR: "Certaines unités peuvent monter à bord de véhicules ennemis et même les voler. Vous pouvez ainsi vous faufiler derrière les lignes ennemies en volant des véhicules à l'aide de Pirates de la route ou de Terroristes."
+ES: "Algunas unidades pueden entrar en vehículos o robarlos. Robar vehículos con secuestradores o terroristas puede permitirte infiltrarte en territorio enemigo"
+IT: "Alcune unità possono entrare nei veicoli nemici, oppure rubarli. Utilizzando Dirottatori e Terroristi puoi penetrare nel territorio dell'avversario."
+KO: "어떤 유닛들은 다른 차량을 타거나 훔칠 수 있습니다. 하이재커나 테러리스트는 훔쳐 탄 차량을 이용해 적 진영으로 조용히 침투할 수 있습니다."
+ZH: "某些單位可以進入或偷取其他的載具。以劫持犯或恐怖份子偷取載具讓您可以滲透進入敵方區域"
+BP: "Algumas unidades podem entrar em outros veículos ou roubá-los. Roubar veículos com Seqüestradores ou Terroristas pode permitir que você entre sem ser percebido no território inimigo"
+PL: "Niektóre jednostki mogą kraść pojazdy. Wykradanie ich za pomocą porywaczy lub terrorystów ułatwia wślizgnięcie się na teren wroga"
+END
+
+ACADEMY:UseSelectionHotkeys
+US: "General, hotkeys are a great way to enhance your control of your forces. \"E\" will select all of the same unit types on the view screen. If you tap \"E\" twice quickly it will select all the same type across the entire battlefield. \"Q\" will select all your combat units on the map. \"W\" will select all your air units on the map. Give them a try, they'll help you out"
+DE: "Schnelltasten erleichtern die Befehligung deiner Streitkräfte ungemein. Mit \"E\"' kannst du alle Einheiten eines Typs auf dem Bildschirm auswählen. Willst du alle Einheiten auf dem Schlachtfeld auswählen, drücke die Taste zweimal. Mit \"Q\" wählst du alle Einheiten auf der Karte aus. \"W\" wählt alle Lufteinheiten auf der Karte aus. Versuche es."
+FR: "Général, utilisez les raccourcis clavier pour contrôler plus efficacement vos troupes. \"E\" permet de sélectionner toutes les unités d'un certain type présentes à l'écran. Appuyez sur \"E\" deux fois de suite pour sélectionner toutes les unités d'un certain type sur le champ de bataille. \"Q\" permet de sélectionner toutes les unités de combat sur la carte. Ces raccourcis sont une aide précieuse, alors utilisez-les sans réserve."
+ES: "\"General, las teclas directas son un buen modo de aumentar el control de tus fuerzas. \"\"E\"\" seleccionará todas las unidades del mismo tipo de la pantalla de vista. Si pulsas \"\"E\"\" rápidamente dos veces, seleccionarás todas las del mismo tipo del campo de batalla. \"\"Q\"\" seleccionará todas tus unidades de combate en el mapa. Pruébalas: te servirán de ayuda\""
+IT: "I comandi da tastiera sono un ottimo metodo per migliorare la tua capacità di controllo sulle truppe. \"E\" seleziona tutte le unità dello stesso tipo presenti sullo schermo: premendo due volte rapidamente \"E\" selezionerai tutte le unità di quel tipo presenti sul campo di battaglia. \"Q\" seleziona tutte le unità da combattimento sulla mappa. Prova a usarli, ti saranno utili."
+KO: "장군님, 단축키는 유닛 컨트롤을 향상시킬 수 있는 훌륭한 방법입니다. 'E' 키는 화면 내의 같은 종류의 유닛 모두를 선택합니다. 'E' 키를 두번 빠르게 누르면 전체 지도에 있는 같은 종류의 유닛 모두가 선택됩니다. 'Q' 키를 누르면 지도 전채의 모든 전투 유닛을 선택합니다. 'W' 키는 지도 상의 모든 공중 유닛을 선택합니다. 한번 시도해 보십시오. 많은 도움이 될 것입니다."
+ZH: "將軍，熱鍵是增加您軍隊控制力的好方法。\"E\" 鍵將選擇所有在螢幕上相同的單位。如果您按\"E\" 鍵兩次，將會選擇戰場上所有的相同單位。\"Q\" 鍵將選擇您地圖上所有的戰鬥單位。\"W\" 鍵將選擇您地圖上所有的空中單位。去試試看，那對你會很有幫助的。"
+BP: "General, as teclas de atalho são uma grande opção para melhorar o controle sobre as suas forças. \"E\" selecionará o mesmo tipo de unidades na sua tela de visão. Se pressionar \"E\" duas vezes rapidamente irá selecionar o mesmo tipo em todo campo de batalha. \"Q\" selecionará todas as suas unidades de combate no mapa. Dê uma chance a elas, elas irão lhe dar uma mão"
+PL: "Klawisze skrótów to znakomity sposób dowodzenia oddziałami, generale. \"E\" uaktywnia wszystkie jednostki tego samego typu, widoczne na ekranie. Szybkie dwukrotne naciśnięcie \"E\" uaktywni wszystkie jednostki tego samego typu na całym polu bitwy. \"Q\" uaktywni wszystkie twoje jednostki bojowe na mapie. Spróbuj, to bardzo przydatne"
+END
+
+ACADEMY:AlternateMouseInterface
+US: "One new addition is the \"Alternate Mouse Interface\" option located in the Options Menu. If you are used to commanding armies using right click as your action button then this may help you get a better handle on your army"
+DE: "Eine neue Funktion ist die Option 'Maus umkehren' im Optionen-Menü. Wenn du gewohnt bist, deine Armeen mit der rechten Maustaste zu steuern, ist diese Funktion eine echte Erleichterung."
+FR: "Une option a été ajoutée dans le menu des options : \"Autre interface souris\". Si vous avez l'habitude de commander vos troupes en utilisant le clic droit comme bouton d'action, vous trouverez sûrement avantage à utiliser cette nouvelle option."
+ES: "Se ha añadido la opción de \"interfaz de ratón alternativa\" situada en el menú de Opciones. Si estás acostumbrado a dar órdenes usando el clic derecho como botón de acción, esto puede ayudarte a manejar mejor tu ejército"
+IT: "Una novità è costituita dall'\"inversione tasti mouse\", accessibile tramite il menu delle opzioni. Se sei abituato a impartire ordini con il pulsante destro del mouse, questa funzione potrebbe tornarti utile durante la battaglia."
+KO: "새롭게 선보인 '마우스 인터페이스 변경' 설정은 설정 메뉴에 있습니다. 장군님이 마우스 오른쪽 버튼을 액션 버튼으로 사용하여 유닛을 컨트롤하는데 익숙하다면 이 기능이 많은 도움이 될 것입니다."
+ZH: "新增之一是 \"替換滑鼠界面\"選項，位在選項選單內。假如您控制軍隊時，習慣點選滑鼠右鍵作來當作行動按鈕，這個功能可以協助您更輕鬆地操控軍隊"
+BP: "Uma nova adição é a opção \"Interface Alternativa do Mouse\", localizada no Menu Opções. Se você está acostumado a comandar exércitos com o clique do botão direito como o seu botão de ação, então isso poderá ajudá-lo a manipular melhor o seu exército"
+PL: "Jednym z nowych elementów gry jest opcja 'Odwrotnego sterowania myszą' (menu opcji). Jeśli przywykłeś do rozkazywania armiom za pomocą prawego przycisku myszy, możesz uzyskać lepszą kontrolę nad swoją armią"
+END
+
+ACADEMY:DoubleClickAttackMoveGuard
+US: "General, we have created a new way to direct your army. Simply select your units and double click the destination area. Your units will attack-move to the spot and then guard it. You may enable this through the options menu"
+DE: "Wir haben die Steuerung deiner Truppen vereinfacht. Wähle die gewünschten Einheiten einfach aus und doppelklicke auf die Zielposition. Die Einheiten rücken nun zum Zielgebiet vor und bewachen es. Du kannst diese Funktion im Optionen-Menü aktivieren"
+FR: "Général, nous avons élaboré une nouvelle stratégie pour diriger votre armée. Sélectionnez vos unités et faites un double clic sur leur zone de destination. Vos unités se rendront dans la zone et attaqueront, puis tiendront la position. Vous pouvez activer cette option depuis le menu des options."
+ES: "General, hemos creado una nueva forma de dirigir tu ejército. Selecciona tus unidades y haz doble clic en la zona de destino. Éstas atacarán/avanzarán a ese punto y luego lo protegerán. Puedes activar esto por medio del menú de Opciones"
+IT: "Abbiamo creato un nuovo metodo per impartire ordini all'esercito: seleziona le tue unità e fai doppio clic sulla destinazione. Verrà eseguito un movimento di combattimento, seguito da un presidio. Questa funzione si può attivare tramite il menu delle opzioni."
+KO: "장군님, 부대를 지휘하는 새로운 방법이 개발되었습니다. 유닛들을 선택하고 목적지를 더블 클릭하십시오. 유닛들은 그 지점으로 공격 이동하고, 이동 후에는 그곳을 수비할 것입니다. 이 기능은 설정 메뉴에서 선택할 수 있습니다."
+ZH: "將軍，我們研發出讓您指揮部隊的新方法：只要選擇您的單位並且在目的地上雙擊按鍵，您的部隊便會自動的攻擊，移動到該地，並且於該地警戒。您可以從選項選單中啟動這項功能"
+BP: "General, nós criamos uma nova maneira para orientar o seu exército. Simplesmente selecione as suas unidades e clique duas vezes na área de destino. Suas unidades se deslocarão para o local e, depois, o protegerão. Você antes precisa habilitar isso no menu de opções"
+PL: "Stworzyliśmy nowy sposób kierowania armią, generale. Wystarczy, że uaktywnisz jednostki i klikniesz dwukrotnie w punkcie docelowym. Twoje jednostki podążą do niego w trybie ataku, a po przybyciu na miejsce będą go bronić"
+END
+
+ACADEMY:BuildBarracksSooner
+US: "In order to create a well balanced force you must build a Barracks earlier in the mission. Infantry can make or break your gameplan so it's best not to forget them"
+DE: "Nur wenn du frühzeitig eine Kaserne errichtest, kannst du eine ausgewogene Armee aufbauen. Cyborgs haben schon so manche Schlacht entschieden. Vergiss das nicht!"
+FR: "Pour bien équilibrer vos forces, construisez une Caserne en début de mission. L'infanterie est un élément clé dans votre victoire alors ne la négligez pas !"
+ES: "Para crear una fuerza equilibrada, construye unos barracones al comienzo de la misión. La infantería puede ejecutar el plan de juego o chafártelo, así que mejor no olvidarla"
+IT: "Per creare una forza equilibrata, devi realizzare una Caserma nelle prime fasi della missione. La fanteria è la base di qualsiasi strategia, non dimenticartene mai."
+KO: "균형이 잘 잡힌 부대를 만들기 위해서는 임무 초반에 막사를 지어야 합니다. 보병은 장군님의 게임 계획을 성공시키거나 망칠 수 있으니 이 점 잊지 마시기 바랍니다."
+ZH: "為了組織良好的部隊，您必須在任務初期建造兵營，步兵對於您的作戰計劃有關鍵性的作用，不要忘了步兵"
+BP: "Para criar uma força bem equilibrada, você precisa construir um Quartel no início da missão. A infantaria pode realizar ou acabar com o seu planejamento estratégico do jogo, por isso, é melhor não se esquecer deles"
+PL: "W celu stworzenia zrównoważonej armii musisz jak najszybciej wybudować koszary. Piechota może zadecydować o powodzeniu twego planu bojowego, więc lepiej o niej nie zapominaj"
+END
+
+ACADEMY:BuildWarFactorySooner
+US: "While infantry and airpower can be great assets nothing quite beats a good tank. Be sure to build a War Factory or Arms Dealer earlier in the mission"
+DE: "Cyborgs und Flugzeuge sind schön und gut, aber es geht nichts über einen ordentlichen Panzer. Baue daher frühzeitig eine Waffenfabrik oder einen Waffenhändler."
+FR: "Même si l'infanterie et l'aviation sont des atouts non négligeables, rien ne vaut un bon char. Pensez à construire un Complexe militaro-industriel ou un Trafiquant d'armes en début de mission."
+ES: "Aunque la infantería y la fuerza aérea sean buenos activos, nada como un buen tanque. Construye una fábrica de guerra o una tienda de armas al empezar la misión"
+IT: "Anche se fanteria e forze aeree sono preziosi, non c'è nulla che batta un buon carro armato. Crea una Fabbrica militare o un Trafficante d'armi fin dalle prime fasi della missione."
+KO: "보병과 공군력은 훌륭한 자산이 될 수 있지만, 가장 중요한 병력은 탱크라고 할 수 있습니다. 임무 초반에 군수 공장과 무기상을 만드십시오."
+ZH: "雖然步兵與空中武力是良好的作戰單位，但還是比不上優秀的坦克。記得及早建造戰車工廠或軍火商"
+BP: "Enquanto a infantaria e o poderio aéreo podem ser grandes patrimônios, nada é quase tão destrutivo como um bom tanque. Certifique-se de construir uma Fábrica de Armamentos ou Um Negociante de Armas logo no começo da missão"
+PL: "O ile piechota i lotnictwo są mocnymi atutami, nic nie grzmoci lepiej niż dobry czołg. Nie zapomnij o jak najszybszym wybudowaniu fabryki wojennej lub siedziby handlarza bronią"
+END
+
+ACADEMY:BuildTechStructureSooner
+US: "For the advanced weaponry there is no replacement for a Strategy Center, Propaganda Center or Palace. Don't forget to build one a bit earlier in missions to ensure success"
+DE: "Moderne Waffen werden in Strategiezentren, Propagandazentren und Palästen entwickelt. Errichte also frühzeitig eines der genannten Gebäude, um deine Siegchancen zu erhöhen."
+FR: "Pour obtenir de l'armement de pointe, rien ne vaut un Commandement tactique, un Centre de propagande ou un Palais. N'oubliez pas d'en construire un en début de mission pour garantir votre succès."
+ES: "Para el armamento avanzado no hay nada mejor que un centro de estrategia, de propaganda o un palacio. No olvides construir uno al comienzo de las misiones para asegurar el éxito"
+IT: "Per chi usa armi avanzate, Centro strategico, Diffusore e Palazzo sono indispensabili. Ricordati sempre di realizzarli nelle prime fasi della missione, se vuoi puntare alla vittoria."
+KO: "성능이 향상된 무기를 위해서는 전략센터 와 프로퍼갠더 센터와 궁전이 필요합니다. 확실한 성공을 위해서는 임무 초반에 이들을 지어야 하는 것을 잊지 마십시오."
+ZH: "為了建造先進武器，策略中心、思想強化中心或皇宮是不可或缺的。不要忘了及早建造這些建築，以確保通往成功之路暢通無阻"
+BP: "Para o armamento avançado, não existe substituição para uma Central de Estratégia, um Centro de Propaganda ou Palácio. Não se esqueça de construir um o mais cedo possível nas missões para garantir o seu sucesso"
+PL: "Najnowocześniejsze uzbrojenie wymaga zbudowania ośrodka badań strategicznych, ośrodka propagandowego lub pałacu. Nie zapomnij o tym w odpowiednio wczesnej fazie misji"
+END
+
+ACADEMY:NoIncome
+US: "General, it's vital to your success that your income flow continues throughout the mission. Too many gaps lead to losing your edge. Make sure you're keeping the supplies rolling in consistently"
+DE: "Ein gesichertes Einkommen ist das A und O. Regelmäßige finanzielle Engpässe können dich den Sieg kosten. Sorge also dafür, dass du immer genug Rohstoffe hast."
+FR: "Général, pour le succès de votre mission, il est vital que rien ne vienne interrompre votre flux de revenus. Votre ennemi prendra le dessus si les interruptions sont trop fréquentes. Assurez-vous que rien n'entrave les transferts de ravitaillement."
+ES: "General, es vital para tu éxito que tengas un flujo de ingresos durante la misión. Demasiados intervalos te harán perder la ventaja. Haz que entren suministros constantemente"
+IT: "È fondamentale per il tuo successo che il denaro non manchi mai durante la missione: dei momenti di stanca potrebbero metterti in difficoltà. Mantieni sempre costante il flusso dei rifornimenti."
+KO: "장군님, 승리를 위해서는 임무 중에 자금이 계속 유입되는 것이 매우 중요합니다. 자금 유입이 중간에 자주 끊기면 우위를 잃게 될 수 있습니다. 서플라이를 지속적으로 수집하는 것을 잊지 마십시오."
+ZH: "將軍，在任務中確保資金源源不絕的流入是很重要的，太多的失望將讓您喪失先機，請記得檢查資金的狀況，確保資金源源不絕的流入"
+BP: "General, é vital para o seu sucesso que o seu rendimento flua continuamente através da missão. Muitas lacunas podem causar a perda de sua vantagem. Certifique-se de estar gerando suprimentos constantemente"
+PL: "Generale, stały dopływ gotówki przez całą misję ma kluczowe znaczenie dla zwycięstwa. Zbyt dużo przerw doprowadzi do pozostania w tyle za przeciwnikami. Pamiętaj o zorganizowaniu źródeł stałego dochodu"
+END
+
+ACADEMY:ClearMines
+US: "Demo Traps and mines can really be the start of a bad day. These sneaky tactics can be combated by using Dozers or Workers to clear these dangerous areas out"
+DE: "Sprengfallen sind der Albtraum deiner Gegner. Lediglich Bulldozer und Arbeitsbots können diese lästigen Minen unschädlich machen."
+FR: "Rien de pire pour commencer la journée que de tomber sur un Piège explosif ou une mine artisanale. Le mieux pour lutter contre ces tactiques sournoises est d'utiliser des Engins de chantier et des Ouvriers afin de sécuriser les zones dangereuses."
+ES: "Las trampas de demolición y las minas pueden ser el comienzo de un mal día. Estas tácticas furtivas pueden combatirse usando excavadoras o trabajadores para limpiar las zonas peligrosas"
+IT: "Le Trappole demolitrici e le mine possono rovinare anche un piano perfetto: per controbattere a queste mosse sporche devi usare Bulldozer e Operai per bonificare le aree pericolose."
+KO: "폭약 함정과 지뢰는 모든 불행의 작은 시작일 수 있습니다. 이런 비밀스러운 전술은 건설 불도저와 일꾼들을 사용하여 이들을 제거하게 함으로써 대응할 수 있습니다."
+ZH: "炸藥陷阱與地雷會讓敵人有著難忘的一天。使用推土機或工人可以清除危險區域來對抗這種偷襲戰術"
+BP: "As armadilhas de demolição e as minas podem ser realmente o início de um péssimo dia. Essas táticas sorrateiras podem ser combatidas usando Construtores ou Trabalhadores para limpar as áreas perigosas"
+PL: "Pułapki wybuchowe i miny mogą człowiekowi zepsuć dzień. Najlepszym sposobem na tę podstępną taktykę jest wykorzystanie buldożerów lub robotników do oczyszczania niebezpiecznych obszarów"
+END
+
+ACADEMY:UnmannedVehicles
+US: "General, some units can snipe or remove enemy drivers of a vehicles. When this occurs the vehicles become neutral and can be \"borrowed\" from the enemy. Feel free to go for a ride at your enemy's expense"
+DE: "Einige Einheiten können die Fahrer feindlicher Fahrzeuge gezielt ausschalten. Anschließend können Sie das Fahrzeug mit Ihren Cyborgs entführen. Machen Sie eine Spritztour auf Kosten des Gegners!"
+FR: "Général, certaines unités peuvent supprimer à distance le pilote d'un véhicule ennemi. Lorsque cela se produit, le véhicule devient neutre et peut être \"emprunté\" à l'ennemi. N'hésitez donc pas à rouler aux frais de votre ennemi !"
+ES: "Algunas unidades pueden disparar o eliminar a los conductores enemigos de un vehículo. Cuando eso ocurre, los vehículos se hacen neutrales y pueden tomarse \"prestados\". Eres libre de darte una vueltecita a costa del enemigo"
+IT: "Alcune unità possono colpire o rimuovere le unità all'interno dei veicoli nemici. Quando questo avviene, il veicolo diviene neutrale e può essere \"preso in prestito\": vai a fare un bel giro a spese del tuo avversario."
+KO: "장군님, 어떤 유닛들은 적 차량의 운전자를 저격하거나 제거할 수 있습니다. 이렇게 되면 적의 차량이 무력화되거나 아군의 것이 될 수 있습니다. 무료 시승을 한번 즐겨보십시오."
+ZH: "將軍，某些單位可以進行狙擊、或是殺害敵人載具的駕駛員。此時這些載具將會失效，並且可以從軍隊中\"借用\" 。在您的軍隊作戰時，可以任意駕駛這些載具。"
+BP: "General, algumas unidades podem disparar de tocaia ou remover os motoristas dos veículos. Quando isso ocorre, os veículos se tornam neutros e podem ser tomados \"emprestados\" do inimigo. Sinta-se à vontade para um passeio por conta do inimigo"
+PL: "Generale, niektóre jednostki mogą usuwać kierowców nieprzyjacielskich pojazdów na przykład za pomocą karabinu snajperskiego. Gdy kierowca zostanie zlikwidowany, pojazd stanie się neutralny i można go 'pożyczyć'. Korzystaj z darmowej przejażdżki na koszt wroga"
+END
+
+ACADEMY:DisguisedUnits
+US: "Some units can disguise themselves as other units. There is nothing quite as satisfying as rolling a GLA Bomb Truck into an enemy base undetected and causing lots of havoc. Make sure to use this key tactic to further your battle plan"
+DE: "Einige Einheiten können sich tarnen. Es gibt nichts Schöneres, mit einem Bomben-LKW der IBG unerkannt in einen feindlichen Stützpunkt zu fahren. Vergiss nicht, diese Taktik regelmäßig einzusetzen!"
+FR: "Certaines unités peuvent prendre l'apparence d'autres. Il n'y a rien de plus jouissif que d'entrer incognito dans une base ennemie avec un Camion piégé de la GLA pour causer des ravages à l'intérieur. Pensez à intégrer cette tactique redoutable dans votre plan de bataille."
+ES: "Algunas unidades pueden disfrazarse como si fueran otras. No hay nada más satisfactorio que meter un camión bomba del GLA en una base enemiga sin que lo detecten para que provoque el caos. Usa esta táctica clave para progresar en tu plan de batalla"
+IT: "Ci sono unità in grado di mimetizzarsi assumendo le sembianze di altre unità: niente di più bello che inviare un Camion-bomba dell'ELG in una base nemica, per provocare morte e distruzione. Utilizza questa tattica fondamentale per sviluppare il tuo piano di battaglia."
+KO: "어떤 유닛들은 다른 유닛들로 변장이 가능합니다. 적 기지로 발견되지 않고 침투하여 대혼란을 야기시키는 GLA 폭탄 트럭만큼 만족스러운 것은 없습니다. 보다 나은 전쟁 계획을 위해 이 핵심 전술을 반드시 사용하십시오."
+ZH: "某些單位可以偽裝成其他單位的外貌進行滲透，全球解放軍的炸彈卡車便是絕佳的例子，它可以在不被察覺的情況下滲透進入敵人基地，以車上的炸彈造成敵人嚴重的混亂。記得要在未來的作戰中善用這項戰術"
+BP: "Algumas unidades podem fazer-se passar por outras unidades. Não existe nada tão satisfatório quanto dirigir um Caminhão Bomba do E.L.G. para dentro de uma base inimiga sem ser detectado e causar uma grande destruição. Certifique-se de usar essa tática importante para favorecer o seu plano de batalha"
+PL: "Niektóre jednostki mogą udawać inne jednostki. Nic nie daje większej satysfakcji, jak szybciutkie wprowadzenie ciężarówki z bombą do bazy wroga i spowodowanie masy zamętu. Nie zapominaj o tej znakomitej taktyce, gdy będziesz układać plan bitwy"
+END
+
+ACADEMY:StealthUpgrade
+US: "Some structures can be upgraded to camouflage, like the GLA Tunnel Network or Stinger Sites. These will be invisible to the enemy until its too late. Surprise!"
+DE: "Einige Gebäude, wie Tunnelsysteme und Stinger-Stellungen, können getarnt werden. Der Feind sieht sie dann erst, wenn es zu spät ist. Überraschung!"
+FR: "Il est possible d'améliorer certains bâtiments pour les camoufler, comme le Réseau de tunnels de la GLA ou les Sites Stingers. L'ennemi les apercevra uniquement lorsqu'il sera trop tard. Dommage !"
+ES: "Algunos edificios pueden mejorarse a camuflaje, como la red de túneles del GLA o los emplazamientos Stinger. El enemigo no podrá verlos hasta que sea demasiado tarde. ¡Sorpresa!"
+IT: "Ci sono strutture che possono essere mimetizzate, come la Rete di tunnel e la Postazione Stinger dell'ELG. In questo modo, il nemico le vedrà solo quando sarà troppo tardi: sorpresa!"
+KO: "어떤 구조물들은 GLA 터널 네트워크나 스팅어 사이트처럼 위장이 가능하도록 업그레이드될 수 있습니다. 적들이 알아차렸을 때는 이미 늦었습니다. 쾅!"
+ZH: "某些建築，如：全球解放軍的地道網路系統或針刺飛彈陣地，可以升級擁有偽裝。敵軍將不會發現他們。"
+BP: "Algumas estruturas podem ser atualizadas para ser camufladas, como a Rede de Túneis do E.L.G. ou as Baterias de Stingers. Elas serão invisíveis para as unidades inimigas até que seja tarde demais. Surpresa!"
+PL: "Niektóre budynki można zamaskować - na przykład sieci tuneli i wyrzutnie stingerów. Będą one niewidoczne dla wroga do chwili, gdy będzie już za późno. Niespodzianka!"
+END
+
+ACADEMY:Firestorm
+US: "China has the unique ability to create a Firestorm when multiple MiGs or Inferno Cannons target a single enemy or area. Make sure to coordinate your attacks for maximum effect"
+DE: "Feuern mehrere MiGs oder Infernalgeschütze auf ein Ziel, kann der Asiatische Pakt einen Feuersturm entfesseln. Je besser du deine Angriffe koordinierst, desto effektiver bist du!"
+FR: "La Chine dispose d'une aptitude unique. Elle peut faire tomber une Pluie ardente sur une unité ou une zone ennemie en la visant avec plusieurs Migs ou plusieurs Napacanons. Pensez à coordonner votre attaque pour un effet maximal."
+ES: "China tiene la capacidad única de crear una tormenta de fuego cuando varios MiG o cañones Inferno apuntan a un mismo enemigo o punto. Asegúrate de coordinar tus ataques para un efecto máximo"
+IT: "La Cina ha la capacità di scatenare una tempesta di fuoco, utilizzando più MIG o più Cannoni Inferno contro un singolo bersaglio. Coordina i tuoi attacchi per ottenere l'effetto più devastante."
+KO: "중국은 몇 대의 미그기나 인퍼노 캐논이 하나의 적이나 한 지역을 조준할 경우, 화염 폭풍을 만들어 낼 수 있는 독특한 능력을 가지고 있습니다. 최대 효과를 위해 반드시 공격에 함께 이용하십시오."
+ZH: "中國擁有以多架米格機或地獄火加農砲攻擊同一地點時，創造火焰風暴的特殊能力，記住協調您的部隊攻擊同一地點以發揮最大的破壞力"
+BP: "A China tem uma habilidade especial para criar uma Tempestade de Fogo, quando múltiplos MiGs ou Canhões Inferno atingem um único inimigo ou área. Certifique-se de coordenar os seus ataques para obter o máximo de efeito"
+PL: "Chiny dysponują unikalną możliwością tworzenia burzy ognia, gdy kilka MiG-ów lub dział piekielnych ostrzeliwuje ten sam cel. Dbaj o koordynowanie takich ataków, by osiągnąć maksymalny efekt"
+END

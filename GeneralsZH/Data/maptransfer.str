@@ -1,0 +1,71 @@
+MapTransfer:CurrentFile
+US: "Current file: %ls"
+DE: "Aktuelle Datei: %ls"
+FR: "Fichier en cours : %ls"
+ES: "Archivo actual: %ls"
+IT: "File attuale: %ls"
+KO: "해당 파일: %ls"
+ZH: "現有檔案： %ls"
+BP: "Arquivo atual: %ls"
+PL: "Bieżący plik: %ls"
+END
+
+MapTransfer:Timeout
+US: "Abort in %d:%2.2d"
+DE: "Abbruch in %d:%2.2d"
+FR: "Annulation dans %d:%2.2d"
+ES: "Abortar en %d:%2.2d"
+IT: "Annullamento in %d:%2.2d"
+KO: "시작 시간 %d:%2.2d"
+ZH: "約需 %d:%2.2d"
+BP: "Abortar em %d:%2.2d"
+PL: "Przerwane w %d:%2.2d"
+END
+
+MapTransfer:Preparing
+US: "Preparing..."
+DE: "Karte wird vorbereitet ..."
+FR: "Préparation…"
+ES: "Preparando..."
+IT: "Preparazione…"
+KO: "준비 중…"
+ZH: "準備中…"
+BP: "Preparando..."
+PL: "Przygotowanie…"
+END
+
+MapTransfer:Sending
+US: "Sending..."
+DE: "Sende ..."
+FR: "Envoi…"
+ES: "Enviando..."
+IT: "Avvio…"
+KO: "전송 중…"
+ZH: "傳送中…"
+BP: "Enviando..."
+PL: "Wysyłanie…"
+END
+
+MapTransfer:Recieving
+US: "Receiving..."
+DE: "Empfange ..."
+FR: "Réception…"
+ES: "Recibiendo..."
+IT: "Ricezione…"
+KO: "수신 중…"
+ZH: "接收中…"
+BP: "Recebendo..."
+PL: "Odbieranie…"
+END
+
+MapTransfer:Done
+US: "Done"
+DE: "Fertig"
+FR: "OK"
+ES: "Hecho"
+IT: "Fatto"
+KO: "완료"
+ZH: "完成"
+BP: "Concluído"
+PL: "Wykonano"
+END

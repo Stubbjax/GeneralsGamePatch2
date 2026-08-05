@@ -1,0 +1,827 @@
+SCRIPT:TestString
+US: "This is like a test string, dude"
+DE: "SCRIPT:TestString"
+FR: "SCRIPT:TestString"
+ES: "This is like a test string, dude"
+IT: "This is like a test string, dude."
+KO: "This is like a test string, dude."
+ZH: "\nThis is like a test string, dude."
+BP: "This is like a test string, dude."
+PL: "This is like a test string, dude."
+END
+
+SCRIPT:LongTestString
+US: "This is like a really long test string, dude. It makes sure that the word wrap and the spacing works"
+DE: "SCRIPT:LongTestString"
+FR: "SCRIPT:LongTestString"
+ES: "This is like a really long test string, dude. It makes sure that the word wrap and the spacing works"
+IT: "This is like a really long test string, dude. It makes sure that the word wrap and the spacing works."
+KO: "This is like a really long test string, dude. It makes sure that the word wrap and the spacing works."
+ZH: "\nThis is like a really long test string, dude. It makes sure that the word wrap and the spacing works."
+BP: "This is like a really long test string, dude. It makes sure that the word wrap and the spacing works."
+PL: "This is like a really long test string, dude. It makes sure that the word wrap and the spacing works."
+END
+
+SCRIPT:CHI02AudioHolder01
+US: "<Red Guard speaking>\n'General, we're all that's left of the assault force! We need to build a Command Center and get the radar up to receive new orders'"
+DE: "SCRIPT:CHI02AudioHolder01"
+FR: "SCRIPT:CHI02AudioHolder01"
+ES: "<Red Guard speaking>\n'General, we're all that's left of the assault force! We need to build a Command Center and get the radar up to receive new orders.'"
+IT: "<Red Guard speaking>\n'General, we're all that's left of the assault force! We need to build a Command Center and get the radar up to receive new orders.'"
+KO: "<Red Guard speaking>\n'General, we're all that's left of the assault force! We need to build a Command Center and get the radar up to receive new orders.'"
+ZH: "<紅衛兵說>\n'將軍，這是我們剩下所有的攻擊武力！我們需要建造指揮中心來升起雷達，來接收新的命令'"
+BP: "<Red Guard speaking>\n'General, we're all that's left of the assault force! We need to build a Command Center and get the radar up to receive new orders.'"
+PL: "<Red Guard speaking>\n'General, we're all that's left of the assault force! We need to build a Command Center and get the radar up to receive new orders.'"
+END
+
+SCRIPT:CHI02AudioHolder02
+US: "<Red Guard speaking>\n'General, if we don't get our radar up we can't receive intelligence on the enemy's position. We need that radar'"
+DE: "SCRIPT:CHI02AudioHolder02"
+FR: "SCRIPT:CHI02AudioHolder02"
+ES: "<Red Guard speaking>\n'General, if we don't get our radar up we can't receive intelligence on the enemy's position. We need that radar.'"
+IT: "<Red Guard speaking>\n'General, if we don't get our radar up we can't receive intelligence on the enemy's position. We need that radar.'"
+KO: "<Red Guard speaking>\n'General, if we don't get our radar up we can't receive intelligence on the enemy's position. We need that radar.'"
+ZH: "<紅衛兵說>\n'將軍，如果我們不升起雷達。我們就無法收到關於敵人位置的情報，我們需要建造雷達'"
+BP: "<Red Guard speaking>\n'General, if we don't get our radar up we can't receive intelligence on the enemy's position. We need that radar.'"
+PL: "<Red Guard speaking>\n'General, if we don't get our radar up we can't receive intelligence on the enemy's position. We need that radar.'"
+END
+
+SCRIPT:CHI02AudioHolder03
+US: "<'EVA' speaking>\n'General, you're alive!?! We thought we lost you when the bridge went down. Well, you're not out of danger yet, so let's get started'"
+DE: "SCRIPT:CHI02AudioHolder03"
+FR: "SCRIPT:CHI02AudioHolder03"
+ES: "<'EVA' speaking>\n'General, you're alive!?! We thought we lost you when the bridge went down. Well, you're not out of danger yet, so let's get started.'"
+IT: "<'EVA' speaking>\n'General, you're alive!?! We thought we lost you when the bridge went down. Well, you're not out of danger yet, so let's get started.'"
+KO: "<'EVA' speaking>\n'General, you're alive!?! We thought we lost you when the bridge went down. Well, you're not out of danger yet, so let's get started.'"
+ZH: "<'EVA'說>\n'將軍，您還活著嗎！？我以為在橋蹋了之後，我們就失去你了。好的，您脫離險境了，讓我們開始吧'"
+BP: "<'EVA' speaking>\n'General, you're alive!?! We thought we lost you when the bridge went down. Well, you're not out of danger yet, so let's get started.'"
+PL: "<'EVA' speaking>\n'General, you're alive!?! We thought we lost you when the bridge went down. Well, you're not out of danger yet, so let's get started.'"
+END
+
+SCRIPT:CHI02AudioHolder04
+US: "<'EVA' speaking>\n'First, you're going to need to finish your base. The barracks, reactor, and supply center are all essential to your survival, so finish constructing them immediately. I'll contact you again once your base is complete'"
+DE: "SCRIPT:CHI02AudioHolder04"
+FR: "SCRIPT:CHI02AudioHolder04"
+ES: "<'EVA' speaking>\n'First, you're going to need to finish your base. The barracks, reactor, and supply center are all essential to your survival, so finish constructing them immediately. I'll contact you again once your base is complete.'"
+IT: "<'EVA' speaking>\n'First, you're going to need to finish your base. The barracks, reactor, and supply center are all essential to your survival, so finish constructing them immediately. I'll contact you again once your base is complete.'"
+KO: "<'EVA' speaking>\n'First, you're going to need to finish your base. The barracks, reactor, and supply center are all essential to your survival, so finish constructing them immediately. I'll contact you again once your base is complete.'"
+ZH: "<'EVA'說>\n'第一，您需要完成您的基地。兵營、反應爐和補給中心，所有您生存所需的建築。所以馬上完成這些建築。我會在您完成基地後在跟您聯絡'"
+BP: "<'EVA' speaking>\n'First, you're going to need to finish your base. The barracks, reactor, and supply center are all essential to your survival, so finish constructing them immediately. I'll contact you again once your base is complete.'"
+PL: "<'EVA' speaking>\n'First, you're going to need to finish your base. The barracks, reactor, and supply center are all essential to your survival, so finish constructing them immediately. I'll contact you again once your base is complete.'"
+END
+
+SCRIPT:CHI02AudioHolder05
+US: "<'EVA' speaking>\n'Excellent, your base is complete, except for a War Factory. We need to get you one now. There should be a surplus base--with a War Factory--here'"
+DE: "SCRIPT:CHI02AudioHolder05"
+FR: "SCRIPT:CHI02AudioHolder05"
+ES: "<'EVA' speaking>\n'Excellent, your base is completeexcept for a War Factory. We need to get you one now. There should be a surplus base--with a War Factory--here'"
+IT: "<'EVA' speaking>\n'Excellent, your base is completeexcept for a War Factory. We need to get you one now. There should be a surplus base--with a War Factory--here'"
+KO: "<'EVA' speaking>\n'Excellent, your base is complete…except for a War Factory. We need to get you one now. There should be a surplus base--with a War Factory--here…'"
+ZH: "<'EVA'說>\n'太好了，您的基地已經完成，除了戰車工廠還沒建造。我們需要您現在建造一座。這裡應該要有個有戰車工廠的超級基地'"
+BP: "<'EVA' speaking>\n'Excellent, your base is completeexcept for a War Factory. We need to get you one now. There should be a surplus base--with a War Factory--here'"
+PL: "<'EVA' speaking>\n'Excellent, your base is completeexcept for a War Factory. We need to get you one now. There should be a surplus base--with a War Factory--here'"
+END
+
+SCRIPT:CHI02AudioHolder06
+US: "<'EVA' speaking>\n'I don't know what condition the base is in, but it should allow you to build armored units to help your fight. Get there as soon as possible, General.'"
+DE: "SCRIPT:CHI02AudioHolder06"
+FR: "SCRIPT:CHI02AudioHolder06"
+ES: "<'EVA' speaking>\n'I don't know what condition the base is in, but it should allow you to build armored units to help your fight. Get there as soon as possible, General.'"
+IT: "<'EVA' speaking>\n'I don't know what condition the base is in, but it should allow you to build armored units to help your fight. Get there as soon as possible, General.'"
+KO: "<'EVA' speaking>\n'I don't know what condition the base is in, but it should allow you to build armored units to help your fight. Get there as soon as possible, General.'"
+ZH: "<'EVA' speaking>\n'I don't know what condition the base is in, but it should allow you to build armored units to help your fight. Get there as soon as possible, General.'"
+BP: "<'EVA' speaking>\n'I don't know what condition the base is in, but it should allow you to build armored units to help your fight. Get there as soon as possible, General.'"
+PL: "<'EVA' speaking>\n'I don't know what condition the base is in, but it should allow you to build armored units to help your fight. Get there as soon as possible, General.'"
+END
+
+SCRIPT:CHI02AudioHolder07
+US: "<'EVA' speaking>\n'Now we know the GLA's reason for coming to Hong Kong: They're targeting key buildings around the city. Our main objective is to destroy all of the GLA's forces, but if we can also keep them from destroying those buildings, our leaders would be most grateful.'"
+DE: "SCRIPT:CHI02AudioHolder07"
+FR: "SCRIPT:CHI02AudioHolder07"
+ES: "<'EVA' speaking>\n'Now we know the GLA's reason for coming to Hong Kong: They're targeting key buildings around the city. Our main objective is to destroy all of the GLA's forces, but if we can also keep them from destroying those buildings, our leaders would be most grateful.'"
+IT: "<'EVA' speaking>\n'Now we know the GLA's reason for coming to Hong Kong: They're targeting key buildings around the city. Our main objective is to destroy all of the GLA's forces, but if we can also keep them from destroying those buildings, our leaders would be most grateful.'"
+KO: "<'EVA' speaking>\n'Now we know the GLA's reason for coming to Hong Kong: They're targeting key buildings around the city. Our main objective is to destroy all of the GLA's forces, but if we can also keep them from destroying those buildings, our leaders"
+ZH: "<'EVA' speaking>\n'Now we know the GLA's reason for coming to Hong Kong: They're targeting key buildings around the city. Our main objective is to destroy all of the GLA's forces, but if we can also keep them from destroying those buildings, our leaders would be most grateful.'"
+BP: "<'EVA' speaking>\n'Now we know the GLA's reason for coming to Hong Kong: They're targeting key buildings around the city. Our main objective is to destroy all of the GLA's forces, but if we can also keep them from destroying those buildings, our leaders would be most grateful.'"
+PL: "<'EVA' speaking>\n'Now we know the GLA's reason for coming to Hong Kong: They're targeting key buildings around the city. Our main objective is to destroy all of the GLA's forces, but if we can also keep them from destroying those buildings, our leaders would be most grateful.'"
+END
+
+SCRIPT:CHI02AudioHolder08
+US: "<'EVA' speaking>\n'If you can keep your radar operating, I can track the Terrorists for you and give you their possible targets.'"
+DE: "SCRIPT:CHI02AudioHolder08"
+FR: "SCRIPT:CHI02AudioHolder08"
+ES: "<'EVA' speaking>\n'If you can keep your radar operating, I can track the Terrorists for you and give you their possible targets.'"
+IT: "<'EVA' speaking>\n'If you can keep your radar operating, I can track the Terrorists for you and give you their possible targets.'"
+KO: "<'EVA' speaking>\n'If you can keep your radar operating, I can track the Terrorists for you and give you their possible targets.'"
+ZH: "<'EVA' speaking>\n'If you can keep your radar operating, I can track the Terrorists for you and give you their possible targets.'"
+BP: "<'EVA' speaking>\n'If you can keep your radar operating, I can track the Terrorists for you and give you their possible targets.'"
+PL: "<'EVA' speaking>\n'If you can keep your radar operating, I can track the Terrorists for you and give you their possible targets.'"
+END
+
+SCRIPT:CHI02AudioHolder09
+US: "<'EVA' speaking>\n'General, a Terrorist is leaving the Convention Center, and he's strapped with enough explosives to bring down a building! I'll mark the Terrorist in red on your radar. I'll mark his possible targets in yellow. Stop him before he reaches one of those targets!'"
+DE: "SCRIPT:CHI02AudioHolder09"
+FR: "SCRIPT:CHI02AudioHolder09"
+ES: "<'EVA' speaking>\n'General, a Terrorist is leaving the Convention Center, and he's strapped with enough explosives to bring down a building! I'll mark the Terrorist in red on your radar. I'll mark his possible targets in yellow. Stop him before he reaches one of those targets!'"
+IT: "<'EVA' speaking>\n'General, a Terrorist is leaving the Convention Center, and he's strapped with enough explosives to bring down a building! I'll mark the Terrorist in red on your radar. I'll mark his possible targets in yellow. Stop him before he reaches one of those targets!'"
+KO: "<'EVA' speaking>\n'General, a Terrorist is leaving the Convention Center, and he's strapped with enough explosives to bring down a building! I'll mark the Terrorist in red on your radar. I'll mark his possible targets in yellow. Stop him before he reach"
+ZH: "<'EVA' speaking>\n'General, a Terrorist is leaving the Convention Center, and he's strapped with enough explosives to bring down a building! I'll mark the Terrorist in red on your radar. I'll mark his possible targets in yellow. Stop him before he reaches one of those targets!'"
+BP: "<'EVA' speaking>\n'General, a Terrorist is leaving the Convention Center, and he's strapped with enough explosives to bring down a building! I'll mark the Terrorist in red on your radar. I'll mark his possible targets in yellow. Stop him before he reaches one of those targets!'"
+PL: "<'EVA' speaking>\n'General, a Terrorist is leaving the Convention Center, and he's strapped with enough explosives to bring down a building! I'll mark the Terrorist in red on your radar. I'll mark his possible targets in yellow. Stop him before he reaches one of those targets!'"
+END
+
+SCRIPT:CHI02AudioHolder10
+US: "<'EVA' speaking>\n'Another Terrorist has left the Convention Center! I'll mark his location in red. His possible targets are marked in yellow. Stop him, General.'"
+DE: "SCRIPT:CHI02AudioHolder10"
+FR: "SCRIPT:CHI02AudioHolder10"
+ES: "<'EVA' speaking>\n'Another Terrorist has left the Convention Center! I'll mark his location in red. His possible targets are marked in yellow. Stop him, General.'"
+IT: "<'EVA' speaking>\n'Another Terrorist has left the Convention Center! I'll mark his location in red. His possible targets are marked in yellow. Stop him, General.'"
+KO: "<'EVA' speaking>\n'Another Terrorist has left the Convention Center! I'll mark his location in red. His possible targets are marked in yellow. Stop him, General.'"
+ZH: "<'EVA' speaking>\n'Another Terrorist has left the Convention Center! I'll mark his location in red. His possible targets are marked in yellow. Stop him, General.'"
+BP: "<'EVA' speaking>\n'Another Terrorist has left the Convention Center! I'll mark his location in red. His possible targets are marked in yellow. Stop him, General.'"
+PL: "<'EVA' speaking>\n'Another Terrorist has left the Convention Center! I'll mark his location in red. His possible targets are marked in yellow. Stop him, General.'"
+END
+
+SCRIPT:CHI02AudioHolder11
+US: "<'EVA' speaking>\n'General, this building is a Terrorist target--we must protect it!'"
+DE: "SCRIPT:CHI02AudioHolder11"
+FR: "SCRIPT:CHI02AudioHolder11"
+ES: "<'EVA' speaking>\n'General, this building is a Terrorist target--we must protect it!'"
+IT: "<'EVA' speaking>\n'General, this building is a Terrorist target--we must protect it!'"
+KO: "<'EVA' speaking>\n'General, this building is a Terrorist target--we must protect it!'"
+ZH: "<'EVA' speaking>\n'General, this building is a Terrorist target--we must protect it!'"
+BP: "<'EVA' speaking>\n'General, this building is a Terrorist target--we must protect it!'"
+PL: "<'EVA' speaking>\n'General, this building is a Terrorist target--we must protect it!'"
+END
+
+SCRIPT:CHI02AudioHolder12
+US: "<'EVA' speaking>\n'General, the Terrorists have taken over the Convention Center! You're going to have to destroy the Convention Center and the attached parking structures to stop the Terrorist threat.'"
+DE: "SCRIPT:CHI02AudioHolder12"
+FR: "SCRIPT:CHI02AudioHolder12"
+ES: "<'EVA' speaking>\n'General, the Terrorists have taken over the Convention Center! You're going to have to destroy the Convention Center and the attached parking structures to stop the Terrorist threat.'"
+IT: "<'EVA' speaking>\n'General, the Terrorists have taken over the Convention Center! You're going to have to destroy the Convention Center and the attached parking structures to stop the Terrorist threat.'"
+KO: "<'EVA' speaking>\n'General, the Terrorists have taken over the Convention Center! You're going to have to destroy the Convention Center and the attached parking structures to stop the Terrorist threat.'"
+ZH: "<'EVA' speaking>\n'General, the Terrorists have taken over the Convention Center! You're going to have to destroy the Convention Center and the attached parking structures to stop the Terrorist threat.'"
+BP: "<'EVA' speaking>\n'General, the Terrorists have taken over the Convention Center! You're going to have to destroy the Convention Center and the attached parking structures to stop the Terrorist threat.'"
+PL: "<'EVA' speaking>\n'General, the Terrorists have taken over the Convention Center! You're going to have to destroy the Convention Center and the attached parking structures to stop the Terrorist threat.'"
+END
+
+SCRIPT:CHI02AudioHolder13
+US: "<'EVA' speaking>\n'Excellent, you've reached the surplus base. Hmm, it's not much to look at, but it will allow you to build tanks, and more War Factories, if you need.'"
+DE: "SCRIPT:CHI02AudioHolder13"
+FR: "SCRIPT:CHI02AudioHolder13"
+ES: "<'EVA' speaking>\n'Excellent, you've reached the surplus base. Hmmit's not much to look at, but it will allow you to build tanksand more War Factories, if you need.'"
+IT: "<'EVA' speaking>\n'Excellent, you've reached the surplus base. Hmmit's not much to look at, but it will allow you to build tanksand more War Factories, if you need.'"
+KO: "<'EVA' speaking>\n'Excellent, you've reached the surplus base. Hmm…it's not much to look at, but it will allow you to build tanks…and more War Factories, if you need.'"
+ZH: "<'EVA'說>\n'太好了，您已經有個超級基地了。恩，他看起來不怎樣。但卻能讓您建造坦克部隊和更多的戰車工廠，如果您需要的話。'"
+BP: "<'EVA' speaking>\n'Excellent, you've reached the surplus base. Hmmit's not much to look at, but it will allow you to build tanksand more War Factories, if you need.'"
+PL: "<'EVA' speaking>\n'Excellent, you've reached the surplus base. Hmmit's not much to look at, but it will allow you to build tanksand more War Factories, if you need.'"
+END
+
+SCRIPT:CHI02AudioHolder14
+US: "<'EVA' speaking>\n'The Terrorist threat is finished. Good work, General.'"
+DE: "SCRIPT:CHI02AudioHolder14"
+FR: "SCRIPT:CHI02AudioHolder14"
+ES: "<'EVA' speaking>\n'The Terroist threat is finished. Good work, General.'"
+IT: "<'EVA' speaking>\n'The Terroist threat is finished. Good work, General.'"
+KO: "<'EVA' speaking>\n'The Terroist threat is finished. Good work, General.'"
+ZH: "<'EVA' speaking>\n'The Terroist threat is finished. Good work, General.'"
+BP: "<'EVA' speaking>\n'The Terroist threat is finished. Good work, General.'"
+PL: "<'EVA' speaking>\n'The Terroist threat is finished. Good work, General.'"
+END
+
+SCRIPT:CHI02AudioHolder15
+US: "<'EVA' speaking>\n'General, I've detected GLA armored units on the move. They didn't come from the Convention Center, so the GLA must have another base somewhere in Hong Kong. Find that base and destroy it!'"
+DE: "SCRIPT:CHI02AudioHolder15"
+FR: "SCRIPT:CHI02AudioHolder15"
+ES: "<'EVA' speaking>\n'General, I've detected GLA armored units on the move. They didn't come from the Convention Center, so the GLA must have another base somewhere in Hong Kong. Find that base and destroy it!'"
+IT: "<'EVA' speaking>\n'General, I've detected GLA armored units on the move. They didn't come from the Convention Center, so the GLA must have another base somewhere in Hong Kong. Find that base and destroy it!'"
+KO: "<'EVA' speaking>\n'General, I've detected GLA armored units on the move. They didn't come from the Convention Center, so the GLA must have another base somewhere in Hong Kong. Find that base and destroy it!'"
+ZH: "<'EVA' speaking>\n'General, I've detected GLA armored units on the move. They didn't come from the Convention Center, so the GLA must have another base somewhere in Hong Kong. Find that base and destroy it!'"
+BP: "<'EVA' speaking>\n'General, I've detected GLA armored units on the move. They didn't come from the Convention Center, so the GLA must have another base somewhere in Hong Kong. Find that base and destroy it!'"
+PL: "<'EVA' speaking>\n'General, I've detected GLA armored units on the move. They didn't come from the Convention Center, so the GLA must have another base somewhere in Hong Kong. Find that base and destroy it!'"
+END
+
+SCRIPT:CHI02AudioHolder16
+US: "<'EVA' speaking>\n'General, the GLA have brought their Toxin Tractors with them. You'll know them by the green ooze they spray. Keep your infantry units away from them and use your tanks to deal with this new threat.'"
+DE: "SCRIPT:CHI02AudioHolder16"
+FR: "SCRIPT:CHI02AudioHolder16"
+ES: "<'EVA' speaking>\n'General, the GLA have brought their Toxin Tractors with them. You'll know them by the green ooze they spray. Keep your infantry units away from them and use your tanks to deal with this new threat.'"
+IT: "<'EVA' speaking>\n'General, the GLA have brought their Toxin Tractors with them. You'll know them by the green ooze they spray. Keep your infantry units away from them and use your tanks to deal with this new threat.'"
+KO: "<'EVA' speaking>\n'General, the GLA have brought their Toxin Tractors with them. You'll know them by the green ooze they spray. Keep your infantry units away from them and use your tanks to deal with this new threat.'"
+ZH: "<'EVA' speaking>\n'General, the GLA have brought their Toxin Tractors with them. You'll know them by the green ooze they spray. Keep your infantry units away from them and use your tanks to deal with this new threat.'"
+BP: "<'EVA' speaking>\n'General, the GLA have brought their Toxin Tractors with them. You'll know them by the green ooze they spray. Keep your infantry units away from them and use your tanks to deal with this new threat.'"
+PL: "<'EVA' speaking>\n'General, the GLA have brought their Toxin Tractors with them. You'll know them by the green ooze they spray. Keep your infantry units away from them and use your tanks to deal with this new threat.'"
+END
+
+SCRIPT:CHI02AudioHolder17
+US: "<'EVA' speaking>\n'Good work, General, you've destroyed the Toxin base. Now they shouldn't be able to build any more Toxin Tractors.'"
+DE: "SCRIPT:CHI02AudioHolder17"
+FR: "SCRIPT:CHI02AudioHolder17"
+ES: "<'EVA' speaking>\n'Good work, General, you've destroyed the Toxin base. Now they shouldn't be able to build any more Toxin Tractors.'"
+IT: "<'EVA' speaking>\n'Good work, General, you've destroyed the Toxin base. Now they shouldn't be able to build any more Toxin Tractors.'"
+KO: "<'EVA' speaking>\n'Good work, General, you've destroyed the Toxin base. Now they shouldn't be able to build any more Toxin Tractors.'"
+ZH: "<'EVA' speaking>\n'Good work, General, you've destroyed the Toxin base. Now they shouldn't be able to build any more Toxin Tractors.'"
+BP: "<'EVA' speaking>\n'Good work, General, you've destroyed the Toxin base. Now they shouldn't be able to build any more Toxin Tractors.'"
+PL: "<'EVA' speaking>\n'Good work, General, you've destroyed the Toxin base. Now they shouldn't be able to build any more Toxin Tractors.'"
+END
+
+SCRIPT:CHI02AudioHolder18
+US: "<'EVA' speaking>\n'Wait, General, there is a large force up ahead. I'll call for an EMP strike to clear the area, standby.'"
+DE: "SCRIPT:CHI02AudioHolder18"
+FR: "SCRIPT:CHI02AudioHolder18"
+ES: "<'EVA' speaking>\n'Wait, General, there is a large force up ahead. I'll call for an EMP strike to clear the areastandby'"
+IT: "<'EVA' speaking>\n'Wait, General, there is a large force up ahead. I'll call for an EMP strike to clear the areastandby'"
+KO: "<'EVA' speaking>\n'Wait, General, there is a large force up ahead. I'll call for an EMP strike to clear the area…standby…'"
+ZH: "<'EVA'說>\n'等等，將軍，那前方有一大批部隊。我會呼叫一次EMP攻擊，來清除那個區域，準備好。'"
+BP: "<'EVA' speaking>\n'Wait, General, there is a large force up ahead. I'll call for an EMP strike to clear the areastandby'"
+PL: "<'EVA' speaking>\n'Wait, General, there is a large force up ahead. I'll call for an EMP strike to clear the areastandby'"
+END
+
+SCRIPT:CHI02AudioHolder19
+US: "<'EVA' speaking>\n'That should give you a clear path to their base. Let's finish this, General.'"
+DE: "SCRIPT:CHI02AudioHolder19"
+FR: "SCRIPT:CHI02AudioHolder19"
+ES: "<'EVA' speaking>\n'That should give you a clear path to their base. Let's finish this, General.'"
+IT: "<'EVA' speaking>\n'That should give you a clear path to their base. Let's finish this, General.'"
+KO: "<'EVA' speaking>\n'That should give you a clear path to their base. Let's finish this, General.'"
+ZH: "<'EVA' speaking>\n'That should give you a clear path to their base. Let's finish this, General.'"
+BP: "<'EVA' speaking>\n'That should give you a clear path to their base. Let's finish this, General.'"
+PL: "<'EVA' speaking>\n'That should give you a clear path to their base. Let's finish this, General.'"
+END
+
+SCRIPT:CHI02AudioHolder20
+US: "<AutoFerry Capt. speaking>\n'Finally, the military is here! Those Terrorists are ruining my business! If you put your forces aboard I'll take you out to the Convention Center. You can sneak in the backdoor and catch them by surprise. Jut hit the Transport button when you're ready.'"
+DE: "SCRIPT:CHI02AudioHolder20"
+FR: "SCRIPT:CHI02AudioHolder20"
+ES: "<AutoFerry Capt. speaking>\n'Finally, the military is here! Those Terrorists are ruining my business! If you put your forces aboard I'll take you out to the Convention Center. You can sneak in the backdoor and catch them by surprize. Jut hit the Transport button when you're ready.'"
+IT: "<AutoFerry Capt. speaking>\n'Finally, the military is here! Those Terrorists are ruining my business! If you put your forces aboard I'll take you out to the Convention Center. You can sneak in the backdoor and catch them by surprize. Jut hit the Transport button when you're ready.'"
+KO: "<AutoFerry Capt. speaking>\n'Finally, the military is here! Those Terrorists are ruining my business! If you put your forces aboard I'll take you out to the Convention Center. You can sneak in the backdoor and catch them by surprize. Jut hit the Transpo"
+ZH: "<AutoFerry Capt. speaking>\n'Finally, the military is here! Those Terrorists are ruining my business! If you put your forces aboard I'll take you out to the Convention Center. You can sneak in the backdoor and catch them by surprize. Jut hit the Transport button when you're ready.'"
+BP: "<AutoFerry Capt. speaking>\n'Finally, the military is here! Those Terrorists are ruining my business! If you put your forces aboard I'll take you out to the Convention Center. You can sneak in the backdoor and catch them by surprize. Jut hit the Transport button when you're ready.'"
+PL: "<AutoFerry Capt. speaking>\n'Finally, the military is here! Those Terrorists are ruining my business! If you put your forces aboard I'll take you out to the Convention Center. You can sneak in the backdoor and catch them by surprize. Jut hit the Transport button when you're ready.'"
+END
+
+SCRIPT:CHI02Box01
+US: "Use the DOZER to build the COMMAND CENTER\nOnce the COMMAND CENTER is complete,\nselect it and begin the RADAR upgrade\nOnce the upgrade is finished, a radar screen will appear\nin the lower-left-hand corner of the Command Interface"
+DE: "Errichte mit dem BULLDOZER eine KOMMANDOZENTRALE\nWähle diese anschließend aus und baue eine RADAR-Anlage\nNach dem Bau des Radars erscheint in der\nlinken unteren Ecke der Menüleiste ein Radarfenster"
+FR: "Utilisez l'ENGIN DE CHANTIER pour construire le POSTE DE COMMANDEMENT.\nUne fois le POSTE DE COMMANDEMENT construit,\nsélectionnez-le et lancez l'amélioration RADAR.\nUn écran radar s'affiche alors dans le coin inférieur gauche\nde l'interface de commandement."
+ES: "Usa la EXCAVADORA para construir el CENTRO DE MANDO.\nCuando el CENTRO DE MANDO esté hecho,\nselecciónalo y empieza la mejora RADAR.\nCuando termine la mejora, aparecerá una pantalla de\nradar en la esquina inferior izq. de la interfaz de Mando."
+IT: "Usa il BULLDOZER per costruire il CENTRO COMANDO.\nUna volta completato il CENTRO COMANDO, selezionalo e inizia l'aggiornamento del RADAR. Una volta concluso, nella parte inferiore sinistra dell'interfaccia di comando comparirà la schermata del radar."
+KO: "불도저를 이용하여 커맨드 센터를 건설하십시오.\n커맨드 센터의 건설이 완료되면 커맨드 센터를 선택한 상태에서\n레이더 업그레이드를 하십시오. 업그레이드가 완료되면\n좌측 하단 창에 레이더 화면이 표시됩니다."
+ZH: "\n利用推土機建造指揮中心。\n當指揮中心完成，點選它進行雷達的升級。\n一旦完成升級，雷達螢幕會出現在\n指揮界面的左下角。"
+BP: "Use o CONSTRUTOR para construir o CENTRO DE COMANDO.\nQuando o CENTRO DE COMANDO estiver concluído,\nselecione-o e inicie a pesquisa da atualização RADAR.\nQuando esta atualização for concluída, uma tela de radar aparecerá no canto inferior esquerdo de sua Interface de Comando."
+PL: "Za pomocą BULDOŻERA wybuduj SZTAB.\nGdy SZTAB będzie gotowy,\nkliknij na nim i rozbuduj o RADAR.\nPo zakończeniu modernizacji w lewym dolnym narożniku interfejsu dowodzenia\npojawi się ekran radaru."
+END
+
+SCRIPT:CHI02Box02
+US: "NEW UNIT: DRAGON TANK\nThe DRAGON TANK breathes fire that can quickly dispatch enemy infantry,\neven if they are garrisoned inside a building or structure"
+DE: "NEUE EINHEIT: DRACHENPANZER\nDer Feuerstoß des DRACHENPANZERS ist auch für verschanzte Cyborgs ein Dorn im Auge."
+FR: "NOUVELLE UNITE : CHAR DRAGON\nLe CHAR DRAGON projette des flammes qui peuvent rapidement disperser l'infanterie ennemie\nmême si cette dernière s'abrite dans un bâtiment."
+ES: "UNIDAD NUEVA: TANQUE DRAGON\nEl TANQUE DRAGON escupe fuego que despacha rápido la infantería enemiga,\nincluso estando guarnecida en un edificio o estructura."
+IT: "NUOVA UNITÀ: CARRO DRAGON\nIl CARRO DRAGON sputa delle fiamme in grado di distruggere la fanteria nemica, anche se al riparo dentro un edificio o una struttura."
+KO: "새 유닛: 드래곤 탱크\n드래곤 탱크는 건물 안에서 방어를 하고 있는 적 보병 유닛을 화염으로\n단숨에 소탕할 수 있습니다."
+ZH: "\n新單位：火龍坦克\n火龍坦克能快速將敵人士兵消滅，\n即使他們駐紮在建築物中。"
+BP: "NOVA UNIDADE: TANQUE DRAGON\nO TANQUE DRAGON utiliza um sistema de lança-chamas que pode eliminar rapidamente unidades de infantaria inimiga, mesmo que estejam protegidas dentro de um prédio ou estrutura."
+PL: "NOWA JEDNOSTKA: CZOŁG SMOK\nCzołg SMOK zieje ogniem, który szybko likwiduje całe plutony piechoty,\nnawet stacjonującej w budynku lub innym obiekcie."
+END
+
+SCRIPT:GLA07ChnTmr
+US: "Chinese Forces Arrive In:"
+DE: "Ankunft der Einheiten des Asiatischen Pakts in:"
+FR: "Arrivée des forces chinoises dans :"
+ES: "Las fuerzas chinas llegan en:"
+IT: "Le forze cinesi arriveranno in:"
+KO: "중국군 도착 시간:"
+ZH: "中國軍隊到達時間："
+BP: "Tempo de Chegada das Forças Chinesas:"
+PL: "Przybywają siły chińskie:"
+END
+
+SCRIPT:TrainingMove
+US: "Left click on units to select them. Selected units can be given commands. With a unit selected you can left click on the ground to give them a move command. Left click on enemy soldiers to order your selected unit to attack"
+DE: "Wähle eine Einheit mit einem Linksklick aus und erteile ihr einen Befehl. Linksklicke auf den Boden, wenn du deine Einheit bewegen möchtest. Nach einem Linksklick auf feindliche Cyborgs geht deine Einheit zum Angriff über."
+FR: "Cliquez sur les unités pour les sélectionner et pouvoir ainsi leur donner des ordres. Lorsqu'une unité est sélectionnée, cliquez sur le terrain pour lui donner un ordre. Cliquez sur des soldats ennemis pour que l'unité sélectionnée passe à l'attaque."
+ES: "Haz clic sobre las unidades para seleccionarlas y darles órdenes. Con una seleccionada puedes hacer clic en el suelo para que se mueva. Haz clic sobre los soldados enemigos para atacarles con esa unidad."
+IT: "Clicca col pulsante sinistro sulle unità per selezionarle. Puoi far muovere le unità selezionate cliccando col pulsante sinistro al suolo. Clicca invece sul nemico per farle attaccare."
+KO: "유닛 선택을 위해선 해당 유닛에 왼쪽 클릭을 하십시오. 선택된 유닛들은 명령 대기 상태에 들어갑니다. 유닛이 선택된 상태에서 지면을 왼쪽 클릭하게 되면 이동 명령을 내려집니다. 적 유닛에 왼쪽 클릭하게 되면 선택된 아군 유닛이 공격을 하게 됩니다."
+ZH: "\n左鍵點選部隊。被選擇的部隊可以授予命令。選擇一個部隊單位，您也可以用左鍵點選地面來移動。左\n鍵點選敵軍可以指揮您的部隊攻擊。"
+BP: "Clique com o botão esquerdo em suas unidades para selecioná-las. Com uma unidade selecionada, clique com o botão esquerdo no terreno para ordenar que ela se movimente ou sobre unidades inimigas para ordenar que ela ataque."
+PL: "Klikaj na jednostkach lewym przyciskiem myszy (LPM), by je wybrać. Wybranym jednostkom możesz wydawać rozkazy. Na przykład kliknając LPM na ziemi, wydajesz rozkaz ruchu. Kliknięcie LPM na żołnierzach wroga spowoduje zaatakowanie ich przez wybraną wcześniej jednostkę."
+END
+
+SCRIPT:TrainingCommand
+US: "You have liberated a USA Command Center. Here you can use many of your special abilities. To choose technologies and special weapons click on the flashing General button"
+DE: "Du hast die WA-Kommandozentrale befreit. In der Zentrale kannst du deine Spezialfähigkeiten einsetzen. Klicke auf die blinkende General-Schaltfläche, wenn du eine Technologie oder eine Spezialwaffe auswählen möchtest."
+FR: "Vous avez libéré un Poste de commandement US. Vous pouvez y utiliser nombre de vos capacités spéciales. Pour sélectionner des technologies et des armes spéciales, cliquez sur le bouton Général scintillant."
+ES: "Has liberado el Centro de mando de E.E.U.U. Aquí puedes usar muchas de tus capacidades especiales. Para escoger tecnologías y armas especiales haz clic en el botón parpadeante General"
+IT: "Hai liberato un Centro comando USA: qui puoi sfruttare le abilità speciali. Per selezionare tecnologie e armi speciali, clicca sul pulsante con le tre stelle."
+KO: "미국 커맨드 센터를 해방시켰습니다. 해당 건물에서는 특수 능력을 사용할 수 있습니다. 특수기술이나 특별한 무기를 클릭하려면 반짝이는 제너럴 버튼을 누르십시오."
+ZH: "\n您已經拯救美國的指揮中心。在這裡您可以使用很多特殊能力。要選擇新科技及特殊的武器，請點選閃\n爍的將軍鍵。"
+BP: "Você liberou um Centro de Comando dos E.U.A. Aqui você poderá usar muitas de suas habilidades especiais. Para ter acesso a novas tecnologias e armas especiais, clique no botão General no canto inferior direito da tela."
+PL: "Twoje wojska wyzwoliły amerykański sztab. W tym budynku korzystasz z wielu specjalnych możliwości Twej armii. Aby wybierać technologie i specjalne uzbrojenie, kliknij na pulsującym przycisku doświadczenia."
+END
+
+SCRIPT:TrainingExplor
+US: "The Fog of War around your units can be pushed back by moving into new and unexplored areas. The Fog shows you where you have explored and where you have not. Explore new areas to find enemy forces and resources to expand your army"
+DE: "Wenn deine Truppen in neue Gebiete vorrücken, lichtet sich der Nebel des Krieges. Unerforschte Gegenden werden vom Nebel des Krieges verdeckt. Rücke in fremde Gebiete vor, um feindliche Stellungen und Rohstoffe zu finden."
+FR: "Le brouillard de guerre qui entoure vos unités se dissipe peu à peu lorsque vous explorez de nouvelles zones. Ce brouillard vous permet de savoir quels endroits restent à explorer afin de trouver de nouvelles forces hostiles et des ressources pour agrandir votre armée."
+ES: "Podrás despejar la niebla de la guerra, moviéndote hacia nuevas áreas sin explorar. El humo muestra dónde has explorado y dónde no. Explora áreas nuevas para encontrar enemigos y recursos para ampliar tu ejército."
+IT: "La foschia che circonda le tue unità si può ridurre facendole avanzare nelle zone inesplorate. La foschia copre le zone che non hai ancora esplorato. Perlustra nuove aree per localizzare forze nemiche e risorse per il tuo esercito."
+KO: "정찰을 하지 않은 새로운 지역으로 유닛을 움직여 나가게되면 포그 오브 워가 밀려나게 됩니다. 해당 안개는 정찰의 여부를 나타내게 됩니다. 새로운 지역을 정찰하여 적군과 자원의 위치를 파악하여 유리한 전투를 이끄십시오."
+ZH: "\n藉由移動到未被探勘的新區域把在您部隊四週的戰爭迷霧向後推。這迷霧會顯示那裡您已探勘過那裡您\n還未探勘過。探勘新的區域尋找敵軍及尋找資源以擴張您的軍隊。"
+BP: "A área escurecida do mapa é eliminada a medida que é explorada por suas unidades. Ela mostra por quais áreas suas forças já passaram. Explore novas áreas para encontrar as forças inimigas e também recursos para expandir seu exército."
+PL: "Mgła wojny, otaczająca Twoje jednostki, może zostać rozwiana przez skierowanie ich do niezbadanych obszarów. Mgła informuje Cię, które rejony mapy są już zbadane, a które nie. Badaj nowe obszary, by lokalizować wroga i surowce potrzebne do rozbudowy armii."
+END
+
+SCRIPT:TrainingBarracks
+US: "You have liberated a USA Barracks. Buildings like this allow you to train new units. The Barracks trains soldiers. Left click on your new Barracks to see what soldiers you can train. Left click on a unit in the Barracks to spend the supplies to create that unit"
+DE: "Du hast die WA-Cyborg-Kaserne befreit. In Produktionsstätten werden Cyborgs gebaut. Wenn du wissen willst, welche Einheiten du bauen kannst, linksklicke jetzt auf deine neue Cyborg-Kaserne. Nach einem Klick auf die gewünschte Einheit beginnt der Bau."
+FR: "Vous avez libéré une Caserne américaine. Vous pouvez entraîner de nouvelles unités dans ce type de bâtiment. Cliquez sur la nouvelle Caserne pour voir quel type de soldats vous pouvez y entraîner. Cliquez sur une unité dans la Caserne pour dépenser les réserves nécessaires à sa création."
+ES: "Has liberado los Barracones de E.E.U.U. En estos edificios podrás entrenar unidades nuevas. Los barracones entrenan soldados. Haz clic sobre los barracones para ver qué soldados puedes entrenar o sobre una unidad para gastar suministros en crearla."
+IT: "Hai liberato una Caserma USA. Gli edifici come questo permettono di addestrare nuove unità: nella Caserma si addestrano i soldati. Clicca col pulsante sinistro sulla Caserma per vedere quali unità puoi addestrare, quindi clicca su una di esse per produrla."
+KO: "미국 막사를 해방시켰습니다. 해당 건물에서는 새로운 유닛을 생산할 수 있습니다. 막사는 병사를 훈련 시키는 장소입니다. 막사에 왼쪽 클릭하여 훈련 시킬 수 있는 병사 종류를 확인하십시오. 막사 내에 생산가능한 유닛에 왼쪽 클릭하게 되면 서플라이를 사용하여 유닛을 생산하게 됩니다."
+ZH: "\n您已經拯救美國的兵營。此建築讓您訓練新的部隊。兵營能訓練士兵。左鍵點選您的新兵營看看有什麼\n士兵可以讓您訓練的。左鍵點選兵營裡的部隊，花些補給品來生產部隊吧。"
+BP: "Você liberou um Quartel dos E.U.A. Estruturas como esta permitem que você treine novas unidades. Clique com o botão esquerdo em seu novo Quartel para ver os soldados que pode treinar. Clique sobre uma unidade no menu do Quartel para gastar suprimentos e criar uma nova unidade."
+PL: "Twoje wojska wyzwoliły amerykańskie koszary. Tego typu budynki służą do powoływania nowych jednostek. Koszary szkolą piechotę. Kliknij LPM na swych nowych koszarach, by sprawdzić, jakich żołnierzy możesz wyszkolić. Kliknij LPM na jednostce w koszarach, by ją zwerbować kosztem odpowiedniej ilości zasobów."
+END
+
+SCRIPT:TrainingPilots
+US: "You have freed several Pilots. USA pilots are often veterans of many battles and they can enter your vehicles to provide their skills and experience to the crew of the vehicle. Vehicles with golden chevrons near them have experienced crews and are more effective in combat"
+DE: "Du hast mehrere Piloten befreit. WA-Piloten sind meist kampferprobte Veteranen, die aufgrund ihrer Erfahrung verschiedene Fahrzeuge steuern können. Natürlich profitiert auch die Besatzung eines Fahrzeugs von dieser Erfahrung. Mit goldenen Winkeln markierte Fahrzeuge sind aus diesem Grund deutlich effektiver."
+FR: "Vous avez libéré plusieurs Pilotes. Les Pilotes américains sont souvent des vétérans de guerre. Ils peuvent monter dans des véhicules et partager leurs connaissances avec l'équipage. Les véhicules disposant de chevrons dorés près d'eux sont plus expérimentés et plus efficaces au combat."
+ES: "Has liberado a muchos pilotos. Los pilotos de E.E.U.U. son a menudo veteranos de guerra y pueden entrar en tu vehículos para compartir sus conocimientos y experiencia con la dotación. Los vehículos con galones dorados tienen tripulación experimentada y son más efectivos en combate."
+IT: "Hai liberato alcuni piloti americani, veterani di numerose battaglie. Essi possono mettere la loro esperienza a disposizione dell'equipaggio dei veicoli. I veicoli con i galloni dorati hanno un equipaggio esperto e sono più efficaci in combattimento."
+KO: "파일럿을 구출했습니다. 파일럿이 많은 전투 경험을 바탕으로 베테랑이 된 상태라면 차량 안에 투입하여 그들의 기술과 경험을 차량 탑승원에게 전달할 수 있습니다. 차량 옆에 금빛 갈매기형 수장이 떠있으면 차량 탑승원이 경험이 풍부하다는 뜻이므로 좀 더 효율적인 전투를 할 수 있게 됩니다."
+ZH: "\n您已經拯救許多駕駛員。美國的駕駛員常常都是作戰經驗豐富的，且他們可以進入您的飛行器提供技術\n和經驗給全體機員。擁有金色山形袖章的載具，駕駛員會擁有豐富的經驗，並在實戰中更有效率。"
+BP: "Você libertou vários pilotos aliados. Um piloto dos E.U.A. pode entrar em outros veículos e passar sua habilidade e experiência para a tripulação. Veículos com divisas douradas possuem tripulações experientes e são mais eficientes em combate."
+PL: "Twoje wojska uwolniły kilku pilotów. Amerykańscy piloci są weteranami wielu walk. Mogą wsiadać do Twoich pojazdów, by przekazać umiejętności i doświadczenie załogom. Pojazdy oznaczone złotymi szewronami mają doświadczone załogi i lepiej walczą."
+END
+
+SCRIPT:TrainingSupply
+US: "You have liberated a USA Supply Center. Supply Centers collect supplies, providing you with the resources to build new buildings and units. Each Supply Center automatically generates a single Chinook helicopter that will gather supplies for you"
+DE: "Du hast ein Nachschublager der WA-Army befreit. Hier werden die Rohstoffe, die du für den Bau neuer Einheiten und Gebäude brauchst, gelagert. Jedes Nachschublager wird von einem Chinook-Transporthubschrauber mit frischen Rohstoffen versorgt."
+FR: "Vous avez libéré un Dépôt de ravitaillement américain. Ce type de bâtiment renferme du ravitaillement, vous permettant ainsi de construire de nouvelles unités et d'autres bâtiments. Chaque dépôt de ravitaillement génère automatiquement un hélicoptère Chinook qui récupère le ravitaillement pour vous."
+ES: "Has liberado un centro de suministros de E.E.U.U. Estos centros recolectan suministros, dándote recursos para construir nuevos edificios y unidades. Cada centro genera automáticamente un helicóptero Chinook que te traerá suministros"
+IT: "Hai liberato un Centro rifornimenti USA. Qui sono custodite le scorte che ti garantiscono le risorse necessarie per creare nuove strutture e unità. Ogni Centro rifornimenti dispone di un elicottero Chinook, in grado di raccogliere le risorse."
+KO: "미국 서플라이 센터를 해방시켰습니다. 서플라이 센터는 서플라이를 수집하고 새로운 건물 건설 시 자원을 지원하게 됩니다. 각각의 서플라이 센터에는 자동적으로 서플라이를 수집할 수 있는 한 대의 치누크 헬리콥터가 부여됩니다."
+ZH: "\n您已拯救美國的補給中心。補給中心聚集補給品，提供您資源建造新的建築物及部隊。每個補給中心會\n自動產生一架運輸直升機，它會自動為您收集補給品。"
+BP: "Você liberou uma Central de Suprimentos dos E.U.A. Centrais de Suprimentos coletam suprimentos, proporcionando a você os recursos para a construção de novas estruturas e unidades. Cada Central de Suprimentos cria automaticamente um coletor de suprimentos."
+PL: "Twoje wojska wyzwoliły amerykański ośrodek zaopatrzeniowy. Ośrodki takie gromadzą zasoby, zapewniając Ci surowce do wznoszenia nowych budynków i powoływania nowych jednostek. Każdy ośrodek zaopatrzeniowy jest wyposażony w jeden helikopter Chinook, który będzie zbierać zasoby."
+END
+
+SCRIPT:TrainingDozer
+US: "You have liberated a USA Construction Dozer. Left click on your new Construction Dozer to see what buildings it can create. Select the War Factory and choose a location for it to be built. Once done creating the War Factory, the Dozer will be available for other construction projects"
+DE: "Du hast einen Bulldozer der WA befreit. Linksklicke auf den Bulldozer, um dessen Bau-Liste einzublenden. Markiere in der Liste die Waffenfabrik und bestimme einen geeigneten Standort. Nach dem Bau der Waffenfabrik steht der Bulldozer für weitere Bauprojekte zur Verfügung."
+FR: "Vous avez libéré un Engin de chantier américain. Cliquez sur votre nouvel Engin de chantier pour voir quels sont les bâtiments qu'il peut construire. Sélectionnez le Complexe militaro-industriel et un endroit où le construire. Une fois que le Complexe est créé, l'Engin de chantier peut être utilisé pour d'autres projets de construction."
+ES: "Has liberado una excavadora de los E.E.U.U. Haz clic sobre ella para ver qué edificios puede crear. Selecciona la Fábrica de guerra y escoge un lugar para construirla. Una vez que la hayas construido, la Excavadora está disponible para otras construcciones."
+IT: "Hai liberato un Bulldozer da costruzione USA: clicca col pulsante sinistro su di esso per vedere che cosa puoi creare. Seleziona la Fabbrica militare e quindi un luogo adatto alla sua costruzione: non appena i lavori saranno conclusi, il Bulldozer sarà disponibile per altri progetti."
+KO: "미국 건설 불도저를 구출했습니다. 새로 구출한 건설 불도저를 왼쪽 클릭하게 되면 건설 가능한 건물을 볼 수 있습니다. 군수공장을 선택한 뒤 건설 위치를 선택하십시오. 군수공장의 건설이 완료되면 불도저를 이용하여 다른 건물을 건설할 수 있게 됩니다."
+ZH: "\n您已拯救美國的建築推土機。左鍵點選您新的推土機，看看有什麼建築物它可以建造。選擇戰車工廠並\n為它選擇建造的場所。戰車工廠一旦建造好，推土機就可以進行其它的建築計畫。"
+BP: "Você libertou um Construtor dos E.U.A. Clique com o botão esquerdo em seu novo Construtor e veja quais estruturas ele pode construir. Selecione a Fábrica de Armamentos e escolha o local de construção. Ao concluir a construção, o Construtor estará disponível para outros projetos."
+PL: "Twoje wojska oswobodziły amerykański buldożer. Kliknij na nim LPM, aby sprawdzić, jakie budynki możesz wznosić. Wybierz fabrykę wojenną i wskaż miejsce, w którym ma powstać. Gdy jej budowa zostanie ukończona, buldożer będzie mógł realizować inne projekty budowlane."
+END
+
+SCRIPT:TrainingUnits
+US: "Your new War Factory can be used to build vehicles like Crusader Tanks. Left click on a Crusader Tank to order it to be built. You can left click multiple times to order multiple tanks to be constructed"
+DE: "In deiner neuen Waffenfabrik kannst du Crusader-Panzer und andere Fahrzeuge bauen. Nach einem Linksklick auf den Crusader-Panzer wird dieser hergestellt. Klicke mehrmals auf den Panzer, wenn du mehrere Einheiten produzieren möchtest."
+FR: "Votre nouveau Complexe militaro-industriel peut être utilisé pour construire des véhicules, tels que le Char Crusader. Cliquez sur un Char Crusader pour entamer sa construction. Vous pouvez cliquer à plusieurs reprises pour construire plusieurs chars."
+ES: "Tu nueva Fábrica de guerra puede ser usada para fabricar vehículos como Tanques Crusader. Haz clic sobre uno para que se construya; haciendo varios clics se construyen múltiples tanques."
+IT: "La tua nuova Fabbrica militare si può usare per creare veicoli, come i carri Crusader. Clicca col pulsante sinistro su un carro Crusader per costruirlo: puoi cliccare più volte per realizzare più carri."
+KO: "새로운 군수공장에서 크루세이더 탱크 등등과 같은 차량을 생산할 수 있습니다. 크루세이더 탱크를 왼쪽 클릭하게 되면 생산과정이 시작됩니다. 여러 번 클릭하게 되면 생산과정이 자동 반복됩니다."
+ZH: "\n您新的戰車工廠可以被利用來建造像十字軍坦克的載具。左鍵點選十字軍坦克即可命令建造。多點幾次\n左鍵就建造多點的坦克。"
+BP: "Sua nova Fábrica de Armamentos pode ser usada para criar veículos como os Tanques Crusader. Clique com o botão esquerdo sobre o Tanque Crusader para iniciar a produção. Você pode ordenar a criação de várias unidades ao mesmo tempo."
+PL: "Twoja nowa fabryka wojenna może być używana do budowania pojazdów, takich jak czołg Krzyżowiec. Kliknij LPM na tym czołgu, by nakazać jego budowę. Możesz klikać na jednostkach kilkakrotnie w celu wybudowania większej ich liczby."
+END
+
+SCRIPT:TrainingPower
+US: "You have liberated a USA Cold Fusion Reactor. Reactors are used by American and Chinese forces to power their base. Your power bar indicates how much power your base has. If your base runs low on power base defenses may go off-line and your radar will go out"
+DE: "Du hast den Fusionsreaktor der Westlichen Allianz befreit. Die Westliche Allianz und der Asiatische Pakt versorgen ihre Stützpunkte mit Atomenergie. Die Energieleiste zeigt das Energieniveau deines Stützpunktes an. Hast du zu wenig Energie, fallen die Defensivsysteme und das Radar deiner Basis aus."
+FR: "Vous avez libéré un Réacteur à fusion froide américain. Le Réacteur est utilisé par les Américains et les Chinois pour alimenter leurs bases. Votre jauge de puissance indique la quantité d'énergie de votre base. Si celle-ci est faible, vos défenses et votre radar risquent d'être désactivés."
+ES: "Has liberado un reactor de fusión fría de E.E.U.U. Estos reactores se usan en las bases de E.E.U.U. y chinas para dar energía. La barra indica la energía que tiene tu base. Si anda escasa, tus defensas y el radar no funcionarán."
+IT: "Hai liberato un Reattore a fusione a freddo USA. I Reattori sono utilizzati dalle forze americane e cinesi per fornire energia alle basi. La barra dell'energia indica quella a disposizione: se scarseggia, potrebbero disattivarsi sia le difese che il radar."
+KO: "미군 상온핵융합 발전소를 해방시켰습니다. 발전소는 미군과 중국군 기지에 전력을 공급합니다. 전력 막대는 기지가 보유한 전력량을 나타냅니다. 기지의 전력이 부족하게 되면 레이더가 꺼지면서 방어건물이 무력화됩니다."
+ZH: "\n您已拯救美國冷融合反應爐。反應爐被美國及中國軍隊利用來供應他們基地的能源。您的電力棒會指出\n您有多少您的基地還有多少能源。假如您的基地能源不足，基地防禦可能會離線且雷達幕也會熄滅。"
+BP: "Você liberou um Reator de Fusão a Frio dos E.U.A. Reatores são usados pelos americanos e chineses para fornecer energia para suas bases. Fique atento à sua barra de energia: se sua base não receber energia suficiente, seu radar e suas defesas serão desativados."
+PL: "Twoje wojska wyzwoliły amerykański reaktor zimnej fuzji. Reaktory służą Amerykanom i Chińczykom do zasilania baz. Ilość energii dostępna w bazie jest pokazywana przez pasek energii. Niedobór energii powoduje wyłączenie systemów obronnych bazy i radaru."
+END
+
+SCRIPT:TrainingAbilities
+US: "Some units have special abilities. Select a unit to see what special powers it has. Left click on the power to activate it. In the case of the USA Crusader Tank, each tank can build a single Battle Drone. Battle Drones are small robotic helpers that automatically engage enemies and repair their Crusader Tank in case it is damaged by enemy fire"
+DE: "Einige Einheiten haben Spezialfähigkeiten. Wähle eine Einheit aus, um deren Spezialfähigkeiten zu betrachten. Nach einem Linksklick auf die Fähigkeit wird diese aktiviert. Der Crusader-Panzer kann beispielsweise eine Kampfdrohne bauen. Diese greift anschließend feindliche Einheiten an oder repariert ihren Crusader-Panzer."
+FR: "Certaines unités possèdent des capacités spéciales. Sélectionnez une unité pour connaître ses capacités, puis cliquez sur l'une d'elles pour l'activer. Exemple : le Char Crusader américain. Chacun peut construire un Drone de combat, autrement dit un petit robot de soutien qui attaque l'ennemi et répare le Char Crusader s'il est endommagé."
+ES: "Algunas unidades tienen capacidades especiales. Selecciona una unidad para ver qué poder especial tiene. Para activarlo, haz clic sobre él. Los Tanques Crusader de E.E.U.U. pueden construir un teledirigido de combate. Estos son ayudantes robots que atacan al enemigo y reparan el Tanque Crusader."
+IT: "Alcune unità hanno delle abilità speciali: selezionane una per visualizzarne le capacità. Clicca col pulsante sinistro sull'abilità per attivarla: nel caso del carro Crusader USA, ogni unità è in grado di realizzare un drone da battaglia. I droni da battaglia sono dei piccoli robot che assalgono i nemici e riparano il loro veicolo madre."
+KO: "특정 유닛은 특수 능력을 보유하고 있습니다. 유닛을 선택하여 보유하고 있는 특수 능력을 확인하십시오. 특수 능력은 왼쪽 클릭하게 되면 사용할 수 있습니다. 미국 크루세이더 탱크의 경우 각각의 탱크가 하나의 배틀 드론을 생산할 수 있습니다. 배틀 드론은 소형 보조 로봇으로서 자동적으로 적을 공격하기도 하며 크루세이더 탱크가 손상되었을 때 수리도 해줍니다."
+ZH: "\n有些部隊擁有特殊的技能。選擇一個部隊看看它有什麼技能。戰鬥蜂型機是小型的機器助手，它可以與\n敵軍交戰且會修理被敵軍射擊受損的十字軍坦克。"
+BP: "Algumas unidades possuem habilidades especiais. Selecione uma unidade para ver quais habilidades especiais ela possui, e então clique para ativar a habilidade desejada. No caso do Tanque Crusader, cada tanque pode criar um Drone de Combate. Drones de Combate são pequenas unidades robóticas que atacam unidades inimigas e reparam seu Tanque Crusader automaticamente."
+PL: "Niektóre jednostki mają możliwości specjalne. Wybierz jednostkę, by zobaczyć, jakimi specjalnymi możliwościami dysponuje. Kliknij LPM na możliwości, by jej użyć. Na przykład każdy amerykański Krzyżowiec może skonstruować jednego robota bojowego. Roboty bojowe automatycznie atakują wroga i naprawiają swoje czołgi, gdy zostaną one uszkodzone."
+END
+
+SCRIPT:TrainingObjective
+US: "You have liberated an entire USA base and are now ready to carry the fight to the enemy. Each mission has mission objectives that you must follow in order to win the mission and to progress in your war against your enemies. Follow the mission objective to win the mission"
+DE: "Du hast den WA-Stützpunkt befreit und bist jetzt kampfbereit. Du musst in jeder Mission bestimmte Einsatzziele erreichen, um die Mission zu meistern und das nächste Kapitel des Spiels freizuschalten. Erfülle nun deine Einsatzziele, um die Mission erfolgreich abzuschließen."
+FR: "Vous avez libéré l'ensemble d'une base américaine et vous êtes désormais prêt à attaquer l'ennemi. Dans chaque mission, vous devez atteindre des objectifs afin de progresser contre l'ennemi. Atteignez tous les objectifs d'une mission pour l'accomplir."
+ES: "Has liberado una base entera de E.E.U.U. y ahora están preparados para luchar contra el enemigo. Cada misión tiene objetivos que debes seguir para ganar y progresar en la guerra contra tus enemigos. Sigue el objetivo de la misión para conseguirla."
+IT: "Hai liberato un'intera base USA, che ora è pronta per combattere contro il nemico. Ogni missione ha degli obiettivi particolari che devi raggiungere per vincere e progredire nella lotta contro il nemico. Persegui l'obiettivo della missione per conquistare la vittoria."
+KO: "이제 모든 미국 기지를 해방시켰으니 적군과 교전할 준비가 되었습니다. 적군과의 전쟁을 진행시키거나 임무를 성공적으로 완수하기 위해서는 각각의 임무 목표를 순차적으로 그리고 성공적으로 이끌어야 합니다. 임무 목표를 순차적으로 달성하여 작전을 완수하십시오."
+ZH: "\n您已拯救美國基地。美軍基地已經準備好要跟敵人對抗了，每個任務都有任務目標，您必需依照進度攻\n擊敵人並跟隨命令以贏得勝利。跟隨任務目標來贏得任務。"
+BP: "Você liberou uma base dos E.U.A. inteira, e agora está pronto para levar a batalha até o inimigo. Cada missão possui objetivos que devem ser alcançados para que você possa progredir em sua guerra contra seus inimigos. Alcance os objetivos de cada missão para sair vitorioso."
+PL: "Twoje wojska wyzwoliły już całą amerykańską bazę i są teraz gotowe do walki z wrogiem. Każda misja ma swoje cele, które musisz osiągnąć, by przejść do następnego etapu walki z wrogiem. Zrealizuj cele misji, by zakończyć ją zwycięstwem."
+END
+
+SCRIPT:TrainingUrban
+US: "Civilian buildings can be occupied by soldiers. Order your soldiers to enter civilian buildings to get a defensive bonus. Civilian buildings occupied in this way are powerful strong-points for your troops and can be used to defend important routes into and out of your base"
+DE: "Cyborgs können Zivilgebäude besetzen. In Gebäuden stationierte Einheiten haben einen Defensivbonus. Besetzte Gebäude sind schwer einzunehmen und eignen sich hervorragend zur Verteidigung wichtiger Ein- und Ausfallstraßen."
+FR: "Les bâtiments civils peuvent être occupés par les soldats. Ordonnez-leur d'entrer dans des bâtiments civils pour recevoir un bonus de défense. Les bâtiments civils occupés de cette manière sont des points importants pour vos troupes et peuvent être utilisés pour défendre n'importe quel accès vers ou depuis votre base."
+ES: "Los edificios de los civiles pueden ser ocupados por soldados. Ordena a tus soldados que entren en estos edificios para obtener un bonus defensivo. Los edificios civiles ocupados son puntos fuertes para las tropas y pueden usarse para defender rutas y entrar y salir de tu base."
+IT: "Gli edifici civili possono essere occupati dai soldati. Ordina ai tuoi uomini di entrarvi per guadagnare un vantaggio strategico. Gli edifici occupati sono delle ottime roccaforti e possono essere utilizzati per difendere strade importanti nei dintorni della base."
+KO: "민간 건물은 병사를 이용하여 점령할 수 있습니다. 방어 시 유리한 고지를 차지하기 위해서는 병사들을 민간 건물 안에 투입하십시오. 이렇게 민간 건물들을 점령하게 되면 강력한 거점이 될 뿐만 아니라 기지로 통하는 중요 길목을 방어할 수 있게 됩니다."
+ZH: "\n平民的建築物可以被士兵佔領。指揮您的士兵進入建築物可獲得額外的防禦能力。以這種方式佔領建築\n物 對您部隊有利，並可以防禦進出基地的重要路線。"
+BP: "Soldados podem ocupar edifícios civis. Ordene que seus soldados entrem nos edifícios para conseguir mais proteção. Edifícios ocupados tornam-se poderosos pontos de resistência para suas tropas, e podem ser usados para defender importantes rotas de entrada e saída de suas bases."
+PL: "Budynki cywilne mogą być obsadzane przez żołnierzy. Rozkaż swojej piechocie, by weszła do budynku cywilnego, a otrzyma ona premię obronną. Obsadzone budynki cywilne są potężnym wsparciem dla Twych żołnierzy i mogą być wykorzystywane do obrony ważnych szlaków, prowadzących do Twej bazy."
+END
+
+SCRIPT:TrainingTech
+US: "Civilian Objective Buildings can be captured by your Rangers. Holding these buildings will give you advantages against your enemies. Capture the Oil Derricks by selecting a Ranger, left clicking the capture button and then left clicking on the Oil Derrick itself. Oil Derricks provide you with additional resources as they pump oil"
+DE: "Deine Ranger können Hightech-Gebäude erobern. Wenn du diese Gebäude hältst, bist du deinen Feinden gegenüber im Vorteil. Erobere nun die Ölfördertürme. Wähle dazu einen Ranger aus, klicke auf die Erobern-Schaltfläche und anschließend auf den Ölförderturm. Ölfördertürme versorgen dich mit zusätzlichen Rohstoffen."
+FR: "Les bâtiments civils cibles peuvent être pris par vos Rangers. Tenez ces bâtiments pour prendre l'avantage sur l'ennemi. Pour vous emparer d'un Derrick de pétrole, sélectionnez un Ranger, cliquez sur le bouton Prendre bâtiment, puis sur le Derrick. Les Derricks de pétrole fournissent des ressources supplémentaires en extrayant du pétrole."
+ES: "Tus Rangers pueden tomar los edificios civiles. Mantener estos edificios te dará ventajas sobre tus enemigos. Toma las torres de perforación seleccionando un Ranger, clic en el botón tomar y luego en la torre. Te proporcionan recursos adicionales al bombear petróleo."
+IT: "Gli edifici civili speciali possono essere conquistati dai Ranger. Mantenendo il possesso di queste strutture sarai in vantaggio rispetto al nemico. Conquista i derrick selezionando un Ranger, cliccando col pulsante sinistro sull'icona di conquista e quindi sul derrick stesso. I derrick forniscono risorse aggiuntive."
+KO: "특정 민간 건물은 레인저로 점령할 수 있습니다. 해당 건물들을 점유하게 되면 적을 상대로 유리한 요소를 제공하게 됩니다. 레인저를 선택해서 원유 유정탑을 점령하십시오. 점령 버튼을 왼쪽 클릭한 뒤 원유 유정탑을 왼쪽 클릭하십시오. 원유 유정탑은 원유를 펌프로 퍼올리면서 추가적인 자원을 제공하게 됩니다."
+ZH: "\n平民的建築物可以被您的遊騎兵佔領。保有這些建築物可以在對抗敵軍時占有優勢。要用被選取的遊騎\n兵佔領油井，先將左鍵點選佔領鍵，然後在油井左鍵點選油井。當它抽油時會提供您額外的資源。"
+BP: "Instalações civis podem ser capturadas por seus soldados. Controlar estas instalações pode dar a você vantagens contra seus inimigos. Capture o Poço de Petróleo selecionando um Ranger e usando sua habilidade Capturar na instalação. Poços de Petróleo proporcionam recursos extras à medida que bombeiam petróleo."
+PL: "Budynki cywilne stanowiące cele misji mogą być zajmowane przez Twoich rangerów. Utrzymanie takich budynków zapewni Ci przewagę nad wrogiem. Zajmij szyby naftowe, uaktywniając rangera, klikając LPM na przycisku zajęcia, a następnie LPM na samym szybie. Szyby naftowe zapewnią Ci dodatkowy przypływ gotówki, ponieważ służą do wydobywania ropy."
+END
+
+SCRIPT:TrainingCrate
+US: "Crates contain bonus items for your soldiers that will increase their abilities. Additional ammunition, armor and other items can be found in crates. Order your soldiers or vehicles to move onto a crate to open it and collect the contents"
+DE: "Kisten enthalten verschiedene Bonusgegenstände (beispielsweise Munition oder Rüstungen), die die Fähigkeiten deiner Cyborgs verbessern. Bewege deine Cyborgs oder Fahrzeuge über eine Kiste, um diese zu öffnen."
+FR: "Les caisses contiennent des objets bonus qui augmentent les capacités de vos soldats. Vous pouvez également y trouver des munitions supplémentaires, des armures et d'autres objets. Ordonnez à vos soldats ou à vos véhicules de passer sur une caisse pour l'ouvrir et en récupérer le contenu."
+ES: "Los cajas contienen objetos bonus para los soldados que aumentarán sus capacidades: munición adicional, armas, etc.. Ordena a tus soldados o vehículos que vayan hasta una caja, la abran y cojan lo que contenga."
+IT: "Le casse contengono degli oggetti bonus per i tuoi soldati, che aumenteranno le loro capacità: munizioni aggiuntive, corazze e altri oggetti. Ordina ai soldati o ai veicoli di passare sopra una cassa per raccoglierne il contenuto."
+KO: "크레이트에는 병력의 능력을 향상시킬 수 있는 보너스 아이템이 들어 있습니다. 추가적인 탄약, 장갑 그리고 그밖에 다른 아이템들을 크레이트에서 찾을 수 있습니다. 병사 혹은 차량을 크레이트 위로 이동시켜서 열어보십시오."
+ZH: "\n箱子中有特別補助它可以增加士兵的技能。額外的彈藥、裝甲及其他。指揮士兵或載具去收集箱子裡的\n東西。"
+BP: "Caixas contêm itens bônus para suas tropas que podem aumentar suas habilidades. Munição extra, blindagem adicional e outros itens podem ser encontrados em caixas. Ordene seus soldados ou veículos para irem até uma caixa e abri-la para ficarem com seu conteúdo."
+PL: "Skrzynie zawierają nagrody dla Twoich żołnierzy, które zwiększą ich umiejętności. W skrzyniach można znaleźć dodatkową amunicję, opancerzenie i inne przedmioty. W celu otwarcia skrzyni i zabrania jej zawartości musisz rozkazać swym żołnierzom lub pojazdom, by zbliżyły się do niej."
+END
+
+SCRIPT:TrainingMissionObjective
+US: "MISSION OBJECTIVE\nDestroy GLA Bio-Weapons Factory"
+DE: "EINSATZZIEL:\nZerstören Sie die Säurewaffenfabrik der IBG."
+FR: "OBJECTIF DE MISSION :\nDétruire l'usine d'armes bactériologiques de la GLA."
+ES: "OBJETIVO DE LA MISIÓN\nDestruir la Fábrica de BioArmas del GLA"
+IT: "OBIETTIVO MISSIONE:\nDistruggete la fabbrica di armi biologiche dell'ELG."
+KO: "임무 목표\nGLA 생물 무기 공장을 파괴하십시오."
+ZH: "\n任務目標\n毀滅全球解放軍的生化武器工廠"
+BP: "OBJETIVO DA MISSÃO\nDestrua a Fábrica de Armas Biológicas do E.L.G."
+PL: "Cel misji\nZniszczyć fabrykę broni biologicznej AŚW"
+END
+
+SCRIPT:TrainingOpeningObjective
+US: "MISSION OBJECTIVE\nLiberate the USA Base"
+DE: "EINSATZZIEL:\nBefreien Sie den WA-Stützpunkt."
+FR: "OBJECTIF DE MISSION :\nLibérer la base américaine."
+ES: "OBJETIVO DE LA MISIÓN\nLiberar la base de E.E.U.U."
+IT: "OBIETTIVO MISSIONE:\nLiberate la base USA."
+KO: "임무 목표\n미군 기지를 해방시키십시오."
+ZH: "\n任務目標\n拯救美國基地。"
+BP: "OBJETIVO DA MISSÃO\nLibere a Base dos E.U.A."
+PL: "Cel misji\nWyzwolić amerykańską bazę"
+END
+
+SCRIPT:USA03RescueCounter
+US: "Escaped U.S. Forces:"
+DE: "Entkommene WA-Einheiten:"
+FR: "Unités américaines en fuite :"
+ES: "Fuerzas de los E.E.U.U. retiradas:"
+IT: "Forze USA fuggite:"
+KO: "탈출한 미군:"
+ZH: "逃脫的美國軍隊："
+BP: "Forças dos E.U.A. em Segurança:"
+PL: "Wycofane siły amerykańskie:"
+END
+
+SCRIPT:USA04BomberTimer
+US: "Bombers Arriving In:"
+DE: "Ankunft der Bomber in:"
+FR: "Arrivée des bombardiers dans :"
+ES: "Bombarderos llegando a:"
+IT: "Bombardieri in arrivo in:"
+KO: "폭격기 도착 시간:"
+ZH: "轟炸機到達："
+BP: "Bombardeiros Chegando Em:"
+PL: "Do przybycia bombowców:"
+END
+
+SCRIPT:GLA03CivCounter
+US: "Traitors Killed:"
+DE: "Eliminierte Verräter:"
+FR: "Civils tués :"
+ES: "Traidores asesinados:"
+IT: "Traditori uccisi:"
+KO: "반역자 사살수:"
+ZH: "\n殺死叛徒："
+BP: "Traidores Eliminados:"
+PL: "Zabici cywile:"
+END
+
+SCRIPT:GLA03Objective01
+US: "MISSION OBJECTIVES:\nClaim the Command Center to the East to begin production\nKill 300 traitors"
+DE: "EINSATZZIELE:\nErobern Sie die Kommandozentrale im Osten\nund beginnen Sie mit der Produktion.\nEliminieren Sie 300 Verräter."
+FR: "OBJECTIFS DE MISSION :\nS'emparer du Poste de commandement à l'est et lancer la production.\nTuer 300 civils."
+ES: "OBJETIVOS DE LA MISIÓN:\nReivindicar el centro de mando del Este para empezar la producción.\nMatar 300 traidores."
+IT: "OBIETTIVI MISSIONE:\nConquistate il Centro comando a est per iniziare la produzione.\nUccidete 300 civili."
+KO: "임무 목표:\n생산 시작을 위해 동쪽 커맨드 센터부터 점령하십시오.\n반역자 300명을 처단하십시오."
+ZH: "\n任務目標：\n到東方指揮中心去開始生產。\n消滅三百位叛徒"
+BP: "OBJETIVO DA MISSÃO\nCapture o Centro de Comando ao Leste para iniciar a produção.\nElimine 300 traidores."
+PL: "Cele misji\nW celu rozpoczęcia produkcji zająć sztab znajdujący się na wschodzie .\nZabić 300 cywili."
+END
+
+SCRIPT:GLA03Objective02
+US: "MISSION OBJECTIVE:\nUse Toxin Tractors to kill 300 traitors"
+DE: "EINSATZZIEL:\nEliminieren Sie mit Säuretraktoren 300 Verräter."
+FR: "OBJECTIF DE MISSION :\nUtiliser les Tracteurs bactériologiques pour tuer 300 civils."
+ES: "OBJETIVOS DE LA MISIÓN:\nUsar tractores de toxinas para matar a 300 traidores"
+IT: "OBIETTIVO MISSIONE:\nUsate i contaminatori per uccidere 300 traditori."
+KO: "임무 목표:\n독소 트랙터를 이용해서 300 명의 반역자를 처단하십시오."
+ZH: "\n任務目標：\n使用毒素車去消滅三百個叛徒。"
+BP: "OBJETIVO DA MISSÃO\nUse os Tratores Tóxicos para eliminar 300 traidores."
+PL: "Cele misji\nZabić 300 cywili używając ciągników z toksyną.\nZniszczyć zakłady farmaceutyczne na północy."
+END
+
+SCRIPT:GLA03Objective03
+US: "Destroy the pharmaceutical factory in the north"
+DE: "Zerstören Sie die pharmazeutische Fabrik im Norden."
+FR: "Détruire l'usine pharmaceutique au nord."
+ES: "Destruye la fábrica farmacéutica del Norte"
+IT: "Distruggete la fabbrica farmaceutica a nord."
+KO: "북쪽의 제약 공장을 파괴하십시오."
+ZH: "\n毀滅北方的製藥廠"
+BP: "Destrua a fábrica farmacêutica ao Norte."
+PL: "Zniszcz zakłady farmaceutyczne na północy."
+END
+
+SCRIPT:GLA04Objective01
+US: "MISSION OBJECTIVE:\nDestroy civilian buildings and gather $40,000"
+DE: "EINSATZZIEL:\nZerstören Sie die Gebäude\nund verdienen Sie $40.000."
+FR: "OBJECTIF DE MISSION :\nDétruire les bâtiments civils et amasser 40 000 $."
+ES: "OBJETIVO DE LA MISIÓN:\nDestruir los edificios civiles y reunir 40.000$"
+IT: "OBIETTIVO MISSIONE:\nDistruggete le strutture civili e raccogliete $40.000."
+KO: "임무 목표:\n민간 건물을 파괴하고 $40,000를 확보하십시오."
+ZH: "\n任務目標：\n毀滅民用建築物及收集＄40,000。"
+BP: "OBJETIVO DA MISSÃO\nDestrua as estruturas civis e recolha $40.000."
+PL: "Cel misji\nZniszczyć budynki cywilne i zgromadzić 40.000$."
+END
+
+SCRIPT:GLA04Objective02
+US: "WARNING:\nSpending money on units will put you farther from your goal of $40,000\nBe sure not to overspend"
+DE: "WARNUNG:\nSie müssen $40.000 verdienen!\nGeben Sie nicht zu viel Geld für Einheiten und Gebäude aus!"
+FR: "ALERTE :\nInvestir votre argent dans ces unités va vous éloigner de 40 000 $ de votre objectif.\nAssurez-vous de ne pas trop dépenser."
+ES: "Aviso:\nGastar dinero en unidades te alejará de tu objetivo de 40.000$.\nNo gastes demasiado."
+IT: "Attenzione:\nSpendendo del denaro per le unità vi allontanerete dall'obiettivo di $40.000.\nNon esagerate, quindi, con le spese."
+KO: "경고:\n유닛 생산에 자금을 사용하게 되면 $40,000을 확보하기가 어려워집니다.\n지출을 신경을 써주십시오."
+ZH: "\n警告：\n在單位上花錢會讓你離$40,000的目標越來越遠。\n請確定沒有您沒有過度花錢。"
+BP: "ATENÇÃO:\nNão gaste muitos recursos na criação de novas unidades.\nVocê deve recolher $40.000 para alcançar seu objetivo."
+PL: "Ostrzeżenie:\nWydawanie pieniędzy na jednostki nie pomoże Ci zgromadzić $40,000.\nUważaj, aby nie wydać zbyt dużo."
+END
+
+SCRIPT:GLA04Objective03
+US: "WARNING:\nAmerican forces are using the airport as a staging base\nCross the river and destroy it"
+DE: "WARNUNG:\nDie WA nutzt den Flughafen als Hauptquartier.\nÜberqueren Sie den Fluss und zerstören Sie den Flughafen."
+FR: "ALERTE :\nLes forces américaines utilisent l'aéroport comme base.\nTraversez la rivière et détruisez-le."
+ES: "Aviso:\nLas fuerzas de E.E.U.U. están usando el aeropuerto de base.\nCruza el río y destrúyela."
+IT: "Attenzione:\nLe forze americane usano un aeroporto come punto di raccolta.\nAttraversate il fiume e distruggetelo."
+KO: "경고:\n미군은 공항을 발판 기지로 사용하고 있습니다.\n강을 건너서 파괴하십시오."
+ZH: "\n警告：\n美國軍隊使用機場做為作戰基地。\n越過河毀滅它。"
+BP: "ATENÇÃO:\nOs americanos estão usando o aeroporto como base.\nCruze o rio e destrua o aeroporto para acabar com suas forças."
+PL: "Uwaga:\nSiły amerykańskie używają lotniska jako bazy wypadowej.\nPrzekrocz rzekę i zniszcz je."
+END
+
+SCRIPT:GLA04Objective04
+US: "WARNING:\nAmerican aircraft dispatched to eliminate heavy vehicles\nAdvise using Angry Mobs and Technicals only"
+DE: "WARNUNG:\nDie WA bombardiert unsere schweren Fahrzeuge.\nSetzen Sie besser Cyborg-Trupps und Kampfjeeps ein."
+FR: "ALERTE :\nUn avion américain a été envoyé pour détruire les blindés.\nUtilisez des Emeutiers ou des Jeeps pour régler la situation."
+ES: "Aviso:\nAviación de E.E.U.U. en camino para destruir vehículos pesados.\nSe recomienda usar solo Turbas y Camionetas"
+IT: "Attenzione:\nAerei americani sono stati inviati a eliminare i veicoli pesanti.\nSi consiglia di utilizzare solo folla inferocita e tecniche."
+KO: "경고:\n미군 항공기가 중무장 차량들을 섬멸하기 위해 파병되었습니다.\n성난 군중과 테크니컬 유닛만 사용하는 것이 좋을 것 같습니다."
+ZH: "\n警告：\n美國飛機被派遣去消滅大量載具。\n建議只使用暴民和衝鋒車。"
+BP: "ATENÇÃO:\nAviões americanos foram enviados para destruir tanques.\nÉ aconselhável usar apenas Multidões Revoltadas e Técnicos."
+PL: "Uwaga:\nAmerykanie wysłali lotnictwo w celu zniszczenia ciężkich pojazdów.\nkorzystaj jedynie z techników i wściekłego tłumu."
+END
+
+SCRIPT:GLA05Objective01
+US: "MISSION OBJECTIVE:\nDestroy the American airbase"
+DE: "EINSATZZIEL:\nZerstören Sie den Luftwaffenstützpunkt der Westlichen Allianz."
+FR: "OBJECTIF DE MISSION :\nDétruire la base aérienne américaine."
+ES: "OBJETIVO DE LA MISIÓN:\nDestruir la base aérea de E.E.U.U."
+IT: "OBIETTIVO MISSIONE:\nDistruggete la base aerea americana."
+KO: "임무 목표:\n미국 공군기지를 파괴하십시오."
+ZH: "\n任務目標：\n毀滅美國空軍基地。"
+BP: "OBJETIVO DA MISSÃO\nDestrua a base aérea americana."
+PL: "Cel misji\nZniszczyć amerykańską bazę lotniczą."
+END
+
+SCRIPT:GLA05Objective02
+US: "MISSION OBJECTIVE:\nDestroy the American airbase to the West"
+DE: "EINSATZZIEL:\nZerstören Sie den Luftwaffenstützpunkt der WA im Westen."
+FR: "OBJECTIF DE MISSION :\nDétruire la base aérienne américaine à l'ouest."
+ES: "OBJETIVO DE LA MISIÓN:\nDestruir la base aérea oeste de E.E.U.U."
+IT: "OBIETTIVO MISSIONE:\nDistruggete la base aerea americana a ovest."
+KO: "임무 목표:\n서쪽 미군 공군기지를 파괴하십시오."
+ZH: "\n任務目標：\n摧毀西方的美國空軍基地。"
+BP: "OBJETIVO DA MISSÃO\nDestrua a base aérea americana ao Oeste."
+PL: "Cel misja\nZniszczyć amerykańską bazę lotniczą na zachodzie."
+END
+
+SCRIPT:GLA05Directive03
+US: "WARNING:\nAmerican air forces inbound\nBuild Stinger Sites to defend your base"
+DE: "WARNUNG:\nWA-Bomber im Anflug.\nBauen Sie Stinger-Stellungen, um den Stützpunkt zu verteidigen."
+FR: "ALERTE :\nForces aériennes américaines en approche.\nConstruisez des Sites Stingers pour défendre la base."
+ES: "Aviso:\nFuerzas aéreas americanas en camino.\nConstruye emplazamientos Stinger para defender tu base."
+IT: "Attenzione:\nForze aeree americane in arrivo.\nCostruite postazioni di Stinger per difendere la base."
+KO: "경고:\n미국 공군이 귀환 중입니다.\n스팅어 사이트를 건설하여 귀하의 기지를 사수하십시오."
+ZH: "警告：\n美國空軍返回。\n建立針刺飛彈陣地以保護您的基地。"
+BP: "Atenção:\nUnidades aéreas americanas a caminho.\nConstrua Baterias Stinger para defender sua base."
+PL: "Ostrzeżenie:\nNadciąga amerykańskie lotnictwo.\nWybuduj wyrzutnie Stingerów, by bronić bazy."
+END
+
+SCRIPT:GLA05Directive04
+US: "Secondary Objective:\nDestroy the Chinese spy outpost"
+DE: "Sekundärziel:\nZerstören Sie den asiatischen Spionage-Vorposten."
+FR: "Objectif secondaire :\nDétruire l'avant-poste espion chinois."
+ES: "Objetivo secundario:\nDestruye el puesto espía chino"
+IT: "Obiettivo secondario:\nDistruggete l'avamposto delle spie cinesi."
+KO: "2차 목표:\n중국 스파이 전초지를 파괴하십시오."
+ZH: "次要目標 ：\n摧毀中國間諜前哨站。"
+BP: "OBJETIVO SECUNDÁRIO:\nDestrua o posto de espionagem chinês."
+PL: "Cel dodatkowy: m Zniszczyć chiński posterunek szpiegowski."
+END
+
+SCRIPT:GLA05Directive05
+US: "WARNING:\nAmerican air forces inbound\nUse Stinger Sites and Quad Cannons to shoot down enemy aircraft"
+DE: "WARNUNG:\nWA-Bomber im Anflug.\nSchießen Sie die feindlichen Maschinen mit Stinger-Raketen und Vierlingsgeschützen ab."
+FR: "ALERTE :\nForces aériennes américaines en approche.\nUtilisez les Sites Stingers et les Quads pour abattre les avions ennemis."
+ES: "Aviso:\nFuerzas aéreas americanas en camino.\nUsa los Emplazamientos Stinger y Cañones Quad para derribar los aviones enemigos."
+IT: "Attenzione:\nForze aeree americane in arrivo.\nUsate postazioni Stinger e Cannoni quadrupli per abbattere tutti gli aerei nemici."
+KO: "경고:\n미국 공군이 귀환 중입니다.\n스팅어 사이트와 쿼드 캐논으로 적 공군을 격추하십시오."
+ZH: "警告：\n美國空軍正在路上。\n使用針刺飛彈陣地和四管加農砲攻擊敵人空軍。"
+BP: "ATENÇÃO:\nUnidades aéreas americanas a caminho.\n\nUse unidades antiaéreas para derrubar as aeronaves inimigas."
+PL: "Ostrzeżenie:\nNadlatuje amerykańskie lotnictwo.\nUżyj wyrzutni Stingerów i działek czterolufowych, by zestrzeliwać jednostki latające."
+END
+
+SCRIPT:GLA08Objective01
+US: "MISSION OBJECTIVES:\nCapture the ground control building\nCapture the rocket launch gantry"
+DE: "EINSATZZIELE:\nErobern Sie das Kontrollzentrum.\nErobern Sie die Startrampe."
+FR: "OBJECTIFS DE MISSION :\nS'emparer du centre de contrôle.\nS'emparer de la tour de lancement de missiles."
+ES: "OBJETIVOS DE LA MISIÓN:\nTomar el edificio de control terrestre.\nTomar la torre de lanzamiento de cohetes."
+IT: "OBIETTIVI MISSIONE:\nConquistate il centro di controllo.\nConquistate la piazzola di lancio."
+KO: "임무 목표:\n지상 관제 건물을 점령하십시오.\n로켓 발사대를 점령하십시오."
+ZH: "任務目標：\n佔領地面建築物。\n佔領火箭發射器。"
+BP: "OBJETIVOS DA MISSÃO\nCapture a estrutura de comando.\nCapture a plataforma de lançamento de foguetes."
+PL: "Cel misji\nZająć budynek kontroli naziemnej.\nZająć suwnicę rakietową."
+END
+
+SCRIPT:GLA08Objective02
+US: "MISSION OBJECTIVE:\nCapture the ground control building"
+DE: "EINSATZZIEL:\nErobern Sie das Kontrollzentrum."
+FR: "OBJECTIF DE MISSION :\nS'emparer du centre de contrôle."
+ES: "OBJETIVO DE LA MISIÓN:\nTomar el edificio de control terrestre."
+IT: "OBIETTIVO MISSIONE:\nConquistate il centro di controllo."
+KO: "임무 목표:\n지상 관제 건물을 점령하십시오."
+ZH: "任務目標：\n佔領地面控制建築物。"
+BP: "OBJETIVO DA MISSÃO\nCapture a estrutura de comando."
+PL: "Cel misji\nZająć budynek kontroli naziemnej."
+END
+
+SCRIPT:GLA08Objective03
+US: "MISSION OBJECTIVE:\nCapture the rocket launch gantry"
+DE: "EINSATZZIEL:\nErobern Sie die Startrampe."
+FR: "OBJECTIF DE MISSION :\nS'emparer de la tour de lancement de missiles."
+ES: "OBJETIVO DE LA MISIÓN:\nTomar la torre de lanzamiento de cohetes."
+IT: "OBIETTIVO MISSIONE:\nConquistate la piazzola di lancio."
+KO: "임무 목표:\n로켓 발사대를 점령하십시오."
+ZH: "任務目標：\n佔領火箭發射器。"
+BP: "OBJETIVO DA MISSÃO\nCapture a plataforma de lançamento de foguetes."
+PL: "Cel misji\nZająć suwnicę rakietową."
+END
+
+SCRIPT:GLA08Directive04
+US: "WARNING:\nEnemy superweapon incoming"
+DE: "WARNUNG:\nFeindliche Superwaffe nähert sich!"
+FR: "ALERTE :\nSuperarme ennemie en approche."
+ES: "Aviso:\nSe acerca una superarma enemiga."
+IT: "Attenzione:\nArma speciale nemica in azione."
+KO: "경고:\n적 슈퍼 무기가 들어오고 있습니다."
+ZH: "警告：\n敵軍超級武器來了。"
+BP: "Atenção:\nSuperarma inimiga a caminho."
+PL: "Uwaga\nNadchodzi uderzenie nieprzyjacielskiej superbroni."
+END
+
+SCRIPT:USA02RescueCounter
+US: "Pilots Remaining:"
+DE: "Verbleibende Piloten:"
+FR: "Pilotes restants :"
+ES: "Pilotos Restantes:"
+IT: "Piloti restanti:"
+KO: "남은 파일럿 수:"
+ZH: "剩下的駕駛員："
+BP: "Pilotos Restantes:"
+PL: "Pozostali piloci:"
+END
+
+SCRIPT:GLA03Objective01a
+US: "MISSION OBJECTIVES:\nClaim the Command Center to the East to begin production\nKill 200 traitors"
+DE: "EINSATZZIEL:\nErobern Sie die Kommandozentrale im Osten und beginnen Sie mit der Produktion.\nEliminieren Sie 200 Verräter."
+FR: "OBJECTIFS DE MISSION :\nS'emparer du centre de commandement à l'est et lancer la production.\nTuer 200 civils."
+ES: "OBJETIVOS DE LA MISIÓN:\nRecuperar el Centro de Mando situado al Este para iniciar la Producción.\nEliminar a 200 traidores."
+IT: "OBIETTIVI MISSIONE:\nConquista il Centro comando ad est per iniziare la produzione.\nUccidi 200 traditori."
+KO: "임무 목표:\n동쪽 커맨드 센터를 점령한 뒤 생산을 시작하십시오.\n반역자 200명을 처단하십시오."
+ZH: "任務目標：\n要求指揮中心到東方開始生產。\n消滅兩百個叛徒。"
+BP: "OBJETIVOS DA MISSÃO\nDomine o Centro de Comando ao Leste para iniciar a produção.\nElimine 200 traidores."
+PL: "CEL:\nPrzejmij centrum dowodzenia na wschodzie, aby rozpocząć produkcję.\nZabij 200 zdrajców."
+END
+
+SCRIPT:GLA03Objective02a
+US: "MISSION OBJECTIVE:\nUse Toxin Tractors to kill 200 traitors"
+DE: "EINSATZZIEL:\nEliminieren Sie mit den Säuretraktoren 200 Verräter."
+FR: "OBJECTIF DE MISSION :\nUtiliser les Tracteurs bactériologiques pour tuer 200 civils."
+ES: "OBJETIVO DE LA MISIÓN:\nUsar Tractores de Toxinas para eliminar a 200 traidores."
+IT: "OBIETTIVO MISSIONE:\nUtilizza i Contaminatori per uccidere 200 traditori."
+KO: "임무 목표:\n독소 트랙터를 이용해서 200 명의 반역자를 처단하십시오."
+ZH: "任務目標：\n使用毒素車來消滅兩百個叛徒。"
+BP: "OBJETIVO DA MISSÃO\nUse os Tratores Tóxicos para eliminar 200 traidores."
+PL: "CEL:\nUżyj ciągników z toksyną, aby zabić 200 zdrajców."
+END
+
+SCRIPT:MD-USA06MissileTimer
+US: "Toxin Missile Launch In:"
+DE: "Raketenstart in:"
+FR: "Lancement missile chimique dans :"
+ES: "Lanz. misil toxinas en:"
+IT: "Lancio missile tossico fra:"
+KO: "독소 미사일 발사까지 남은 시간:"
+ZH: "毒素飛彈發射倒數："
+BP: "Lançamento do Míssil Tóxico em:"
+PL: "Czas do odpalenia pocisków z toksyną:"
+END
+
+SCRIPT:MD_GLA04Toxin_Counter
+US: "Toxins Remaining:"
+DE: "Verbleibende Kampfstoffe:"
+FR: "Toxines restantes :"
+ES: "Toxinas restantes:"
+IT: "Carichi rimanenti:"
+KO: "남아있는 독소:"
+ZH: "毒素殘留："
+BP: "Toxinas Restantes:"
+PL: "Pozostało toksyn:"
+END
+
+SCRIPT:POWCOUNTDOWN
+US: "POWs Transfer In:"
+DE: "Verlegung der Kriegsgefangenen in:"
+FR: "Transfert des prisonniers dans :"
+ES: "Traslado de presos en:"
+IT: "Trasferimento dei prigionieri fra:"
+KO: "포로 호송까지 남은 시간:"
+ZH: "戰俘移動倒數："
+BP: "Prisioneiros de Guerra Transferidos em:"
+PL: "Czas do przeniesienia jeńców:"
+END
+
+SCRIPT:CHI02xReinforcementTimer
+US: "Reinforcements Arrive In:"
+DE: "Ankunft der Verstärkung in:"
+FR: "Les renforts seront là dans :"
+ES: "Llegada de refuerzos en:"
+IT: "Arrivo dei rinforzi fra:"
+KO: "지원 부대 도착까지 남은 시간:"
+ZH: "援軍抵達時間："
+BP: "Reforços Chegam em:"
+PL: "Czas do przybycia posiłków:"
+END
+
+SCRIPT:CHI02timer
+US: "Reinforcements Arrive In:"
+DE: "Ankunft der Verstärkung in:"
+FR: "Les renforts seront là dans :"
+ES: "Llegada de refuerzos en:"
+IT: "Arrivo dei rinforzi fra:"
+KO: "지원 부대가 도착합니다"
+ZH: "援軍抵達時間："
+BP: "Os Reforços Chegam em:"
+PL: "Czas do przybycia posiłków:"
+END
+
+SCRIPT:MD_CHI03InternationalOpinion
+US: "International Opinion:"
+DE: "Internationales Ansehen:"
+FR: "Opinion internationale :"
+ES: "Reputación internacional:"
+IT: "Reputazione internazionale:"
+KO: "국제적 지지도:"
+ZH: "國際聲望："
+BP: "Prestígio Internacional:"
+PL: "Opinia międzynarodowa:"
+END

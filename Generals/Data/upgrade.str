@@ -1,0 +1,599 @@
+UPGRADE:UpgradeComplete
+US: "Upgrade Complete: %s"
+DE: "Upgrade abgeschlossen: %s"
+FR: "Amélioration terminée : %s"
+ES: "Mejora completa: %s"
+IT: "Aggiornamento completato: %s"
+KO: "업그레이드 완료: %s"
+ZH: "升級完成： %s"
+BP: "Atualização Concluída: %s"
+PL: "Modernizacja zakończona: %s"
+END
+
+UPGRADE:AdvancedTraining
+US: "Advanced Training"
+DE: "Spezialausbildung"
+FR: "Techniques d'entraînement"
+ES: "Entrenamiento avanzado"
+IT: "Addestramento avanzato"
+KO: "고급 훈련"
+ZH: "高等訓練"
+BP: "Treinamento Avançado"
+PL: "Zaawansowany trening"
+END
+
+UPGRADE:AmericaLaserMissiles
+US: "America Laser Missiles"
+DE: "Lasergelenkte Rakete"
+FR: "Missiles laser américains"
+ES: "Misiles Láser América"
+IT: "Missili a guida laser"
+KO: "레이저 미사일"
+ZH: "美軍雷射飛彈"
+BP: "Sistema de Mira Laser Americano"
+PL: "Amerykańskie pociski laserowe"
+END
+
+UPGRADE:Mines
+US: "Land Mines"
+DE: "Landminen"
+FR: "Champ de mines"
+ES: "Minas terrestres"
+IT: "Mine terrestri"
+KO: "지뢰"
+ZH: "地雷"
+BP: "Campo Minado"
+PL: "Miny"
+END
+
+UPGRADE:Radar
+US: "Radar"
+DE: "Radar"
+FR: "Radar"
+ES: "Radar"
+IT: "Radar"
+KO: "레이더"
+ZH: "雷達"
+BP: "Radar"
+PL: "Radar"
+END
+
+UPGRADE:OverlordGattlingCannon
+US: "Overlord Gattling Cannon"
+DE: "Overlord-Gatling-Geschütz"
+FR: "Mitrailleuse Gattling Empereur"
+ES: "Cañón Gattling Overlord"
+IT: "Cannone gatling Overlord"
+KO: "오버로드 개틀링 캐논"
+ZH: "炎黃坦克蓋特機砲"
+BP: "Canhão Gattling Overlord"
+PL: "Działko Gattling"
+END
+
+UPGRADE:OverlordPropagandaTower
+US: "Overlord Propaganda Tower"
+DE: "Overlord-Propagandaturm"
+FR: "Tour de propagande Empereur"
+ES: "Torre de Propaganda Overlord"
+IT: "Diffusore Overlord"
+KO: "오버로드 프로퍼갠더 타워"
+ZH: "炎黃坦克思想強化電塔"
+BP: "Torre de Propaganda Overlord"
+PL: "Megafon"
+END
+
+UPGRADE:OverlordBattleBunker
+US: "Overlord Battle Bunker"
+DE: "Overlord-Bunker"
+FR: "Casemate Empereur"
+ES: "Búnker de combate Overlord"
+IT: "Bunker da battaglia Overlord"
+KO: "오버로드 배틀 벙커"
+ZH: "炎黃坦克戰鬥碉堡"
+BP: "Bunker de Combate Overlord"
+PL: "Bunkier bojowy"
+END
+
+UPGRADE:ControlRods
+US: "Control Rods"
+DE: "Brennstäbe"
+FR: "Grappe de commande"
+ES: "Barras de control"
+IT: "Barre di controllo"
+KO: "제어 로드"
+ZH: "核能控制棒"
+BP: "Barras de Controle"
+PL: "Pręty sterujące"
+END
+
+UPGRADE:ScoutDrone
+US: "Scout Drone"
+DE: "Spähdrohne"
+FR: "Drone de reconnaissance"
+ES: "Teledirigido de reconocimiento"
+IT: "Drone scout"
+KO: "스카웃 드론"
+ZH: "偵搜蜂型機"
+BP: "Drone de Reconhecimento"
+PL: "Robot zwiadowczy"
+END
+
+UPGRADE:BattleDrone
+US: "Battle Drone"
+DE: "Kampfdrohne"
+FR: "Drone de combat"
+ES: "Teledirigido de combate"
+IT: "Drone da battaglia"
+KO: "배틀 드론"
+ZH: "攻擊蜂型機"
+BP: "Drone de Combate"
+PL: "Robot bojowy"
+END
+
+UPGRADE:RangerFlashBangGrenade
+US: "Ranger Flash-Bang Grenades"
+DE: "Ranger-Blendgranaten"
+FR: "Grenades flash de ranger"
+ES: "Granadas cegadoras Ranger"
+IT: "Granate flash"
+KO: "섬광폭음탄"
+ZH: "遊騎兵閃光彈"
+BP: "Granadas Flash Bang"
+PL: "Granaty oślepiające"
+END
+
+UPGRADE:HoverTank
+US: "Hover Tank"
+DE: "Luftkissenpanzer"
+FR: "Hover tank"
+ES: "Tanque aerodeslizador"
+IT: "Carro a levitazione"
+KO: "호버 탱크"
+ZH: "盤旋坦克"
+BP: "Tanque Hover"
+PL: "Czołg poduszkowy"
+END
+
+UPGRADE:TomahawkRemoteControl
+US: "Cruise Missiles"
+DE: "Cruise Missiles"
+FR: "Missiles de croisière"
+ES: "Misiles de largo alcance"
+IT: "Missili balistici"
+KO: "크루즈 미사일"
+ZH: "巡航飛彈"
+BP: "Mísseis Cruise"
+PL: "Pociski samosterujące"
+END
+
+UPGRADE:AircraftFuel
+US: "Aircraft Fuel"
+DE: "Kerosin"
+FR: "Ravitaillement en vol"
+ES: "Combustible para aviones"
+IT: "Carburante aereo"
+KO: "에어크래프트 퓰"
+ZH: "飛行燃料"
+BP: "Combustível de Aviação"
+PL: "Paliwo lotnicze"
+END
+
+UPGRADE:LaserMissiles
+US: "Laser Missiles"
+DE: "Laser-Lenkraketen"
+FR: "Missiles laser"
+ES: "Misiles láser"
+IT: "Missili laser"
+KO: "레이저 미사일"
+ZH: "雷射飛彈"
+BP: "Sistema de Mira Laser"
+PL: "Pociski laserowe"
+END
+
+UPGRADE:TOWMissile
+US: "TOW Missile"
+DE: "TOW-Rakete"
+FR: "Missile TOW"
+ES: "Misil TOW"
+IT: "Missile TOW"
+KO: "TOW 미사일"
+ZH: "托式飛彈"
+BP: "Míssil TOW"
+PL: "Pocisk TOW"
+END
+
+UPGRADE:ComancheRocketPods
+US: "Comanche Rocket Pods"
+DE: "Comanche-Raketenmagazine"
+FR: "Nacelle porte-roquettes de Comanche"
+ES: "Compartimento para cohetes Comanche"
+IT: "Lanciarazzi"
+KO: "로켓 포드"
+ZH: "卡曼契火箭發射匣"
+BP: "Pods de Foguetes p/ Comanche"
+PL: "Zasobniki rakietowe"
+END
+
+UPGRADE:RailGun
+US: "Rail Gun"
+DE: "Railgun"
+FR: "Rail Gun"
+ES: "Rail gun"
+IT: "Rail Gun"
+KO: "레일 건"
+ZH: "軌道砲"
+BP: "Rail Gun"
+PL: "Działko szynowe"
+END
+
+UPGRADE:Nationalism
+US: "Nationalism"
+DE: "Nationalismus"
+FR: "Nationalisme"
+ES: "Nacionalismo"
+IT: "Nazionalismo"
+KO: "민족주의"
+ZH: "民族精神"
+BP: "Nacionalismo"
+PL: "Nacjonalizm"
+END
+
+UPGRADE:AntiTankGrenade
+US: "Anti-Tank Grenades"
+DE: "Panzerbrechende Granaten"
+FR: "Grenades antichars"
+ES: "Granadas antitanque"
+IT: "Granate anticarro"
+KO: "대전차 수류탄"
+ZH: "反坦克手榴彈"
+BP: "Granadas Antitanque"
+PL: "Granaty przeciwczołgowe"
+END
+
+UPGRADE:VehicleHack
+US: "Vehicle Hack"
+DE: "Fahrzeug manipulieren"
+FR: "Vol de véhicule"
+ES: "Pirateo de Vehículo"
+IT: "Neutralizza veicolo"
+KO: "차량 해킹"
+ZH: "劫持載具"
+BP: "Invasão de Veículos"
+PL: "Hakowanie pojazdu"
+END
+
+UPGRADE:IRGoggles
+US: "Infrared Goggles"
+DE: "Nachtsichtgerät"
+FR: "Lunettes IR"
+ES: "Gafas con infrarrojos"
+IT: "Visore infrarosso"
+KO: "인프라레드 고글"
+ZH: "紅外線護目鏡"
+BP: "Óculos Infravermelhos"
+PL: "Gogle termowizyjne"
+END
+
+UPGRADE:BlackNapalm
+US: "Black Napalm"
+DE: "Schwarzes Napalm"
+FR: "Napalm noir"
+ES: "Napalm negro"
+IT: "Napalm nero"
+KO: "블랙 네이팜"
+ZH: "黑色汽油彈"
+BP: "Napalm Negro"
+PL: "Czarny napalm"
+END
+
+UPGRADE:ChainGuns
+US: "Chain Guns"
+DE: "Chainguns"
+FR: "Cadences rapides"
+ES: "Cañones repetidores"
+IT: "Cannoni a nastro"
+KO: "체인건"
+ZH: "鍊砲"
+BP: "Correia de Balas"
+PL: "CKM-y"
+END
+
+UPGRADE:SubliminalMessaging
+US: "Subliminal Messaging"
+DE: "Unterbewusste Beeinflussung"
+FR: "Messages subliminaux"
+ES: "Mensaje Subliminal"
+IT: "Messaggi subliminali"
+KO: "잠재 메시지"
+ZH: "潛意識訊息"
+BP: "Mensagens Subliminares"
+PL: "Oddziaływanie podprogowe"
+END
+
+UPGRADE:UraniumShells
+US: "Uranium Shells"
+DE: "Urangranaten"
+FR: "Obus d'uranium appauvri"
+ES: "Balas de uranio"
+IT: "Proiettili all'uranio"
+KO: "우라늄탄"
+ZH: "鈾殼"
+BP: "Munição Radioativa"
+PL: "Pociski uranowe"
+END
+
+UPGRADE:NuclearTanks
+US: "Nuclear Tanks"
+DE: "Nuklearpanzer"
+FR: "Propulsion nucléaire"
+ES: "Tanques nucleares"
+IT: "Carri nucleari"
+KO: "원자력 탱크"
+ZH: "核子坦克"
+BP: "Tanques Nucleares"
+PL: "Czołgi atomowe"
+END
+
+UPGRADE:StunBullets
+US: "Stun Bullets"
+DE: "Betäubungsmunition"
+FR: "Balles incapacitantes"
+ES: "Balas aturdidoras"
+IT: "Proiettili stordenti"
+KO: "스턴 불릿"
+ZH: "昏迷彈"
+BP: "Balas de Borracha"
+PL: "Pociski ogłuszające"
+END
+
+UPGRADE:TranqDarts
+US: "Tranq. Darts"
+DE: "Betäubungspfeile"
+FR: "Fléchettes tranq."
+ES: "Dardos sedantes"
+IT: "Dardi tranquillizzanti"
+KO: "트랭퀼라이저 다트"
+ZH: "鎮定劑飛鏢"
+BP: "Dardos Tranquilizantes"
+PL: "Strzałki usypiające"
+END
+
+UPGRADE:APBullets
+US: "AP Bullets"
+DE: "Panzerbrechende Munition"
+FR: "Balles perforantes"
+ES: "Balas antitanque"
+IT: "Proiettili perforanti"
+KO: "철갑탄"
+ZH: "穿甲彈"
+BP: "Balas Perfurantes de Blindagem"
+PL: "Kule ppanc."
+END
+
+UPGRADE:BioBomb
+US: "Bio-Bomb"
+DE: "Biobombe"
+FR: "Bombe bactériologique"
+ES: "Biobomba"
+IT: "Biobombe"
+KO: "바이오폭탄"
+ZH: "生化炸彈"
+BP: "Bomba Biológica"
+PL: "Biobomba"
+END
+
+UPGRADE:HighExplosiveBomb
+US: "High-Explosive Bomb"
+DE: "Hochexplosive Bombe"
+FR: "C-404"
+ES: "Bomba de alto explosivo"
+IT: "Bomba ad alto potenziale"
+KO: "HE 폭탄"
+ZH: "高爆炸彈"
+BP: "Bomba de Alto Explosivo"
+PL: "Bomba krusząca"
+END
+
+UPGRADE:ArmTheMob
+US: "Arm The Mob"
+DE: "Mob bewaffnen"
+FR: "Armer les émeutiers"
+ES: "Armar la turba"
+IT: "Arma la folla"
+KO: "성난 군중 무장"
+ZH: "暴民"
+BP: "Armar a Multidão"
+PL: "Uzbrojenie wściekłego tłumu"
+END
+
+UPGRADE:ScorpionRocket
+US: "Scorpion Rocket"
+DE: "Skorpion-Rakete"
+FR: "Lance-missile"
+ES: "Cohete Scorpion"
+IT: "Razzo Scorpion"
+KO: "스콜피온 로켓"
+ZH: "天蠍坦克火箭"
+BP: "Foguete Escorpião"
+PL: "Rakieta Skorpion"
+END
+
+UPGRADE:SCUDLauncherExplosiveWarhead
+US: "Explosive Warhead"
+DE: "Explosiver Gefechtskopf"
+FR: "Ogives au C-404"
+ES: "Cabeza explosiva"
+IT: "Testata esplosiva"
+KO: "고폭탄"
+ZH: "高爆彈頭"
+BP: "Ogiva Explosiva"
+PL: "Głowica wybuchowa"
+END
+
+UPGRADE:SCUDLauncherAnthraxWarhead
+US: "Anthrax Warhead"
+DE: "Anthrax-Gefechtskopf"
+FR: "Ogives Anthrax"
+ES: "Cabeza de Antrax"
+IT: "Testata all'antrace"
+KO: "탄저병 탄두"
+ZH: "炭疽菌彈頭"
+BP: "Ogiva de Antraz"
+PL: "Głowica wąglikowa"
+END
+
+UPGRADE:BuggyAmmo
+US: "Rocket Buggy Ammo"
+DE: "Munition für Raketenbuggy"
+FR: "Rack buggy"
+ES: "Munición de lanzacohetes Buggy"
+IT: "Munizioni buggy lanciarazzi"
+KO: "로켓버기 공격력"
+ZH: "火箭吉普車彈藥"
+BP: "Munição p/ Buggy"
+PL: "Pojazd rakietowy"
+END
+
+UPGRADE:AnthraxBeta
+US: "Anthrax Beta"
+DE: "Anthrax Beta"
+FR: "Beta-anthrax"
+ES: "Antrax Beta"
+IT: "Antrace-beta"
+KO: "탄저병 베타"
+ZH: "炭疽菌試驗"
+BP: "Antraz Beta"
+PL: "Wąglik Beta"
+END
+
+UPGRADE:ToxinShells
+US: "Toxin Shells"
+DE: "Toxingranaten"
+FR: "Obus chimiques"
+ES: "Proyectiles con toxinas"
+IT: "Proiettili tossici"
+KO: "독소 포탄"
+ZH: "毒素匣"
+BP: "Munição Tóxica"
+PL: "Pociski z toksyną"
+END
+
+UPGRADE:JunkRepair
+US: "Junk Repair"
+DE: "Instandsetzung"
+FR: "Matériel de réparation"
+ES: "Reparación de chapa"
+IT: "Riparazione"
+KO: "정크 리페어"
+ZH: "廢物修理"
+BP: "Reparos de Combate"
+PL: "Naprawa złomu"
+END
+
+UPGRADE:Camouflage
+US: "Camouflage"
+DE: "Tarnung"
+FR: "Camouflage"
+ES: "Camuflaje"
+IT: "Mimetizzazione"
+KO: "위장술"
+ZH: "偽裝"
+BP: "Camuflagem"
+PL: "Kamuflaż"
+END
+
+UPGRADE:CompositeArmor
+US: "Composite Armor"
+DE: "Kompositpanzerung"
+FR: "Blindage composite"
+ES: "Blindaje reforzado"
+IT: "Corazza composita"
+KO: "합성장갑"
+ZH: "複合式裝甲"
+BP: "Blindagem Composta"
+PL: "Pancerz kompozytowy"
+END
+
+UPGRADE:AircraftArmor
+US: "Aircraft Armor"
+DE: "Flugzeug-Panzerung"
+FR: "Fuselage blindé"
+ES: "Blindaje aviación"
+IT: "Corazza MIG"
+KO: "MiG 장갑"
+ZH: "飛機裝甲"
+BP: "Blindagem de Aeronave"
+PL: "Opancerzenie lotnictwa"
+END
+
+UPGRADE:RadarVanScan
+US: "Radar Van Scan"
+DE: "Radarabtastung"
+FR: "Radar mobile à scanner"
+ES: "Barrido de camioneta radar"
+IT: "Scansione radar"
+KO: "레이더 스캔"
+ZH: "雷達車掃描"
+BP: "Varredura de Furgão Radar"
+PL: "Skan furgonetki radarowej"
+END
+
+UPGRADE:RangerCaptureBuilding
+US: "Capture Building"
+DE: "Gebäude besetzen"
+FR: "Prendre bâtiment"
+ES: "Tomar edificio"
+IT: "Conquista struttura"
+KO: "건물 점령"
+ZH: "佔領建築物"
+BP: "Capturar Estrutura"
+PL: "Zajmij budynek"
+END
+
+UPGRADE:RedguardCaptureBuilding
+US: "Capture Building"
+DE: "Gebäude besetzen"
+FR: "Prendre bâtiment"
+ES: "Tomar edificio"
+IT: "Conquista struttura"
+KO: "건물 점령"
+ZH: "佔領建築物"
+BP: "Capturar Estrutura"
+PL: "Zajmij budynek"
+END
+
+UPGRADE:RebelCaptureBuilding
+US: "Capture Building"
+DE: "Gebäude besetzen"
+FR: "Prendre bâtiment"
+ES: "Tomar edificio"
+IT: "Conquista struttura"
+KO: "건물 점령"
+ZH: "佔領建築物"
+BP: "Capturar Estrutura"
+PL: "Zajmij budynek"
+END
+
+UPGRADE:AmericaDroneARmor
+US: "Drone Armor"
+DE: "Drohnenpanzerung"
+FR: "Blindage &drones"
+ES: "Blindaje para teledirigidos"
+IT: "Droni corazzati"
+KO: "드론 장갑"
+ZH: "蜂型機裝甲"
+BP: "Blindagem Drone"
+PL: "Pancerz robotów"
+END
+
+UPGRADE:APRockets
+US: "Armor Piercing Rockets"
+DE: "Panzerbrechende Raketen"
+FR: "Projectile perforant"
+ES: "Cohetes perforadores de blindaje"
+IT: "Razzi perforanti"
+KO: "AP 로켓"
+ZH: "穿甲火箭"
+BP: "Foguetes Perfurantes de Blindagem"
+PL: "Rakiety ppanc."
+END

@@ -1,0 +1,2639 @@
+CREDITS:EALosAngelesFieldRecordingsTeam
+US: "EA Los Angeles Field Recordings Team"
+DE: "EA Los Angeles Field Recordings Team"
+FR: "Equipe d'enregistrements terrain, EA Los Angeles"
+ES: "Equipo de Grabaciones de campo de EA Los Ángeles"
+IT: "Squadra di registrazione diretta EA Los Angeles"
+KO: "EA Los Angeles Field Recordings Team"
+ZH: "EA Los Angeles Field Recordings Team"
+BP: "Equipe de Gravação de Externas - EA Los Angeles"
+PL: "Zespół nagrań terenowych EA Los Angeles"
+END
+
+CREDITS:TiburonQualityAssuranceSeniorLead
+US: "EA Tiburon Quality Assurance Senior Lead"
+DE: "Tiburon Quality Assurance Senior Lead"
+FR: "Responsable senior du contrôle qualité, Tiburon"
+ES: "Jefe Senior de Control de Calidad en EA Tiburon"
+IT: "Capo senior controllo qualità EA Tiburon"
+KO: "Tiburon Quality Assurance Senior Lead"
+ZH: "Tiburon Quality Assurance Senior Lead"
+BP: "Líder Sênior de Garantia de Qualidade da EA Tiburon"
+PL: "Główny kierownik kontroli jakości w EA Tiburon"
+END
+
+CREDITS:TiburonQualityAssuranceProjectLead
+US: "EA Tiburon Quality Assurance Project Lead"
+DE: "Tiburon Quality Assurance Project Lead"
+FR: "Responsable de projet du contrôle qualité, Tiburon"
+ES: "Jefe de Proyecto de Control de Calidad en EA Tiburon"
+IT: "Capo progetto controllo qualità EA Tiburon"
+KO: "Tiburon Quality Assurance Project Lead"
+ZH: "Tiburon Quality Assurance Project Lead"
+BP: "Líder de Projeto de Garantia de Qualidade da EA Tiburon"
+PL: "Kierownik kontroli jakości w EA Tiburon"
+END
+
+CREDITS:TiburonAssociateQualityAssuranceLeads
+US: "EA Tiburon Associate Quality Assurance Leads"
+DE: "Tiburon Associate Quality Assurance Leads"
+FR: "Responsables du contrôle qualité associés, Tiburon"
+ES: "Asistentes de Control de Calidad en EA Tiburon"
+IT: "Capi associati controllo qualità EA Tiburon"
+KO: "Tiburon Associate Quality Assurance Leads"
+ZH: "Tiburon Associate Quality Assurance Leads"
+BP: "Líderes Associados de Garantia de Qualidade da EA Tiburon"
+PL: "Współpraca kierownicza kontroli jakości w EA Tiburon"
+END
+
+CREDITS:TiburonQualityAssuranceSeniorTesters
+US: "EA Tiburon Quality Assurance Senior Testers"
+DE: "Tiburon Quality Assurance Senior Testers"
+FR: "Testeurs principaux du contrôle qualité, Tiburon"
+ES: "Pruebas Senior de Control de Calidad en EA Tiburon"
+IT: "Test senior controllo qualità EA Tiburon"
+KO: "Tiburon Quality Assurance Senior Testers"
+ZH: "Tiburon Quality Assurance Senior Testers"
+BP: "Testadores Sênior de Garantia de Qualidade da EA Tiburon"
+PL: "Główni testerzy kontroli jakości w EA Tiburon"
+END
+
+CREDITS:TiburonQualityAssuranceTesters
+US: "EA Tiburon Quality Assurance Testers"
+DE: "Tiburon Quality Assurance Testers"
+FR: "Testeurs contrôle qualité, Tiburon"
+ES: "Pruebas de Control de Calidad en EA Tiburon"
+IT: "Test controllo qualità EA Tiburon"
+KO: "Tiburon Quality Assurance Testers"
+ZH: "Tiburon Quality Assurance Testers"
+BP: "Testadores de Controle de Qualidade da EA Tiburon"
+PL: "Testerzy kontroli jakości w EA Tiburon"
+END
+
+CREDITS:EAUKAdditionalQualityAssurance
+US: "EAUK Additional Quality Assurance"
+DE: "EAUK Additional Quality Assurance"
+FR: "Contrôle qualité additionnel, EAUK"
+ES: "Control de calidad adicional en EAUK"
+IT: "Controllo qualità aggiuntivo EAUK"
+KO: "EAUK Additional Quality Assurance"
+ZH: "EAUK Additional Quality Assurance"
+BP: "Controle de Qualidade Adicional - EAUK"
+PL: "Dodatkowa kontrola jakości EAUK"
+END
+
+CREDITS:MultiplayerTestParticipants
+US: "Multiplayer Test Participants"
+DE: "Multiplayer Test Participants"
+FR: "Testeurs du mode multijoueur"
+ES: "Participantes en pruebas multijugador"
+IT: "Partecipanti ai test multigiocatore"
+KO: "Multiplayer Test Participants"
+ZH: "Multiplayer Test Participants"
+BP: "Participantes do Teste Multijogador"
+PL: "Uczestnicy testu gry wieloosobowej"
+END
+
+CREDITS:FocusTesters
+US: "Focus Testers"
+DE: "Focus Testers"
+FR: "Testeurs focus"
+ES: "Testers externos"
+IT: "Test valutativo"
+KO: "Focus Testers"
+ZH: "Focus Testers"
+BP: "Testadores de Foco"
+PL: "Testerzy fokusowi"
+END
+
+CREDITS:NorthAmericaMarketingPartners
+US: "North America Marketing Partners"
+DE: "North America Marketing Partners"
+FR: "Partenaires marketing nord-américains"
+ES: "Socios de marketing en Norteamérica"
+IT: "Partner marketing Nord America"
+KO: "North America Marketing Partners"
+ZH: "North America Marketing Partners"
+BP: "Companheiros de Marketing - América do Norte"
+PL: "Partnerzy marketingowi w Ameryce Północnej"
+END
+
+CREDITS:ManagingDirectorEurope
+US: "Managing Director, Europe"
+DE: "Managing Director, Europe"
+FR: "Directeur général, Europe"
+ES: "Director general, Europa"
+IT: "Direttore gestione Europa"
+KO: "Managing Director, Europe"
+ZH: "Managing Director, Europe"
+BP: "Diretor - Europa"
+PL: "Dyrektor Generalny, Europa"
+END
+
+CREDITS:EuropeanMarketingPartners
+US: "European Marketing Partners"
+DE: "European Marketing Partners"
+FR: "Partenaires marketing européens"
+ES: "Socios de marketing europeos"
+IT: "Partner marketing Europa"
+KO: "European Marketing Partners"
+ZH: "European Marketing Partners"
+BP: "Companheiros de Marketing - Europa"
+PL: "Partnerzy marketingowi w Europie"
+END
+
+CREDITS:AsiaPacificPresidentandCoach
+US: "EA Asia Pacific, President and Coach"
+DE: "Asia Pacific, President and Coach"
+FR: "Président Asie Pacifique"
+ES: "Presidente e Instructor de EA Asia Pacific"
+IT: "EA Asia Pacific, presidente e direttore"
+KO: "Asia Pacific, President and Coach"
+ZH: "Asia Pacific, President and Coach"
+BP: "Presidente e Treinador, EA Asia Pacific"
+PL: "Prezes EA Pacific"
+END
+
+CREDITS:AsiaPacificMarketingPartners
+US: "EA Asia Pacific Marketing Partners"
+DE: "Asia Pacific Marketing Partners"
+FR: "Partenaires marketing Asie Pacifique"
+ES: "Socios de Marketing de EA Asia Pacific"
+IT: "Partner marketing EA Asia Pacific"
+KO: "Asia Pacific Marketing Partners"
+ZH: "Asia Pacific Marketing Partners"
+BP: "Parceiros de Marketing EA Asia Pacific"
+PL: "Partnerzy marketingowi EA Asia Pacific"
+END
+
+CREDITS:GamingCommunityPartners
+US: "Gaming Community Partners"
+DE: "Gaming Community Partners"
+FR: "Partenaires de la communauté des joueurs"
+ES: "Socios de la comunidad del juego"
+IT: "Partner comunità di gioco"
+KO: "Gaming Community Partners"
+ZH: "Gaming Community Partners"
+BP: "Companheiros da Comunidade de Jogos"
+PL: "Partnerzy społeczności graczy"
+END
+
+CREDITS:EADevelopmentExecutives
+US: "EA Development Executives"
+DE: "EA Development Executives"
+FR: "Responsables développement EA"
+ES: "Ejecutivos de desarrollo EA"
+IT: "Esecutivi sviluppo EA"
+KO: "EA Development Executives"
+ZH: "EA Development Executives"
+BP: "Executivos de Desenvolvimento da EA"
+PL: "Kierownicy rozwoju EA"
+END
+
+CREDITS:SpecialThankstotheMaxiscrew
+US: "Special Thanks to the Maxis crew"
+DE: "Special Thanks to the Maxis crew"
+FR: "Remerciements spéciaux à l'équipe de Maxis"
+ES: "Un agradecimiento especial a la gente de Maxis"
+IT: "Un ringraziamento speciale al personale di Maxis"
+KO: "Special Thanks to the Maxis crew"
+ZH: "Special Thanks to the Maxis crew"
+BP: "Agradecimento Especial ao pessoal da Maxis"
+PL: "Specjalne podziękowania dla zespołu Maxisa"
+END
+
+CREDITS:VerySpecialThanks
+US: "Very Special Thanks"
+DE: "Very Special Thanks"
+FR: "Remerciements très spéciaux"
+ES: "Un agradecimiento muy especial"
+IT: "Ringraziamenti davvero speciali"
+KO: "Very Special Thanks"
+ZH: "Very Special Thanks"
+BP: "Agradecimento Muito Especial"
+PL: "Bardzo specjalne podziękowania"
+END
+
+CREDITS:DevelopmentTitle
+US: "Command & Conquer (TM) Generals Zero Hour was developed"
+DE: "Command & Conquer Generäle - Die Stunde Null was developed"
+FR: "C&C Generals - Heure H a été développé"
+ES: "Command & Conquer (TM) Generals: Zero Hour ha sido desarrollado"
+IT: "Command & Conquer(TM) Generals Zero Hour è stato sviluppato"
+KO: "Command & Conquer Generals: Zero Hour was developed"
+ZH: "Command & Conquer (TM) Generals Zero Hour was developed"
+BP: "Command & Conquer (TM) Generals Zero Hour foi desenvolvido"
+PL: "Gra Command & Conquer (TM) Generals: Zero Hour została stworzona przez"
+END
+
+CREDITS:EAPacificDevTeam
+US: "Electronic Arts Los Angeles"
+DE: "Electronic Arts Los Angeles"
+FR: "Electronic Arts Los Angeles"
+ES: "Electronic Arts Los Angeles"
+IT: "Electronic Arts Los Angeles"
+KO: "Electronic Arts Pacific - Command & Conquer Generals"
+ZH: "Electronic Arts Los Angeles"
+BP: "Electronic Arts Los Angeles"
+PL: "Electronic Arts Los Angeles"
+END
+
+CREDITS:ExecutiveInCharge
+US: "Executive in Charge of Production"
+DE: "Executive in Charge of Production"
+FR: "Chargé de production exécutif"
+ES: "Ejecutivo encargado de la producción"
+IT: "Direttore esecutivo della produzione"
+KO: "Executive in Charge of Production"
+ZH: "Executive in Charge of Production"
+BP: "Executivo a Cargo da Produção"
+PL: "Członek zarządu odpowiedzialny za produkcję"
+END
+
+CREDITS:Producer
+US: "Producer"
+DE: "Producer"
+FR: "Producteur"
+ES: "Productor"
+IT: "Produttore"
+KO: "Producer"
+ZH: "Producer"
+BP: "Produtor"
+PL: "Producent"
+END
+
+CREDITS:LeadDesigner
+US: "Lead Designer"
+DE: "Lead Designer"
+FR: "Concepteur en chef"
+ES: "Diseñador principal"
+IT: "Capo progettazione"
+KO: "Lead Designer"
+ZH: "Lead Designer"
+BP: "Designer Líder"
+PL: "Główny projektant"
+END
+
+CREDITS:TechnicalDirector
+US: "Technical Director"
+DE: "Technical Director"
+FR: "Directeur technique"
+ES: "Director técnico"
+IT: "Direttore tecnico"
+KO: "Technical Director"
+ZH: "Technical Director"
+BP: "Diretor Técnico"
+PL: "Dyrektor techniczny"
+END
+
+CREDITS:ArtDirector
+US: "Art Director"
+DE: "Art Director"
+FR: "Directeur artistique"
+ES: "Director artístico"
+IT: "Direttore grafico"
+KO: "Art Director"
+ZH: "Art Director"
+BP: "Diretor de Arte"
+PL: "Dyrektor artystyczny"
+END
+
+CREDITS:ArtProducer
+US: "Art Producer"
+DE: "Art Producer"
+FR: "Producteur artistique"
+ES: "Productor artístico"
+IT: "Produttore grafico"
+KO: "Art Producer"
+ZH: "Art Producer"
+BP: "Produtor de Arte"
+PL: "Producent artystyczny"
+END
+
+CREDITS:SeniorProducer
+US: "Senior Producer"
+DE: "Senior Producer"
+FR: "Producteur senior"
+ES: "Productor senior"
+IT: "Produttore senior"
+KO: "Senior Producer"
+ZH: "Senior Producer"
+BP: "Produtor Sênior"
+PL: "Producent nadzorujący"
+END
+
+CREDITS:AssociateProducers
+US: "Associate Producer"
+DE: "Associate Producers"
+FR: "Producteur associé"
+ES: "Productor asociado"
+IT: "Produttori associati"
+KO: "Associate Producers"
+ZH: "Associate Producer"
+BP: "Produtor Associado"
+PL: "Współpraca producencka"
+END
+
+CREDITS:MultiplayerTestProducer
+US: "Multiplayer Test Producer"
+DE: "Multiplayer Test Producer"
+FR: "Producteur du test multijoueur"
+ES: "Productor de pruebas multijugador"
+IT: "Produttore test multigiocatore"
+KO: "Multiplayer Test Producer"
+ZH: "Multiplayer Test Producer"
+BP: "Produtor de Teste Multijogador"
+PL: "Producent testów gry wieloosobowej"
+END
+
+CREDITS:SeniorEngineers
+US: "Senior Engineers"
+DE: "Senior Engineers"
+FR: "Ingénieurs seniors"
+ES: "Ingenieros senior"
+IT: "Ingegneri senior"
+KO: "Senior Engineers"
+ZH: "Senior Engineers"
+BP: "Engenheiros Sênior"
+PL: "Główni inżynierowie"
+END
+
+CREDITS:Engineers
+US: "Engineers"
+DE: "Engineers"
+FR: "Ingénieurs"
+ES: "Ingenieros"
+IT: "Ingegneri"
+KO: "Engineers"
+ZH: "Engineers"
+BP: "Engenheiros"
+PL: "Inżynierowie"
+END
+
+CREDITS:AdditionalEngineering
+US: "Additional Engineering"
+DE: "Additional Engineering"
+FR: "Ingénierie supplémentaire"
+ES: "Ingeniería adicional"
+IT: "Elaborazione aggiuntiva"
+KO: "Additional Engineering"
+ZH: "Additional Engineering"
+BP: "Engenharia Adicional"
+PL: "Dodatkowe prace inżynierskie"
+END
+
+CREDITS:Designers
+US: "Designers"
+DE: "Designers"
+FR: "Concepteurs"
+ES: "Diseñadores"
+IT: "Progettazione"
+KO: "Designers"
+ZH: "Designers"
+BP: "Designers"
+PL: "Projektanci"
+END
+
+CREDITS:AdditionalDesignInspirationandSupport
+US: "Additional Design, Inspiration and Support"
+DE: "Additional Design, Inspiration and Support"
+FR: "Conception additionnelle, inspiration et soutien"
+ES: "Diseño adicional, inspiración y soporte"
+IT: "Progettazione aggiuntiva, ispirazione e supporto"
+KO: "Additional Design, Inspiration and Support"
+ZH: "Additional Design, Inspiration and Support"
+BP: "Design Adicional, Inspiração e Suporte"
+PL: "Dodatkowe projekty, inspiracja i pomoc"
+END
+
+CREDITS:AdditionalDesign
+US: "Additional Design"
+DE: "Additional Design"
+FR: "Conception additionnelle"
+ES: "Diseño adicional"
+IT: "Progettazione aggiuntiva"
+KO: "Additional Design"
+ZH: "Additional Design"
+BP: "Design Adicional"
+PL: "Dodatkowe projekty"
+END
+
+CREDITS:ExternalMultiplayMapCreators
+US: "External Multiplay Map Creators"
+DE: "External Multiplay Map Creators"
+FR: "Créateurs externes des cartes multijoueurs"
+ES: "Creadores de mapas multijugador externos"
+IT: "Creatori esterni mappe multigiocatore"
+KO: "External Multiplay Map Creators"
+ZH: "External Multiplay Map Creators"
+BP: "Criadores de Mapas Multijogador Externos"
+PL: "Niezależni twórcy map gry wieloosobowej"
+END
+
+CREDITS:Artists
+US: "Artists"
+DE: "Artists"
+FR: "Infographie"
+ES: "Artistas"
+IT: "Grafici"
+KO: "Artists"
+ZH: "Artists"
+BP: "Artistas"
+PL: "Graficy"
+END
+
+CREDITS:AdditionalArt
+US: "Additional Art"
+DE: "Additional Art"
+FR: "Graphismes supplémentaires"
+ES: "Arte adicional"
+IT: "Grafica aggiuntiva"
+KO: "Additional Art"
+ZH: "Additional Art"
+BP: "Arte Adicional"
+PL: "Dodatkowa grafika"
+END
+
+CREDITS:DirectorofAudio
+US: "Director of Audio"
+DE: "Director of Audio"
+FR: "Directeur de l'audio"
+ES: "Director de audio"
+IT: "Direttore audio"
+KO: "Director of Audio"
+ZH: "Director of Audio"
+BP: "Diretor de Áudio"
+PL: "Reżyser nagrań"
+END
+
+CREDITS:SoundDesignandVoiceDirection
+US: "Sound Design and Voice Direction"
+DE: "Sound Design and Voice Direction"
+FR: "Conception sonore et direction vocale"
+ES: "Sonido y dirección de doblaje"
+IT: "Progettazione audio e direzione di registrazione"
+KO: "Sound Design and Voice Direction"
+ZH: "Sound Design and Voice Direction"
+BP: "Design de Som e Direção de Vozes"
+PL: "Projekt dźwięku i reżyseria dialogów"
+END
+
+CREDITS:Composers
+US: "Composers"
+DE: "Composers"
+FR: "Compositeurs"
+ES: "Compositores"
+IT: "Compositori"
+KO: "Composers"
+ZH: "Composers"
+BP: "Compositores"
+PL: "Kompozytorzy"
+END
+
+CREDITS:Composer1
+US: "Music Composed and Produced by"
+DE: "Music Composed and Produced by"
+FR: "Musique composée et produite par"
+ES: "Música compuesta y producida por"
+IT: "Musica composta e prodotta da"
+KO: "Music Composed and Produced by"
+ZH: "Music Composed and Produced by"
+BP: "Música Composta e Produzida por"
+PL: "Kompozytor i producent muzyki"
+END
+
+CREDITS:Additionalsoundsanddialogueprocessing
+US: "Additional Sounds and Additional Dialogue Processing"
+DE: "Additional Sounds and Additional Dialogue Processing"
+FR: "Sons et traitement supplémentaire des dialogues par"
+ES: "Sonidos adicionales y procesamiento de diálogos adicional"
+IT: "Suoni ed elaborazione dialoghi aggiuntivi"
+KO: "Additional Sounds and Additional Dialogue Processing"
+ZH: "Additional sounds and additional dialogue processing by"
+BP: "Sons e Processamento de Diálogos Adicionais"
+PL: "Dodatkowe dźwięki i obróbka dialogów"
+END
+
+CREDITS:ScriptWriters
+US: "Script Writers"
+DE: "Script Writers"
+FR: "Scripts"
+ES: "Guionistas"
+IT: "Stesura sceneggiatura"
+KO: "Script Writers"
+ZH: "Script Writers"
+BP: "Escritores de Script"
+PL: "Autorzy skryptów"
+END
+
+CREDITS:SoundEffectsFieldRecordings
+US: "Sound Effects Field Recordings"
+DE: "Sound Effects Field Recordings"
+FR: "Enregistrements terrain des effets spéciaux"
+ES: "Grabaciones de campo para efectos de sonido"
+IT: "Registrazione diretta degli effetti sonori"
+KO: "Sound Effects Field Recordings"
+ZH: "Sound Effects Field Recordings"
+BP: "Gravação de Efeitos Especiais"
+PL: "Nagrywanie efektów dźwiękowych w terenie"
+END
+
+CREDITS:SoundEffectsFieldRecordings1
+US: "Jacques Littlefield and the Military Vehicle Technology Foundation"
+DE: "Jacques Littlefield and the Military Vehicle Technology Foundation"
+FR: "Jacques Littlefield et la Fondation pour la technologie des véhicules militaires"
+ES: "Jacques Littlefield y la Military Vehicle Technology Foundation"
+IT: "Jacques Littlefield e la Military Vehicle Technology Foundation"
+KO: "Jacques Littlefield and the Military Vehicle Technology Foundation"
+ZH: "Jacques Littlefield and the Military Vehicle Technology Foundation"
+BP: "Jacques Littlefield e a Fundação de Tecnologia de Veículos Militares"
+PL: "Jacques Littlefield i Military Vehicle Technology Foundation"
+END
+
+CREDITS:SoundEffectsFieldRecordings2
+US: "SPEC Samuel H. Cho"
+DE: "SPEC Samuel H. Cho"
+FR: "SPEC Samuel H. Cho"
+ES: "SPEC Samuel H. Cho"
+IT: "SPEC Samuel H. Cho"
+KO: "SPEC Samuel H. Cho"
+ZH: "SPEC Samuel H. Cho"
+BP: "SPEC Samuel H. Cho"
+PL: "SPEC Samuel H. Cho"
+END
+
+CREDITS:SoundEffectsFieldRecordings3
+US: "Staff Sergeant Scott McClane of C troop 1/18 Cav"
+DE: "Staff Sergeant Scott McClane of C troop 1/18 Cav"
+FR: "Sergent Scott McClane de l'escadron C du 18ème de cavalerie"
+ES: "Cabo primero Scott McClane de la tropa C 1/18 Caballería"
+IT: "Lo staff del sergente Scott McClane del plotone C, 1/18 Cav"
+KO: "Staff Sergeant Scott McClane of C troop 1/18 Cav"
+ZH: "Staff Sergeant Scott McClane of C troop 1/18 Cav"
+BP: "Sargento Scott MacClane da Tropa C 1/18 Cav"
+PL: "Sierżant sztabowy Scott McClane z oddziału C 1/18 Cav"
+END
+
+CREDITS:SoundEffectsFieldRecordings4
+US: "Mary Beth McFadden and Francisco Mendozo at Adam's Steel - Anaheim"
+DE: "Mary Beth McFadden and Francisco Mendozo at Adam's Steel - Anaheim"
+FR: "Mary Beth McFadden et Francisco Mendozo, de Adam's Steel - Anaheim"
+ES: "Mary Beth McFadden y Francisco Mendozo de Adam's Steel - Anaheim"
+IT: "Mary Beth McFadden e Francisco Mendozo di Adam's Steel - Anaheim"
+KO: "Mary Beth McFadden and Francisco Mendozo at Adam's Steel - Anaheim"
+ZH: "Mary Beth McFadden and Francisco Mendozo at Adam's Steel - Anaheim"
+BP: "Mary Beth McFadden e Francisco Mendozo da Adam´s Steel - Anaheim"
+PL: "Mary Beth McFadden i Francisco Mendozo w Adam's Steel - Anaheim"
+END
+
+CREDITS:CinematicCutSceneDirector
+US: "Cinematic Cut Scene Director"
+DE: "Cinematic Cut Scene Director"
+FR: "Réalisateur des cinématiques"
+ES: "Director de escenas cinematográficas"
+IT: "Direttore intermezzi cinematici"
+KO: "Cinematic Cut Scene Director"
+ZH: "Cinematic Cut Scene Director"
+BP: "Diretor de Cenas de Animação"
+PL: "Reżyser sekwencji animowanych"
+END
+
+CREDITS:CinematicCutSceneArtists
+US: "Cinematic Cut Scene Artists"
+DE: "Cinematic Cut Scene Artists"
+FR: "Infographie des cinématiques"
+ES: "Artistas de escenas cinematográficas"
+IT: "Grafici intermezzi cinematici"
+KO: "Cinematic Cut Scene Artists"
+ZH: "Cinematic Cut Scene Artists"
+BP: "Artistas de Animação"
+PL: "Graficy sekwencji animowanych"
+END
+
+CREDITS:ProductionAssistance
+US: "Additional Production Management"
+DE: "Additional Production Management"
+FR: "Assistant de production"
+ES: "Dirección de producción adicional"
+IT: "Assistenza alla produzione"
+KO: "Additional Production Management"
+ZH: "Additional Production Management"
+BP: "Assistência de Produção Extra"
+PL: "Dodatkowe kierownictwo produkcji"
+END
+
+CREDITS:AdditionalProductionManagement
+US: "Additional Production Management"
+DE: "Additional Production Management"
+FR: "Responsable production additionnelle"
+ES: "Dirección de producción adicional"
+IT: "Gestione aggiuntiva della produzione"
+KO: "Additional Production Management"
+ZH: "Additional Production Management"
+BP: "Gerenciamento de Produção Adicional"
+PL: "Dodatkowe zarządzanie produkcją"
+END
+
+CREDITS:CameoProduction
+US: "Cameo Production"
+DE: "Cameo Production"
+FR: "Production apparitions spéciales"
+ES: "Producción Cameo"
+IT: "Produzione cameo"
+KO: "Cameo Production"
+ZH: "Cameo Production"
+BP: "Produção de Extras"
+PL: "Przerywniki filmowe"
+END
+
+CREDITS:Casting
+US: "Casting by Deborah German Casting"
+DE: "Casting by Deborah German Casting"
+FR: "Casting par Deborah German Casting"
+ES: "Casting de Deborah German Casting"
+IT: "Casting di Deborah German Casting"
+KO: "Casting by Deborah German Casting"
+ZH: "Casting by Deborah German Casting"
+BP: "Elenco por Deborah German Casting"
+PL: "Casting - Deborah German Casting"
+END
+
+CREDITS:Wardrobe
+US: "Wardrobe by Jodi DeMarco"
+DE: "Wardrobe by Janet Grower / Santa Barbara Studios"
+FR: "Costumes par Jodi DeMarco"
+ES: "Vestuario de Jodi DeMarco"
+IT: "Guardaroba di Jodi DeMarco"
+KO: "Wardrobe by Jodi DeMarco"
+ZH: "Wardrobe by Jodi DeMarco"
+BP: "Guarda-roupa por Jodi De Marco"
+PL: "Kostiumy Jodi DeMarco"
+END
+
+CREDITS:HairandMakeUp
+US: "Hair and Make-Up by Jodi DeMarco"
+DE: "Hair and Make-Up by Jodi DeMarco"
+FR: "Coiffure et maquillage par Jodi DeMarco"
+ES: "Maquillaje y peluquería de Jodi DeMarco"
+IT: "Acconciature e trucco di Jodi DeMarco"
+KO: "Hair and Make-Up by Jodi Demarco"
+ZH: "Hair and Make-Up by Jodi DeMarco"
+BP: "Cabelo e Maquiagem por Jodi De Marco"
+PL: "Charakteryzacja Jodi Demarcos"
+END
+
+CREDITS:EngineeringInterns
+US: "Engineering Interns"
+DE: "Engineering Interns"
+FR: "Ingénieurs internes"
+ES: "Prácticas de ingeniería"
+IT: "Ingegneri interni"
+KO: "Engineering Interns"
+ZH: "Engineering Interns"
+BP: "Estagiários de Engenharia"
+PL: "Inżynierowie stażyści"
+END
+
+CREDITS:ArtIntern
+US: "Art Intern"
+DE: "Art Intern"
+FR: "Graphiste interne"
+ES: "Prácticas de arte"
+IT: "Grafica interna"
+KO: "Art Intern"
+ZH: "Art Intern"
+BP: "Estagiário de Arte"
+PL: "Staźyści graficy"
+END
+
+CREDITS:EAPacificQualityAssurance
+US: "EA Pacific Quality Assurance"
+DE: "EA Pacific Quality Assurance"
+FR: "Contrôle qualité EA Pacifique"
+ES: "Control de calidad EA Pacific"
+IT: "Controllo qualità EA Pacific"
+KO: "EA Pacific Quality Assurance"
+ZH: "EA Pacific Quality Assurance"
+BP: "Controle de Qualidade - EA Pacific"
+PL: "Kontrola jakości EA Pacific"
+END
+
+CREDITS:EAPacificOperations
+US: "EA Pacific Operations"
+DE: "EA Pacific Operations"
+FR: "Opérations EA Pacifique"
+ES: "Operaciones EA Pacific"
+IT: "Operazioni EA Pacific"
+KO: "EA Pacific Operations"
+ZH: "EA Pacific Operations"
+BP: "Operações - EA Pacific"
+PL: "Administracja EA Pacific"
+END
+
+CREDITS:VoiceActors
+US: "Voice Actors"
+DE: "Voice Actors"
+FR: "Voix"
+ES: "Actores de doblaje"
+IT: "Doppiatori"
+KO: "Voice Actors"
+ZH: "Voice Actors"
+BP: "Vozes"
+PL: "Użyczyli głosów"
+END
+
+CREDITS:CameoPhotos
+US: "Cameo and Generals' Photos"
+DE: "Cameo Photos"
+FR: "Photos apparitions spéciales"
+ES: "Fotos de generales y cameos"
+IT: "Cameo e foto di Generals"
+KO: "Cameo and Generals' Photos"
+ZH: "Cameo and Generals' Photos"
+BP: "Fotos de Camafeu e Generais"
+PL: "Zdjęcia portretowe"
+END
+
+CREDITS:AdditionalModels
+US: "Additional Models by Mythos Studios"
+DE: "Additional Models by Mythos Studios"
+FR: "Modèles supplémentaires par les Studios Mythos"
+ES: "Modelos adicionales de Mythos Studios"
+IT: "Modelli aggiuntivi di Mythos Studios"
+KO: "Additional Models by Mythos Studios"
+ZH: "Additional Models by Mythos Studios"
+BP: "Modelos Adicionais por Mythos Studios"
+PL: "Dodatkowe modele - Mythos Studios"
+END
+
+CREDITS:CinematicIntroandFinaleMovies
+US: "Intro Movie by Mondo Media"
+DE: "Intro Movie by Mondo Media"
+FR: "Séquence d'introduction par Mondo Media"
+ES: "Película de introducción por Mondo Media"
+IT: "Cinematica introduttiva di Mondo Media"
+KO: "Cinematic Intro and Finale Movies"
+ZH: "Intro Movie by Mondo Media"
+BP: "Animação da Introdução por Mondo Media"
+PL: "Filmowy wstęp - Mondo Media"
+END
+
+CREDITS:MotionCapture
+US: "Westwood Motion Capture"
+DE: "Westwood Motion Capture"
+FR: "Capture de mouvements Westwood"
+ES: "Captura de movimientos de Westwood"
+IT: "Motion capture Westwood"
+KO: "Westwood Motion Capture"
+ZH: "Westwood Motion Capture"
+BP: "Motion Capture da Westwood"
+PL: "Motion Capture w studiach Westwood"
+END
+
+CREDITS:MilitarypropsThanx
+US: "Military props supplied by David Hsu & Specialized Distribution"
+DE: "Military props supplied by David Hsu & Specialized Distribution"
+FR: "Soutien militaire par David Hsu/Specialized Distribution"
+ES: "Suministros militares: David Hsu & Specialized Distribution"
+IT: "Componenti militari forniti da David Hsu & Specialized Distribution"
+KO: "Military props supplied by David Hsu & Specialized Distribution"
+ZH: "Military props supplied by David Hsu/Specialized Distribution"
+BP: "Artigos Militares fornecidos por David Hsu & Distribuição Especializada"
+PL: "Materiały wojskowe dostarczone przez Davida Hsu & Specialized Distribution"
+END
+
+CREDITS:SpecialThanx1
+US: "Thanks & Love to Daisy & Freeman Gushee, Mom & Dad and Ike! - Harvard"
+DE: "Thanks & Love to Daisy & Freeman Gushee, Mom & Dad and Ike! - Harvard"
+FR: "Merci et tout mon amour à Daisy et Freeman Gushee, Maman, Papa et Ike ! - Harvard"
+ES: "¡Nuestro agradecimiento y cariño a Daisy y Freeman Gushee, mamá, papá y Ike! - Harvard"
+IT: "Un grazie e un vi voglio bene a Daisy e Freeman Gushee, mamma e papà e Ike - Harvard"
+KO: "MomDadIkePacoMikeWhitchLetNelsEnHenriDaveTyLauraNatJenSarah - HB"
+ZH: "MomDadIkePacoMikeWhitchLetNelsEnHenriDaveTyLauraNatJenSarah - HB"
+BP: "Obrigado e muito carinho para Daisy & Freeman Gushee, Mãe & Pai e Ike! - Harvard"
+PL: "Podziękowania i wyrazy miłości dla Daisy i Freemana Gushee, mamy i taty, i Ike'a! - Harvard"
+END
+
+CREDITS:SpecialThanx2
+US: "Love and thanks to Laura, Ben, Jack, Sam and Sophie"
+DE: "Love and thanks to Laura, Ben, Jack, Sam and Sophie"
+FR: "Toute mon affection et mes remerciements à Laura, Ben, Jack, Sam et Sophie."
+ES: "Nuestro agradecimiento y cariño a Laura, Ben, Jack, Sam y Sophia"
+IT: "Saluti e baci a Laura, Ben, Jack, Sam e Sophie"
+KO: "Thanks to Cricket, Boris, Lucy, Poet, and, of course, Lynn."
+ZH: "Thanks to Cricket, Boris, Lucy, Poet, and, of course, Lynn."
+BP: "Obrigado e muito carinho para Laura, Ben, Jack, Sam e Sophie"
+PL: "Wyrazy miłości i podziękowania dla Laury, Bena, Jacka, Sama i Sophie"
+END
+
+CREDITS:SpecialThanx3
+US: "Thanks to the Brown Family Support Team- Robin, Josh, Beth and Meeskite"
+DE: "Thanks to the Brown Family Support Team- Robin, Josh, Beth and Meeskite"
+FR: "Merci à la famille Brown pour son soutien : Robin, Josh, Beth et Meeskite."
+ES: "Gracias al Brown Family Support Team: Robin, Josh, Beth y Meeskite"
+IT: "Grazie al gruppo di sostegno della Famiglia Brown: Robin, Josh, Beth e Meeskite"
+KO: "Thanks to my family/friends for keeping me sane(ish) - JB"
+ZH: "Thanks to my family/friends for keeping me sane(ish) JB"
+BP: "Obrigado a Equipe de Suporte Família Brown - Robin, Josh, Beth e Meeskite"
+PL: "Podziękowania dla Zespołu Wsparcia Rodziny Brownów - Robina, Josha, Beth i Meeskite'a"
+END
+
+CREDITS:SpecialThanx4
+US: "Thanks to my son Colin Moore for letting me play the game on his machine"
+DE: "Thanks to my son Colin Moore for letting me play the game on his machine"
+FR: "Merci à mon fils, Colin Moore, pour m'avoir laissé essayer ce jeu sur son ordinateur."
+ES: "Gracias a mi hijo Colin Moore por dejarme probar el juego en su ordenador"
+IT: "Grazie a mio figlio Colin Moore per avermi lasciato giocare sul suo PC"
+KO: "Thanks and love to Laura, Ben, Jack, Sam and Sophia Skaggs."
+ZH: "Thanks and love to Laura, Ben, Jack, Sam and Sophia Skaggs."
+BP: "Obrigado a meu filho Colin Moore por me deixar jogar na maquina dele"
+PL: "Posziękowania dla mego syna, Colina Moore'a, za to, że pozwolił mi pograć na swoim sprzęcie"
+END
+
+CREDITS:SpecialThanx5
+US: "A big hug to my new husband Joji for his love and support -Jill"
+DE: "A big hug to my new husband Joji for his love and support -Jill"
+FR: "Un gros câlin à Joji, mon mari, pour son amour et son soutien - Jill"
+ES: "Un fuerte abrazo a mi nuevo marido Joji por su amor y apoyo -Jill"
+IT: "Un grosso abbraccio al mio fresco marito, Joji, per tutto l'aiuto che mi ha dato - Jill"
+KO: "A big hug to my new husband Joji for his love and support -Jill"
+ZH: "With Love Dad Mom Nan Juba Teresa Eddie Jay Wash & Julie."
+BP: "Um grande abraço ao meu novo marido Joji e por seu amor e apoio - Jill"
+PL: "Wielkie uściski dla mojego nowego męża Joji za jego miłość i wsparcie - Jill"
+END
+
+CREDITS:SpecialThanx7
+US: "Thanks to DMP, Jenny and Elizabeth"
+DE: "Thanks to DMP, Jenny and Elizabeth"
+FR: "Merci à DMP, Jenny et Elizabeth."
+ES: "Gracias a DMP, Jenny y Elizabeth"
+IT: "Grazie a DMP, Jenny ed Elizabeth"
+KO: "Thanks to my family for hanging in there, when Dad was away from them."
+ZH: "Thanks to my family for hanging in there, when Dad was away from them."
+BP: "Obrigado a DMP, Jenny e Elizabeth"
+PL: "Podziękowania dla DMP, Jenny i Elizabeth"
+END
+
+CREDITS:SpecialThanx8
+US: "Thanks to my Father. - Mark Lorenzen"
+DE: "Thanks to my Father. - Mark Lorenzen"
+FR: "Merci à mon Père - Mark Lorenzen"
+ES: "Gracias a mi padre. - Mark Lorenzen"
+IT: "Grazie a mio padre - Mark Lorenzen"
+KO: "For my wife Stephanie Keegan for her support and understanding. I love you."
+ZH: "For my wife Stephanie Keegan for her support and understanding. I love you."
+BP: "Obrigado a meu Pai. - Mark Lorenzen"
+PL: "Podziękowania dla mojego ojca - Mark Lorenzen"
+END
+
+CREDITS:SpecialThanx9
+US: "Lots of love to Madison, Reece, Melissa, Dad, and my bros! - Randy Greenback"
+DE: "Lots of love to Madison, Reece, Melissa, Dad, and my bros! - Randy Greenback"
+FR: "Tout mon amour à Madison, Reece, Melissa, Papa et mes frérots ! - Randy Greenback"
+ES: "Con mucho cariño para Madison, Reece, Melissa, papá y mis hermanos! - Randy Greenback"
+IT: "Tutto il mio amore a Madison, Reece, Melissa, papà e i miei fratelli! - Randy Greenback"
+KO: "Thanx to my family for putting up with my long absence & Blue Aguave nectar - FH"
+ZH: "Thanx to my family for putting up with my long absence & Blue Aguave nectar - FH"
+BP: "Muito amor a Madison, Reece, Melissa, Pai, mãe e manos! - Randy Greenback"
+PL: "Wiele wyrazów miłości dla Madisona, Reece'a, Melissy, taty i moich braci! - Randy Greenback"
+END
+
+CREDITS:SpecialThanx10
+US: "Thanks to Maha, Ramzi, & Brooke for their support. Props to the 415 kids-Amer"
+DE: "Thanks to Maha, Ramzi, & Brooke for their support. Props to the 415 kids-Amer"
+FR: "Merci à Maha, Ramzi et Brooke pour leur soutien. Merci aussi aux enfants - Amer"
+ES: "Gracias a Maha, Ramzi y Brooke por su apoyo. Mi apoyo a los 415 kids-Amer"
+IT: "Grazie a Maha, Ramzi e Brooke per il loro sostegno. Forza 415 kids-Amer!"
+KO: "Hi mom! Thanks Ramzi, Geoff, Craig, Nalani, and the GS crew. - AA"
+ZH: "Hi mom! Thanks Ramzi, Geoff, Craig, Nalani, and the GS crew."
+BP: "Obrigado a Maha, Ramzi & Brooke por seu suporte. Apoio às 415 crianças-Amer"
+PL: "Podziękowania dla Mahy, Ramziego i Brooke za ich wsparcie. Pozdrowienia dla dzieciaków 415 - Amer"
+END
+
+CREDITS:SpecialThanx11
+US: "Mom&Dad, Bry,Kev,Dan&Mel,Aaron&Kelsey,Mikki,Adam,Kev,Jay,James - SCC"
+DE: "Mom&Dad, Bry,Kev,Dan&Mel,Aaron&Kelsey,Mikki,Adam,Kev,Jay,James - SCC"
+FR: "Papa et Maman, Bry, Kev, Dan et Mel, Aaron et Kelsey, Mikki, Adam, Kev, Jay, James - SCC"
+ES: "mamá y papá, Bry, Kev, Dan y Mel, Aaron y Kelsey, Mikki, Adam, Kev, Jay, James - SCC"
+IT: "Mamma e papà, Bry, Kev, Dan e Mel, Aaron e Kelsey, Mikki, Adam, Kev, Jay, James - SCC"
+KO: "Thank you, Paula, for your support & patience - MV"
+ZH: "Thank you, Paula, for your support & patience. MV"
+BP: "Mãe&Pai, Bry,Kev,Dan&Mel,Aaron&Kelsey,Mikki,Adam,Kev,Jay,James - SCC"
+PL: "Mama&tata, Bry,Kev,Dan&Mel,Aaron&Kelsey,Mikki,Adam,Kev,Jay,James - SCC"
+END
+
+CREDITS:SpecialThanx12
+US: "To Brenda and Nero for their wonderful support - Eric Kearns"
+DE: "To Brenda and Nero for their wonderful support - Eric Kearns"
+FR: "Merci à Brenda et Nero pour leur soutien sans faille - Eric Kearns"
+ES: "A Brenda y Nero por su fantástico apoyo - Eric Kearns"
+IT: "A Brenda e Nero per tutto il loro aiuto - Eric Kearns"
+KO: "Kristie Torres, Graham Morness, Paul Dulong & Chilliwack BC!"
+ZH: "Kristie Torres, Graham Morness, Paul Dulong & Chilliwack BC!"
+BP: "A Brenda e Nero pelo seu magnífico apoio - Eric Kearns"
+PL: "Dla Brendy i Nero za ich cudowne wsparcie - Eric Kearns"
+END
+
+CREDITS:SpecialThanx13
+US: "Thanks Gibson, Vinge, Mieville, Bear, Hebert, LeGuin - RN Smith"
+DE: "Thanks Gibson, Vinge, Mieville, Bear, Hebert, LeGuin - RN Smith"
+FR: "Merci à Gibson, Vinge, Mieville, Bear, Hebert, LeGuin - RN Smith"
+ES: "Gracias a Gibson, Vinge, Mieville, Bear, Hebert, LeGuin - RN Smith"
+IT: "Grazie a Gibson, Vinge, Mieville, Bear, Hebert, LeGuin - RN Smith"
+KO: "Becca de Boo, Restore Will, Long passes to Goblins."
+ZH: "Becca de Boo, Restore Will, Long passes to Goblins"
+BP: "Obrigado Gibson, Vinge, Mieville, Bear, Hebert, LeGuin - RN Smith"
+PL: "Dziękuję Gibsonowi, Vinge, Mieville'owi, Bearowi, Hebertowi, LeGuin - RN Smith"
+END
+
+CREDITS:SpecialThanx14
+US: "Deborah, Stephen, and Alan- Thanks for putting up with me - Ian Barkley-Yeung"
+DE: "Deborah, Stephen, and Alan- Thanks for putting up with me - Ian Barkley-Yeung"
+FR: "Merci à Deborah, Stephen et Alan pour leur patience à mon égard - Ian Barkley-Yeung"
+ES: "Deborah, Stephen y Alan- Gracias por aguantarme - Ian Barkley-Yeung"
+IT: "Deborah, Stephen e Alan, grazie per avermi sopportato - Ian Barkley-Yeung"
+KO: "My roots, loyal friends, and my Desert Rose."
+ZH: "My roots, loyal friends, and my Desert Rose"
+BP: "Deborah, Stephen e Alan- Obrigado pela paciência comigo - Ian Barkley-Yeung"
+PL: "Deborah, Stephen i Alan - Dzięki za to, że mnie znosiliście - Ian Barkley-Yeung"
+END
+
+CREDITS:SpecialThanx15
+US: "Thanks to Cristi for your understanding and support - John"
+DE: "Thanks to Cristi for your understanding and support - John"
+FR: "Cristi, merci pour ta compréhension et ton soutien - John"
+ES: "Gracias a Cristi por su comprensión y apoyo - John"
+IT: "Grazie a Cristi per la comprensione e il sostegno - John"
+KO: "Thanks to my Family for celebrating Xmas in February."
+ZH: "Thanks to my Family for celebrating Xmas in February"
+BP: "Obrigado Cristi pela compreensão e apoio - John"
+PL: "Podziękowania dla Cristi za zrozumienie i wsparcie - John"
+END
+
+CREDITS:SpecialThanx16
+US: "Thanks to April Wesley Kelly & Chelsie - Scott Bowen"
+DE: "Thanks to April Wesley Kelly & Chelsie - Scott Bowen"
+FR: "Merci à April Wesley Kelly et Chelsie - Scott Bowen"
+ES: "Gracias a April Wesley Kelly y Chelsie - Scott Bowen"
+IT: "Grazie ad April, Wesley, Kelly e Chelsie - Scott Bowen"
+KO: "I'd like to thank myself, because without me, I wouldn't be here."
+ZH: "I'd like to thank myself, because without me, I wouldn't be here"
+BP: "Obrigado a April Wesley Kelly & Chelsie - Scott Bowen"
+PL: "Podziękowania dla April Wesley Kelly i Chelsie - Scott Bowen"
+END
+
+CREDITS:SpecialThanx17
+US: "Thanks to friends, family, Choo Choo Bear, and the hard-working ZH team! -JB"
+DE: "Thanks to friends, family, Choo Choo Bear, and the hard-working ZH team! -JB"
+FR: "Merci à mes amis, ma famille, Choo Choo Bear et à l'équipe de ZH pour son dur labeur ! - JB"
+ES: "¡Gracias a mis amigos, mi familia, el oso Choo Choo y al trabajador equipo de ZH! -JB"
+IT: "Grazie ai miei amici, alla mia famiglia, all'orso Choo Choo e allo ZH team! - JB"
+KO: "Special thanks to Susan Campbell."
+ZH: "Special thanks to Susan Campbell"
+BP: "Obrigado a amigos, família, Choo Choo Bear e a equipe trabalhadora da ZH! -JB"
+PL: "Podziękowania dla przyjaciół, rodziny, misia Choo Choo i ciężko zapracowanej ekipy Zero Hour! -JB"
+END
+
+CREDITS:SpecialThanx18
+US: "Thanks to Junko for your love. -Robert Minsk"
+DE: "Thanks to Junko for your love. -Robert Minsk"
+FR: "Junko, merci pour ton amour - Robert Minsk"
+ES: "Gracias a Junko por su amor. -Robert Minsk"
+IT: "Grazie a Junko per il suo amore - Robert Minsk"
+KO: "Thanks to Karen and Nick Ahlquist, I love you both."
+ZH: "Thanks to Karen and Nick Ahlquist, I love you both"
+BP: "Obrigado Junko por seu amor. -Robert Minsk"
+PL: "Podziękowania dla Junko za jej miłość - Robert Minsk"
+END
+
+CREDITS:SpecialThanx19
+US: "Thank-U Carina, Kat and Brandon for being so understanding-David Wainstain"
+DE: "Thank-U Carina, Kat and Brandon for being so understanding-David Wainstain"
+FR: "Carina, Kat et Brandon, merci d'être si compréhensifs - David Wainstain"
+ES: "Gracias a Carina, Kat y Brandon por ser tan comprensivos - David Wainstain"
+IT: "Grazie a Carina, Kat e Brandon per tutta la loro comprensione - David Wainstain"
+KO: "Thanks to Jen, who makes the world go around."
+ZH: "Thanks to Jen, who makes the world go around"
+BP: "Obrigado Carina, Kat e Brandon por serem tão compreensivos - David Wainstain"
+PL: "Dzięki Carina, Kat i Brandon, że byliście tak wyrozumiali - David Wainstain"
+END
+
+CREDITS:SpecialThanx20
+US: "Thanks to my family, Cheryl and Brandon Burtis for their love and support"
+DE: "Thanks to my family, Cheryl and Brandon Burtis for their love and support"
+FR: "Merci à ma famille, à Cheryl et Brandon Burtis pour leur amour et leur soutien."
+ES: "Gracias a mi familia, Cheryl y Brandon Burtis por su amor y apoyo"
+IT: "Grazie alla mia famiglia, Cheryl e Brandon Burtis, per il loro affetto e il loro aiuto"
+KO: "Terri, Jackie, Pepper, and Abby Lee."
+ZH: "Terri, Jackie, Pepper, and Abby Lee"
+BP: "Obrigado à minha família, Cheryl e Brandon Burtis pelo amor e apoio"
+PL: "Podziękowania dla mojej rodziny, Cheryl i Brandona Burtisów, za ich miłość i wsparcie"
+END
+
+CREDITS:SpecialThanx21
+US: "Thanks to my friends and family, especially Jeannie. I love you all - KDS"
+DE: "Thanks to my friends and family, especially Jeannie. I love you all - KDS"
+FR: "Merci à mes amis, à ma famille et à Jeannie en particulier. Je vous aime - KDS"
+ES: "Gracias a mis amigos y familia, especialmente a Jeannie. Os quiero a todos - KDS"
+IT: "Grazie ai miei amici e alla mia famiglia, in particolare a Jeannie. Vi amo tutti - KDS"
+KO: "Thanks to Renee, Bruce, Laura, Eva & all my buds in the 949."
+ZH: "Thanks to Renee, Bruce, Laura, Eva & all my buds in the 949."
+BP: "Obrigado a meus amigos e família, especialmente a Jeannie. Eu te amo - KDS"
+PL: "Podziękowania dla moich przyjaciół i rodziny, zwłaszcza dla Jeannie. Kocham was wszystkich - KDS"
+END
+
+CREDITS:SpecialThanx22
+US: "Thanks for my wonderful husband Roman - Samm"
+DE: "Thanks for my wonderful husband Roman - Samm"
+FR: "Merci pour mon merveilleux mari, Roman - Samm"
+ES: "Gracias a mi fantástico marido Roman - Samm"
+IT: "Grazie al mio meraviglioso marito, Roman - Samm"
+KO: "Krissy, Gandalf and Morrigan: Best Family Ever."
+ZH: "Krissy, Gandalf and Morrigan: Best Family Ever."
+BP: "Obrigado ao meu maravilhoso marido Roman - Samm"
+PL: "Podziękowania dla mojego cudownego męża Romana - Samm"
+END
+
+CREDITS:SpecialThanx23
+US: "Thanks Ari for all your love, support and understanding - Jose"
+DE: "Thanks Ari for all your love, support and understanding - Jose"
+FR: "Ari, merci pour tout ton amour, ton soutien et ta compréhension - Jose"
+ES: "Gracias, Ari, por todo tu amor, apoyo y comprensión - José"
+IT: "Grazie, Ari, per il tuo amore, il tuo aiuto e la tua comprensione - Jose"
+KO: "Thank you Laurie, Katie, and Erik for being patient."
+ZH: "Thank you Laurie, Katie, and Erik for being patient."
+BP: "Obrigado Ari por todo seu amor, apoio e compreensão - Jose"
+PL: "Dziękuję, Ari, za całą twą miłość, wsparcie i wyrozumiałość - Jose"
+END
+
+CREDITS:SpecialThanx24
+US: "To Rebecca, the only thing that matters, the only thing that lasts"
+DE: "To Rebecca, the only thing that matters, the only thing that lasts"
+FR: "A Rebecca, la seule qui compte et qui demeure."
+ES: "A Rebecca, lo único que importa, lo único que perdura"
+IT: "A Rebecca, l'unica cosa che conta, l'unica cosa che ci sarà sempre"
+KO: "The Brown support team: Robin, Josh, Beth, Meeskite for patience, love and support."
+ZH: "The Brown support team: Robin, Josh, Beth, Meeskite for patience, love and support."
+BP: "A Rebecca, a única coisa que importa, a única que durará"
+PL: "Dla Rebekki, jedynej, która się liczy, jedynej, która trwa"
+END
+
+CREDITS:SpecialThanx25
+US: "Thanks to my loving wife for inspiration and support - Chris Rubyor"
+DE: "Thanks to my loving wife for inspiration and support - Chris Rubyor"
+FR: "Merci à ma tendre épouse pour son soutien et l'inspiration qu'elle me donne - Chris Rubyor"
+ES: "Gracias a mi querida esposa por su inspiración y apoyo - Chris Rubyor"
+IT: "Grazie alla mia adorata moglie per l'aiuto e l'ispirazione - Chris Rubyor"
+KO: "THANKS Mom for lunch, Dad for advice, Roman for sweetness."
+ZH: "THANKS Mom for lunch, Dad for advice, Roman for sweetness."
+BP: "Obrigado a minha amada esposa pela inspiração e apoio - Chris Rubyor"
+PL: "Podziękowania dla mojej kochającej żony za natchnienie i wsparcie - Chris Rubyor"
+END
+
+CREDITS:SpecialThanx26
+US: "Thanks to my wife for giving our time to me. I love you. - Jeff Stewart"
+DE: "Thanks to my wife for giving our time to me. I love you. - Jeff Stewart"
+FR: "Merci à ma femme, toujours prête à me donner du temps. Je t'aime - Jeff Stewart"
+ES: "Gracias a mi esposa por concederme el tiempo que pasamos juntos. Te quiero. - Jeff Stewart"
+IT: "Grazie a mia moglie per il tempo che mi ha dedicato. Ti amo - Jeff Stewart"
+KO: "Peter L, Mike W, Matt C, Monkeys."
+ZH: "Peter L, Mike W, Matt C, Monkeys."
+BP: "Obrigado a minha esposa por se dedicar a mim. Eu te amo. - Jeff Stewart"
+PL: "Podziękowania dla mojej żony za danie mi czasu. Kocham cię - Jeff Stewart"
+END
+
+CREDITS:SpecialThanx27
+US: "Thanks to Mom BruceLauraDasmoMikeyTedoTrevor and all my buds in The OC"
+DE: "Thanks to Mom BruceLauraDasmoMikeyTedoTrevor and all my buds in The OC"
+FR: "Merci à Maman, Bruce, Laura, Dasmo, Mikey, Tedo, Trevor et à tous mes potes de l'OC."
+ES: "Gracias a mamá BruceLauraDasmoMikeyTedoTrevor y todos mis colegas de la OC"
+IT: "Grazie a mamma, Bruce, Laura, Dasmo, Mikey, Tedo, Trevor e a tutti gli amici di OC"
+KO: "Ingrid, Noelle & Cassie Nadon, Mom & Dad Cleveland."
+ZH: "Ingrid, Noelle & Cassie Nadon, Mom & Dad Cleveland."
+BP: "Obrigado Mãe BruceLauraDasmoMikeyTedoTrevor e todos meus companheiros na OC"
+PL: "Podziękowania dla Mama BruceLauraDasmoMikeyTedoTrevor i wszyscy moi kumple z The OC"
+END
+
+CREDITS:SpecialThanx28
+US: "I would like to thank my family and Amy Ritchie"
+DE: "I would like to thank my family and Amy Ritchie"
+FR: "Je voudrais remercier ma famille et Amy Ritchie."
+ES: "Quisiera dar las gracias a mi familia y a Amy Ritchie"
+IT: "Voglio ringraziare la mia famiglia e Amy Ritchie"
+KO: "To Melissa, who kept the home front safe while I went off to war."
+ZH: "to Melissa, who kept the home front safe while I went off to war."
+BP: "Eu gostaria de agradecer minha família e a Amy Ritchie"
+PL: "Chciałbym podziękować mojej rodzinie i Amy Ritchie"
+END
+
+CREDITS:SpecialThanx29
+US: "NazBoniadiArtRasoulZohreRahimiAliLeilaTabaFamilyP,T,KMLoBobWindDrFrost"
+DE: "NazBoniadiArtRasoulZohreRahimiAliLeilaTabaFamilyP,T,KMLoBobWindDrFrost"
+FR: "NazBoniadiArtRasoulZohreRahimiAliLeilaFamilleTabaP, T, KMLoBobWindDrFrost."
+ES: "NazBoniadiArtRasoulZohreRahimiAliLeilaTabaFamilyP,T,KMLoBobWindDrFrost"
+IT: "NazBoniadiArtRasoulZohreRahimiAliLeilaTabaFamilyP,T,KMLoBobWindDrFrost"
+KO: "Justine, ice cream filled donuts, political correctness, Natas."
+ZH: "Justine, ice cream filled donuts, political correctness, Natas."
+BP: "NazBoniadiArtRasoulZohreRahimiAliLeilaTabaFamíliaP,T,KMLoBobWindDrFrost"
+PL: "NazBoniadiArtRasoulZohreRahimiAliLeilaTabaFamilyP,T,KMLoBobWindDrFrost"
+END
+
+CREDITS:SpecialThanx31
+US: "Thanks to Ben Calmer & Laura Miele"
+DE: "Thanks to Ben Calmer & Laura Miele"
+FR: "Merci à Ben Calmer et Laura Miele."
+ES: "Gracias a Ben Calmer y Laura Miele"
+IT: "Grazie a Ben Calmer & Laura Miele"
+KO: "Deepest thanks to my Honey and the kids, for patience and support."
+ZH: "Deepest thanks to my Honey and the kids, for patience and support."
+BP: "Obrigado a Ben Calmer & Laura Miele"
+PL: "Podziękowania dla Bena Calmera i Laury Miele"
+END
+
+CREDITS:SpecialThanx33
+US: "Very Special Thanks to the Command & Conquer fan community."
+DE: "Very Special Thanks to the Command & Conquer fan community."
+FR: "Nos plus chaleureux remerciements à la communauté de fans de Command and Conquer."
+ES: "Un agradecimiento muy especial a la comunidad de aficionados de Command & Conquer."
+IT: "Un ringraziamento speciale alla comunità degli appassionati di Command & Conquer."
+KO: "To all my family and friends who await my early return."
+ZH: "To all my family and friends who await my early return."
+BP: "Agradecimento especial à comunidade de fãs do Command & Conquer."
+PL: "Bardzo specjalne podziękowania dla społeczności miłośników Command & Conquer."
+END
+
+CREDITS:SpecialThanx34
+US: "Mad props to my sweetie Joji and my baby Sparky"
+DE: "Mad props to my sweetie Joji and my baby Sparky."
+FR: "A ma douce Joji et mon bébé Sparky."
+ES: "Mil gracias a mi dulce Joji y mi niño Sparky."
+IT: "Tutto il mio amore al mio tesoro Joji e al mio piccolo Sparky."
+KO: "Mad props to my sweetie Joji and my baby Sparky."
+ZH: "Mad props to my sweetie Joji and my baby Sparky."
+BP: "Loucuras pela minha doce Joji e meu bebê Sparky."
+PL: "Szalone podziękowania dla najsłodszej Joji i mojej maleńkiej Sparky."
+END
+
+CREDITS:SpecialThanx35
+US: "Thanks to my family, Cheryl and Brandon Burtis for their love and support"
+DE: "Thanks to my family, Cheryl and Brandon Burtis for their love and support."
+FR: "Merci à ma famille, Cheryl et Brandon Burtis pour leur amour et leur soutien."
+ES: "Gracias a mi familia, Cheryl y Brandon Burtis por su amor y apoyo."
+IT: "Grazie alla mia famiglia, Cheryl e Brandon Burtis, per il loro amore e il loro sostegno."
+KO: "Terri, Jackie, Pepper, and Abby Lee."
+ZH: "Thanks to my family, Cheryl and Brandon Burtis for their love and support."
+BP: "Obrigado a minha família, Cheryl e Brandon Burtis pelo seu amor e suporte."
+PL: "Dziękuję mojej rodzinie, Cheryl i Brandonowi Burtis za miłość i wsparcie."
+END
+
+CREDITS:SpecialThanx36
+US: "I'd like to thank my wife for understanding my busyness"
+DE: "I'd like to thank my wife for understanding my busyness."
+FR: "J'aimerais remercier ma femme pour sa compréhension."
+ES: "Me gustaría darle las gracias a mi mujer por entender mi trabajo."
+IT: "Vorrei ringraziare mia moglie per aver capito che cosa ho dovuto fare."
+KO: "I'd like to thank my wife for understanding my busyness."
+ZH: "I'd like to thank my wife for understanding my busyness."
+BP: "Gostaria de agradecer minha esposa por compreender meu trabalho."
+PL: "Chcę podziękować mojej żonie za zrozumienie dla mojego braku czasu."
+END
+
+CREDITS:SpecialThanx37
+US: "Bjorn Muller Thanks: Mom, Dad, family & friends"
+DE: "Bjorn Muller Thanks: Mom, Dad, family & friends."
+FR: "Bjorn Muller remercie : maman, papa, toute la famille et les amis."
+ES: "Agradecimiento de Bjorn Muller: a mamá, papá, la familia y los amigos."
+IT: "Bjorn Muller ringrazia: mamma, papà, famiglia e amici."
+KO: "Bjorn Muller Thanks: Mom, Dad, family & friends."
+ZH: "Bjorn Muller Thanks: Mom, Dad, family & friends."
+BP: "Bjorn Muller Agradece: Mãe, Pai, família & amigos."
+PL: "Bjorn Muller dziękuje: Mamie, Tacie, Rodzinie i przyjaciołom."
+END
+
+CREDITS:SpecialThanx38
+US: "I would like to thank my family and Amy for all the support"
+DE: "I would like to thank my family and Amy for all the support."
+FR: "J'aimerais remercier ma famille et Arny pour leur soutien."
+ES: "Me gustaría darle las gracias a mi familia y Amy por su apoyo."
+IT: "Vorrei ringraziare la mia famiglia e Amy per tutto il loro sostegno."
+KO: "I would like to thank my family and Amy for all the support."
+ZH: "I would like to thank my family and Amy for all the support."
+BP: "Eu gostaria de agradecer minha família e Amy por todo o apoio."
+PL: "Chcę podziękować mojej rodzinie i Amy za ich pomoc."
+END
+
+CREDITS:SpecialThanx39
+US: "Special thanks: Mom, Dad, Bohdi, Willie, and anyone reading this"
+DE: "Special thanks: Mom, Dad, Bohdi, Willie, and anyone reading this."
+FR: "Remerciements spéciaux : maman, papa, Bohdi, Willie et toute personne qui lira ceci."
+ES: "Agradecimientos especiales: a mamá, papá, Bohdi, Willie, y al que lo lea."
+IT: "Ringraz. speciali: mamma, papà, Bohdi, Willie e tutti coloro che stanno leggendo."
+KO: "Special thanks: Mom, Dad, Bohdi, Willie, and anyone reading this."
+ZH: "Special thanks: Mom, Dad, Bohdi, Willie, and anyone reading this."
+BP: "Agradecimentos especiais: Mãe, Pai, bohdi, Willie, e qualquer um que leia isto."
+PL: "Bardzo dziękuję: Mamie, Tacie, Bohdi, Willie'mu i wszystkim, którzy to przeczytają."
+END
+
+CREDITS:SpecialThanx40
+US: "Thanks to all friends and family for waiting to have Christmas in February"
+DE: "Thanks to all friends and family for waiting to have Christmas in February."
+FR: "Merci à mes amis et à ma famille d'attendre février pour fêter Noël."
+ES: "Gracias a todos los amigos y familiares por celebrar la Navidad en febrero."
+IT: "Grazie a tutti i miei amici, che hanno atteso febbraio per festeggiare il Natale con me."
+KO: "Thanks to all friends and family for waiting to have Christmas in February."
+ZH: "Thanks to all friends and family for waiting to have Christmas in February."
+BP: "Obrigado a todos os amigos e família por esperarem pelo Natal em Fevereiro."
+PL: "Dziękuję wszystkim przyjaciołom i rodzinie, że czekali, by obchodzić Święta w lutym."
+END
+
+CREDITS:SpecialThanx41
+US: "Thanks to Bing, your support has been invaluable"
+DE: "Thanks to Bing, your support has been invaluable."
+FR: "Merci à Bing, ton soutien a été inestimable."
+ES: "Gracias a Bing, tu apoyo me ha servido muchísimo."
+IT: "Grazie a Bing, il tuo sostegno è stato molto prezioso."
+KO: "Thanks to Bing, your support has been invaluable."
+ZH: "Thanks to Bing, your support has been invaluable."
+BP: "Obrigado a Bing, seu apoio foi fundamental."
+PL: "Dziękuję Bing, Twoje wsparcie było nieocenione."
+END
+
+CREDITS:InspiredByLine1
+US: "Command & Conquer (TM) Generals Zero Hour was inspired by the original"
+DE: "Command & Conquer Generäle was inspired by the original"
+FR: "Command & Conquer : Generals - Heure H a été inspiré par le jeu original"
+ES: "Command & Conquer (TM) Generals Zero Hour inspirado en el original"
+IT: "Command & Conquer(TM) Generals Zero Hour è ispirato alla versione originale di"
+KO: "Command & Conquer Generals: Zero Hour was inspired by the original"
+ZH: "Command & Conquer (TM) Generals Zero Hour was inspired by the original"
+BP: "Command & Conquer (TM) Generals Zero Hour foi inspirado pelo jogo original"
+PL: "Inspiracją Command & Conquer (TM) Generals Zero Hour"
+END
+
+CREDITS:InspiredByLine2
+US: "Command & Conquer (TM) created by Westwood Studios"
+DE: "Command & Conquer created by Westwood Studios"
+FR: "Command and Conquer créé par les studios Westwood"
+ES: "Command & Conquer (TM) creado por Westwood Studios"
+IT: "Command & Conquer(TM), creata da Westwood Studios"
+KO: "Command & Conquer created by Westwood Studios"
+ZH: "Command & Conquer (TM) created by Westwood Studios"
+BP: "Command & Conquer (TM) criado pela Westwood Studios"
+PL: "była gra Command & Conquer (TM) autorstwa firmy Westwood Studios"
+END
+
+CREDITS:MultiplayerTestParticipantThanxMessageLine1
+US: "Thanks to all of the fantastic Multiplayer Test participants"
+DE: "Thanks to all of the fantastic Multiplayer Test participants"
+FR: "Merci à tous les fantastiques participants du test multijoueur"
+ES: "Gracias a los estupendos participantes de las pruebas para multijugador"
+IT: "Grazie a tutti i fantastici partecipanti ai test multigiocatore"
+KO: "Thanks to all of the fantastic Multiplayer Test participants"
+ZH: "Thanks to all of the fantastic Multiplayer Test participants"
+BP: "Obrigado a todos os participantes do fantástico Teste Multijogador"
+PL: "Wielkie podziękowania dla wszystkich uczestników testu gry wieloosobowej,"
+END
+
+CREDITS:MultiplayerTestParticipantThanxMessageLine2
+US: "that helped us put the game through its paces. Your help has"
+DE: "that helped us put the game through its paces. Your help has"
+FR: "qui nous ont permis de mettre le jeu au point. Votre aide a"
+ES: "que nos ayudaron a poner en marcha el juego. Vuestra ayuda"
+IT: "che ci hanno aiutato ad apportare le ultime rifiniture al gioco. Il vostro aiuto è"
+KO: "that helped us put the game through its paces. Your help has"
+ZH: "that helped us put the game through its paces. Your help has"
+BP: "que nos ajudaram a colocar este jogo nos trilhos. Sua ajuda foi"
+PL: "którzy pomogli nam w sprawdzaniu gry. Wasza pomoc"
+END
+
+CREDITS:MultiplayerTestParticipantThanxMessageLine3
+US: "been invaluable and we hope you enjoyed the experience"
+DE: "been invaluable and we hope you enjoyed the experience."
+FR: "été précieuse et nous espérons que vous avez apprécié l'expérience."
+ES: "ha sido incalculable y esperamos que hayáis disfrutado con la experiencia."
+IT: "stato molto prezioso e speriamo che vi siate anche divertiti."
+KO: "been invaluable and we hope you enjoyed the experience."
+ZH: "been invaluable and we hope you enjoyed the experience."
+BP: "muito importante, e esperamos que tenham curtido a experiência."
+PL: "była nieoceniona i mamy nadzieję, że dla Was było to ciekawe doświadczenie."
+END
+
+CREDITS:SpecialThanxKeyMessage1
+US: "A very special thanks to all of our families for allowing us to do what"
+DE: "A very special thanks to all of our families for allowing us to do what"
+FR: "Un remerciement très spécial à toutes nos familles pour nous\navoir laissé faire ce que nous aimons : créer des jeux."
+ES: "Gracias especialmente a nuestras familias por dejarnos hacer"
+IT: "Un ringraziamento speciale alle nostre famiglie, che ci hanno permesso di fare ciò"
+KO: "A very special thanks to all of our families for allowing us to do what"
+ZH: "A very special thanks to all of our families for allowing us to do what"
+BP: "Um obrigado muito especial para nossas famílias, por permitirem que façamos"
+PL: "Bardzo specjalne podziękowania dla naszych rodzin, za to,"
+END
+
+CREDITS:SpecialThanxKeyMessage2
+US: "we love: making games. We can't thank you enough for your support"
+DE: "we love: making games. We can't thank you enough for your support."
+FR: "Nous ne pourrons jamais vous remercier assez pour votre soutien."
+ES: "lo que nos apasiona: crear juegos. No nos cansamos de agradeceros vuestro apoyo."
+IT: "che ci piace: creare giochi. Non vi ringrazieremo mai abbastanza."
+KO: "we love: making games. We can't thank you enough for your support."
+ZH: "we love: making games. We can't thank you enough for your support."
+BP: "o que amamos: criar jogos. Não há como agradecer o suficiente seu apoio."
+PL: "że pozwalały nam pracować nad grą. Żadne słowa nie wyrażą naszej wdzięczności."
+END
+
+CREDITS:SpecialThanxKeyMessage3
+US: "But we'll try..."
+DE: "But we'll try..."
+FR: "Mais nous essayerons…"
+ES: "Así que ahí va..."
+IT: "Ma ci proveremo…"
+KO: "But we'll try..."
+ZH: "But we'll try..."
+BP: "Mas tentaremos...."
+PL: "Ale spróbujemy…"
+END
+
+CREDITS:SpecialThanx6Line1
+US: "Thank you to my family and friends in Chilliwack, BC, Canada! - Kris Morness"
+DE: "Thank you to my family and friends in Chilliwack, BC, Canada! - Kris Morness"
+FR: "Merci à ma moitié, Tawny Pham. Ta patience"
+ES: "¡Gracias a mi familia y amigos en Chilliwack, BC, Canadá! - Kris Morness"
+IT: "Grazie alla mia famiglia e agli amici di Chilliwack, BC, Canada! - Kris Morness"
+KO: "Thanks to my better half, Tawny Pham. Your patience"
+ZH: "Thank you to my family and friends in Chilliwack, BC, Canada! - Kris Morness"
+BP: "Obrigado a minha família e amigos em Chilliwack, BC, Canadá! - Kris Morness"
+PL: "Podziękowania dla mojej rodziny i przyjaciół w Chilliwack, BC, Kanada! - Kris Morness"
+END
+
+CREDITS:SpecialThanx6Line2
+US: "& support have been invaluable. I love you dearly"
+DE: "& support have been invaluable. I love you dearly."
+FR: "et ton soutien ont été inestimables. Je t'aime tendrement."
+ES: "y apoyo habría sido imposible. Te quiero muchísimo."
+IT: "e il tuo sostegno mi sono stati molto preziosi. Ti amo."
+KO: "& support have been invaluable. I love you dearly."
+ZH: "& support have been invaluable. I love you dearly"
+BP: "& apoio foram fundamentais. Te amo muito."
+PL: "i wsparcie były nieocenione. Bardzo Cię kocham."
+END
+
+CREDITS:SpecialThanx30Line1
+US: "Thanks to Jane,George,David,Sophia,Audrey,Shannon,Johan & agavenectar"
+DE: "Thanks to Jane,George,David,Sophia,Audrey,Shannon,Johan & agavenectar"
+FR: "Tammy Mom Dad Heidl Honey Shatzie Alex Les Amis"
+ES: "Gracias a Jane, George, David, Sophia, Audrey, Shannon, Johan y agavenectar"
+IT: "Grazie a Jane, George, David, Sophia, Audrey, Shannon, Johan e al nettare di agave"
+KO: "Tammy Mom Dad Heidl Honey Shatzie Alex Friends"
+ZH: "Thanks to Jane,George,David,Sophia,Audrey,Shannon,Johan & agavenectar"
+BP: "Obrigado a Jane,George,David,Sophia,Audrey,Shannon,Johan & agavenectar"
+PL: "Podziękowania dla Jane,George,David,Sophia,Audrey,Shannon,Johan & agavenectar"
+END
+
+CREDITS:SpecialThanx30Line2
+US: "for being there, even though I couldn't"
+DE: "for being there, even though I couldn't."
+FR: "pour avoir été là quand je n'y étais pas."
+ES: "por estar ahí, aunque yo no pudiera."
+IT: "per essere stati presenti anche quando io non potevo esserlo."
+KO: "for being there, even though I couldn't."
+ZH: "for being there, even though I couldn't"
+BP: "por estarem lá, apesar de eu não poder."
+PL: "byliście ze mną, chociaż ja nie byłem z Wami."
+END
+
+CREDITS:SpecialThanx32Line1
+US: "Thanks to Bing Gordon, your continued support has been invaluable."
+DE: "Thanks to Bing Gordon, your continued support has been invaluable."
+FR: "Merci à mes parents et à mes copains fous,"
+ES: "Gracias a Bing Gordon; tu continuo apoyo me ha servido muchísimo."
+IT: "Grazie a Bing Gordon, il tuo aiuto è stato davvero insostituibile."
+KO: "Thanks to my Parents, and to my Crazy Friends,"
+ZH: "Thanks to Bing Gordon, your continued support has been invaluable."
+BP: "Obrigado a Bing Gordon, seu apoio ininterrupto tem sido inestimável."
+PL: "Podziękowania dla Binga Gordona, twoje ustawiczne wsparcie było nieocenione."
+END
+
+CREDITS:SpecialThanx32Line2
+US: "who'll do just about anything for a dollar"
+DE: "who'll do just about anything for a dollar."
+FR: "qui feraient n'importe quoi pour un dollar."
+ES: "que harían cualquier cosa por un dólar."
+IT: "che farebbero di tutto per un dollaro."
+KO: "who'll do just about anything for a dollar."
+ZH: "who'll do just about anything for a dollar"
+BP: "que farão quase qualquer coisa por um dólar."
+PL: "którzy zrobią wszystko dla pieniędzy."
+END
+
+CREDITS:UliLachelet
+US: "Uli Lächelt"
+DE: "Uli Lächelt"
+FR: "Uli Lächelt"
+ES: "Uli Lächelt"
+IT: "Uli Lächelt"
+KO: "Uli Lächelt"
+ZH: "Uli Lächelt"
+BP: "Uli Lächelt"
+PL: "Uli Lächelt"
+END
+
+CREDITS:JorgLindner
+US: "Jörg Lindner"
+DE: "Jörg Lindner"
+FR: "Jörg Lindner"
+ES: "Jörg Lindner"
+IT: "Jörg Lindner"
+KO: "Jörg Lindner"
+ZH: "Jörg Lindner"
+BP: "Jörg Lindner"
+PL: "Jörg Lindner"
+END
+
+CREDITS:LOCALIZATION
+US: "Localization"
+DE: "Localization"
+FR: "Localisation"
+ES: "Localización"
+IT: "Localizzazione"
+KO: "Localization"
+ZH: "Localisation"
+BP: "Localização"
+PL: "Lokalizacja"
+END
+
+CREDITS:EALocalisationManager
+US: "European EA Localization Manager"
+DE: "European EA Localization Manager"
+FR: "Responsable localisation EA Europe"
+ES: "Responsable de Localización EA Europa"
+IT: "Responsabile localizzazione EA Europa"
+KO: "European EA Localization Manager"
+ZH: "European EA Localisation Manager"
+BP: "Gerente de Localização - EA Europa"
+PL: "Menedżer EA ds. lokalizacji w Europie"
+END
+
+CREDITS:EALocalisationProjectManager
+US: "European EA Localization Project Manager"
+DE: "European EA Localization Project Manager"
+FR: "Chef de projet localisation EA Europe"
+ES: "Jefe de Proyecto de Localización EA Europa"
+IT: "Responsabile progetto localizzazione EA Europa"
+KO: "European EA Localization Project Manager"
+ZH: "European EA Localisation Project Manager"
+BP: "Gerente de Projeto de Localização - EA Europa"
+PL: "Europejski menedżer EA kierujący lokalizacją"
+END
+
+CREDITS:EuropeanIntegrationTeam
+US: "European Integration Team"
+DE: "European Integration Team"
+FR: "Equipe d'intégration européenne"
+ES: "Equipo Europeo de Integración"
+IT: "Gruppo di integrazione europeo"
+KO: "European Integration Team"
+ZH: "European Integration Team"
+BP: "Equipe de Integração - Europa"
+PL: "Europejski zespół ds. intergracji"
+END
+
+CREDITS:IntegrationEngineerManager
+US: "Integration Engineer Manager"
+DE: "Integration Engineer Manager"
+FR: "Ingénieur responsable d'intégration"
+ES: "Ingeniero jefe de Integración"
+IT: "Ingegnere responsabile integrazione"
+KO: "Integration Engineer Manager"
+ZH: "Integration Engineer Manager"
+BP: "Gerente de Engenharia de Integração"
+PL: "Inżynier nadzorujący intergrację"
+END
+
+CREDITS:IntegrationProgrammer
+US: "Integration Programmers"
+DE: "Integration Programmers"
+FR: "Programmeurs intégration"
+ES: "Programadores de Integración"
+IT: "Programmatori gruppo integrazione"
+KO: "Integration Programmers"
+ZH: "Integration Programmers"
+BP: "Programadores de Integração"
+PL: "Programiści pracujący nad integracją"
+END
+
+CREDITS:AudioPostproduction
+US: "Audio Postproduction"
+DE: "Audio Postproduction"
+FR: "Postproduction audio"
+ES: "Post-Producción de Audio"
+IT: "Postproduzione audio"
+KO: "Audio Postproduction"
+ZH: "Audio Postproduction"
+BP: "Pós-Produção de Áudio"
+PL: "Postprodukcja dźwięku"
+END
+
+CREDITS:SpanishLocalizationTeam
+US: "Spanish Localization Team"
+DE: "Spanish Localization Team"
+FR: "Localisation - Espagne"
+ES: "Equipo Español de Localización"
+IT: "Gruppo di localizzazione spagnolo"
+KO: "Spanish Localization Team"
+ZH: "Spanish Localization Team"
+BP: "Equipe de Localização - Espanha"
+PL: "Hiszpański zespół lokalizacyjny"
+END
+
+CREDITS:LocalizationManagerEAIberia
+US: "Localization Manager EA Iberia"
+DE: "Localization Manager EA Iberia"
+FR: "Responsable localisation EA Iberia"
+ES: "Responsable de Localización EA Iberia"
+IT: "Responsabile localizzazione EA Iberia"
+KO: "Localization Manager EA Iberia"
+ZH: "Localization Manager EA Iberia"
+BP: "Gerente de Localização - EA Iberia"
+PL: "Menedżer lokalizacji EA Iberia"
+END
+
+CREDITS:QAnLTSupervisor
+US: "QA & LT Supervisor"
+DE: "QA & LT Supervisor"
+FR: "Superviseur CQ & LT"
+ES: "Supervisor de LT y QA"
+IT: "Supervisore CQ & LT"
+KO: "QA & LT Supervisor"
+ZH: "QA & LT Supervisor"
+BP: "Supervisor de CQ & TI"
+PL: "Kierownik kontoli jakości i testów językowych"
+END
+
+CREDITS:QALead
+US: "QA Lead"
+DE: "QA Lead"
+FR: "Responsable CQ"
+ES: "Jefe de Control de Calidad"
+IT: "Capo CQ"
+KO: "QA Lead"
+ZH: "QA Lead"
+BP: "Líder de CQ"
+PL: "Główny tester kontroli jakości"
+END
+
+CREDITS:QATesters
+US: "QA Testers"
+DE: "QA Testers"
+FR: "Testeurs CQ"
+ES: "Pruebas de Control de Calidad"
+IT: "Tester CQ"
+KO: "QA Testers"
+ZH: "QA Testers"
+BP: "Testadores de CQ"
+PL: "Testerzy kontroli jakości"
+END
+
+CREDITS:LocalizationSupervisorEAIberia
+US: "Localization Supervisor EA Iberia"
+DE: "Localization Supervisor EA Iberia"
+FR: "Superviseur localisation EA Iberia"
+ES: "Supervisor de Localización de EA Iberia"
+IT: "Supervisore localizzazione EA Iberia"
+KO: "Localization Supervisor EA Iberia"
+ZH: "Localization Supervisor EA Iberia"
+BP: "Supervisor de Localização - EA Iberia"
+PL: "Kierownik nadzoru lokalizacji EA Iberia"
+END
+
+CREDITS:LocalizationCoordinator
+US: "Localization Coordinator"
+DE: "Localization Coordinator"
+FR: "Coordinateur localisation"
+ES: "Coordinador de Localización"
+IT: "Coordinatore localizzazione"
+KO: "Localization Coordinator"
+ZH: "Localization Coordinator"
+BP: "Coordenador de Localização"
+PL: "Koordynator lokalizacji"
+END
+
+CREDITS:Translations
+US: "Translations"
+DE: "Translations"
+FR: "Traductions"
+ES: "Traducciones"
+IT: "Traduzioni"
+KO: "Translations"
+ZH: "Translations"
+BP: "Traduções"
+PL: "Przekład"
+END
+
+CREDITS:DTPSupervisor
+US: "DTP Supervisor"
+DE: "DTP Supervisor"
+FR: "Superviseur DTP"
+ES: "Supervisor DTP"
+IT: "Supervisore DTP"
+KO: "DTP Supervisor"
+ZH: "DTP Supervisor"
+BP: "Supervisor de DTP"
+PL: "Kierownik składu"
+END
+
+CREDITS:LayoutDesign
+US: "Layout Design"
+DE: "Layout Design"
+FR: "Conception mise en page"
+ES: "Diseño de Maqueta"
+IT: "Design impaginazione"
+KO: "Layout Design"
+ZH: "Layout Design"
+BP: "Design e Layout"
+PL: "Projekt graficzny"
+END
+
+CREDITS:Documentation
+US: "Documentation"
+DE: "Documentation"
+FR: "Documentation"
+ES: "Documentación"
+IT: "Documentazione"
+KO: "Documentation"
+ZH: "Documentation"
+BP: "Documentação"
+PL: "Dokumentacja"
+END
+
+CREDITS:JoseMaria
+US: "José María García"
+DE: "José María García"
+FR: "José María García"
+ES: "Jose María García"
+IT: "Jose María García"
+KO: "José María García"
+ZH: "José María García"
+BP: "Jose María García"
+PL: "Jose María García"
+END
+
+CREDITS:AndresGine
+US: "Andrés Giné"
+DE: "Andrés Giné"
+FR: "Andrés Giné"
+ES: "Andrés Giné"
+IT: "Andrés Giné"
+KO: "Andrés Giné"
+ZH: "Andrés Giné"
+BP: "Andrés Giné"
+PL: "Andrés Giné"
+END
+
+CREDITS:JoseRamon
+US: "José Ramón Sagarna"
+DE: "José Ramón Sagarna"
+FR: "José Ramón Sagarna"
+ES: "José Ramón Sagarna"
+IT: "José Ramón Sagarna"
+KO: "José Ramón Sagarna"
+ZH: "José Ramón Sagarna"
+BP: "José Ramón Sagarna"
+PL: "José Ramón Sagarna"
+END
+
+CREDITS:DavidSuarez
+US: "David Suárez"
+DE: "David Suárez"
+FR: "David Suárez"
+ES: "David Suárez"
+IT: "David Suárez"
+KO: "David Suárez"
+ZH: "David Suárez"
+BP: "David Suárez"
+PL: "David Suárez"
+END
+
+CREDITS:AlejandroGomez
+US: "Alejandro Gómez"
+DE: "Alejandro Gómez"
+FR: "Alejandro Gómez"
+ES: "Alejandro Gómez"
+IT: "Alejandro Gómez"
+KO: "Alejandro Gómez"
+ZH: "Alejandro Gómez"
+BP: "Alejandro Gómez"
+PL: "Alejandro Gómez"
+END
+
+CREDITS:IsmaeLDuran
+US: "Ismael Durán"
+DE: "Ismael Durán"
+FR: "Ismael Durán"
+ES: "Ismael Durán"
+IT: "Ismael Durán"
+KO: "Ismael Durán"
+ZH: "Ismael Durán"
+BP: "Ismael Durán"
+PL: "Ismael Durán"
+END
+
+CREDITS:JoseLuis
+US: "José Luis Rovira"
+DE: "José Luis Rovira"
+FR: "José Luis Rovira"
+ES: "José Luis Rovira"
+IT: "José Luis Rovira"
+KO: "José Luis Rovira"
+ZH: "José Luis Rovira"
+BP: "José Luis Rovira"
+PL: "José Luis Rovira"
+END
+
+CREDITS:JavierMartinez
+US: "Javier Martínez"
+DE: "Javier Martínez"
+FR: "Javier Martínez"
+ES: "Javier Martínez"
+IT: "Javier Martínez"
+KO: "Javier Martínez"
+ZH: "Javier Martínez"
+BP: "Javier Martínez"
+PL: "Javier Martínez"
+END
+
+CREDITS:LuisPines
+US: "Luis Pinés"
+DE: "Luis Pinés"
+FR: "Luis Pinés"
+ES: "Luis Pinés"
+IT: "Luis Pinés"
+KO: "Luis Pinés"
+ZH: "Luis Pinés"
+BP: "Luis Pinés"
+PL: "Luis Pinés"
+END
+
+CREDITS:EAItalyLocalization
+US: "EA Localization - Italy"
+DE: "EA Localization - Italy"
+FR: "Localisation - Italie"
+ES: "Localización EA Italia"
+IT: "Localizzazione EA - Italia"
+KO: "EA Localisation - Italy"
+ZH: "EA Localisation - Italy"
+BP: "Localização - EA Itália"
+PL: "Lokalizacja przez EA we Włoszech"
+END
+
+CREDITS:LocalisationManager
+US: "Localization Manager"
+DE: "Localization Manager"
+FR: "Responsable localisation"
+ES: "Responsable de Localización"
+IT: "Responsabile localizzazione"
+KO: "Localization Manager"
+ZH: "Localisation Manager"
+BP: "Gerente de Localização"
+PL: "Menedżer ds. lokalizacji"
+END
+
+CREDITS:TranslationSupervisor
+US: "Translation Supervisor"
+DE: "Translation Supervisor"
+FR: "Superviseur traduction"
+ES: "Supervisor de Traducción"
+IT: "Supervisore traduzione"
+KO: "Translation Supervisor"
+ZH: "Translation Supervisor"
+BP: "Supervisor de Tradução"
+PL: "Kierownik przekładu"
+END
+
+CREDITS:LTSupervisor
+US: "LT Supervisor"
+DE: "LT Supervisor"
+FR: "Superviseur LT"
+ES: "Supervisor de LT"
+IT: "Supervisore LT"
+KO: "LT Supervisor"
+ZH: "LT Supervisor"
+BP: "Supervisor de TI"
+PL: "Kierownik testów językowych"
+END
+
+CREDITS:LocalisationCoordinator
+US: "Localization Coordinator"
+DE: "Localization Coordinator"
+FR: "Coordinateur localisation"
+ES: "Coordinador de Localización"
+IT: "Coordinatore localizzazione"
+KO: "Localization Coordinator"
+ZH: "Localisation Coordinator"
+BP: "Coordenador de Localização"
+PL: "Koordynator lokalizacji"
+END
+
+CREDITS:LocalisationGermany
+US: "EA Localization - Germany"
+DE: "EA Localization - Germany"
+FR: "Localisation - Allemagne"
+ES: "Localización EA Alemania"
+IT: "Localizzazione EA - Germania"
+KO: "EA Localization - Germany"
+ZH: "EA Localisation - Germany"
+BP: "Localização - EA Alemanha"
+PL: "Lokalizacja przez EA w Niemczech"
+END
+
+CREDITS:RobertBock
+US: "Robert Böck"
+DE: "Robert Böck"
+FR: "Robert Böck"
+ES: "Robert Böck"
+IT: "Robert Böck"
+KO: "Robert Böck"
+ZH: "Robert Böck"
+BP: "Robert Böck"
+PL: "Robert Böck"
+END
+
+CREDITS:TestCoordination
+US: "Test Coordination"
+DE: "Test Coordination"
+FR: "Coordinateur test"
+ES: "Coordinador de Test"
+IT: "Coordinazione test"
+KO: "Test Coordination"
+ZH: "Test Coordination"
+BP: "Coordenação de Testes"
+PL: "Koordynacja testów"
+END
+
+CREDITS:LanguageTester
+US: "Localization Tester"
+DE: "Localization Tester"
+FR: "Testeur(s) localisation"
+ES: "Tester de Localización"
+IT: "Tester localizzazione"
+KO: "Localization Tester"
+ZH: "Localization Tester"
+BP: "Testes de Localização"
+PL: "Tester wersji zlokalizowanej"
+END
+
+CREDITS:LocalisationFrance
+US: "EA Localization - France"
+DE: "EA Localization - France"
+FR: "Localisation - France"
+ES: "Localización EA Francia"
+IT: "Localizzazione EA - Francia"
+KO: "EA Localisation - France"
+ZH: "EA Localisation - France"
+BP: "Localização - EA França"
+PL: "Lokalizacja przez EA we Francji"
+END
+
+CREDITS:TestManager
+US: "Test Manager"
+DE: "Test Manager"
+FR: "Responsable test"
+ES: "Responsable de Test"
+IT: "Responsabile test"
+KO: "Test Manager"
+ZH: "Test Manager"
+BP: "Gerente de Testes"
+PL: "Menedżer ds. testów"
+END
+
+CREDITS:FrenchLanguageTestingCoordinator
+US: "Language Testing Coordinator"
+DE: "Language Testing Coordinator"
+FR: "Coordinateur LT"
+ES: "Coordinador de Test de Lenguaje"
+IT: "Coordinatore LT"
+KO: "Language Testing Coordinator"
+ZH: "Language Testing Coordinator"
+BP: "Coordenador de Testes de Idioma"
+PL: "Koordynator testów językowych"
+END
+
+CREDITS:StephaneTachon
+US: "Stéphane Tachon"
+DE: "Stéphane Tachon"
+FR: "Stéphane Tachon"
+ES: "Stéphane Tachon"
+IT: "Stéphane Tachon"
+KO: "Stéphane Tachon"
+ZH: "Stéphane Tachon"
+BP: "Stéphane Tachon"
+PL: "Stéphane Tachon"
+END
+
+CREDITS:LanguageTesters
+US: "Localization Testers"
+DE: "Localization Testers"
+FR: "Testeurs localisation"
+ES: "Testers de Localización"
+IT: "Tester localizzazione"
+KO: "Localization Testers"
+ZH: "Localization Testers"
+BP: "Testes de Localização"
+PL: "Testerzy wersji zlokalizowanej"
+END
+
+CREDITS:LocalisationBrazil
+US: "EA Localization - Brazil"
+DE: "EA Localization - Brasilien"
+FR: "Localisation - Brésil"
+ES: "Localización EA Brasil"
+IT: "Localizzazione EA - Brasile"
+KO: "EA Localization - Brazil"
+ZH: "EA Localisation - Brazil"
+BP: "Localização - EA Brasil"
+PL: "Lokalizacja przez EA w Brazylii"
+END
+
+CREDITS:TranslationAndTesting
+US: "Translation & Testing"
+DE: "Translation & Testing"
+FR: "Traduction & test"
+ES: "Traduccion y Test"
+IT: "Traduzione & testing"
+KO: "Translation & Testing"
+ZH: "Translation & Testing"
+BP: "Tradução & Testes"
+PL: "Przekład i testowanie"
+END
+
+CREDITS:LocalisationPoland
+US: "Localization - Poland"
+DE: "Localization - Poland"
+FR: "Localisation - Pologne"
+ES: "Localización Polonia"
+IT: "Localizzazione - Polonia"
+KO: "Localization - Poland"
+ZH: "Localisation - Poland"
+BP: "Localização - Polônia"
+PL: "Lokalizacja w Polsce"
+END
+
+CREDITS:EAKoreaLocalisationTeam
+US: "EA Korea Team"
+DE: "EA Korea Team"
+FR: "Equipe Corée du Sud"
+ES: "Equipo de EA korea"
+IT: "Gruppo EA Corea"
+KO: "EA Korea Localisation Team"
+ZH: "EA Korea Team"
+BP: "Equipe EA Coréia"
+PL: "Zespół EA Korea"
+END
+
+CREDITS:BusinessDevelopmentManager
+US: "Business Development Manager"
+DE: "Business Development Manager"
+FR: "Directeur du développement des affaires"
+ES: "Responsable de Asuntos Legales"
+IT: "Responsabile sviluppo business"
+KO: "Business Development Manager"
+ZH: "Business Development Manager"
+BP: "Gerente de Desenvolvimento de Negócios"
+PL: "Menedżer ds. ekonomicznych"
+END
+
+CREDITS:LocalisationProducer
+US: "Localization Producer"
+DE: "Localization Producer"
+FR: "Producteur localisation"
+ES: "Productor de Localización"
+IT: "Produttore localizzazione"
+KO: "Localization Producer"
+ZH: "Localization Producer"
+BP: "Produtor de Localização"
+PL: "Producent wersji zlokalizowanych"
+END
+
+CREDITS:EAKoreaMarketingTeam
+US: "EA Korea Marketing Team"
+DE: "EA Korea Marketing Team"
+FR: "Equipe marketing Corée du Sud"
+ES: "Equipo de Marketing de EA Korea"
+IT: "Gruppo marketing EA Corea"
+KO: "EA Korea Marketing Team"
+ZH: "EA Korea Marketing Team"
+BP: "Equipe de Marketing - EA Coréia"
+PL: "Zespół działu marketingu EA Korea"
+END
+
+CREDITS:MarketingManager
+US: "Marketing Manager"
+DE: "Marketing Manager"
+FR: "Directeur marketing"
+ES: "Responsable de Marketing"
+IT: "Responsabile marketing"
+KO: "Marketing Manager"
+ZH: "Marketing Manager"
+BP: "Gerente de Marketing"
+PL: "Menedżer ds. marketingu"
+END
+
+CREDITS:ProductManager
+US: "Product Manager"
+DE: "Product Manager"
+FR: "Directeur produit"
+ES: "Responsable del Proyecto"
+IT: "Responsabile prodotto"
+KO: "Product Manager"
+ZH: "Product Manager"
+BP: "Gerente de Produto"
+PL: "Menedżer ds. produkcji"
+END
+
+CREDITS:PublicRelations
+US: "Public Relations"
+DE: "Public Relations"
+FR: "Relations publiques"
+ES: "Relaciones Públicas"
+IT: "Pubbliche relazioni"
+KO: "Public Relations"
+ZH: "Public Relations"
+BP: "Relações Públicas"
+PL: "Public Relations"
+END
+
+CREDITS:ProductPromotion
+US: "Product Promotion"
+DE: "Product Promotion"
+FR: "Promotion produit"
+ES: "Promoción del Producto"
+IT: "Promozione prodotto"
+KO: "Product Promotion"
+ZH: "Product Promotion"
+BP: "Promoção de Produtos"
+PL: "Promocja produktu"
+END
+
+CREDITS:EATaiwanLocalisationTeam
+US: "EA Taiwan Localization Team"
+DE: "EA Taiwan Localization Team"
+FR: "Equipe localisation Taïwan"
+ES: "Equipo de Localización de EA Taiwan"
+IT: "Gruppo di localizzazione EA Taiwan"
+KO: "EA Taiwan Localization Team"
+ZH: "EA Taiwan Localisation Team"
+BP: "Equipe de Localização - EA Taiwan"
+PL: "Zespół lokalizacyjny EA Taiwan"
+END
+
+CREDITS:EAAsiaPacificLocalisationProjectManager
+US: "EA Asia Pacific Localization Project Manager"
+DE: "EA Asia Pacific Localization Project Manager"
+FR: "Chef de projet localisation Asie Pacifique"
+ES: "Jefe Proyecto de Localización de EA Asia Pacific"
+IT: "Responsabile progetto localizzazione EA Asia Pacific"
+KO: "EA Asia Pacific Localization Project Manager"
+ZH: "EA Asia Pacific Localisation Project Manager"
+BP: "Gerente do Projeto de Localização - EA Asia Pacific"
+PL: "Menedżer kierujący lokalizacją w EA Asia Pacific"
+END
+
+CREDITS:AdditionalStoryInspiration
+US: "Additional Story Inspiration"
+DE: "Additional Story Inspiration"
+FR: "Inspiration scénario additionnelle"
+ES: "Inspiración adicional para la Historia"
+IT: "Ispirazione aggiuntiva storia"
+KO: "Additional Story Inspiration"
+ZH: "Additional Story Inspiration"
+BP: "Inspiração Adicional"
+PL: "Dodatkowe źródła inspiracji przy powstawaniu fabuły"
+END
+
+CREDITS:DevelopmentTitle2
+US: "by Electronic Arts Los Angeles"
+DE: "by Electronic Arts Pacific"
+FR: "par Electronic Arts Pacific"
+ES: "por Electronic Arts Los Angeles"
+IT: "da Electronic Arts Los Angeles"
+KO: "by Electronic Arts Los Angeles"
+ZH: "by Electronic Arts Los Angeles"
+BP: "por Electronic Arts Los Angeles"
+PL: "Electronic Arts Los Angeles"
+END
+
+CREDITS:EAPacificDevTeam2
+US: "Command & Conquer (TM) Generals Zero Hour"
+DE: "Command & Conquer Generäle - Die Stunde Null"
+FR: "Command & Conquer (TM) Generals - Heure H"
+ES: "Command & Conquer (TM) Generals Zero Hour"
+IT: "Command & Conquer(TM) Generals Zero Hour"
+KO: "커맨드 & 컨커 (TM) 제너럴 제로 아워"
+ZH: "Command & Conquer (TM) Generals Zero Hour"
+BP: "Command & Conquer (TM) Generals Zero Hour"
+PL: "Command & Conquer (TM) Generals Zero Hour"
+END
+
+CREDITS:DevelopmentDirector
+US: "Development Director"
+DE: "Development Director"
+FR: "Directeur du développement"
+ES: "Director de desarrollo"
+IT: "Direttore dello sviluppo"
+KO: "Development Director"
+ZH: "Development Director"
+BP: "Diretor de Criação"
+PL: "Kierownictwo opracowania"
+END
+
+CREDITS:GeneralManager
+US: "EALA General Manager"
+DE: "EALA General Manager"
+FR: "Directeur général"
+ES: "Responsable general de EALA"
+IT: "Responsabile generale EA LA"
+KO: "General Manager"
+ZH: "EALA General Manager"
+BP: "Gerente-Geral EALA"
+PL: "Naczelny dyrektor EALA"
+END
+
+CREDITS:LeadArtist
+US: "Lead Artist"
+DE: "Lead Artist"
+FR: "Graphiste principal"
+ES: "Jefe de diseño"
+IT: "Capo grafica"
+KO: "Lead Artist"
+ZH: "Lead Artist"
+BP: "Chefe de Arte"
+PL: "Główny grafik"
+END
+
+CREDITS:QADirector
+US: "QA Director"
+DE: "QA Director"
+FR: "Directeur CQ"
+ES: "Director de CC"
+IT: "Direttore CQ"
+KO: "QA Director"
+ZH: "QA Director"
+BP: "Diretor de C.Q."
+PL: "Kierownik KJ"
+END
+
+CREDITS:SrTestLead
+US: "Sr. Test Lead"
+DE: "Sr. Test Lead"
+FR: "Testeur senior"
+ES: "Director de testeo"
+IT: "Capo test senior"
+KO: "Sr. Test Lead"
+ZH: "Sr. Test Lead"
+BP: "Chefe de Testes Sênior"
+PL: "Starszy tester"
+END
+
+CREDITS:AssistantMultiplayerTestLead
+US: "Assistant Multiplayer Test Lead"
+DE: "Assistant Multiplayer Test Lead"
+FR: "Assistant des tests multijoueurs"
+ES: "Subdirector de testeo multijugador"
+IT: "Assistente capo test multigiocatore"
+KO: "Assistant Multiplayer Test Lead"
+ZH: "Assistant Multiplayer Test Lead"
+BP: "Assistente do Chefe de Testes Multiplayer"
+PL: "Zastępca kierownika testów gry wieloosobowej"
+END
+
+CREDITS:TestAnalyst
+US: "Test Analyst"
+DE: "Test Analyst"
+FR: "Analyste des tests"
+ES: "Analista de testeo"
+IT: "Analista test"
+KO: "Test Analyst"
+ZH: "Test Analyst"
+BP: "Analista de Testes"
+PL: "Analityk testów"
+END
+
+CREDITS:AssistantProducer
+US: "Assistant Producer"
+DE: "Assistant Producer"
+FR: "Producteur assistant"
+ES: "Ayudante de producción"
+IT: "Assistente alla produzione"
+KO: "Assistant Producer"
+ZH: "Assistant Producer"
+BP: "Produtor-Assistente"
+PL: "Asystent produkcji"
+END
+
+CREDITS:CameoPhotoshootStudio
+US: "Photos shot at Out West Studio"
+DE: "Photos shot at Out West Studio"
+FR: "Photos prises par Outwest Studio"
+ES: "Fotografías realizadas en Out West Studio"
+IT: "Fotografie scattate presso Out West Studio"
+KO: "Photos shot at Outwest Studio"
+ZH: "Photos shot at Out West Studio"
+BP: "Fotos tiradas no Out West Studio"
+PL: "Fotosy wykonano w Out West Studio"
+END
+
+CREDITS:Models
+US: "Models"
+DE: "Models"
+FR: "Modèles"
+ES: "Modelos"
+IT: "Modelli"
+KO: "Models"
+ZH: "Models"
+BP: "Modelos"
+PL: "Modele"
+END
+
+CREDITS:Actors
+US: "Actors"
+DE: "Actors"
+FR: "Acteurs"
+ES: "Actores"
+IT: "Attori"
+KO: "Actors"
+ZH: "Actors"
+BP: "Atores"
+PL: "Aktorzy"
+END
+
+CREDITS:VisualEffectsAndEditing
+US: "Visual Effects and Editing"
+DE: "Visual Effects and Editing"
+FR: "Effets visuels et édition"
+ES: "Efectos visuales y edición"
+IT: "Effetti video ed editing"
+KO: "Visual Effects and Editing"
+ZH: "Visual Effects and Editing"
+BP: "Efeitos Visuais e Edição"
+PL: "Efekty wizualne i redakcja"
+END
+
+CREDITS:NewsReporterVideos
+US: "News Reporter Videos"
+DE: "News Reporter Videos"
+FR: "Cinématiques des journalistes"
+ES: "Vídeos del reportero"
+IT: "Filmati notiziari"
+KO: "News Reporter Videos"
+ZH: "News Reporter Videos"
+BP: "Vídeos das Notícias"
+PL: "Filmy z doniesień telewizyjnych"
+END
+
+CREDITS:DirectorOfProductLocalization
+US: "Director of Product Localization, EALA"
+DE: "Director of Product Localization, EALA"
+FR: "Directeur de la localisation"
+ES: "Director de localización del producto, EALA"
+IT: "Direttore localizzazione prodotto, EA LA"
+KO: "Director of Product Localization"
+ZH: "Director of Product Localization, EALA"
+BP: "Diretor de Localização de Produto, EALA"
+PL: "Kierownictwo lokalizacji produktu, EALA"
+END
+
+CREDITS:LocalizationAssistance
+US: "Localization Assistance"
+DE: "Localization Assistance"
+FR: "Assistance à la localisation"
+ES: "Ayuda en la localización"
+IT: "Assistente alla localizzazione"
+KO: "Localization Assistance"
+ZH: "Localization Assistance"
+BP: "Assistente de Localização"
+PL: "Asystent lokalizacji"
+END
+
+CREDITS:PackagingProjectManager
+US: "Packaging Project Manager"
+DE: "Packaging Project Manager"
+FR: "Chef de projet emballage"
+ES: "Jefe de proyecto del embalaje"
+IT: "Responsabile progetto confezione"
+KO: "Packaging Project Manager"
+ZH: "Packaging Project Manager"
+BP: "Gerente de Projeto de Embalagem"
+PL: "Kierownictwo projektu opakowania"
+END
+
+CREDITS:PackagingDesign
+US: "Packaging Design"
+DE: "Packaging Design"
+FR: "Conception emballage"
+ES: "Diseño de embalaje"
+IT: "Design confezione"
+KO: "Packaging Design"
+ZH: "Packaging Design"
+BP: "Design da Embalagem"
+PL: "Projekt opakowania"
+END
+
+CREDITS:DocumentationLayout
+US: "Documentation Layout"
+DE: "Documentation Layout"
+FR: "Présentation documentation"
+ES: "Maquetación de la documentación"
+IT: "Layout documentazione"
+KO: "Documentation Layout"
+ZH: "Documentation Layout"
+BP: "Layout da Documentação"
+PL: "Oprawa graficzna dokumentacji"
+END
+
+CREDITS:DocumentationEditor
+US: "Documentation Editor"
+DE: "Documentation Editor"
+FR: "Editeur documentation"
+ES: "Edición de la documentación"
+IT: "Editor documentazione"
+KO: "Documentation Editor"
+ZH: "Documentation Editor"
+BP: "Editor da Documentação"
+PL: "Redakcja dokumentacji"
+END
+
+CREDITS:Writer
+US: "Writer"
+DE: "Writer"
+FR: "Rédacteur"
+ES: "Autor"
+IT: "Scrittore"
+KO: "Writer"
+ZH: "Writer"
+BP: "Escritor"
+PL: "Autor"
+END
+
+CREDITS:Studio
+US: "Studio"
+DE: "Studio"
+FR: "Studio"
+ES: "Estudio"
+IT: "Studio"
+KO: "Studio"
+ZH: "Studio"
+BP: "Estúdio"
+PL: "Studio"
+END
+
+CREDITS:ChineseLanguageTester
+US: "Chinese Language Tester"
+DE: "Chinese Language Tester"
+FR: "Testeur version chinoise"
+ES: "Testeo de lengua china"
+IT: "Test linguistico cinese"
+KO: "Chinese Language Tester"
+ZH: "Chinese Language Tester"
+BP: "Testes em Chinês"
+PL: "Chiński tester językowy"
+END
+
+CREDITS:Marketing
+US: "Marketing"
+DE: "Marketing"
+FR: "Marketing"
+ES: "Marketing"
+IT: "Marketing"
+KO: "Marketing"
+ZH: "Marketing"
+BP: "Marketing"
+PL: "Marketing"
+END
+
+CREDITS:QuotedTraducoes
+US: "Quoted Traduções"
+DE: "Quoted Traduções"
+FR: "Quoted Traduções"
+ES: "Quoted Traduções"
+IT: "Quoted Traduções"
+KO: "Quoted Traduções"
+ZH: "Quoted Traduções"
+BP: "Quoted Traduções"
+PL: "Quoted Traduções"
+END
+
+CREDITS:ClementDuval
+US: "Clément Duval"
+DE: "Clément Duval"
+FR: "Clément Duval"
+ES: "Clément Duval"
+IT: "Clément Duval"
+KO: "Clément Duval"
+ZH: "Clément Duval"
+BP: "Clément Duval"
+PL: "Clément Duval"
+END
+
+CREDITS:JoseLuisRovira
+US: "José Luis Rovira"
+DE: "José Luis Rovira"
+FR: "José Luis Rovira"
+ES: "José Luis Rovira"
+IT: "José Luis Rovira"
+KO: "José Luis Rovira"
+ZH: "José Luis Rovira"
+BP: "José Luis Rovira"
+PL: "José Luis Rovira"
+END
+
+CREDITS:ExecutiveProducer
+US: "Executive Producer"
+DE: "Executive Producer"
+FR: "Producteur exécutif"
+ES: "Productor ejecutivo"
+IT: "Produttore esecutivo"
+KO: "Executive Producer"
+ZH: "Executive Producer"
+BP: "Produtor Executivo"
+PL: "Producent wykonawczy"
+END
+
+CREDITS:TechnicalDirection
+US: "Technical Direction"
+DE: "Technical Direction"
+FR: "Direction technique"
+ES: "Dirección técnica"
+IT: "Direzione tecnica"
+KO: "Technical Direction"
+ZH: "Technical Direction"
+BP: "Direção Técnica"
+PL: "Kierownictwo techniczne"
+END
+
+CREDITS:LeadArtists
+US: "Lead Artists"
+DE: "Lead Artists"
+FR: "Graphistes principaux"
+ES: "Jefes de diseño"
+IT: "Capi grafici"
+KO: "Lead Artists"
+ZH: "Lead Artists"
+BP: "Artista Chefe"
+PL: "Główni graficy"
+END
+
+CREDITS:QualityAssurance
+US: "Quality Assurance"
+DE: "Quality Assurance"
+FR: "Contrôle qualité"
+ES: "Control de calidad"
+IT: "Controllo qualità"
+KO: "Quality Assurance"
+ZH: "Quality Assurance"
+BP: "Garantia de Qualidade"
+PL: "Kontrola jakości"
+END
+
+CREDITS:TestAnalysts
+US: "Test Analysts"
+DE: "Test Analysts"
+FR: "Analystes test"
+ES: "Analistas de testeo"
+IT: "Analisti test"
+KO: "Test Analysts"
+ZH: "Test Analysts"
+BP: "Analista de Testes"
+PL: "Analiza testów"
+END
+
+CREDITS:TiburonAdditionalQualityAssurance
+US: "Tiburon Additional Quality Assurance"
+DE: "Tiburon Additional Quality Assurance"
+FR: "Contrôle qualité Tiburon"
+ES: "Control de calidad adicional Tiburon"
+IT: "Controllo qualità aggiuntivo Tiburon"
+KO: "Tiburon Additional Quality Assurance"
+ZH: "Tiburon Additional Quality Assurance"
+BP: "Garantia de Qualidade Adicional Tiburon"
+PL: "Dodatkowa kontrola jakości, Tiburon"
+END
+
+CREDITS:LocalizationBrazil
+US: "Localization Brazil"
+DE: "Localization Brazil"
+FR: "Localisation Brésil"
+ES: "Localización en Brasil"
+IT: "Localizzazione - EA Brasile"
+KO: "Localization Brazil"
+ZH: "Localization Brazil"
+BP: "Localização Brasil"
+PL: "Lokalizacja brazylijska"
+END
+
+CREDITS:TranslationServices
+US: "Translation Services"
+DE: "Translation Services"
+FR: "Traduction"
+ES: "Servicios de traducción"
+IT: "Servizi di traduzione"
+KO: "Translation Services"
+ZH: "Translation Services"
+BP: "Serviços de Tradução"
+PL: "Usługi translacyjne"
+END
+
+CREDITS:TranslationCoordinator
+US: "Translation Coordinator"
+DE: "Translation Coordinator"
+FR: "Coordinateur traduction"
+ES: "Coordinación de traducción"
+IT: "Coordinatore traduzione"
+KO: "Translation Coordinator"
+ZH: "Translation Coordinator"
+BP: "Coordenador de Tradução"
+PL: "Koordynacja tłumaczeń"
+END
+
+CREDITS:LTCoordinator
+US: "LT Coordinator"
+DE: "LT Coordinator"
+FR: "Coordinateur LT"
+ES: "Coodinador LT"
+IT: "Coordinatore LT"
+KO: "LT Coordinator"
+ZH: "LT Coordinator"
+BP: "Coordenador LT"
+PL: "Koordynacja testów językowych"
+END
+
+CREDITS:RecordingStudio
+US: "Recording Studio"
+DE: "Recording Studio"
+FR: "Studio d'enregistrements"
+ES: "Estudio de grabación"
+IT: "Studio di registrazione"
+KO: "Recording Studio"
+ZH: "Recording Studio"
+BP: "Estúdio de Gravação"
+PL: "Studio nagraniowe"
+END
+
+CREDITS:EAWorldwideDevelopmentExecutives
+US: "EA Worldwide Development Executives"
+DE: "EA Worldwide Development Executives"
+FR: "Responsables développement international EA"
+ES: "Ejecutivos de desarrollo de EA Worldwide"
+IT: "Direttori dello sviluppo globale EA"
+KO: "EA Worldwide Development Executives"
+ZH: "EA Worldwide Development Executives"
+BP: "Executivos de Desenvolvimento Mundial da EA"
+PL: "Kierownictwo opracowań EA Worldwide"
+END
+
+CREDITS:SpecialThanks
+US: "Special Thanks"
+DE: "Special Thanks"
+FR: "Remerciements"
+ES: "Agradecimientos especiales"
+IT: "Ringraziamenti speciali"
+KO: "Special Thanks"
+ZH: "Special Thanks"
+BP: "Agradecimentos Especiais"
+PL: "Specjalne podziękowania otrzymują"
+END
+
+CREDITS:EAPacificDevTeam3
+US: "Development Team"
+DE: "Development Team"
+FR: "Equipe de développement"
+ES: "Equipo de desarrollo"
+IT: "Team di sviluppo"
+KO: "Development Team"
+ZH: "Development Team"
+BP: "Equipe de Desenvolvimento"
+PL: "Zespół twórców"
+END
+
+CREDITS:NACustomerQualityControl
+US: "NA Customer Quality Control"
+DE: "NA Customer Quality Control"
+FR: "Contrôle qualité consommateurs AN"
+ES: "Control de calidad del cliente NA"
+IT: "CQC Nordamerica"
+KO: "NA Customer Quality Control"
+ZH: "NA Customer Quality Control"
+BP: "Controle de Qualidade ao Consumidor Americano"
+PL: "KKJ"
+END
+
+CREDITS:LocalizationChinese
+US: "Localization Chinese"
+DE: "Localization Chinese"
+FR: "Localisation Chine"
+ES: "Localización al chino"
+IT: "Localizzazione - EA Cina"
+KO: "Localization Chinese"
+ZH: "Localization Chinese"
+BP: "Localização Chinesa"
+PL: "Lokalizacja chińska"
+END

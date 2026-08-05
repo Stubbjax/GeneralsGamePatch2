@@ -1,0 +1,23 @@
+ERROR:D3DFailurePrompt
+US: "DirectX Error"
+DE: "DirectX-Fehler"
+FR: "Erreur DirectX"
+ES: "Error DirectX"
+IT: "Errore DirectX"
+KO: "DirectX 오류"
+ZH: "DirectX 錯誤"
+BP: "Erro de DirectX"
+PL: "Błąd DirectX"
+END
+
+ERROR:D3DFailureMessage
+US: "Please make sure you have DirectX 8.1 or higher installed. Also verify that your video card meets the minimum requirements."
+DE: "Vergewissere dich, dass auf deinem Computer DirectX 8.1 oder höher installiert ist. Außerdem muss deine Grafikkarte die Mindestvoraussetzungen erfüllen."
+FR: "Veuillez vous assurer que votre ordinateur possède DirectX 8.1 ou une version supérieure. Veuillez aussi vérifier que votre carte graphique possède les caractéristiques minimum requises par le jeu."
+ES: "Comprueba que tienes DirectX 8.1 o superior instalado. Y comprueba que tu tarjeta de vídeo reune los requisitos mínimos."
+IT: "Verifica di aver installato DirectX 8.1 o superiore. Controlla anche che la scheda video soddisfi i requisiti minimi di sistema."
+KO: "DirectX 8.1 혹은 그 이상이 설치되었는지 확인해주시기 바랍니다. 그리고 비디오 카드의 최소 요구사양 만족 여부를 확인해 주시기 바랍니다."
+ZH: "請確定您已安裝 DirectX 8.1 或更新的版本，同時確定您的顯示卡已經到達最低配備需求。"
+BP: "Por favor, certifique-se de possuir o DirectX 8.1 ou superior instalado em seu sistema. Verifique também se sua placa de vídeo atende aos requisitos mínimos de sistema."
+PL: "Sprawdź, czy zainstalowano DirectX 8.1 lub nowszy. Upewnij się też, czy karta graficzna spełnia wymagania gry."
+END
